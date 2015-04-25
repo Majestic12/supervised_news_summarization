@@ -1,0 +1,50 @@
+\$?\w+(()+\w+)?\%?
+
+u0024	$
+u0025	%
+
+u0026 &
+u0027 '
+u002C ,
+u002D -
+u002E .
+
+u002F /
+
+u003A :
+
+u00A2 ¢
+u00A3 £
+u00A5 ¥
+u00B0 °
+u00B5 µ
+
+u00C0 À
+u00C1 Á
+u00C2 Â
+u00C3 Ã
+u00C4 Ä
+u00C5 Å
+
+u00C7 Ç
+u00C8	È
+u00C9	É
+u00CA	Ê
+u00CB	Ë
+u00CC	Ì
+u00CD	Í
+u00CE	Î
+u00CF	Ï
+
+u00D1	Ñ
+u00D2	Ò
+u00D3	Ó
+u00D4	Ô
+u00D5	Õ
+u00D6	Ö
+
+U+00D9	Ù
+U+00DA	Ú	&#218;	&Uacute;	Latin Capital letter U with acute	0154
+U+00DB	Û	&#219;	&Ucirc;	Latin Capital Letter U with circumflex	0155
+U+00DC	Ü	&#220;	&Uuml;	Latin Capital Letter U with diaeresis	0156
+U+00DD	Ý	&#221;	&Yacute;	Latin Capital Letter Y with acute
