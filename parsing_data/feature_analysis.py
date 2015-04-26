@@ -7,8 +7,7 @@ def main_function():
     # distintion between U+0027 ('), U+2018 (‘), and U+2019 (’)
     # “ ” "
     print("starting...")
-    #tokenizer = RegexpTokenizer(r'\S+')
-    tokenizer = RegexpTokenizer(r'\$?\w+((\S+)?\w+)*\%?')
+    tokenizer = RegexpTokenizer(r'(\u0024|\u00A2|\u00A3|\u00A5)?\w+((\u0026|\u0027|\u002C|\u002E|\u003A|\u00B0|\u00E0|\u00E1|\u00E2|\u00E3|\u00E4|\u00E5|\u00E7|\u00E8|\u00E9|\u00EA|\u00EB|\u00EC|\u00ED|\u00EE|\u00EF|\u00F0|\u00F1|\u00F2|\u00F3|\u00F4|\u00F5|\u00F6|\u00F8|\u00F9|\u00FA|\u00FB|\u00FC|\u00FD|\u00FF|\u002D|\u2013|\u2014|\u2019)+\w+)*((\u002B[A-Z])|(\u002F[0-9]+))?\w*(\u0025|\u00B0)?')
     print('Folder or directory name:')
     folder_name = input("> ")
     os.chdir(folder_name)
@@ -49,8 +48,13 @@ def main_function():
                 sentences = sent_tokenize(line)
                 for sentence in sentences:
                     sents += 1
-                    # sentence id (sent_<id>), number of words, paragraph number, string number, total number of paragraphs, total number of sentences
-                    text = 'sent' + str(sents) + ", " + str(len(tokenizer.tokenize(sentence))) + ", " + str(paras) + ", " + str(sents) + ", " + str(total_paras) + ", " + str(total_sents)
+                    # sentence id (sent_<id>)
+                    # sentence number
+                    # total number of sentences
+                    # paragraph number
+                    # total number of paragraphs
+                    # number of words
+                    text = 'sent' + str(sents) + ", " + str(sents) + ", " + str(total_sents) + ", " + str(paras) + ", " + str(total_paras) + ", " + str(len(tokenizer.tokenize(sentence)))
                     file.write(text + "\n")
         print("...file written")
     print('...done')

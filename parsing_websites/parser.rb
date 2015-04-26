@@ -33,7 +33,7 @@ begin
 	puts 'starting...'.colorize(:green)
 	print 'enter url:'
 	BASE_URL = gets.chomp
-	DIR_NAME = BASE_URL.split("/").last.strip.gsub!("-", "_")
+	DIR_NAME = "../sources/" + BASE_URL.split("/").last.strip.gsub!("-", "_")
 	FILE_NAME = DIR_NAME + "/" + "story.txt"
 	create_directory(DIR_NAME)
 	puts ''
