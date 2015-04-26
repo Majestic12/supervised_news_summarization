@@ -1,3 +1,4 @@
+# TODO - change so that this accepts a sentence and returns number of named entities
 from nltk.tokenize import sent_tokenize, word_tokenize, RegexpTokenizer
 from nltk.chunk import ne_chunk
 from nltk.tag import pos_tag

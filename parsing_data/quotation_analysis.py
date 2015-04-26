@@ -1,3 +1,4 @@
+# TODO - change so that this accepts a sentence and returns whether the sentence is a quote or not
 from nltk.tokenize import sent_tokenize, RegexpTokenizer
 
 def main_function():
