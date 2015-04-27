@@ -7,14 +7,15 @@ def main_function():
     # distintion between U+0027 ('), U+2018 (‘), and U+2019 (’)
     # “ ” "
     print("starting...")
-    tokenizer = RegexpTokenizer(r'(\u0024|\u00A2|\u00A3|\u00A5)?\w+((\u0026|\u0027|\u002C|\u002E|\u003A|\u00B0|\u00E0|\u00E1|\u00E2|\u00E3|\u00E4|\u00E5|\u00E7|\u00E8|\u00E9|\u00EA|\u00EB|\u00EC|\u00ED|\u00EE|\u00EF|\u00F0|\u00F1|\u00F2|\u00F3|\u00F4|\u00F5|\u00F6|\u00F8|\u00F9|\u00FA|\u00FB|\u00FC|\u00FD|\u00FF|\u002D|\u2013|\u2014|\u2019)+\w+)*((\u002B[A-Z])|(\u002F[0-9]+))?\w*(\u0025|\u00B0)?')
+    word_tokenizer = RegexpTokenizer(r'(\u0024|\u00A2|\u00A3|\u00A5)?\w+((\u0026|\u0027|\u002C|\u002E|\u003A|\u00B0|\u00E0|\u00E1|\u00E2|\u00E3|\u00E4|\u00E5|\u00E7|\u00E8|\u00E9|\u00EA|\u00EB|\u00EC|\u00ED|\u00EE|\u00EF|\u00F0|\u00F1|\u00F2|\u00F3|\u00F4|\u00F5|\u00F6|\u00F8|\u00F9|\u00FA|\u00FB|\u00FC|\u00FD|\u00FF|\u002D|\u2013|\u2014|\u2019)+\w+)*((\u002B[A-Z])|(\u002F[0-9]+))?\w*(\u0025|\u00B0)?')
+    quote_tokenizer = RegexpTokenizer(r'(\u0022|\u201C|\u201D)')
     print('Folder or directory name:')
     folder_name = input("> ")
     os.chdir(folder_name)
     if not os.path.exists(features_dir):
         os.makedirs(features_dir)
     print("features folder created...")
-    for text_file in glob.glob("*.txt"):
+    for text_file in glob.glob("d*.txt"):
         file_name = text_file
         new_file = os.path.join(features_dir, file_name[:file_name.index(".txt")] + "_features.txt")
         # 'r' - read
@@ -43,18 +44,35 @@ def main_function():
             print("file created...")
             paras = 0
             sents = 0
+            current_quote = 0
+            next_quote = 0
             for line in lines:
                 paras += 1
                 sentences = sent_tokenize(line)
                 for sentence in sentences:
                     sents += 1
+                    # figure out if sentence is a quote
+                    amount_of_quotations = len(quote_tokenizer.tokenize(sentence))
+                    if amount_of_quotations > 0 and (amount_of_quotations % 2) == 0:
+                        current_quote = 1
+                    elif amount_of_quotations > 0 and next_quote == 1:
+                        current_quote = 1
+                        next_quote = 0
+                    elif amount_of_quotations > 0 and next_quote == 0:
+                        current_quote = 1
+                        next_quote = 1
+                    elif next_quote == 1:
+                        current_quote = 1
+                    else:
+                        current_quote = 0
                     # sentence id (sent_<id>)
                     # sentence number
                     # total number of sentences
                     # paragraph number
                     # total number of paragraphs
                     # number of words
-                    text = 'sent' + str(sents) + ", " + str(sents) + ", " + str(total_sents) + ", " + str(paras) + ", " + str(total_paras) + ", " + str(len(tokenizer.tokenize(sentence)))
+                    # is sentence a quote (0 - False, 1 - True)
+                    text = 'sent' + str(sents) + ", " + str(sents) + ", " + str(total_sents) + ", " + str(paras) + ", " + str(total_paras) + ", " + str(len(word_tokenizer.tokenize(sentence)) + ", " + str(current_quote))
                     file.write(text + "\n")
         print("...file written")
     print('...done')

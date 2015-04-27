@@ -1,9 +1,4 @@
--------- old tokens ----------------------------------
-
-tokenizer = RegexpTokenizer(r'\S+')
-tokenizer = RegexpTokenizer(r'\$?\w+(\S+\w+)*\%?')
-
-------- new working regex -----------------------------------------------------------
+------- new working word count regex -----------------------------------------------------------
 
 (\u0024|\u00A2|\u00A3|\u00A5)?\w+((\u0026|\u0027|\u002C|\u002E|\u003A|\u00B0
 |\u00E0|\u00E1|\u00E2|\u00E3|\u00E4|\u00E5|\u00E7|\u00E8|\u00E9|\u00EA|\u00EB
