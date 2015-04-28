@@ -1,14 +1,15 @@
 import glob, os
 from nltk.tokenize import sent_tokenize, RegexpTokenizer
-from heading_analysis import heading_match
+from word_analysis import heading_match
+from word_analysis import noun_match
 from output_color import color_text
+# story refers to cicra text here and source refers to the source documents used in circa
 # main function
 def main_function():
     features_folder = "features"
     story_file = "story.txt"
     # word_tokenize includes puntuations, use this tokenizer instead
-    # distintion between U+0027 ('), U+2018 (‘), and U+2019 (’)
-    # “ ” "
+    # distintion between U+0027 ('), U+2018 (‘), and U+2019 (’) - and - U+201C (“), U+201D (”), U+0022 (")
     print(color_text("starting...", "green"))
     word_tokenizer = RegexpTokenizer(r'(\u0024|\u00A2|\u00A3|\u00A5)?\w+((\u0026|\u0027|\u002C|\u002E|\u003A|\u00B0|\u00E0|\u00E1|\u00E2|\u00E3|\u00E4|\u00E5|\u00E7|\u00E8|\u00E9|\u00EA|\u00EB|\u00EC|\u00ED|\u00EE|\u00EF|\u00F0|\u00F1|\u00F2|\u00F3|\u00F4|\u00F5|\u00F6|\u00F8|\u00F9|\u00FA|\u00FB|\u00FC|\u00FD|\u00FF|\u002D|\u2013|\u2014|\u2019)+\w+)*((\u002B[A-Z])|(\u002F[0-9]+))?\w*(\u0025|\u00B0)?')
     quote_tokenizer = RegexpTokenizer(r'(\u0022|\u201C|\u201D)')
@@ -21,28 +22,23 @@ def main_function():
     print(color_text("features folder created...", "blue"))
     # acquire main document lines and headline
     with open(story_file, 'r') as file:
-        story_lines = file.readlines()
-        story_headline = story_lines[0]
+        story_lines = file.readlines() # get paragraphs from story.txt
+        story_headline = story_lines[0] # get headline from story.txt
+        story_lines = story_lines[1:] # get paragraphs except headline from story.txt
         print(color_text("story text aquired...", "blue"))
+    story_sentences = []
+    for story_line in story_lines:
+        story_sentences += sent_tokenize(story_line) # convert story paragraphs into sentences
     for text_file in glob.glob("d*.txt"):
         file_name = text_file
         new_file = os.path.join(features_folder, file_name[:file_name.index(".txt")] + "_features.txt")
-        # 'r' - read
-        # 'w' - write
-        # 'a' - append - add to the end
-        # 'r+' - read and write
-        #file = open(file_name, 'r')
-        # pass arg number to print that many characters
-        #print txt.read()
-        # loop and read
-        #for line in file
-            #print(line)
-        #file.close()
-        # using keyword 'with' to open file
-        # better syntax and exception handling than file open() and close()
+        # 'r' - read, 'w' - write, 'a' - append - add to the end, 'r+' - read and write
+        # using keyword 'with' to open file - better syntax and exception handling than file open() and close()
         # automatic cleanup after use
         with open(file_name, 'r') as file:
-            source_lines = file.readlines()
+            source_lines = file.readlines() # get paragraphs from source
+            source_headline = source_lines[0] # get headline from source
+            source_lines = source_lines[1:] # get paragraphs except headline from source
             print(file_name + " text aquired...")
         # collect total paragraphs and sentences from the source file
         total_paras = 0
@@ -56,9 +52,9 @@ def main_function():
             sents = 0
             current_quote = 0
             next_quote = 0
-            for line in source_lines:
+            for source_line in source_lines:
                 paras += 1
-                source_sentences = sent_tokenize(line)
+                source_sentences = sent_tokenize(source_line)
                 weird_quote_sentences = 0
                 for source_sentence in source_sentences:
                     sents += 1
@@ -94,11 +90,17 @@ def main_function():
                     # total number of paragraphs
                     # number of words
                     # is sentence a quote (0 - False, 1 - True)
-                    # does even one source word from its sentence match story headline (0 - False, 1 - True)
-                    #print(source_sentence)
+                    # number of source words from the source sentence that match story headline
+                    # number of source words from source sentence that matches the most to a story sentence
+                    print(source_sentence)
                     #print(story_headline)
-                    text = 'sent_' + str(sents) + ", " + str(sents) + ", " + str(total_sents) + ", " + str(paras) + ", " + str(total_paras) + ", " + str(len(word_tokenizer.tokenize(source_sentence))) + ", " + str(current_quote) + ", " + str(heading_match(source_sentence, story_headline, word_tokenizer))
-                    #print(text)
+                    text = 'sent_' + str(sents) + ", " + str(sents) + ", " + str(total_sents) + ", " + str(paras) + ", " + str(total_paras) \
+                                + ", " + str(len(word_tokenizer.tokenize(source_sentence))) + ", " + str(current_quote) \
+                                + ", " + str(heading_match(source_sentence, story_headline, word_tokenizer)) \
+                                + ", " + str(noun_match(source_sentence, story_sentences, word_tokenizer))
+                    print(text)
+                    print("------")
+                    print("")
                     file.write(text + "\n")
                 if weird_quote_sentences > 3:
                     print(color_text("...possible quotation error(s) in " + new_file, "yellow"))
