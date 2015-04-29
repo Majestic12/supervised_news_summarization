@@ -48,9 +48,9 @@ def heading_match(check_sentence, headline_sentence, word_tokenizer):
     stop_words.extend(punctuation)
     stop_words.append('')
     return_matches = number_of_exact_word_match(check_sentence, headline_sentence, word_tokenizer, lemmatizer, stop_words)
-    if return_matches[0] > 0:
-        print(return_matches[1])
-    return return_matches[0]
+    #if return_matches[0] > 0:
+        #print(return_matches[1])
+    return return_matches
 #Partial Noun Set Match after Stopwording and Lemmatizing
 # NOTE: using exact word instead of partial
 def noun_match(check_sentence, story_sentences, word_tokenizer):
@@ -64,6 +64,6 @@ def noun_match(check_sentence, story_sentences, word_tokenizer):
     for story_sentence in story_sentences:
         noun_match = number_of_exact_word_match(check_sentence, story_sentence, word_tokenizer, lemmatizer, stop_words)
         max_match = noun_match if noun_match[0] > max_match[0] else max_match
-    if max_match[0] > 0:
-        print(max_match[1], " ", max_match[2])
-    return max_match[0]
+    #if max_match[0] > 0:
+        #print(max_match[1], " ", max_match[2])
+    return max_match
