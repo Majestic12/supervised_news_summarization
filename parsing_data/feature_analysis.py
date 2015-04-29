@@ -182,17 +182,17 @@ def main_function():
         with open(features_file, 'w') as file:
             for feature_text in feature_texts:
                 file.write(feature_text + "\n")
-        print("..." + features_file + " file written")
+            print("..." + features_file + " file written")
         # write to debug files for each source file
         with open(debug_file, 'w') as file:
             for debug_text in debug_texts:
                 file.write(debug_text + "\n")
-        print("..." + debug_file + " file written")
+            print("..." + debug_file + " file written")
         # write to limited debug files for each source file
         with open(limited_debug_file, 'w') as file:
             for limited_debug_text in limited_debug_texts:
                 file.write(limited_debug_text + "\n")
-        print("..." + limited_debug_file + " file written")
+            print("..." + limited_debug_file + " file written")
         if weird_quote_sentences > 3:
             print_color_text("...possible quotation error(s) in " + features_file, "yellow")
     print_color_text('...done', "green")
