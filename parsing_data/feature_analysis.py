@@ -8,6 +8,7 @@ from console_color import print_color_text
 def main_function():
     features_folder = "features"
     debug_folder = "debug"
+    limited_debug_folder = "limited_debug"
     story_file = "story.txt"
     # word_tokenize includes puntuations, use this tokenizer instead
     # distintion between U+0027 ('), U+2018 (‘), and U+2019 (’) - and - U+201C (“), U+201D (”), U+0022 (")
@@ -18,13 +19,23 @@ def main_function():
     folder_name = input("> ")
     os.chdir(folder_name)
     # create features folder
-    if not os.path.exists(features_folder):
+    if os.path.exists(features_folder):
+        print_color_text("features folder already exists", "yellow")
+    else:
         os.makedirs(features_folder)
-    print_color_text("features folder created...", "blue")
+        print_color_text("features folder created...", "blue")
     # create debug folder
-    if not os.path.exists(debug_folder):
+    if os.path.exists(debug_folder):
+        print_color_text("debug folder already exists", "yellow")
+    else:
         os.makedirs(debug_folder)
-    print_color_text("debug folder created...", "blue")
+        print_color_text("debug folder created...", "blue")
+    # create limited debug folder
+    if os.path.exists(limited_debug_folder):
+        print_color_text("limited debug folder already exists", "yellow")
+    else:
+        os.makedirs(limited_debug_folder)
+        print_color_text("limited debug folder created...", "blue")
     # acquire main document lines and headline
     with open(story_file, 'r') as file:
         story_lines = file.readlines() # get paragraphs from story.txt
@@ -41,6 +52,8 @@ def main_function():
         feature_texts = []
         debug_file = os.path.join(debug_folder, file_name[:file_name.index(".txt")] + "_debug.txt")
         debug_texts = []
+        limited_debug_file = os.path.join(limited_debug_folder, file_name[:file_name.index(".txt")] + "_limited_debug.txt")
+        limited_debug_texts = []
         # 'r' - read, 'w' - write, 'a' - append - add to the end, 'r+' - read and write
         # using keyword 'with' to open file - better syntax and exception handling than file open() and close()
         # automatic cleanup after use
@@ -104,43 +117,48 @@ def main_function():
                 # number of words
                 word_count = len(word_tokenizer.tokenize(source_sentence))
                 # is sentence a quote (0 - False, 1 - True)
+                # number of named entity using default word tokenize
+                # number of named entity using custom word tokenizer
                 # number of source words that match source headline
                 source_heading_match = heading_match(source_sentence, source_headline, word_tokenizer)
                 # number of source words from the source sentence that match story headline
                 story_heading_match = heading_match(source_sentence, story_headline, word_tokenizer)
                 # number of source words from source sentence that matches the most to a story sentence
                 story_sentences_match = noun_match(source_sentence, story_sentences, word_tokenizer)
-                # number of named entity using default word tokenize
-                # number of named entity using custom word tokenizer
-                #print(source_sentence)
-                #print(story_headline)
                 # collecting both types of named entity quantity
                 sentence_entity = find_named_entity(source_sentence, word_tokenizer)
                 feature_texts.append(sentence_id + ", " + str(sents) + ", " + str(total_sents) \
                             + ", " + str(paras) + ", " + str(total_paras) \
                             + ", " + str(word_count) + ", " + str(is_current_quote) \
+                            + ", " + str(sentence_entity[0]) + ", " + str(sentence_entity[1]) \
                             + ", " + str(source_heading_match[0]) + ", " + str(story_heading_match[0]) \
-                            + ", " + str(story_sentences_match[0]) \
-                            + ", " + str(sentence_entity[0]) + ", " + str(sentence_entity[1]))
-                #print(text)
-                #print("------")
-                #print("")
+                            + ", " + str(story_sentences_match[0]))
                 # debug
                 debug_texts.append(sentence_id + ":")
+                limited_debug_texts.append(sentence_id + ":")
                 debug_texts.append(str(sents) + " out of " + str(total_sents) + " sentences")
                 debug_texts.append(str(paras) + " out of " + str(total_paras) + " paragraphs")
                 if is_current_quote == 0:
                     debug_texts.append("Tagged as not being a quote")
                 else:
                     debug_texts.append("Tagged as a quote")
-                debug_texts.append("\nHeading Check (Source Sentence and Source Headline Match):")
+                debug_texts.append("\nSentence:\n" + source_sentence.rstrip('\n'))
+                if sentence_entity[0] > 0:
+                    debug_texts.append(str(sentence_entity[0]) + " default entities: " + ', '.join(s for s in sentence_entity[2]).rstrip('\n'))
+                else:
+                    debug_texts.append("\nno default named entity found".rstrip('\n'))
+                if sentence_entity[1] > 0:
+                    debug_texts.append(str(sentence_entity[1]) + " custom entities: " + ', '.join(s for s in sentence_entity[3]).rstrip('\n'))
+                else:
+                    debug_texts.append("\nno custom named entity found")
+                debug_texts.append("\nSource Sentence and Source Headline Match:")
                 debug_texts.append(source_sentence.rstrip('\n'))
                 debug_texts.append(source_heading_match[2].rstrip('\n'))
                 if source_heading_match[0] > 0:
                     debug_texts.append(str(source_heading_match[0]) + " matches: " + ', '.join(s for s in source_heading_match[1]))
                 else:
                     debug_texts.append("no heading matches found")
-                debug_texts.append("\nStory Heading Check (Source Sentence and Story Headline Match):")
+                debug_texts.append("\nSource Sentence and Story Headline Match:")
                 debug_texts.append(source_sentence.rstrip('\n'))
                 debug_texts.append(story_heading_match[2].rstrip('\n'))
                 if story_heading_match[0] > 0:
@@ -148,25 +166,18 @@ def main_function():
                 else:
                     debug_texts.append("no story heading matches found")
                 if story_sentences_match[0] > 0:
-                    debug_texts.append("\nStory Sentence Check (Source Sentence and Best Story Sentence Match):")
+                    debug_texts.append("\nSource Sentence and Best Story Sentence Match:")
                     debug_texts.append(source_sentence.rstrip('\n'))
                     debug_texts.append(story_sentences_match[2].rstrip('\n'))
                     debug_texts.append(str(story_sentences_match[0]) + " matches: " + ', '.join(s for s in story_sentences_match[1]))
+                    limited_debug_texts.append('\n' + source_sentence.rstrip('\n'))
+                    limited_debug_texts.append(story_sentences_match[2].rstrip('\n'))
+                    limited_debug_texts.append(str(story_sentences_match[0]) + " best matches: " + ', '.join(s for s in story_sentences_match[1]))
                 else:
                     debug_texts.append("\nno story sentence matches found")
-                if sentence_entity[0] > 0:
-                    debug_texts.append("\nSentence Named Entities using Default Tokenizer:")
-                    debug_texts.append(source_sentence.rstrip('\n'))
-                    debug_texts.append(str(sentence_entity[0]) + " entities:\n" + ', '.join(s for s in sentence_entity[2]).rstrip('\n'))
-                else:
-                    debug_texts.append("\nno default named entity found")
-                if sentence_entity[1] > 0:
-                    debug_texts.append("\nSentence Named Entities using Custom Tokenizer:")
-                    debug_texts.append(source_sentence.rstrip('\n'))
-                    debug_texts.append(str(sentence_entity[1]) + " entities:\n" + ', '.join(s for s in sentence_entity[3]).rstrip('\n'))
-                else:
-                    debug_texts.append("\nno custom named entity found")
+                    limited_debug_texts.append("\nno story sentence best matches found")
                 debug_texts.append("\n----------------\n")
+                limited_debug_texts.append("\n----------------")
         # write to features files for each source file
         with open(features_file, 'w') as file:
             for feature_text in feature_texts:
@@ -177,6 +188,11 @@ def main_function():
             for debug_text in debug_texts:
                 file.write(debug_text + "\n")
         print("..." + debug_file + " file written")
+        # write to limited debug files for each source file
+        with open(limited_debug_file, 'w') as file:
+            for limited_debug_text in limited_debug_texts:
+                file.write(limited_debug_text + "\n")
+        print("..." + limited_debug_file + " file written")
         if weird_quote_sentences > 3:
             print_color_text("...possible quotation error(s) in " + features_file, "yellow")
     print_color_text('...done', "green")
