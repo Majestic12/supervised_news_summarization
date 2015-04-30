@@ -1,0 +1,669 @@
+sent_1:
+1 out of 25 sentences
+1 out of 24 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Michael Clarke hit 74 in his last one-day international to lead Australia to their fifth World Cup title with a seven-wicket win over New Zealand in a disappointing final on Sunday.
+4 default entities: PERSON Michael, PERSON Clarke, GPE Australia, GPE New Zealand
+4 custom entities: PERSON Michael, PERSON Clarke, GPE Australia, GPE New Zealand
+
+Source Sentence and Source Headline Match:
+Michael Clarke hit 74 in his last one-day international to lead Australia to their fifth World Cup title with a seven-wicket win over New Zealand in a disappointing final on Sunday.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+6 matches: win, fifth, world, cup, australia, final
+
+Source Sentence and Story Headline Match:
+Michael Clarke hit 74 in his last one-day international to lead Australia to their fifth World Cup title with a seven-wicket win over New Zealand in a disappointing final on Sunday.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+6 matches: win, new, world, zealand, cup, australia
+
+Source Sentence and Best Story Sentence Match:
+Michael Clarke hit 74 in his last one-day international to lead Australia to their fifth World Cup title with a seven-wicket win over New Zealand in a disappointing final on Sunday.
+Australia won the Cricket World Cup with a victory over New Zealand.
+6 matches: win, new, world, zealand, cup, australia
+
+----------------
+
+sent_2:
+2 out of 25 sentences
+2 out of 24 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A record crowd of 93,013 at the Melbourne Cricket Ground saw power-packed Australia bowl out the Black Caps for 183 and then gallop to victory in the 34th over.
+3 default entities: ORGANIZATION Melbourne Cricket Ground, GPE Australia, ORGANIZATION Black Caps
+3 custom entities: ORGANIZATION Melbourne Cricket Ground, GPE Australia, ORGANIZATION Black Caps
+
+Source Sentence and Source Headline Match:
+A record crowd of 93,013 at the Melbourne Cricket Ground saw power-packed Australia bowl out the Black Caps for 183 and then gallop to victory in the 34th over.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+2 matches: cricket, australia
+
+Source Sentence and Story Headline Match:
+A record crowd of 93,013 at the Melbourne Cricket Ground saw power-packed Australia bowl out the Black Caps for 183 and then gallop to victory in the 34th over.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+3 matches: victory, cricket, australia
+
+Source Sentence and Best Story Sentence Match:
+A record crowd of 93,013 at the Melbourne Cricket Ground saw power-packed Australia bowl out the Black Caps for 183 and then gallop to victory in the 34th over.
+The Melbourne Cricket Ground had a record crowd of 93,013.
+6 matches: melbourne, crowd, cricket, record, ground, 93,013
+
+----------------
+
+sent_3:
+3 out of 25 sentences
+3 out of 24 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Clarke, who announced his retirement from the one-day format on the eve of the final, added 112 runs for the third wicket with his likely successor Steve Smith, who returned unbeaten on 56.
+2 default entities: GPE Clarke, PERSON Steve Smith
+1 custom entities: PERSON Steve Smith
+
+Source Sentence and Source Headline Match:
+Clarke, who announced his retirement from the one-day format on the eve of the final, added 112 runs for the third wicket with his likely successor Steve Smith, who returned unbeaten on 56.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+1 matches: final
+
+Source Sentence and Story Headline Match:
+Clarke, who announced his retirement from the one-day format on the eve of the final, added 112 runs for the third wicket with his likely successor Steve Smith, who returned unbeaten on 56.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Clarke, who announced his retirement from the one-day format on the eve of the final, added 112 runs for the third wicket with his likely successor Steve Smith, who returned unbeaten on 56.
+Australia beat India in the semifinals, while New Zealand beat South Africa to make its first appearance in the finals.
+1 matches: final
+
+----------------
+
+sent_4:
+4 out of 25 sentences
+4 out of 24 paragraphs
+Tagged as a quote
+
+Sentence:
+"I'm sure everybody standing on this stage will say we played this World Cup with 16 players," said Clarke in reference to close friend and former teammate Phillip Hughes who died in November last year after being hit on the head by a bouncer in a first-class match in Sydney.
+3 default entities: PERSON Clarke, PERSON Phillip Hughes, GPE Sydney
+3 custom entities: PERSON Clarke, PERSON Phillip Hughes, GPE Sydney
+
+Source Sentence and Source Headline Match:
+"I'm sure everybody standing on this stage will say we played this World Cup with 16 players," said Clarke in reference to close friend and former teammate Phillip Hughes who died in November last year after being hit on the head by a bouncer in a first-class match in Sydney.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+2 matches: cup, world
+
+Source Sentence and Story Headline Match:
+"I'm sure everybody standing on this stage will say we played this World Cup with 16 players," said Clarke in reference to close friend and former teammate Phillip Hughes who died in November last year after being hit on the head by a bouncer in a first-class match in Sydney.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+2 matches: cup, world
+
+Source Sentence and Best Story Sentence Match:
+"I'm sure everybody standing on this stage will say we played this World Cup with 16 players," said Clarke in reference to close friend and former teammate Phillip Hughes who died in November last year after being hit on the head by a bouncer in a first-class match in Sydney.
+The 2015 ICC Cricket World Cup began Feb. 14 and was hosted by Australia and New Zealand.
+2 matches: cup, world
+
+----------------
+
+sent_5:
+5 out of 25 sentences
+5 out of 24 paragraphs
+Tagged as a quote
+
+Sentence:
+"This victory is dedicated to our little brother Phillip Hughes."
+1 default entities: PERSON Phillip Hughes
+1 custom entities: PERSON Phillip Hughes
+
+Source Sentence and Source Headline Match:
+"This victory is dedicated to our little brother Phillip Hughes."
+Clarke's final flourish as Australia win fifth cricket World Cup.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"This victory is dedicated to our little brother Phillip Hughes."
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+1 matches: victory
+
+Source Sentence and Best Story Sentence Match:
+"This victory is dedicated to our little brother Phillip Hughes."
+Australia won the Cricket World Cup with a victory over New Zealand.
+1 matches: victory
+
+----------------
+
+sent_6:
+6 out of 25 sentences
+6 out of 24 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The emphatic win was set up by the left-arm fast bowling trio of Mitchell Starc, James Faulkner and Mitchell Johnson who shared eight wickets after the Kiwis elected to bat on a good pitch.
+5 default entities: ORGANIZATION Mitchell Starc, PERSON James Faulkner, ORGANIZATION Mitchell, PERSON Johnson, PERSON Kiwis
+4 custom entities: ORGANIZATION Mitchell Starc James Faulkner, ORGANIZATION Mitchell, PERSON Johnson, PERSON Kiwis
+
+Source Sentence and Source Headline Match:
+The emphatic win was set up by the left-arm fast bowling trio of Mitchell Starc, James Faulkner and Mitchell Johnson who shared eight wickets after the Kiwis elected to bat on a good pitch.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+1 matches: win
+
+Source Sentence and Story Headline Match:
+The emphatic win was set up by the left-arm fast bowling trio of Mitchell Starc, James Faulkner and Mitchell Johnson who shared eight wickets after the Kiwis elected to bat on a good pitch.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+1 matches: win
+
+Source Sentence and Best Story Sentence Match:
+The emphatic win was set up by the left-arm fast bowling trio of Mitchell Starc, James Faulkner and Mitchell Johnson who shared eight wickets after the Kiwis elected to bat on a good pitch.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+2 matches: win, wicket
+
+----------------
+
+sent_7:
+7 out of 25 sentences
+7 out of 24 paragraphs
+Tagged as not being a quote
+
+Sentence:
+New Zealand messed up their maiden appearance in the title clash of cricket's showpiece event, falling like nine pins against the hostile Australian bowling.
+3 default entities: GPE New, PERSON Zealand, GPE Australian
+3 custom entities: GPE New, PERSON Zealand, GPE Australian
+
+Source Sentence and Source Headline Match:
+New Zealand messed up their maiden appearance in the title clash of cricket's showpiece event, falling like nine pins against the hostile Australian bowling.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+New Zealand messed up their maiden appearance in the title clash of cricket's showpiece event, falling like nine pins against the hostile Australian bowling.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+2 matches: new, zealand
+
+Source Sentence and Best Story Sentence Match:
+New Zealand messed up their maiden appearance in the title clash of cricket's showpiece event, falling like nine pins against the hostile Australian bowling.
+Australia beat India in the semifinals, while New Zealand beat South Africa to make its first appearance in the finals.
+3 matches: appearance, new, zealand
+
+----------------
+
+sent_8:
+8 out of 25 sentences
+8 out of 24 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Inspirational captain Brendon McCullum fell off the fifth ball of the innings for a duck and two other frontline batsmen, Corey Anderson and Luke Ronchi, also failed to score.
+4 default entities: GPE Inspirational, PERSON Brendon McCullum, PERSON Corey Anderson, PERSON Luke Ronchi
+4 custom entities: GPE Inspirational, PERSON Brendon McCullum, PERSON Corey Anderson, PERSON Luke Ronchi
+
+Source Sentence and Source Headline Match:
+Inspirational captain Brendon McCullum fell off the fifth ball of the innings for a duck and two other frontline batsmen, Corey Anderson and Luke Ronchi, also failed to score.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+1 matches: fifth
+
+Source Sentence and Story Headline Match:
+Inspirational captain Brendon McCullum fell off the fifth ball of the innings for a duck and two other frontline batsmen, Corey Anderson and Luke Ronchi, also failed to score.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Inspirational captain Brendon McCullum fell off the fifth ball of the innings for a duck and two other frontline batsmen, Corey Anderson and Luke Ronchi, also failed to score.
+The final score was: Afghanistan 211-9, Scotland 210 (all out).
+1 matches: score
+
+----------------
+
+sent_9:
+9 out of 25 sentences
+9 out of 24 paragraphs
+Tagged as not being a quote
+
+Sentence:
+South Africa-born Grant Elliott top-scored with 83, sharing a fourth-wicket stand of 111 with Ross Taylor (40) after New Zealand had been reduced to 39 for three in the 13th over.
+4 default entities: GPE South, PERSON Grant Elliott, PERSON Ross Taylor, GPE New Zealand
+4 custom entities: GPE South, PERSON Grant Elliott, PERSON Ross Taylor, GPE New Zealand
+
+Source Sentence and Source Headline Match:
+South Africa-born Grant Elliott top-scored with 83, sharing a fourth-wicket stand of 111 with Ross Taylor (40) after New Zealand had been reduced to 39 for three in the 13th over.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+South Africa-born Grant Elliott top-scored with 83, sharing a fourth-wicket stand of 111 with Ross Taylor (40) after New Zealand had been reduced to 39 for three in the 13th over.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+2 matches: new, zealand
+
+Source Sentence and Best Story Sentence Match:
+South Africa-born Grant Elliott top-scored with 83, sharing a fourth-wicket stand of 111 with Ross Taylor (40) after New Zealand had been reduced to 39 for three in the 13th over.
+Australia beat India in the semifinals, while New Zealand beat South Africa to make its first appearance in the finals.
+3 matches: south, new, zealand
+
+----------------
+
+sent_10:
+10 out of 25 sentences
+10 out of 24 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The massive crowd, which broke the MCG record of 91,112 on the opening day of the Boxing Day Test against England in 2013, saw New Zealand lose their last seven wickets for 33 runs.
+3 default entities: ORGANIZATION MCG, GPE England, GPE New Zealand
+3 custom entities: ORGANIZATION MCG, GPE England, ORGANIZATION New Zealand
+
+Source Sentence and Source Headline Match:
+The massive crowd, which broke the MCG record of 91,112 on the opening day of the Boxing Day Test against England in 2013, saw New Zealand lose their last seven wickets for 33 runs.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The massive crowd, which broke the MCG record of 91,112 on the opening day of the Boxing Day Test against England in 2013, saw New Zealand lose their last seven wickets for 33 runs.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+2 matches: new, zealand
+
+Source Sentence and Best Story Sentence Match:
+The massive crowd, which broke the MCG record of 91,112 on the opening day of the Boxing Day Test against England in 2013, saw New Zealand lose their last seven wickets for 33 runs.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+3 matches: wicket, new, zealand
+
+----------------
+
+sent_11:
+11 out of 25 sentences
+11 out of 24 paragraphs
+Tagged as a quote
+
+Sentence:
+"We played some outstanding cricket in the tournament, but we ran into an outstanding Australia team tonight who continue to set the way in world cricket.
+1 default entities: GPE Australia
+1 custom entities: GPE Australia
+
+Source Sentence and Source Headline Match:
+"We played some outstanding cricket in the tournament, but we ran into an outstanding Australia team tonight who continue to set the way in world cricket.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+3 matches: cricket, australia, world
+
+Source Sentence and Story Headline Match:
+"We played some outstanding cricket in the tournament, but we ran into an outstanding Australia team tonight who continue to set the way in world cricket.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+3 matches: cricket, australia, world
+
+Source Sentence and Best Story Sentence Match:
+"We played some outstanding cricket in the tournament, but we ran into an outstanding Australia team tonight who continue to set the way in world cricket.
+The 2015 ICC Cricket World Cup began Feb. 14 and was hosted by Australia and New Zealand.
+3 matches: cricket, world, australia
+
+----------------
+
+sent_12:
+12 out of 25 sentences
+11 out of 24 paragraphs
+Tagged as a quote
+
+Sentence:
+Michael Clarke deserves to bow out as world champion," said McCullum.
+3 default entities: PERSON Michael, PERSON Clarke, PERSON McCullum
+3 custom entities: PERSON Michael, PERSON Clarke, PERSON McCullum
+
+Source Sentence and Source Headline Match:
+Michael Clarke deserves to bow out as world champion," said McCullum.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+1 matches: world
+
+Source Sentence and Story Headline Match:
+Michael Clarke deserves to bow out as world champion," said McCullum.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+1 matches: world
+
+Source Sentence and Best Story Sentence Match:
+Michael Clarke deserves to bow out as world champion," said McCullum.
+The 2015 ICC Cricket World Cup began Feb. 14 and was hosted by Australia and New Zealand.
+1 matches: world
+
+----------------
+
+sent_13:
+13 out of 25 sentences
+12 out of 24 paragraphs
+Tagged as a quote
+
+Sentence:
+New Zealand crumbled after going into the final as the only unbeaten team in the 14-nation tournament, their eight wins including a one-wicket success over Australia in a low scoring pool stage thriller.
+3 default entities: GPE New, PERSON Zealand, GPE Australia
+3 custom entities: GPE New, PERSON Zealand, GPE Australia
+
+Source Sentence and Source Headline Match:
+New Zealand crumbled after going into the final as the only unbeaten team in the 14-nation tournament, their eight wins including a one-wicket success over Australia in a low scoring pool stage thriller.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+3 matches: win, australia, final
+
+Source Sentence and Story Headline Match:
+New Zealand crumbled after going into the final as the only unbeaten team in the 14-nation tournament, their eight wins including a one-wicket success over Australia in a low scoring pool stage thriller.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+4 matches: win, australia, new, zealand
+
+Source Sentence and Best Story Sentence Match:
+New Zealand crumbled after going into the final as the only unbeaten team in the 14-nation tournament, their eight wins including a one-wicket success over Australia in a low scoring pool stage thriller.
+Australia won the Cricket World Cup with a victory over New Zealand.
+4 matches: win, australia, new, zealand
+
+----------------
+
+sent_14:
+14 out of 25 sentences
+13 out of 24 paragraphs
+Tagged as a quote
+
+Sentence:
+Australia's previous titles came in 1987, 1999, 2003 and 2007 with coach Darren Lehmann, a two-time World Cup winner as a player, celebrating another success off the field.
+2 default entities: GPE Australia, PERSON Darren Lehmann
+1 custom entities: PERSON Darren Lehmann
+
+Source Sentence and Source Headline Match:
+Australia's previous titles came in 1987, 1999, 2003 and 2007 with coach Darren Lehmann, a two-time World Cup winner as a player, celebrating another success off the field.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+2 matches: cup, world
+
+Source Sentence and Story Headline Match:
+Australia's previous titles came in 1987, 1999, 2003 and 2007 with coach Darren Lehmann, a two-time World Cup winner as a player, celebrating another success off the field.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+2 matches: cup, world
+
+Source Sentence and Best Story Sentence Match:
+Australia's previous titles came in 1987, 1999, 2003 and 2007 with coach Darren Lehmann, a two-time World Cup winner as a player, celebrating another success off the field.
+Australia previously won in 1987, 1999, 2003 and 2007.
+4 matches: 2003, 2007, 1987, 1999
+
+----------------
+
+sent_15:
+15 out of 25 sentences
+14 out of 24 paragraphs
+Tagged as a quote
+
+Sentence:
+New Zealand raised hopes of repeating their amazing win in the league when they removed Aaron Finch for a duck in the second over, Trent Boult taking an easy return catch as the ball lobbed off the batsman's bat and pad.
+4 default entities: GPE New, PERSON Zealand, PERSON Aaron Finch, PERSON Trent Boult
+4 custom entities: GPE New, PERSON Zealand, PERSON Aaron Finch, PERSON Trent Boult
+
+Source Sentence and Source Headline Match:
+New Zealand raised hopes of repeating their amazing win in the league when they removed Aaron Finch for a duck in the second over, Trent Boult taking an easy return catch as the ball lobbed off the batsman's bat and pad.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+1 matches: win
+
+Source Sentence and Story Headline Match:
+New Zealand raised hopes of repeating their amazing win in the league when they removed Aaron Finch for a duck in the second over, Trent Boult taking an easy return catch as the ball lobbed off the batsman's bat and pad.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+3 matches: win, new, zealand
+
+Source Sentence and Best Story Sentence Match:
+New Zealand raised hopes of repeating their amazing win in the league when they removed Aaron Finch for a duck in the second over, Trent Boult taking an easy return catch as the ball lobbed off the batsman's bat and pad.
+Australia won the Cricket World Cup with a victory over New Zealand.
+3 matches: win, new, zealand
+
+----------------
+
+sent_16:
+16 out of 25 sentences
+15 out of 24 paragraphs
+Tagged as a quote
+
+Sentence:
+Left-hander David Warner slammed seven boundaries in his 45 off 46 balls, adding 61 for the second wicket with Smith.
+2 default entities: PERSON David Warner, PERSON Smith
+2 custom entities: PERSON David Warner, PERSON Smith
+
+Source Sentence and Source Headline Match:
+Left-hander David Warner slammed seven boundaries in his 45 off 46 balls, adding 61 for the second wicket with Smith.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Left-hander David Warner slammed seven boundaries in his 45 off 46 balls, adding 61 for the second wicket with Smith.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Left-hander David Warner slammed seven boundaries in his 45 off 46 balls, adding 61 for the second wicket with Smith.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+1 matches: wicket
+
+----------------
+
+sent_17:
+17 out of 25 sentences
+16 out of 24 paragraphs
+Tagged as a quote
+
+Sentence:
+But the pugnacious opener was unable to build on his fine start as he pulled seamer Matt Henry down Elliott's throat at deep square-leg.
+2 default entities: PERSON Matt Henry, PERSON Elliott
+1 custom entities: PERSON Matt Henry
+
+Source Sentence and Source Headline Match:
+But the pugnacious opener was unable to build on his fine start as he pulled seamer Matt Henry down Elliott's throat at deep square-leg.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+But the pugnacious opener was unable to build on his fine start as he pulled seamer Matt Henry down Elliott's throat at deep square-leg.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_18:
+18 out of 25 sentences
+17 out of 24 paragraphs
+Tagged as a quote
+
+Sentence:
+Smith, who scored a century in the semi-final against India in Sydney last Thursday, continued his good form to help Clarke take charge of the match.
+4 default entities: GPE Smith, GPE India, GPE Sydney, PERSON Clarke
+4 custom entities: PERSON Smith, GPE India, GPE Sydney, PERSON Clarke
+
+Source Sentence and Source Headline Match:
+Smith, who scored a century in the semi-final against India in Sydney last Thursday, continued his good form to help Clarke take charge of the match.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Smith, who scored a century in the semi-final against India in Sydney last Thursday, continued his good form to help Clarke take charge of the match.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Smith, who scored a century in the semi-final against India in Sydney last Thursday, continued his good form to help Clarke take charge of the match.
+Australia beat India in the semifinals, while New Zealand beat South Africa to make its first appearance in the finals.
+1 matches: india
+
+----------------
+
+sent_19:
+19 out of 25 sentences
+18 out of 24 paragraphs
+Tagged as a quote
+
+Sentence:
+Clarke was bowled by Henry when just nine runs remained for victory and was given a standing ovation by team-mates and fans as he returned with his bat raised.
+2 default entities: PERSON Clarke, PERSON Henry
+2 custom entities: PERSON Clarke, PERSON Henry
+
+Source Sentence and Source Headline Match:
+Clarke was bowled by Henry when just nine runs remained for victory and was given a standing ovation by team-mates and fans as he returned with his bat raised.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Clarke was bowled by Henry when just nine runs remained for victory and was given a standing ovation by team-mates and fans as he returned with his bat raised.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+1 matches: victory
+
+Source Sentence and Best Story Sentence Match:
+Clarke was bowled by Henry when just nine runs remained for victory and was given a standing ovation by team-mates and fans as he returned with his bat raised.
+Australia won the Cricket World Cup with a victory over New Zealand.
+1 matches: victory
+
+----------------
+
+sent_20:
+20 out of 25 sentences
+19 out of 24 paragraphs
+Tagged as a quote
+
+Sentence:
+Smith sealed victory by pulling Henry for a boundary, sparking jubilant scenes in the stands as Clarke and the rest of the team ran on to the field to embrace Smith.
+4 default entities: PERSON Smith, PERSON Henry, PERSON Clarke, PERSON Smith
+4 custom entities: PERSON Smith, PERSON Henry, PERSON Clarke, PERSON Smith
+
+Source Sentence and Source Headline Match:
+Smith sealed victory by pulling Henry for a boundary, sparking jubilant scenes in the stands as Clarke and the rest of the team ran on to the field to embrace Smith.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Smith sealed victory by pulling Henry for a boundary, sparking jubilant scenes in the stands as Clarke and the rest of the team ran on to the field to embrace Smith.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+1 matches: victory
+
+Source Sentence and Best Story Sentence Match:
+Smith sealed victory by pulling Henry for a boundary, sparking jubilant scenes in the stands as Clarke and the rest of the team ran on to the field to embrace Smith.
+Australia won the Cricket World Cup with a victory over New Zealand.
+1 matches: victory
+
+----------------
+
+sent_21:
+21 out of 25 sentences
+20 out of 24 paragraphs
+Tagged as a quote
+
+Sentence:
+Starc's two wickets in the innings took his tally to 22, enabling him to emerge with Boult as the joint highest wicket-takers in the tournament.
+2 default entities: PERSON Starc, PERSON Boult
+1 custom entities: PERSON Boult
+
+Source Sentence and Source Headline Match:
+Starc's two wickets in the innings took his tally to 22, enabling him to emerge with Boult as the joint highest wicket-takers in the tournament.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Starc's two wickets in the innings took his tally to 22, enabling him to emerge with Boult as the joint highest wicket-takers in the tournament.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Starc's two wickets in the innings took his tally to 22, enabling him to emerge with Boult as the joint highest wicket-takers in the tournament.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+1 matches: wicket
+
+----------------
+
+sent_22:
+22 out of 25 sentences
+21 out of 24 paragraphs
+Tagged as a quote
+
+Sentence:
+Martin Guptill surpassed Sri Lankan Kumar Sangakkara's 541 runs to become the tournament's leading run-getter when he reached 10, but he managed to add just five runs more.
+3 default entities: PERSON Martin, PERSON Guptill, PERSON Sri Lankan Kumar Sangakkara
+3 custom entities: PERSON Martin, PERSON Guptill, PERSON Sri Lankan Kumar
+
+Source Sentence and Source Headline Match:
+Martin Guptill surpassed Sri Lankan Kumar Sangakkara's 541 runs to become the tournament's leading run-getter when he reached 10, but he managed to add just five runs more.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Martin Guptill surpassed Sri Lankan Kumar Sangakkara's 541 runs to become the tournament's leading run-getter when he reached 10, but he managed to add just five runs more.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_23:
+23 out of 25 sentences
+22 out of 24 paragraphs
+Tagged as a quote
+
+Sentence:
+The tall opener, who hit a World Cup record score of 237 not out against the West Indies in the quarter-finals, was bowled trying to cut Glenn Maxwell's second delivery.
+2 default entities: ORGANIZATION West Indies, PERSON Glenn Maxwell
+2 custom entities: ORGANIZATION West Indies, PERSON Glenn
+
+Source Sentence and Source Headline Match:
+The tall opener, who hit a World Cup record score of 237 not out against the West Indies in the quarter-finals, was bowled trying to cut Glenn Maxwell's second delivery.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+2 matches: cup, world
+
+Source Sentence and Story Headline Match:
+The tall opener, who hit a World Cup record score of 237 not out against the West Indies in the quarter-finals, was bowled trying to cut Glenn Maxwell's second delivery.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+2 matches: cup, world
+
+Source Sentence and Best Story Sentence Match:
+The tall opener, who hit a World Cup record score of 237 not out against the West Indies in the quarter-finals, was bowled trying to cut Glenn Maxwell's second delivery.
+The 2015 ICC Cricket World Cup began Feb. 14 and was hosted by Australia and New Zealand.
+2 matches: cup, world
+
+----------------
+
+sent_24:
+24 out of 25 sentences
+23 out of 24 paragraphs
+Tagged as a quote
+
+Sentence:
+Taylor and Elliott settled in to build a strong partnership and had taken the total to 150-3 when the batting powerplay began after the 35th over.
+2 default entities: GPE Taylor, PERSON Elliott
+2 custom entities: GPE Taylor, PERSON Elliott
+
+Source Sentence and Source Headline Match:
+Taylor and Elliott settled in to build a strong partnership and had taken the total to 150-3 when the batting powerplay began after the 35th over.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Taylor and Elliott settled in to build a strong partnership and had taken the total to 150-3 when the batting powerplay began after the 35th over.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Taylor and Elliott settled in to build a strong partnership and had taken the total to 150-3 when the batting powerplay began after the 35th over.
+The 2015 ICC Cricket World Cup began Feb. 14 and was hosted by Australia and New Zealand.
+1 matches: begin
+
+----------------
+
+sent_25:
+25 out of 25 sentences
+24 out of 24 paragraphs
+Tagged as a quote
+
+Sentence:
+Both sides fielded unchanged teams from their semi-final wins where Australia beat India and New Zealand downed South Africa in a penultimate-ball thriller.
+4 default entities: GPE Australia, GPE India, GPE New Zealand, GPE South Africa
+4 custom entities: GPE Australia, GPE India, GPE New Zealand, GPE South Africa
+
+Source Sentence and Source Headline Match:
+Both sides fielded unchanged teams from their semi-final wins where Australia beat India and New Zealand downed South Africa in a penultimate-ball thriller.
+Clarke's final flourish as Australia win fifth cricket World Cup.
+2 matches: win, australia
+
+Source Sentence and Story Headline Match:
+Both sides fielded unchanged teams from their semi-final wins where Australia beat India and New Zealand downed South Africa in a penultimate-ball thriller.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+4 matches: win, australia, new, zealand
+
+Source Sentence and Best Story Sentence Match:
+Both sides fielded unchanged teams from their semi-final wins where Australia beat India and New Zealand downed South Africa in a penultimate-ball thriller.
+Australia beat India in the semifinals, while New Zealand beat South Africa to make its first appearance in the finals.
+7 matches: africa, new, zealand, beat, south, australia, india
+
+----------------
+

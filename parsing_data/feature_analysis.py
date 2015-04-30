@@ -1,3 +1,4 @@
+#TODO - windows parsing issue with ascii (ansi) encoding. Tested and works on Mac.
 import glob, os
 from sys import stdout
 from nltk.tokenize import sent_tokenize, RegexpTokenizer
@@ -87,6 +88,7 @@ def main_function():
                     print(str(sents), end='')
                     stdout.flush()
                     # figure out if sentence is a quote
+                    #TODO - catch the odd end quotation mark to end next_quote
                     amount_of_quotations = len(quote_tokenizer.tokenize(source_sentence))
                     start_quote = source_sentence[0] == '\u0022' or source_sentence[0] == '\u201C'
                     end_quote = source_sentence[-1] == '\u0022' or source_sentence[-1] == '\u201D'

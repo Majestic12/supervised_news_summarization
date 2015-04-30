@@ -1,0 +1,4051 @@
+sent_1:
+1 out of 151 sentences
+1 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Big screens are nice.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Big screens are nice.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Big screens are nice.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Big screens are nice.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 matches: screen
+
+----------------
+
+sent_2:
+2 out of 151 sentences
+1 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But sometimes the extra real estate isn't worth the lack of portability.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+But sometimes the extra real estate isn't worth the lack of portability.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+But sometimes the extra real estate isn't worth the lack of portability.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_3:
+3 out of 151 sentences
+1 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+If tablets are considered mobile devices, they should be easy to take with you, right?
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+If tablets are considered mobile devices, they should be easy to take with you, right?
+The Best Small Tablet.
+1 matches: tablet
+
+Source Sentence and Story Headline Match:
+If tablets are considered mobile devices, they should be easy to take with you, right?
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+If tablets are considered mobile devices, they should be easy to take with you, right?
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: tablet
+
+----------------
+
+sent_4:
+4 out of 151 sentences
+2 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+That's the idea behind a new class of small tablets with screens measuring roughly 7 inches diagonally.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+That's the idea behind a new class of small tablets with screens measuring roughly 7 inches diagonally.
+The Best Small Tablet.
+2 matches: small, tablet
+
+Source Sentence and Story Headline Match:
+That's the idea behind a new class of small tablets with screens measuring roughly 7 inches diagonally.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, tablet
+
+Source Sentence and Best Story Sentence Match:
+That's the idea behind a new class of small tablets with screens measuring roughly 7 inches diagonally.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+2 matches: small, tablet
+
+----------------
+
+sent_5:
+5 out of 151 sentences
+2 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Over the last six months, some really, really good products have come out in this category.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Over the last six months, some really, really good products have come out in this category.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Over the last six months, some really, really good products have come out in this category.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Over the last six months, some really, really good products have come out in this category.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+1 matches: month
+
+----------------
+
+sent_6:
+6 out of 151 sentences
+2 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In a test of four big ones, we found high notes, low points, and a clear overall winner.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+In a test of four big ones, we found high notes, low points, and a clear overall winner.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+In a test of four big ones, we found high notes, low points, and a clear overall winner.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+In a test of four big ones, we found high notes, low points, and a clear overall winner.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 matches: low, high
+
+----------------
+
+sent_7:
+7 out of 151 sentences
+3 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+We gathered up four of the top small tablets of 2012 and used each of them for weeks.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+We gathered up four of the top small tablets of 2012 and used each of them for weeks.
+The Best Small Tablet.
+2 matches: small, tablet
+
+Source Sentence and Story Headline Match:
+We gathered up four of the top small tablets of 2012 and used each of them for weeks.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+We gathered up four of the top small tablets of 2012 and used each of them for weeks.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+2 matches: small, tablet
+
+----------------
+
+sent_8:
+8 out of 151 sentences
+3 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+We synced up our accounts, then downloaded apps, books, magazines, and movies.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+We synced up our accounts, then downloaded apps, books, magazines, and movies.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+We synced up our accounts, then downloaded apps, books, magazines, and movies.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_9:
+9 out of 151 sentences
+3 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+We used them, basically, as if we owned them.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+We used them, basically, as if we owned them.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+We used them, basically, as if we owned them.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_10:
+10 out of 151 sentences
+4 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+We did our standard battery rundown test: endlessly streaming Nyan Cat over wi-fi, screen on full, volume at half, Bluetooth off.
+2 default entities: PERSON Nyan Cat, PERSON Bluetooth
+1 custom entities: PERSON Nyan Cat
+
+Source Sentence and Source Headline Match:
+We did our standard battery rundown test: endlessly streaming Nyan Cat over wi-fi, screen on full, volume at half, Bluetooth off.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+We did our standard battery rundown test: endlessly streaming Nyan Cat over wi-fi, screen on full, volume at half, Bluetooth off.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+We did our standard battery rundown test: endlessly streaming Nyan Cat over wi-fi, screen on full, volume at half, Bluetooth off.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 matches: screen
+
+----------------
+
+sent_11:
+11 out of 151 sentences
+4 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+We feel strongly that real world battery testing is more important, but the rundown test gives us a more objective metric to factor in.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+We feel strongly that real world battery testing is more important, but the rundown test gives us a more objective metric to factor in.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+We feel strongly that real world battery testing is more important, but the rundown test gives us a more objective metric to factor in.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_12:
+12 out of 151 sentences
+4 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+For each tablet we tested the cheapest, Wi-Fi only option.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+For each tablet we tested the cheapest, Wi-Fi only option.
+The Best Small Tablet.
+1 matches: tablet
+
+Source Sentence and Story Headline Match:
+For each tablet we tested the cheapest, Wi-Fi only option.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+For each tablet we tested the cheapest, Wi-Fi only option.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: tablet
+
+----------------
+
+sent_13:
+13 out of 151 sentences
+5 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nook HD has some nice things going for it on the hardware side.
+1 default entities: ORGANIZATION Nook
+1 custom entities: ORGANIZATION Nook
+
+Source Sentence and Source Headline Match:
+The Nook HD has some nice things going for it on the hardware side.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Nook HD has some nice things going for it on the hardware side.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The Nook HD has some nice things going for it on the hardware side.
+"Advances in computing are driven at the intersection of hardware and software.
+1 matches: hardware
+
+----------------
+
+sent_14:
+14 out of 151 sentences
+5 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Most notably, the seven-inch screen is 1440x900, which nets you 243 pixels per inch, the highest PPI in this category.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Most notably, the seven-inch screen is 1440x900, which nets you 243 pixels per inch, the highest PPI in this category.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Most notably, the seven-inch screen is 1440x900, which nets you 243 pixels per inch, the highest PPI in this category.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Most notably, the seven-inch screen is 1440x900, which nets you 243 pixels per inch, the highest PPI in this category.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 matches: high
+
+----------------
+
+sent_15:
+15 out of 151 sentences
+5 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+As a result, text is extremely sharp and clear.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+As a result, text is extremely sharp and clear.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+As a result, text is extremely sharp and clear.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_16:
+16 out of 151 sentences
+5 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Magazines and graphic novels look terrific on it, as does HD video.
+1 default entities: ORGANIZATION HD
+1 custom entities: ORGANIZATION HD
+
+Source Sentence and Source Headline Match:
+Magazines and graphic novels look terrific on it, as does HD video.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Magazines and graphic novels look terrific on it, as does HD video.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_17:
+17 out of 151 sentences
+5 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It's also the second lightest and second narrowest in this category.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It's also the second lightest and second narrowest in this category.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It's also the second lightest and second narrowest in this category.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_18:
+18 out of 151 sentences
+5 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+That, plus its textured back, make this tablet the easiest to hold in one hand over an extended period.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+That, plus its textured back, make this tablet the easiest to hold in one hand over an extended period.
+The Best Small Tablet.
+1 matches: tablet
+
+Source Sentence and Story Headline Match:
+That, plus its textured back, make this tablet the easiest to hold in one hand over an extended period.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+That, plus its textured back, make this tablet the easiest to hold in one hand over an extended period.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: tablet
+
+----------------
+
+sent_19:
+19 out of 151 sentences
+5 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It's also the only tablet in this category that features a Micro SD card slot for expanding your storage—significant if you're downloading HD movies for a long, internet-less trip.
+2 default entities: ORGANIZATION Micro, ORGANIZATION HD
+1 custom entities: ORGANIZATION Micro
+
+Source Sentence and Source Headline Match:
+It's also the only tablet in this category that features a Micro SD card slot for expanding your storage—significant if you're downloading HD movies for a long, internet-less trip.
+The Best Small Tablet.
+1 matches: tablet
+
+Source Sentence and Story Headline Match:
+It's also the only tablet in this category that features a Micro SD card slot for expanding your storage—significant if you're downloading HD movies for a long, internet-less trip.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+It's also the only tablet in this category that features a Micro SD card slot for expanding your storage—significant if you're downloading HD movies for a long, internet-less trip.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: tablet
+
+----------------
+
+sent_20:
+20 out of 151 sentences
+5 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+You can hook it up to a TV and push video to it, but you'll need an adapter, which is sold separately.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+You can hook it up to a TV and push video to it, but you'll need an adapter, which is sold separately.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+You can hook it up to a TV and push video to it, but you'll need an adapter, which is sold separately.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+You can hook it up to a TV and push video to it, but you'll need an adapter, which is sold separately.
+Rather than creating software in the abstract, we work with hardware partners to build Nexus devices to help push the boundaries of what's possible."
+1 matches: push
+
+----------------
+
+sent_21:
+21 out of 151 sentences
+6 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+On the software side, it runs Android software (version 4.0, a.k.a.
+1 default entities: PERSON Android
+1 custom entities: PERSON Android
+
+Source Sentence and Source Headline Match:
+On the software side, it runs Android software (version 4.0, a.k.a.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+On the software side, it runs Android software (version 4.0, a.k.a.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+On the software side, it runs Android software (version 4.0, a.k.a.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+2 matches: android, version
+
+----------------
+
+sent_22:
+22 out of 151 sentences
+6 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Ice Cream Sandwich), but virtually nothing you see would be recognizable to an Android user.
+1 default entities: PERSON Sandwich
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Ice Cream Sandwich), but virtually nothing you see would be recognizable to an Android user.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Ice Cream Sandwich), but virtually nothing you see would be recognizable to an Android user.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Ice Cream Sandwich), but virtually nothing you see would be recognizable to an Android user.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+1 matches: android
+
+----------------
+
+sent_23:
+23 out of 151 sentences
+6 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+This is a heavily-customized experience, the goal being to focus on Barnes & Noble's sizable library of books, video, magazines and other media.
+2 default entities: PERSON Barnes, PERSON Noble
+1 custom entities: PERSON Barnes
+
+Source Sentence and Source Headline Match:
+This is a heavily-customized experience, the goal being to focus on Barnes & Noble's sizable library of books, video, magazines and other media.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+This is a heavily-customized experience, the goal being to focus on Barnes & Noble's sizable library of books, video, magazines and other media.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+This is a heavily-customized experience, the goal being to focus on Barnes & Noble's sizable library of books, video, magazines and other media.
+Google said it stopped selling the Nexus 5 to focus on the Nexus 6.
+1 matches: focus
+
+----------------
+
+sent_24:
+24 out of 151 sentences
+6 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The experience is somewhere in between the Kindle's UI and Android's, and you can customize desktop spaces with apps, shortcuts, and widgets, which is handy for fast access to frequently used items.
+3 default entities: GPE Kindle, ORGANIZATION UI, PERSON Android
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The experience is somewhere in between the Kindle's UI and Android's, and you can customize desktop spaces with apps, shortcuts, and widgets, which is handy for fast access to frequently used items.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The experience is somewhere in between the Kindle's UI and Android's, and you can customize desktop spaces with apps, shortcuts, and widgets, which is handy for fast access to frequently used items.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The experience is somewhere in between the Kindle's UI and Android's, and you can customize desktop spaces with apps, shortcuts, and widgets, which is handy for fast access to frequently used items.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 matches: fast
+
+----------------
+
+sent_25:
+25 out of 151 sentences
+7 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Downsides start with the thick plastic back, which makes the $200 device feel cheap, and almost toy-like.
+1 default entities: PERSON Downsides
+1 custom entities: PERSON Downsides
+
+Source Sentence and Source Headline Match:
+Downsides start with the thick plastic back, which makes the $200 device feel cheap, and almost toy-like.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Downsides start with the thick plastic back, which makes the $200 device feel cheap, and almost toy-like.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Downsides start with the thick plastic back, which makes the $200 device feel cheap, and almost toy-like.
+That's why we've always introduced Nexus devices alongside our platform releases.
+1 matches: device
+
+----------------
+
+sent_26:
+26 out of 151 sentences
+7 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The screen, while sharp, has a distinct orange tint to it.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The screen, while sharp, has a distinct orange tint to it.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The screen, while sharp, has a distinct orange tint to it.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The screen, while sharp, has a distinct orange tint to it.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 matches: screen
+
+----------------
+
+sent_27:
+27 out of 151 sentences
+7 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The stereo speakers are both on one side, so when you watch a movie in landscape, you feel like you have blockage in one ear.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The stereo speakers are both on one side, so when you watch a movie in landscape, you feel like you have blockage in one ear.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The stereo speakers are both on one side, so when you watch a movie in landscape, you feel like you have blockage in one ear.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_28:
+28 out of 151 sentences
+7 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Audio is quiet and tinny.
+1 default entities: GPE Audio
+1 custom entities: GPE Audio
+
+Source Sentence and Source Headline Match:
+Audio is quiet and tinny.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Audio is quiet and tinny.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_29:
+29 out of 151 sentences
+7 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+No front-facing camera means no way to video-chat.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+No front-facing camera means no way to video-chat.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+No front-facing camera means no way to video-chat.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_30:
+30 out of 151 sentences
+7 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The entry-level Nook HD has only 8GB of built-in storage (it's 16GB for everyone else), but the micro SD slot makes up for it a bit.
+1 default entities: PERSON Nook HD
+1 custom entities: PERSON Nook HD
+
+Source Sentence and Source Headline Match:
+The entry-level Nook HD has only 8GB of built-in storage (it's 16GB for everyone else), but the micro SD slot makes up for it a bit.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The entry-level Nook HD has only 8GB of built-in storage (it's 16GB for everyone else), but the micro SD slot makes up for it a bit.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_31:
+31 out of 151 sentences
+7 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Wi-Fi radio struggled more than the others, and it doesn't have a 3G or 4G option available.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Wi-Fi radio struggled more than the others, and it doesn't have a 3G or 4G option available.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Wi-Fi radio struggled more than the others, and it doesn't have a 3G or 4G option available.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The Wi-Fi radio struggled more than the others, and it doesn't have a 3G or 4G option available.
+The Nexus 7 is no longer available from Google's official online store.
+1 matches: available
+
+----------------
+
+sent_32:
+32 out of 151 sentences
+7 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It fared by far the worst in our battery rundown test, throwing in the towel after 4 hours and 20 minutes of streaming Nyan Cat (not that I blame it).
+1 default entities: PERSON Nyan Cat
+1 custom entities: PERSON Nyan Cat
+
+Source Sentence and Source Headline Match:
+It fared by far the worst in our battery rundown test, throwing in the towel after 4 hours and 20 minutes of streaming Nyan Cat (not that I blame it).
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It fared by far the worst in our battery rundown test, throwing in the towel after 4 hours and 20 minutes of streaming Nyan Cat (not that I blame it).
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+It fared by far the worst in our battery rundown test, throwing in the towel after 4 hours and 20 minutes of streaming Nyan Cat (not that I blame it).
+The Nexus 6 largely resembles the Moto X (2014), Motorola's 5.2-inch smartphone, and is the largest smartphone so far produced by Google.
+1 matches: far
+
+----------------
+
+sent_33:
+33 out of 151 sentences
+7 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+To be fair, battery life seemed decent enough in daily usage, and it had very solid standby time.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+To be fair, battery life seemed decent enough in daily usage, and it had very solid standby time.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+To be fair, battery life seemed decent enough in daily usage, and it had very solid standby time.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_34:
+34 out of 151 sentences
+8 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The more serious issues are on of the software.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The more serious issues are on of the software.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The more serious issues are on of the software.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The more serious issues are on of the software.
+"Advances in computing are driven at the intersection of hardware and software.
+1 matches: software
+
+----------------
+
+sent_35:
+35 out of 151 sentences
+8 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+While it's certainly improved since the original Nook, it still feels cobbled together.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+While it's certainly improved since the original Nook, it still feels cobbled together.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+While it's certainly improved since the original Nook, it still feels cobbled together.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+While it's certainly improved since the original Nook, it still feels cobbled together.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: still
+
+----------------
+
+sent_36:
+36 out of 151 sentences
+8 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+There's a lack of consistency throughout the UI, which requires memorized behaviors, rather than just being intuitive.
+1 default entities: ORGANIZATION UI
+1 custom entities: ORGANIZATION UI
+
+Source Sentence and Source Headline Match:
+There's a lack of consistency throughout the UI, which requires memorized behaviors, rather than just being intuitive.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+There's a lack of consistency throughout the UI, which requires memorized behaviors, rather than just being intuitive.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+There's a lack of consistency throughout the UI, which requires memorized behaviors, rather than just being intuitive.
+Rather than creating software in the abstract, we work with hardware partners to build Nexus devices to help push the boundaries of what's possible."
+1 matches: rather
+
+----------------
+
+sent_37:
+37 out of 151 sentences
+8 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The biggest downside is the comparatively paltry selection of apps.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The biggest downside is the comparatively paltry selection of apps.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The biggest downside is the comparatively paltry selection of apps.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_38:
+38 out of 151 sentences
+8 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Not only are there no Google apps (Gmail, Chrome, Maps, Drive, etc) but the apps from third-party developers are sorely lacking, too.
+4 default entities: PERSON Gmail, PERSON Chrome, PERSON Maps, PERSON Drive
+1 custom entities: PERSON Gmail Chrome Maps Drive
+
+Source Sentence and Source Headline Match:
+Not only are there no Google apps (Gmail, Chrome, Maps, Drive, etc) but the apps from third-party developers are sorely lacking, too.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Not only are there no Google apps (Gmail, Chrome, Maps, Drive, etc) but the apps from third-party developers are sorely lacking, too.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: google
+
+Source Sentence and Best Story Sentence Match:
+Not only are there no Google apps (Gmail, Chrome, Maps, Drive, etc) but the apps from third-party developers are sorely lacking, too.
+"Advances in computing are driven at the intersection of hardware and software.
+1 matches: drive
+
+----------------
+
+sent_39:
+39 out of 151 sentences
+8 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Yeah, you can put widgets on your desktop, but there are hardly any widgets you can download from the Nook's app store.
+2 default entities: GPE Yeah, ORGANIZATION Nook
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Yeah, you can put widgets on your desktop, but there are hardly any widgets you can download from the Nook's app store.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Yeah, you can put widgets on your desktop, but there are hardly any widgets you can download from the Nook's app store.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Yeah, you can put widgets on your desktop, but there are hardly any widgets you can download from the Nook's app store.
+The Nexus 7 is no longer available from Google's official online store.
+1 matches: store
+
+----------------
+
+sent_40:
+40 out of 151 sentences
+8 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Some of the best tablet games aren't available here—but the tablet struggles under heavy loads anyway.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Some of the best tablet games aren't available here—but the tablet struggles under heavy loads anyway.
+The Best Small Tablet.
+2 matches: best, tablet
+
+Source Sentence and Story Headline Match:
+Some of the best tablet games aren't available here—but the tablet struggles under heavy loads anyway.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+Some of the best tablet games aren't available here—but the tablet struggles under heavy loads anyway.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+3 matches: best, tablet, available
+
+----------------
+
+sent_41:
+41 out of 151 sentences
+9 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Despite coming in fourth, it's worth noting that this is still a pretty good tablet.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Despite coming in fourth, it's worth noting that this is still a pretty good tablet.
+The Best Small Tablet.
+1 matches: tablet
+
+Source Sentence and Story Headline Match:
+Despite coming in fourth, it's worth noting that this is still a pretty good tablet.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+Despite coming in fourth, it's worth noting that this is still a pretty good tablet.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+2 matches: tablet, still
+
+----------------
+
+sent_42:
+42 out of 151 sentences
+9 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+If you're already invested in the Barnes & Noble content ecosystem, you'll probably enjoy it.
+1 default entities: ORGANIZATION Barnes
+1 custom entities: ORGANIZATION Barnes Noble
+
+Source Sentence and Source Headline Match:
+If you're already invested in the Barnes & Noble content ecosystem, you'll probably enjoy it.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+If you're already invested in the Barnes & Noble content ecosystem, you'll probably enjoy it.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_43:
+43 out of 151 sentences
+9 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Everyone else, keep reading.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Everyone else, keep reading.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Everyone else, keep reading.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_44:
+44 out of 151 sentences
+10 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+This generation of Kindle's improvements start with the hardware.
+1 default entities: GPE Kindle
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+This generation of Kindle's improvements start with the hardware.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+This generation of Kindle's improvements start with the hardware.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+This generation of Kindle's improvements start with the hardware.
+"Advances in computing are driven at the intersection of hardware and software.
+1 matches: hardware
+
+----------------
+
+sent_45:
+45 out of 151 sentences
+10 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The bright, seven-inch screen with 216 PPI is sharp enough for reading and viewing HD content.
+2 default entities: ORGANIZATION PPI, ORGANIZATION HD
+2 custom entities: ORGANIZATION PPI, ORGANIZATION HD
+
+Source Sentence and Source Headline Match:
+The bright, seven-inch screen with 216 PPI is sharp enough for reading and viewing HD content.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The bright, seven-inch screen with 216 PPI is sharp enough for reading and viewing HD content.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The bright, seven-inch screen with 216 PPI is sharp enough for reading and viewing HD content.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 matches: screen
+
+----------------
+
+sent_46:
+46 out of 151 sentences
+10 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Everything looks really good on it.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Everything looks really good on it.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Everything looks really good on it.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_47:
+47 out of 151 sentences
+10 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The stereo speakers are hands-down the best in the category.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The stereo speakers are hands-down the best in the category.
+The Best Small Tablet.
+1 matches: best
+
+Source Sentence and Story Headline Match:
+The stereo speakers are hands-down the best in the category.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The stereo speakers are hands-down the best in the category.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 matches: best
+
+----------------
+
+sent_48:
+48 out of 151 sentences
+10 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It feels very solidly built—thin, and with attention to detail.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It feels very solidly built—thin, and with attention to detail.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It feels very solidly built—thin, and with attention to detail.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_49:
+49 out of 151 sentences
+10 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It uses MIMO for strong Wi-Fi even as you move away from your router.
+1 default entities: ORGANIZATION MIMO
+1 custom entities: ORGANIZATION MIMO
+
+Source Sentence and Source Headline Match:
+It uses MIMO for strong Wi-Fi even as you move away from your router.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It uses MIMO for strong Wi-Fi even as you move away from your router.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_50:
+50 out of 151 sentences
+10 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A handy micro HDMI port connects the Fire to a TV to stream HD movies directly.
+3 default entities: ORGANIZATION HDMI, ORGANIZATION Fire, ORGANIZATION HD
+3 custom entities: ORGANIZATION HDMI, ORGANIZATION Fire, ORGANIZATION HD
+
+Source Sentence and Source Headline Match:
+A handy micro HDMI port connects the Fire to a TV to stream HD movies directly.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+A handy micro HDMI port connects the Fire to a TV to stream HD movies directly.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_51:
+51 out of 151 sentences
+10 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In our battery rundown test, it endured a full seven hours nyan cat to take second place.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+In our battery rundown test, it endured a full seven hours nyan cat to take second place.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+In our battery rundown test, it endured a full seven hours nyan cat to take second place.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_52:
+52 out of 151 sentences
+11 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Like the Nook, the Fire HD runs version of Android that's really just a face for Amazon's gigantic content library.
+4 default entities: ORGANIZATION Nook, ORGANIZATION Fire, PERSON Android, PERSON Amazon
+2 custom entities: ORGANIZATION Fire, PERSON Android
+
+Source Sentence and Source Headline Match:
+Like the Nook, the Fire HD runs version of Android that's really just a face for Amazon's gigantic content library.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Like the Nook, the Fire HD runs version of Android that's really just a face for Amazon's gigantic content library.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Like the Nook, the Fire HD runs version of Android that's really just a face for Amazon's gigantic content library.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+2 matches: android, version
+
+----------------
+
+sent_53:
+53 out of 151 sentences
+11 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Amazon's app store is more robust than Barnes & Noble's (though weak compared to iOS and Android).
+5 default entities: GPE Amazon, PERSON Barnes, PERSON Noble, ORGANIZATION iOS, PERSON Android
+3 custom entities: PERSON Barnes, ORGANIZATION iOS, PERSON Android
+
+Source Sentence and Source Headline Match:
+Amazon's app store is more robust than Barnes & Noble's (though weak compared to iOS and Android).
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Amazon's app store is more robust than Barnes & Noble's (though weak compared to iOS and Android).
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Amazon's app store is more robust than Barnes & Noble's (though weak compared to iOS and Android).
+The Nexus 7 is no longer available from Google's official online store.
+1 matches: store
+
+----------------
+
+sent_54:
+54 out of 151 sentences
+11 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Kindle's big, important advantage is Amazon Prime.
+2 default entities: GPE Kindle, PERSON Amazon Prime
+1 custom entities: PERSON Amazon Prime
+
+Source Sentence and Source Headline Match:
+The Kindle's big, important advantage is Amazon Prime.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Kindle's big, important advantage is Amazon Prime.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The Kindle's big, important advantage is Amazon Prime.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: amazon
+
+----------------
+
+sent_55:
+55 out of 151 sentences
+11 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Beyond free two-day shipping on Amazon orders, Prime members get thousands of free movies, TV shows, and books.
+2 default entities: GPE Beyond, GPE Amazon
+2 custom entities: GPE Beyond, GPE Amazon
+
+Source Sentence and Source Headline Match:
+Beyond free two-day shipping on Amazon orders, Prime members get thousands of free movies, TV shows, and books.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Beyond free two-day shipping on Amazon orders, Prime members get thousands of free movies, TV shows, and books.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Beyond free two-day shipping on Amazon orders, Prime members get thousands of free movies, TV shows, and books.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: amazon
+
+----------------
+
+sent_56:
+56 out of 151 sentences
+11 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Prime stuff may not be the widest selection, but it's a very sweet deal.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Prime stuff may not be the widest selection, but it's a very sweet deal.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Prime stuff may not be the widest selection, but it's a very sweet deal.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_57:
+57 out of 151 sentences
+11 out of 29 paragraphs
+Tagged as a quote
+
+Sentence:
+Beyond content, some good software features include "Immersive Reading," in which an audiobook plays while highlighting the text on-screen as it's read.
+1 default entities: PERSON Beyond
+2 custom entities: PERSON Beyond, PERSON Immersive Reading
+
+Source Sentence and Source Headline Match:
+Beyond content, some good software features include "Immersive Reading," in which an audiobook plays while highlighting the text on-screen as it's read.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Beyond content, some good software features include "Immersive Reading," in which an audiobook plays while highlighting the text on-screen as it's read.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Beyond content, some good software features include "Immersive Reading," in which an audiobook plays while highlighting the text on-screen as it's read.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: include
+
+----------------
+
+sent_58:
+58 out of 151 sentences
+12 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The solid build is at the beginning of the Fire HD's drawbacks, though—it's the heaviest, widest, least portable, and least comfortable to hold.
+1 default entities: ORGANIZATION Fire
+1 custom entities: ORGANIZATION Fire
+
+Source Sentence and Source Headline Match:
+The solid build is at the beginning of the Fire HD's drawbacks, though—it's the heaviest, widest, least portable, and least comfortable to hold.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The solid build is at the beginning of the Fire HD's drawbacks, though—it's the heaviest, widest, least portable, and least comfortable to hold.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The solid build is at the beginning of the Fire HD's drawbacks, though—it's the heaviest, widest, least portable, and least comfortable to hold.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 matches: build
+
+----------------
+
+sent_59:
+59 out of 151 sentences
+12 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Fire's bezel is comically, ridiculously gigantic wasted space.
+1 default entities: ORGANIZATION Fire
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Fire's bezel is comically, ridiculously gigantic wasted space.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Fire's bezel is comically, ridiculously gigantic wasted space.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_60:
+60 out of 151 sentences
+12 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+You won't find a jacket pocket that it can fit into, which is mandatory for tablets in this category.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+You won't find a jacket pocket that it can fit into, which is mandatory for tablets in this category.
+The Best Small Tablet.
+1 matches: tablet
+
+Source Sentence and Story Headline Match:
+You won't find a jacket pocket that it can fit into, which is mandatory for tablets in this category.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+You won't find a jacket pocket that it can fit into, which is mandatory for tablets in this category.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: tablet
+
+----------------
+
+sent_61:
+61 out of 151 sentences
+12 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The buttons are so flush with the body that you really have to fumble around (or, God forbid, use your eyes) to turn the screen on/off or the adjust the volume.
+1 default entities: PERSON God
+1 custom entities: PERSON God
+
+Source Sentence and Source Headline Match:
+The buttons are so flush with the body that you really have to fumble around (or, God forbid, use your eyes) to turn the screen on/off or the adjust the volume.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The buttons are so flush with the body that you really have to fumble around (or, God forbid, use your eyes) to turn the screen on/off or the adjust the volume.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The buttons are so flush with the body that you really have to fumble around (or, God forbid, use your eyes) to turn the screen on/off or the adjust the volume.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 matches: screen
+
+----------------
+
+sent_62:
+62 out of 151 sentences
+12 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+There were performance lags throughout testing, and moving around just feels sluggish.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+There were performance lags throughout testing, and moving around just feels sluggish.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+There were performance lags throughout testing, and moving around just feels sluggish.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_63:
+63 out of 151 sentences
+12 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Fire HD does not have a cellular version or expandable storage.
+1 default entities: ORGANIZATION Fire
+1 custom entities: ORGANIZATION Fire
+
+Source Sentence and Source Headline Match:
+The Fire HD does not have a cellular version or expandable storage.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Fire HD does not have a cellular version or expandable storage.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The Fire HD does not have a cellular version or expandable storage.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+1 matches: version
+
+----------------
+
+sent_64:
+64 out of 151 sentences
+13 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The worst offender, though is the software.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The worst offender, though is the software.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The worst offender, though is the software.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The worst offender, though is the software.
+"Advances in computing are driven at the intersection of hardware and software.
+1 matches: software
+
+----------------
+
+sent_65:
+65 out of 151 sentences
+13 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It's good for media consumption, but whenever I needed to get something done, I found the Kindle (and Nook) extremely frustrating.
+2 default entities: GPE Kindle, PERSON Nook
+2 custom entities: GPE Kindle, PERSON Nook
+
+Source Sentence and Source Headline Match:
+It's good for media consumption, but whenever I needed to get something done, I found the Kindle (and Nook) extremely frustrating.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It's good for media consumption, but whenever I needed to get something done, I found the Kindle (and Nook) extremely frustrating.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_66:
+66 out of 151 sentences
+13 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Kyle aptly described the Kindle's software as more more like a backpack than a desktop—as you put more stuff in, it gets harder to find what you're looking for.
+2 default entities: GPE Kyle, GPE Kindle
+1 custom entities: GPE Kyle
+
+Source Sentence and Source Headline Match:
+Kyle aptly described the Kindle's software as more more like a backpack than a desktop—as you put more stuff in, it gets harder to find what you're looking for.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Kyle aptly described the Kindle's software as more more like a backpack than a desktop—as you put more stuff in, it gets harder to find what you're looking for.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Kyle aptly described the Kindle's software as more more like a backpack than a desktop—as you put more stuff in, it gets harder to find what you're looking for.
+"Advances in computing are driven at the intersection of hardware and software.
+1 matches: software
+
+----------------
+
+sent_67:
+67 out of 151 sentences
+13 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Amazon did a good job of making things look good, but just because it looks good doesn't mean it is good.
+1 default entities: PERSON Amazon
+1 custom entities: PERSON Amazon
+
+Source Sentence and Source Headline Match:
+Amazon did a good job of making things look good, but just because it looks good doesn't mean it is good.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Amazon did a good job of making things look good, but just because it looks good doesn't mean it is good.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Amazon did a good job of making things look good, but just because it looks good doesn't mean it is good.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: amazon
+
+----------------
+
+sent_68:
+68 out of 151 sentences
+13 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It can't even multitask.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It can't even multitask.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It can't even multitask.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_69:
+69 out of 151 sentences
+14 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Amazon (and Barnes & Noble) ostensibly want to simplify Android, using a customized interface that's good-looking, but cumbersome, and wildly inconsistent.
+4 default entities: GPE Amazon, PERSON Barnes, PERSON Noble, PERSON Android
+3 custom entities: GPE Amazon, PERSON Barnes Noble, PERSON Android
+
+Source Sentence and Source Headline Match:
+Amazon (and Barnes & Noble) ostensibly want to simplify Android, using a customized interface that's good-looking, but cumbersome, and wildly inconsistent.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Amazon (and Barnes & Noble) ostensibly want to simplify Android, using a customized interface that's good-looking, but cumbersome, and wildly inconsistent.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Amazon (and Barnes & Noble) ostensibly want to simplify Android, using a customized interface that's good-looking, but cumbersome, and wildly inconsistent.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: amazon
+
+----------------
+
+sent_70:
+70 out of 151 sentences
+14 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Basic Android 4.0 (Ice Cream Sandwich) is actually a lot more easy to navigate.
+3 default entities: PERSON Basic, ORGANIZATION Android, PERSON Sandwich
+3 custom entities: PERSON Basic, ORGANIZATION Android, PERSON Sandwich
+
+Source Sentence and Source Headline Match:
+Basic Android 4.0 (Ice Cream Sandwich) is actually a lot more easy to navigate.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Basic Android 4.0 (Ice Cream Sandwich) is actually a lot more easy to navigate.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Basic Android 4.0 (Ice Cream Sandwich) is actually a lot more easy to navigate.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+1 matches: android
+
+----------------
+
+sent_71:
+71 out of 151 sentences
+14 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Both of these first two tablets would have been a lot better if they just ran straight-up Android and added gigantic widgets to promote their content.
+1 default entities: PERSON Android
+1 custom entities: PERSON Android
+
+Source Sentence and Source Headline Match:
+Both of these first two tablets would have been a lot better if they just ran straight-up Android and added gigantic widgets to promote their content.
+The Best Small Tablet.
+1 matches: tablet
+
+Source Sentence and Story Headline Match:
+Both of these first two tablets would have been a lot better if they just ran straight-up Android and added gigantic widgets to promote their content.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+Both of these first two tablets would have been a lot better if they just ran straight-up Android and added gigantic widgets to promote their content.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+2 matches: tablet, first
+
+----------------
+
+sent_72:
+72 out of 151 sentences
+14 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+(Note: People do root and install custom software on the Kindle and Nook for just this reason, but you have to know what you're doing).
+3 default entities: PERSON Note, GPE Kindle, PERSON Nook
+2 custom entities: GPE Kindle, PERSON Nook
+
+Source Sentence and Source Headline Match:
+(Note: People do root and install custom software on the Kindle and Nook for just this reason, but you have to know what you're doing).
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+(Note: People do root and install custom software on the Kindle and Nook for just this reason, but you have to know what you're doing).
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+(Note: People do root and install custom software on the Kindle and Nook for just this reason, but you have to know what you're doing).
+"Advances in computing are driven at the intersection of hardware and software.
+1 matches: software
+
+----------------
+
+sent_73:
+73 out of 151 sentences
+15 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+That said, if you just want a tablet for watching movies and reading, and you don't mind the extra bulk, this is your pick.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+That said, if you just want a tablet for watching movies and reading, and you don't mind the extra bulk, this is your pick.
+The Best Small Tablet.
+1 matches: tablet
+
+Source Sentence and Story Headline Match:
+That said, if you just want a tablet for watching movies and reading, and you don't mind the extra bulk, this is your pick.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+That said, if you just want a tablet for watching movies and reading, and you don't mind the extra bulk, this is your pick.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: tablet
+
+----------------
+
+sent_74:
+74 out of 151 sentences
+15 out of 29 paragraphs
+Tagged as a quote
+
+Sentence:
+It feels more like a $200 "media displayer" than a real tablet.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It feels more like a $200 "media displayer" than a real tablet.
+The Best Small Tablet.
+1 matches: tablet
+
+Source Sentence and Story Headline Match:
+It feels more like a $200 "media displayer" than a real tablet.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+It feels more like a $200 "media displayer" than a real tablet.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: tablet
+
+----------------
+
+sent_75:
+75 out of 151 sentences
+15 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But for the money, it's a really, really good media displayer.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+But for the money, it's a really, really good media displayer.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+But for the money, it's a really, really good media displayer.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_76:
+76 out of 151 sentences
+16 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+From a manufacturing and design standpoint, the iPad mini is exquisite.
+1 default entities: ORGANIZATION iPad
+1 custom entities: ORGANIZATION iPad
+
+Source Sentence and Source Headline Match:
+From a manufacturing and design standpoint, the iPad mini is exquisite.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+From a manufacturing and design standpoint, the iPad mini is exquisite.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_77:
+77 out of 151 sentences
+16 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It's the lightest and thinnest of the group, and it looks and feels like it's a generation ahead of the others (it isn't).
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It's the lightest and thinnest of the group, and it looks and feels like it's a generation ahead of the others (it isn't).
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It's the lightest and thinnest of the group, and it looks and feels like it's a generation ahead of the others (it isn't).
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_78:
+78 out of 151 sentences
+16 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The screen is the brightest of the group, and it's the only one with a 4:3 ratio.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The screen is the brightest of the group, and it's the only one with a 4:3 ratio.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The screen is the brightest of the group, and it's the only one with a 4:3 ratio.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The screen is the brightest of the group, and it's the only one with a 4:3 ratio.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 matches: screen
+
+----------------
+
+sent_79:
+79 out of 151 sentences
+16 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Speakers are the second-best behind the Fire HD.
+1 default entities: ORGANIZATION Fire
+1 custom entities: ORGANIZATION Fire
+
+Source Sentence and Source Headline Match:
+Speakers are the second-best behind the Fire HD.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Speakers are the second-best behind the Fire HD.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_80:
+80 out of 151 sentences
+16 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+With basically has the same guts as the iPad 2, it's roughly as quick and responsive.
+1 default entities: ORGANIZATION iPad
+1 custom entities: ORGANIZATION iPad
+
+Source Sentence and Source Headline Match:
+With basically has the same guts as the iPad 2, it's roughly as quick and responsive.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+With basically has the same guts as the iPad 2, it's roughly as quick and responsive.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_81:
+81 out of 151 sentences
+16 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Wi-Fi radio performance is solid, and if you pay more for a cellular radio (and a data plan), you can run that at LTE speeds.
+1 default entities: ORGANIZATION LTE
+1 custom entities: ORGANIZATION LTE
+
+Source Sentence and Source Headline Match:
+The Wi-Fi radio performance is solid, and if you pay more for a cellular radio (and a data plan), you can run that at LTE speeds.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Wi-Fi radio performance is solid, and if you pay more for a cellular radio (and a data plan), you can run that at LTE speeds.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_82:
+82 out of 151 sentences
+16 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Also, did I mention it's good looking?
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Also, did I mention it's good looking?
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Also, did I mention it's good looking?
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_83:
+83 out of 151 sentences
+17 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The mini runs iOS 6, and its stark minimalism and gesture-based shortcuts are familiar to anyone with an iPhone or iPad.
+2 default entities: ORGANIZATION iOS, ORGANIZATION iPad
+2 custom entities: ORGANIZATION iOS, ORGANIZATION iPad
+
+Source Sentence and Source Headline Match:
+The mini runs iOS 6, and its stark minimalism and gesture-based shortcuts are familiar to anyone with an iPhone or iPad.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The mini runs iOS 6, and its stark minimalism and gesture-based shortcuts are familiar to anyone with an iPhone or iPad.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The mini runs iOS 6, and its stark minimalism and gesture-based shortcuts are familiar to anyone with an iPhone or iPad.
+Google in Oct. 2014 announced the Nexus 9 and Nexus 6 smartphone.
+1 matches: 6
+
+----------------
+
+sent_84:
+84 out of 151 sentences
+17 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The device is a giant folder for apps, and iOS is unequaled in that arena, with more tablet-optimized apps than any other mobile OS.
+1 default entities: ORGANIZATION iOS
+1 custom entities: ORGANIZATION iOS
+
+Source Sentence and Source Headline Match:
+The device is a giant folder for apps, and iOS is unequaled in that arena, with more tablet-optimized apps than any other mobile OS.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The device is a giant folder for apps, and iOS is unequaled in that arena, with more tablet-optimized apps than any other mobile OS.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The device is a giant folder for apps, and iOS is unequaled in that arena, with more tablet-optimized apps than any other mobile OS.
+That's why we've always introduced Nexus devices alongside our platform releases.
+1 matches: device
+
+----------------
+
+sent_85:
+85 out of 151 sentences
+17 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Android has more apps, total, and they stretch for tablets, but the iOS apps are generally of a higher quality.
+2 default entities: PERSON Android, ORGANIZATION iOS
+2 custom entities: PERSON Android, ORGANIZATION iOS
+
+Source Sentence and Source Headline Match:
+Android has more apps, total, and they stretch for tablets, but the iOS apps are generally of a higher quality.
+The Best Small Tablet.
+1 matches: tablet
+
+Source Sentence and Story Headline Match:
+Android has more apps, total, and they stretch for tablets, but the iOS apps are generally of a higher quality.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+Android has more apps, total, and they stretch for tablets, but the iOS apps are generally of a higher quality.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 matches: quality, high
+
+----------------
+
+sent_86:
+86 out of 151 sentences
+17 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Because of Apple's comparatively tight regulations for developers, the UI feels more cohesive across applications.
+2 default entities: GPE Apple, ORGANIZATION UI
+1 custom entities: ORGANIZATION UI
+
+Source Sentence and Source Headline Match:
+Because of Apple's comparatively tight regulations for developers, the UI feels more cohesive across applications.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Because of Apple's comparatively tight regulations for developers, the UI feels more cohesive across applications.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_87:
+87 out of 151 sentences
+17 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Apple also has a ton of content to choose from—music, movies, books, and magazines—though prices are typically higher than they are in the other ecosystems.
+1 default entities: PERSON Apple
+1 custom entities: PERSON Apple
+
+Source Sentence and Source Headline Match:
+Apple also has a ton of content to choose from—music, movies, books, and magazines—though prices are typically higher than they are in the other ecosystems.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Apple also has a ton of content to choose from—music, movies, books, and magazines—though prices are typically higher than they are in the other ecosystems.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Apple also has a ton of content to choose from—music, movies, books, and magazines—though prices are typically higher than they are in the other ecosystems.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 matches: price, high
+
+----------------
+
+sent_88:
+88 out of 151 sentences
+18 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+What holds it back is the hardware.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+What holds it back is the hardware.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+What holds it back is the hardware.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+What holds it back is the hardware.
+"Advances in computing are driven at the intersection of hardware and software.
+1 matches: hardware
+
+----------------
+
+sent_89:
+89 out of 151 sentences
+18 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The brightest screen in the test has easily the worst resolution, with measly 163 pixels per inch, versus 216 PPI on the Kindle Fire HD and Nexus 7.
+1 default entities: ORGANIZATION Kindle Fire
+1 custom entities: ORGANIZATION Kindle Fire
+
+Source Sentence and Source Headline Match:
+The brightest screen in the test has easily the worst resolution, with measly 163 pixels per inch, versus 216 PPI on the Kindle Fire HD and Nexus 7.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The brightest screen in the test has easily the worst resolution, with measly 163 pixels per inch, versus 216 PPI on the Kindle Fire HD and Nexus 7.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The brightest screen in the test has easily the worst resolution, with measly 163 pixels per inch, versus 216 PPI on the Kindle Fire HD and Nexus 7.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+3 matches: 7, screen, nexus
+
+----------------
+
+sent_90:
+90 out of 151 sentences
+18 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+You can see with the naked eye, especially when reading.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+You can see with the naked eye, especially when reading.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+You can see with the naked eye, especially when reading.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_91:
+91 out of 151 sentences
+18 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It's obnoxiously reflective, and, in general, a big disappointment.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It's obnoxiously reflective, and, in general, a big disappointment.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It's obnoxiously reflective, and, in general, a big disappointment.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_92:
+92 out of 151 sentences
+19 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The 4:3 ratio is nice for web browsing, it is awful for watching movies.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The 4:3 ratio is nice for web browsing, it is awful for watching movies.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The 4:3 ratio is nice for web browsing, it is awful for watching movies.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_93:
+93 out of 151 sentences
+19 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Gigantic black letterbox bars take up almost as much of the screen as the picture.
+1 default entities: GPE Gigantic
+1 custom entities: GPE Gigantic
+
+Source Sentence and Source Headline Match:
+Gigantic black letterbox bars take up almost as much of the screen as the picture.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Gigantic black letterbox bars take up almost as much of the screen as the picture.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Gigantic black letterbox bars take up almost as much of the screen as the picture.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 matches: screen, picture
+
+----------------
+
+sent_94:
+94 out of 151 sentences
+19 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It's also just too big.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It's also just too big.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It's also just too big.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_95:
+95 out of 151 sentences
+19 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The width plus thinness meant I never got comfortable one-handing it.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The width plus thinness meant I never got comfortable one-handing it.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The width plus thinness meant I never got comfortable one-handing it.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_96:
+96 out of 151 sentences
+19 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+I always felt like it would slip and fall (and I have reasonably big hands).
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+I always felt like it would slip and fall (and I have reasonably big hands).
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+I always felt like it would slip and fall (and I have reasonably big hands).
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+I always felt like it would slip and fall (and I have reasonably big hands).
+That's why we've always introduced Nexus devices alongside our platform releases.
+1 matches: always
+
+----------------
+
+sent_97:
+97 out of 151 sentences
+19 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Good luck skipping it into a coat pocket.
+1 default entities: PERSON Good
+1 custom entities: PERSON Good
+
+Source Sentence and Source Headline Match:
+Good luck skipping it into a coat pocket.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Good luck skipping it into a coat pocket.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_98:
+98 out of 151 sentences
+19 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+On battery life, the iPad mini was second-worst in the test, coming in at 6 hours 35 minutes.
+1 default entities: ORGANIZATION iPad
+1 custom entities: ORGANIZATION iPad
+
+Source Sentence and Source Headline Match:
+On battery life, the iPad mini was second-worst in the test, coming in at 6 hours 35 minutes.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+On battery life, the iPad mini was second-worst in the test, coming in at 6 hours 35 minutes.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+On battery life, the iPad mini was second-worst in the test, coming in at 6 hours 35 minutes.
+Google in Oct. 2014 announced the Nexus 9 and Nexus 6 smartphone.
+1 matches: 6
+
+----------------
+
+sent_99:
+99 out of 151 sentences
+20 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Then there's the software.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Then there's the software.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Then there's the software.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Then there's the software.
+"Advances in computing are driven at the intersection of hardware and software.
+1 matches: software
+
+----------------
+
+sent_100:
+100 out of 151 sentences
+20 out of 29 paragraphs
+Tagged as a quote
+
+Sentence:
+It seems like Apple said, "Eh, we'll just shrink the iPad, but keep the ratios the same, and all the iPad optimized apps should work just fine."
+3 default entities: PERSON Apple, ORGANIZATION iPad, ORGANIZATION iPad
+4 custom entities: PERSON Apple, PERSON Eh, ORGANIZATION iPad, ORGANIZATION iPad
+
+Source Sentence and Source Headline Match:
+It seems like Apple said, "Eh, we'll just shrink the iPad, but keep the ratios the same, and all the iPad optimized apps should work just fine."
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It seems like Apple said, "Eh, we'll just shrink the iPad, but keep the ratios the same, and all the iPad optimized apps should work just fine."
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+It seems like Apple said, "Eh, we'll just shrink the iPad, but keep the ratios the same, and all the iPad optimized apps should work just fine."
+Rather than creating software in the abstract, we work with hardware partners to build Nexus devices to help push the boundaries of what's possible."
+1 matches: work
+
+----------------
+
+sent_101:
+101 out of 151 sentences
+20 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Holy crap, they do not.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Holy crap, they do not.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Holy crap, they do not.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_102:
+102 out of 151 sentences
+20 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+As Brian Barrett said in his review, "If you have iPad magazine subscriptions, you should cancel them before you squint yourself to death trying to read the tiny, non-adjustable typefaces here.
+3 default entities: GPE Brian, PERSON Barrett, ORGANIZATION iPad
+3 custom entities: GPE Brian, PERSON Barrett, ORGANIZATION iPad
+
+Source Sentence and Source Headline Match:
+As Brian Barrett said in his review, "If you have iPad magazine subscriptions, you should cancel them before you squint yourself to death trying to read the tiny, non-adjustable typefaces here.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+As Brian Barrett said in his review, "If you have iPad magazine subscriptions, you should cancel them before you squint yourself to death trying to read the tiny, non-adjustable typefaces here.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+As Brian Barrett said in his review, "If you have iPad magazine subscriptions, you should cancel them before you squint yourself to death trying to read the tiny, non-adjustable typefaces here.
+Google said it stopped selling the Nexus 5 to focus on the Nexus 6.
+1 matches: say
+
+----------------
+
+sent_103:
+103 out of 151 sentences
+20 out of 29 paragraphs
+Tagged as a quote
+
+Sentence:
+Ditto comic books."
+1 default entities: GPE Ditto
+1 custom entities: GPE Ditto
+
+Source Sentence and Source Headline Match:
+Ditto comic books."
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Ditto comic books."
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_104:
+104 out of 151 sentences
+20 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Also, the buttons in the iPad apps have shrunk too, leading you to tap and tap until your touch finally registers.
+1 default entities: ORGANIZATION iPad
+1 custom entities: ORGANIZATION iPad
+
+Source Sentence and Source Headline Match:
+Also, the buttons in the iPad apps have shrunk too, leading you to tap and tap until your touch finally registers.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Also, the buttons in the iPad apps have shrunk too, leading you to tap and tap until your touch finally registers.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_105:
+105 out of 151 sentences
+20 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Same with the keyboard.
+1 default entities: GPE Same
+1 custom entities: GPE Same
+
+Source Sentence and Source Headline Match:
+Same with the keyboard.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Same with the keyboard.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_106:
+106 out of 151 sentences
+20 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It's infuriating.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It's infuriating.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It's infuriating.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_107:
+107 out of 151 sentences
+21 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+There are a lot of websites that the Mobile Safari browser doesn't play very nicely with.
+1 default entities: ORGANIZATION Mobile Safari
+1 custom entities: ORGANIZATION Mobile Safari
+
+Source Sentence and Source Headline Match:
+There are a lot of websites that the Mobile Safari browser doesn't play very nicely with.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+There are a lot of websites that the Mobile Safari browser doesn't play very nicely with.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_108:
+108 out of 151 sentences
+21 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Settings generally take more clicks to get to, apps easily get lost in the homogenous-looking home screen, and there isn't much in the way of customization—if you don't like the way that Apple has decided something should be, you're stuck with it more often than not.
+1 default entities: PERSON Apple
+1 custom entities: PERSON Apple
+
+Source Sentence and Source Headline Match:
+Settings generally take more clicks to get to, apps easily get lost in the homogenous-looking home screen, and there isn't much in the way of customization—if you don't like the way that Apple has decided something should be, you're stuck with it more often than not.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Settings generally take more clicks to get to, apps easily get lost in the homogenous-looking home screen, and there isn't much in the way of customization—if you don't like the way that Apple has decided something should be, you're stuck with it more often than not.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Settings generally take more clicks to get to, apps easily get lost in the homogenous-looking home screen, and there isn't much in the way of customization—if you don't like the way that Apple has decided something should be, you're stuck with it more often than not.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 matches: screen
+
+----------------
+
+sent_109:
+109 out of 151 sentences
+22 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+All that, and it costs $130 more than the other three.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+All that, and it costs $130 more than the other three.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+All that, and it costs $130 more than the other three.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_110:
+110 out of 151 sentences
+22 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But if you already have an iPhone, and you love it, the iPad mini will probably make you happy, eventually.
+2 default entities: ORGANIZATION iPhone, ORGANIZATION iPad
+2 custom entities: ORGANIZATION iPhone, ORGANIZATION iPad
+
+Source Sentence and Source Headline Match:
+But if you already have an iPhone, and you love it, the iPad mini will probably make you happy, eventually.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+But if you already have an iPhone, and you love it, the iPad mini will probably make you happy, eventually.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_111:
+111 out of 151 sentences
+22 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But I'd wait at least until Apple optimizes its core apps for the smaller screen.
+1 default entities: PERSON Apple
+1 custom entities: PERSON Apple
+
+Source Sentence and Source Headline Match:
+But I'd wait at least until Apple optimizes its core apps for the smaller screen.
+The Best Small Tablet.
+1 matches: small
+
+Source Sentence and Story Headline Match:
+But I'd wait at least until Apple optimizes its core apps for the smaller screen.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+But I'd wait at least until Apple optimizes its core apps for the smaller screen.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 matches: small
+
+----------------
+
+sent_112:
+112 out of 151 sentences
+22 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+We were torn between putting this in second or third place, but it beat out the Kindle by simply being able to do more, and by being able to do it faster.
+1 default entities: GPE Kindle
+1 custom entities: GPE Kindle
+
+Source Sentence and Source Headline Match:
+We were torn between putting this in second or third place, but it beat out the Kindle by simply being able to do more, and by being able to do it faster.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+We were torn between putting this in second or third place, but it beat out the Kindle by simply being able to do more, and by being able to do it faster.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+We were torn between putting this in second or third place, but it beat out the Kindle by simply being able to do more, and by being able to do it faster.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 matches: fast
+
+----------------
+
+sent_113:
+113 out of 151 sentences
+23 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 7 has an understated look.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Nexus 7 has an understated look.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Nexus 7 has an understated look.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 7 has an understated look.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 matches: 7, nexus
+
+----------------
+
+sent_114:
+114 out of 151 sentences
+23 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The bezels on the long sides are extremely thin, making it the narrowest of the small tablets.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The bezels on the long sides are extremely thin, making it the narrowest of the small tablets.
+The Best Small Tablet.
+2 matches: small, tablet
+
+Source Sentence and Story Headline Match:
+The bezels on the long sides are extremely thin, making it the narrowest of the small tablets.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+The bezels on the long sides are extremely thin, making it the narrowest of the small tablets.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+2 matches: small, tablet
+
+----------------
+
+sent_115:
+115 out of 151 sentences
+23 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It fits into the pockets of most jackets (and jeans, not that I'd recommend keeping it there).
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It fits into the pockets of most jackets (and jeans, not that I'd recommend keeping it there).
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It fits into the pockets of most jackets (and jeans, not that I'd recommend keeping it there).
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_116:
+116 out of 151 sentences
+23 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The most portable, it's also the second-heaviest, but the evenly distributed weight makes holding it in one hand a nice experience.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The most portable, it's also the second-heaviest, but the evenly distributed weight makes holding it in one hand a nice experience.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The most portable, it's also the second-heaviest, but the evenly distributed weight makes holding it in one hand a nice experience.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_117:
+117 out of 151 sentences
+23 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The seven-inch 216 PPI screen is very good.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The seven-inch 216 PPI screen is very good.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The seven-inch 216 PPI screen is very good.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The seven-inch 216 PPI screen is very good.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 matches: screen
+
+----------------
+
+sent_118:
+118 out of 151 sentences
+23 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It's not the brightest (iPad) or the sharpest (Nook), but text is super clear and video is very sharp.
+2 default entities: ORGANIZATION iPad, GPE Nook
+1 custom entities: ORGANIZATION iPad
+
+Source Sentence and Source Headline Match:
+It's not the brightest (iPad) or the sharpest (Nook), but text is super clear and video is very sharp.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It's not the brightest (iPad) or the sharpest (Nook), but text is super clear and video is very sharp.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_119:
+119 out of 151 sentences
+23 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 7 aced the battery rundown test, at 9 hours 1 minute, stomping the second best by two hours.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Nexus 7 aced the battery rundown test, at 9 hours 1 minute, stomping the second best by two hours.
+The Best Small Tablet.
+1 matches: best
+
+Source Sentence and Story Headline Match:
+The Nexus 7 aced the battery rundown test, at 9 hours 1 minute, stomping the second best by two hours.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 7 aced the battery rundown test, at 9 hours 1 minute, stomping the second best by two hours.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+3 matches: 7, 9, nexus
+
+----------------
+
+sent_120:
+120 out of 151 sentences
+23 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+With a quad-core 1.5GHz Tegra 3 processor and a gig of RAM, it has the best guts of the lot, and even the most graphically-intensive games and apps open quickly and play smoothly.
+1 default entities: ORGANIZATION RAM
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+With a quad-core 1.5GHz Tegra 3 processor and a gig of RAM, it has the best guts of the lot, and even the most graphically-intensive games and apps open quickly and play smoothly.
+The Best Small Tablet.
+1 matches: best
+
+Source Sentence and Story Headline Match:
+With a quad-core 1.5GHz Tegra 3 processor and a gig of RAM, it has the best guts of the lot, and even the most graphically-intensive games and apps open quickly and play smoothly.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+With a quad-core 1.5GHz Tegra 3 processor and a gig of RAM, it has the best guts of the lot, and even the most graphically-intensive games and apps open quickly and play smoothly.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 matches: best
+
+----------------
+
+sent_121:
+121 out of 151 sentences
+24 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Also smooth: The OS.
+1 default entities: ORGANIZATION OS
+1 custom entities: ORGANIZATION OS
+
+Source Sentence and Source Headline Match:
+Also smooth: The OS.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Also smooth: The OS.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_122:
+122 out of 151 sentences
+24 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 7 runs Android's new version 4.2 (Jelly Bean), which is an extremely fluid experience.
+2 default entities: PERSON Android, PERSON Jelly Bean
+1 custom entities: PERSON Jelly Bean
+
+Source Sentence and Source Headline Match:
+The Nexus 7 runs Android's new version 4.2 (Jelly Bean), which is an extremely fluid experience.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Nexus 7 runs Android's new version 4.2 (Jelly Bean), which is an extremely fluid experience.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 7 runs Android's new version 4.2 (Jelly Bean), which is an extremely fluid experience.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 matches: 7, nexus
+
+----------------
+
+sent_123:
+123 out of 151 sentences
+24 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Settings, notifications, and multitasking are rarely more than a click away.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Settings, notifications, and multitasking are rarely more than a click away.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Settings, notifications, and multitasking are rarely more than a click away.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_124:
+124 out of 151 sentences
+24 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Jelly Bean includes Google Now, which tells you when you need to leave for meetings and how to get there, updates sports scores, or alerts you if your flight is delayed.
+2 default entities: GPE Bean, PERSON Google Now
+2 custom entities: GPE Bean, PERSON Google Now
+
+Source Sentence and Source Headline Match:
+Jelly Bean includes Google Now, which tells you when you need to leave for meetings and how to get there, updates sports scores, or alerts you if your flight is delayed.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Jelly Bean includes Google Now, which tells you when you need to leave for meetings and how to get there, updates sports scores, or alerts you if your flight is delayed.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: google
+
+Source Sentence and Best Story Sentence Match:
+Jelly Bean includes Google Now, which tells you when you need to leave for meetings and how to get there, updates sports scores, or alerts you if your flight is delayed.
+Google in Oct. 2014 announced the Nexus 9 and Nexus 6 smartphone.
+1 matches: google
+
+----------------
+
+sent_125:
+125 out of 151 sentences
+24 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The keyboard is the best I've used on a mobile device (70 percent of this review was typed on it).
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The keyboard is the best I've used on a mobile device (70 percent of this review was typed on it).
+The Best Small Tablet.
+1 matches: best
+
+Source Sentence and Story Headline Match:
+The keyboard is the best I've used on a mobile device (70 percent of this review was typed on it).
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The keyboard is the best I've used on a mobile device (70 percent of this review was typed on it).
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 matches: best
+
+----------------
+
+sent_126:
+126 out of 151 sentences
+24 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Google's voice-to-text works astonishingly well, and you don't even need an internet connection to use it.
+1 default entities: GPE Google
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Google's voice-to-text works astonishingly well, and you don't even need an internet connection to use it.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Google's voice-to-text works astonishingly well, and you don't even need an internet connection to use it.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Google's voice-to-text works astonishingly well, and you don't even need an internet connection to use it.
+The Nexus 7 is no longer available from Google's official online store.
+1 matches: google's
+
+----------------
+
+sent_127:
+127 out of 151 sentences
+25 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+iOS may have more tablet-optimized apps, but because Android devices come in so many different sizes, developers are used to scaling.
+1 default entities: PERSON Android
+1 custom entities: PERSON Android
+
+Source Sentence and Source Headline Match:
+iOS may have more tablet-optimized apps, but because Android devices come in so many different sizes, developers are used to scaling.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+iOS may have more tablet-optimized apps, but because Android devices come in so many different sizes, developers are used to scaling.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+iOS may have more tablet-optimized apps, but because Android devices come in so many different sizes, developers are used to scaling.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+2 matches: android, device
+
+----------------
+
+sent_128:
+128 out of 151 sentences
+25 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Text and buttons are human-sized, and zooming in and out to view things is simple.
+1 default entities: GPE Text
+1 custom entities: GPE Text
+
+Source Sentence and Source Headline Match:
+Text and buttons are human-sized, and zooming in and out to view things is simple.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Text and buttons are human-sized, and zooming in and out to view things is simple.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_129:
+129 out of 151 sentences
+25 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Google has a ton of books, movies, and music, often at lower prices than its competitors, and you can store up to 20,000 songs for free in the cloud to stream on any device.
+1 default entities: GPE Google
+1 custom entities: GPE Google
+
+Source Sentence and Source Headline Match:
+Google has a ton of books, movies, and music, often at lower prices than its competitors, and you can store up to 20,000 songs for free in the cloud to stream on any device.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Google has a ton of books, movies, and music, often at lower prices than its competitors, and you can store up to 20,000 songs for free in the cloud to stream on any device.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: google
+
+Source Sentence and Best Story Sentence Match:
+Google has a ton of books, movies, and music, often at lower prices than its competitors, and you can store up to 20,000 songs for free in the cloud to stream on any device.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 matches: low, price
+
+----------------
+
+sent_130:
+130 out of 151 sentences
+25 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It has the best integration with Google services like Gmail, Calendar, Voice, and Maps (though iOS is now nearly as good).
+6 default entities: ORGANIZATION Google, PERSON Gmail, GPE Calendar, GPE Voice, GPE Maps, ORGANIZATION iOS
+4 custom entities: ORGANIZATION Google, PERSON Gmail Calendar Voice, PERSON Maps, ORGANIZATION iOS
+
+Source Sentence and Source Headline Match:
+It has the best integration with Google services like Gmail, Calendar, Voice, and Maps (though iOS is now nearly as good).
+The Best Small Tablet.
+1 matches: best
+
+Source Sentence and Story Headline Match:
+It has the best integration with Google services like Gmail, Calendar, Voice, and Maps (though iOS is now nearly as good).
+Nexus 7 tablet no longer for sale from Google.
+1 matches: google
+
+Source Sentence and Best Story Sentence Match:
+It has the best integration with Google services like Gmail, Calendar, Voice, and Maps (though iOS is now nearly as good).
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 matches: best
+
+----------------
+
+sent_131:
+131 out of 151 sentences
+25 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Chrome is the best mobile browser I've used, and it syncs with Chrome on your desktop.
+2 default entities: GPE Chrome, PERSON Chrome
+2 custom entities: GPE Chrome, PERSON Chrome
+
+Source Sentence and Source Headline Match:
+Chrome is the best mobile browser I've used, and it syncs with Chrome on your desktop.
+The Best Small Tablet.
+1 matches: best
+
+Source Sentence and Story Headline Match:
+Chrome is the best mobile browser I've used, and it syncs with Chrome on your desktop.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Chrome is the best mobile browser I've used, and it syncs with Chrome on your desktop.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 matches: best
+
+----------------
+
+sent_132:
+132 out of 151 sentences
+25 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Plus, there are a lot of really great games available.
+1 default entities: GPE Plus
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Plus, there are a lot of really great games available.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Plus, there are a lot of really great games available.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Plus, there are a lot of really great games available.
+The Nexus 7 is no longer available from Google's official online store.
+1 matches: available
+
+----------------
+
+sent_133:
+133 out of 151 sentences
+26 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The biggest hardware drawback to the Nexus 7 is the speaker.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The biggest hardware drawback to the Nexus 7 is the speaker.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The biggest hardware drawback to the Nexus 7 is the speaker.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The biggest hardware drawback to the Nexus 7 is the speaker.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 matches: 7, nexus
+
+----------------
+
+sent_134:
+134 out of 151 sentences
+26 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It's just ahead of the Nook HD in terms of volume and sound quality, but it has the same annoying one-sided placement.
+1 default entities: ORGANIZATION Nook
+1 custom entities: ORGANIZATION Nook
+
+Source Sentence and Source Headline Match:
+It's just ahead of the Nook HD in terms of volume and sound quality, but it has the same annoying one-sided placement.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It's just ahead of the Nook HD in terms of volume and sound quality, but it has the same annoying one-sided placement.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+It's just ahead of the Nook HD in terms of volume and sound quality, but it has the same annoying one-sided placement.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 matches: quality
+
+----------------
+
+sent_135:
+135 out of 151 sentences
+26 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It's solidly built, the plastic back feels cheap next to the Fire HD or the iPad mini.
+2 default entities: ORGANIZATION Fire, ORGANIZATION iPad
+2 custom entities: ORGANIZATION Fire, ORGANIZATION iPad
+
+Source Sentence and Source Headline Match:
+It's solidly built, the plastic back feels cheap next to the Fire HD or the iPad mini.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It's solidly built, the plastic back feels cheap next to the Fire HD or the iPad mini.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+It's solidly built, the plastic back feels cheap next to the Fire HD or the iPad mini.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 matches: build
+
+----------------
+
+sent_136:
+136 out of 151 sentences
+26 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Wi-Fi radio is definitely not as strong as the Fire's or the iPad's; it struggles as you move away from the router, and speeds aren't as high, either.
+2 default entities: ORGANIZATION Fire, ORGANIZATION iPad
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Wi-Fi radio is definitely not as strong as the Fire's or the iPad's; it struggles as you move away from the router, and speeds aren't as high, either.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Wi-Fi radio is definitely not as strong as the Fire's or the iPad's; it struggles as you move away from the router, and speeds aren't as high, either.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The Wi-Fi radio is definitely not as strong as the Fire's or the iPad's; it struggles as you move away from the router, and speeds aren't as high, either.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 matches: high
+
+----------------
+
+sent_137:
+137 out of 151 sentences
+26 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+No expandable storage is a bummer, as is the lack of an HDMI port.
+1 default entities: ORGANIZATION HDMI
+1 custom entities: ORGANIZATION HDMI
+
+Source Sentence and Source Headline Match:
+No expandable storage is a bummer, as is the lack of an HDMI port.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+No expandable storage is a bummer, as is the lack of an HDMI port.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_138:
+138 out of 151 sentences
+26 out of 29 paragraphs
+Tagged as a quote
+
+Sentence:
+If you feel like springing for the cellular version, you'll be limited to HSPA+, aka "faux-G," which is not as fast as the LTE on the iPad mini.
+2 default entities: ORGANIZATION LTE, ORGANIZATION iPad
+3 custom entities: ORGANIZATION HSPA, ORGANIZATION LTE, ORGANIZATION iPad
+
+Source Sentence and Source Headline Match:
+If you feel like springing for the cellular version, you'll be limited to HSPA+, aka "faux-G," which is not as fast as the LTE on the iPad mini.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+If you feel like springing for the cellular version, you'll be limited to HSPA+, aka "faux-G," which is not as fast as the LTE on the iPad mini.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+If you feel like springing for the cellular version, you'll be limited to HSPA+, aka "faux-G," which is not as fast as the LTE on the iPad mini.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 matches: fast
+
+----------------
+
+sent_139:
+139 out of 151 sentences
+27 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+On the software side, something weird happened when the Nexus 7 upgraded from Android 4.1 to 4.2.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+On the software side, something weird happened when the Nexus 7 upgraded from Android 4.1 to 4.2.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+On the software side, something weird happened when the Nexus 7 upgraded from Android 4.1 to 4.2.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+On the software side, something weird happened when the Nexus 7 upgraded from Android 4.1 to 4.2.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 matches: 7, nexus
+
+----------------
+
+sent_140:
+140 out of 151 sentences
+27 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Speed got less consistent—usually extremely fluid, but with sudden, jarring lags for no reason.
+1 default entities: PERSON Speed
+1 custom entities: PERSON Speed
+
+Source Sentence and Source Headline Match:
+Speed got less consistent—usually extremely fluid, but with sudden, jarring lags for no reason.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Speed got less consistent—usually extremely fluid, but with sudden, jarring lags for no reason.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_141:
+141 out of 151 sentences
+27 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Android still lacks visual coherence, and UI flow is inconsistent.
+2 default entities: PERSON Android, ORGANIZATION UI
+2 custom entities: PERSON Android, ORGANIZATION UI
+
+Source Sentence and Source Headline Match:
+Android still lacks visual coherence, and UI flow is inconsistent.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Android still lacks visual coherence, and UI flow is inconsistent.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Android still lacks visual coherence, and UI flow is inconsistent.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: still
+
+----------------
+
+sent_142:
+142 out of 151 sentences
+27 out of 29 paragraphs
+Tagged as a quote
+
+Sentence:
+The unpredictable "back" button will sometimes take you back a page, and sometimes it'll close out of an app.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The unpredictable "back" button will sometimes take you back a page, and sometimes it'll close out of an app.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The unpredictable "back" button will sometimes take you back a page, and sometimes it'll close out of an app.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_143:
+143 out of 151 sentences
+27 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+You sometimes get a force-close or an error, and you'll have no idea why.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+You sometimes get a force-close or an error, and you'll have no idea why.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+You sometimes get a force-close or an error, and you'll have no idea why.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_144:
+144 out of 151 sentences
+28 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Then there's the app situation.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Then there's the app situation.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Then there's the app situation.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_145:
+145 out of 151 sentences
+28 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Companies still tend to develop for iOS first, and then Android.
+2 default entities: ORGANIZATION iOS, PERSON Android
+2 custom entities: ORGANIZATION iOS, PERSON Android
+
+Source Sentence and Source Headline Match:
+Companies still tend to develop for iOS first, and then Android.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Companies still tend to develop for iOS first, and then Android.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Companies still tend to develop for iOS first, and then Android.
+Its removal was first reported on April 24.
+1 matches: first
+
+----------------
+
+sent_146:
+146 out of 151 sentences
+28 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Frequently, the Android app isn't as good as its iOS counterpart.
+2 default entities: ORGANIZATION Android, ORGANIZATION iOS
+2 custom entities: ORGANIZATION Android, ORGANIZATION iOS
+
+Source Sentence and Source Headline Match:
+Frequently, the Android app isn't as good as its iOS counterpart.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Frequently, the Android app isn't as good as its iOS counterpart.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Frequently, the Android app isn't as good as its iOS counterpart.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+1 matches: android
+
+----------------
+
+sent_147:
+147 out of 151 sentences
+28 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Either it doesn't look right, or some functionality was cut out.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Either it doesn't look right, or some functionality was cut out.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Either it doesn't look right, or some functionality was cut out.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_148:
+148 out of 151 sentences
+28 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+This situation has certainly improved, but it's definitely still a thing, and if you're wanting to stay up on the latest trends in mobile apps, you may experience some iEnvy.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+This situation has certainly improved, but it's definitely still a thing, and if you're wanting to stay up on the latest trends in mobile apps, you may experience some iEnvy.
+The Best Small Tablet.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+This situation has certainly improved, but it's definitely still a thing, and if you're wanting to stay up on the latest trends in mobile apps, you may experience some iEnvy.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+This situation has certainly improved, but it's definitely still a thing, and if you're wanting to stay up on the latest trends in mobile apps, you may experience some iEnvy.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: still
+
+----------------
+
+sent_149:
+149 out of 151 sentences
+29 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+All that said, the Nexus 7 is a legit, high-performance tablet for 200 bucks.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+All that said, the Nexus 7 is a legit, high-performance tablet for 200 bucks.
+The Best Small Tablet.
+1 matches: tablet
+
+Source Sentence and Story Headline Match:
+All that said, the Nexus 7 is a legit, high-performance tablet for 200 bucks.
+Nexus 7 tablet no longer for sale from Google.
+3 matches: 7, tablet, nexus
+
+Source Sentence and Best Story Sentence Match:
+All that said, the Nexus 7 is a legit, high-performance tablet for 200 bucks.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 matches: 7, nexus
+
+----------------
+
+sent_150:
+150 out of 151 sentences
+29 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In fact, it's the only one of the bunch that feels like a high-performance tablet.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+In fact, it's the only one of the bunch that feels like a high-performance tablet.
+The Best Small Tablet.
+1 matches: tablet
+
+Source Sentence and Story Headline Match:
+In fact, it's the only one of the bunch that feels like a high-performance tablet.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+In fact, it's the only one of the bunch that feels like a high-performance tablet.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: tablet
+
+----------------
+
+sent_151:
+151 out of 151 sentences
+29 out of 29 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Regardless of whether you just want to consume media, or HD games, or actually really get stuff done, this is hands-down the best and most versatile of the group.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Regardless of whether you just want to consume media, or HD games, or actually really get stuff done, this is hands-down the best and most versatile of the group.
+The Best Small Tablet.
+1 matches: best
+
+Source Sentence and Story Headline Match:
+Regardless of whether you just want to consume media, or HD games, or actually really get stuff done, this is hands-down the best and most versatile of the group.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Regardless of whether you just want to consume media, or HD games, or actually really get stuff done, this is hands-down the best and most versatile of the group.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 matches: best
+
+----------------
+

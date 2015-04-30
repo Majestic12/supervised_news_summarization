@@ -1,0 +1,103 @@
+sent_1:
+
+The Atlanta Falcons will forfeit a fifth-round draft pick in the 2016 draft and the team has been fined $350,000 as punishment for artificially pumping in crowd noise during home games in 2013 and 2014, the NFL announced.
+The NFL announced on March 30 that the Atlanta Falcons must forfeit a fifth-round pick in the 2016 draft and pay a $350,000 fine for pumping artificial crowd noise into the Georgia Dome at moments when opposing teams were calling plays during the 2013 and 2014 seasons.
+16 best matches: fifth-round, 2014, pick, 2013, forfeit, pump, crowd, 2016, team, draft, noise, nfl, falcon, announce, atlanta, 350,000
+
+----------------
+sent_2:
+
+The NFL also has suspended Falcons president Rich McKay from his role as chairman of the league's competition committee effective April 1.
+The NFL named former Falcons marketing director Roddy White as the person "directly responsible for the violation," but Falcons President Rich McKay, who was not aware of the violation, will be suspended from his position as the chairman of the league's competition committee.
+10 best matches: chairman, competition, rich, committee, president, nfl, suspend, falcon, mckay, league's
+
+----------------
+sent_3:
+
+McKay, who has served on the competition committee for 22 years, cannot apply for reinstatement until June 30.
+The NFL named former Falcons marketing director Roddy White as the person "directly responsible for the violation," but Falcons President Rich McKay, who was not aware of the violation, will be suspended from his position as the chairman of the league's competition committee.
+3 best matches: competition, committee, mckay
+
+----------------
+sent_4:
+
+The league's investigation into the crowd noise issue began last November, and revealed that team's former event marketing director, Roddy White, used an audio file with fake crowd noise to make it louder inside the Georgia Dome, which is a direct violation of a rule that prohibits artificial crowd noise.
+The NFL named former Falcons marketing director Roddy White as the person "directly responsible for the violation," but Falcons President Rich McKay, who was not aware of the violation, will be suspended from his position as the chairman of the league's competition committee.
+6 best matches: former, white, violation, director, league's, roddy
+
+----------------
+sent_5:
+
+White is no longer with the Falcons.
+The NFL named former Falcons marketing director Roddy White as the person "directly responsible for the violation," but Falcons President Rich McKay, who was not aware of the violation, will be suspended from his position as the chairman of the league's competition committee.
+2 best matches: falcon, white
+
+----------------
+sent_6:
+
+"Our review also determined that Falcons ownership and senior executives, including team President Rich McKay, were unaware of Mr. White's use of an audio file with artificial crowd noise.
+The NFL announced on March 30 that the Atlanta Falcons must forfeit a fifth-round pick in the 2016 draft and pay a $350,000 fine for pumping artificial crowd noise into the Georgia Dome at moments when opposing teams were calling plays during the 2013 and 2014 seasons.
+5 best matches: falcon, crowd, team, artificial, noise
+
+----------------
+sent_7:
+
+However, Mr. McKay, as the senior club executive overseeing game operations, bears some responsibility for ensuring that team employees comply with league rules," NFL executive vice president Troy Vincent said in a statement Monday.
+The NFL named former Falcons marketing director Roddy White as the person "directly responsible for the violation," but Falcons President Rich McKay, who was not aware of the violation, will be suspended from his position as the chairman of the league's competition committee.
+3 best matches: president, nfl, mckay
+
+----------------
+sent_8:
+
+The Falcons went 3-5 in home games in both 2013 and 2014.
+The NFL announced on March 30 that the Atlanta Falcons must forfeit a fifth-round pick in the 2016 draft and pay a $350,000 fine for pumping artificial crowd noise into the Georgia Dome at moments when opposing teams were calling plays during the 2013 and 2014 seasons.
+3 best matches: falcon, 2013, 2014
+
+----------------
+sent_9:
+
+Falcons owner Arthur Blank said in a statement on Monday that the team will not appeal the punishment.
+The NFL announced on March 30 that the Atlanta Falcons must forfeit a fifth-round pick in the 2016 draft and pay a $350,000 fine for pumping artificial crowd noise into the Georgia Dome at moments when opposing teams were calling plays during the 2013 and 2014 seasons.
+2 best matches: falcon, team
+
+----------------
+sent_10:
+
+"What took place was wrong and nowhere near the standards by which we run our business.
+"What took place was wrong and nowhere near the standards by which we run our business."
+8 best matches: business, wrong, near, nowhere, standard, run, place, take
+
+----------------
+sent_11:
+
+Anytime there are actions that compromise the integrity of the NFL or threaten the culture of our franchise, as this issue did, they will be dealt with swiftly and strongly," Blank said.
+The NFL announced on March 30 that the Atlanta Falcons must forfeit a fifth-round pick in the 2016 draft and pay a $350,000 fine for pumping artificial crowd noise into the Georgia Dome at moments when opposing teams were calling plays during the 2013 and 2014 seasons.
+1 best matches: nfl
+
+----------------
+sent_12:
+
+"Further, we have addressed the matter internally and taken actions to ensure that something like this does not happen again.
+"What took place was wrong and nowhere near the standards by which we run our business."
+1 best matches: take
+
+----------------
+sent_13:
+
+The Falcons and all of our other businesses are built upon a foundation of values that drive our decision making.
+The NFL announced on March 30 that the Atlanta Falcons must forfeit a fifth-round pick in the 2016 draft and pay a $350,000 fine for pumping artificial crowd noise into the Georgia Dome at moments when opposing teams were calling plays during the 2013 and 2014 seasons.
+1 best matches: falcon
+
+----------------
+sent_14:
+
+no story sentence best matches found
+
+----------------
+sent_15:
+
+I apologize for any embarrassment this situation has caused the NFL, our fans, and our Falcons players and associates."
+The NFL announced on March 30 that the Atlanta Falcons must forfeit a fifth-round pick in the 2016 draft and pay a $350,000 fine for pumping artificial crowd noise into the Georgia Dome at moments when opposing teams were calling plays during the 2013 and 2014 seasons.
+2 best matches: falcon, nfl
+
+----------------

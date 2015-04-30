@@ -1,0 +1,131 @@
+sent_1:
+
+The Petrobras scandal explained.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+2 best matches: petrobras, scandal
+
+----------------
+sent_2:
+
+NEARLY as ominous as the economic cloud hovering over Dilma Rousseff is the scandal surrounding Petrobras, the state-controlled oil company.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+3 best matches: company, petrobras, oil
+
+----------------
+sent_3:
+
+It nearly cost her re-election, and could yet spoil her second term as Brazil’s president.
+The bribery and corruption scandal alone, dubbed "Operation Car Wash," cost the company $2.1 billion.
+1 best matches: cost
+
+----------------
+sent_4:
+
+The affair began in March, when federal police arrested Paulo Roberto Costa, Petrobras’s chief of refining from 2004 to 2012, in a money-laundering investigation.
+A wide-ranging corruption probe launched after the March 2014 arrest of Paulo Roberto Costa, Petrobras' former chief of refining.
+7 best matches: march, refining, costa, paulo, chief, arrest, roberto
+
+----------------
+sent_5:
+
+Mr Costa, seeking leniency, confessed to far more than that.
+Seeking leniency, Costa shed light on $3.7 billion in questionable payments Petrobras made from slush funds to Brazil's Workers' Party and other political parties.
+3 best matches: costa, leniency, seek
+
+----------------
+sent_6:
+
+Construction companies that won contracts from his division diverted 3% of their value into slush funds for political parties, he said.
+Seeking leniency, Costa shed light on $3.7 billion in questionable payments Petrobras made from slush funds to Brazil's Workers' Party and other political parties.
+4 best matches: political, party, slush, fund
+
+----------------
+sent_7:
+
+Police identified 10 billion reais ($3.7 billion) of suspicious payments, making the petrolão (the “big oily”) Brazil’s biggest corruption scandal.
+Seeking leniency, Costa shed light on $3.7 billion in questionable payments Petrobras made from slush funds to Brazil's Workers' Party and other political parties.
+4 best matches: make, payment, billion, 3.7
+
+----------------
+sent_8:
+
+In November police arrested two dozen executives from Brazil’s six largest construction firms and another former Petrobras bigwig; 30 people have been indicted.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+3 best matches: dozen, petrobras, indict
+
+----------------
+sent_9:
+
+Most of the alleged bribe-takers belong to the Workers’ Party, which Ms Rouseff leads, or to her coalition allies.
+Seeking leniency, Costa shed light on $3.7 billion in questionable payments Petrobras made from slush funds to Brazil's Workers' Party and other political parties.
+2 best matches: party, worker
+
+----------------
+sent_10:
+
+There is no evidence that Ms Rousseff knew of the mischief, but much of it took place while she was energy minister and chairman of Petrobras during the presidency of Luiz Inácio Lula da Silva, her predecessor.
+Protesters insist Rousseff must have known about the accusations of corruption and political bribes at Petrobras while she chaired its board.
+3 best matches: know, petrobras, rousseff
+
+----------------
+sent_11:
+
+A former manager claims to have alerted Petrobras’s current boss, Maria das Graças Foster, and other executives about the irregularities.
+A wide-ranging corruption probe launched after the March 2014 arrest of Paulo Roberto Costa, Petrobras' former chief of refining.
+1 best matches: former
+
+----------------
+sent_12:
+
+The company denies that Ms Foster, a friend of the president, had any knowledge of them.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+1 best matches: company
+
+----------------
+sent_13:
+
+The scandal will produce damning headlines for months to come.
+The bribery and corruption scandal alone, dubbed "Operation Car Wash," cost the company $2.1 billion.
+1 best matches: scandal
+
+----------------
+sent_14:
+
+Most of the 28 politicians named by Mr Costa enjoy parliamentary privilege; only the Supreme Court may try them.
+A wide-ranging corruption probe launched after the March 2014 arrest of Paulo Roberto Costa, Petrobras' former chief of refining.
+1 best matches: costa
+
+----------------
+sent_15:
+
+Shares in Petrobras have dropped by more than half since their peak in September (in part because of falling oil prices).
+In its first audited financial results since Aug. 2014, Petrobras reported on April 22 that it lost $8.8 billion in Q4 2014 due to corruption, oil price pressures, refinery cost overruns, and other factors.
+4 best matches: price, since, petrobras, oil
+
+----------------
+sent_16:
+
+no story sentence best matches found
+
+----------------
+sent_17:
+
+On December 24th the city of Providence, Rhode Island, one of several aggrieved investors, filed a case in New York naming Ms Rousseff as a potential witness.
+On March 15, almost 1 million Brazilians marched in protests in more than 50 cities calling for the ouster of President Rousseff.
+2 best matches: city, rousseff
+
+----------------
+sent_18:
+
+The Securities and Exchange Commission is investigating whether Petrobras violated anti-corruption laws.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+1 best matches: petrobras
+
+----------------
+sent_19:
+
+Expect more storms in 2015.
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+1 best matches: expect
+
+----------------

@@ -1,0 +1,622 @@
+sent_1:
+1 out of 23 sentences
+1 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+On December 17, 1903, in Kitty Hawk, North Carolina, brothers Wilbur and Orville Wright soared into history as inventors of the first successful airplane, which they called the Flyer.
+4 default entities: GPE Kitty Hawk, GPE North Carolina, PERSON Wilbur, PERSON Orville Wright
+4 custom entities: GPE Kitty, GPE Carolina, PERSON Wilbur, PERSON Orville Wright
+
+Source Sentence and Source Headline Match:
+On December 17, 1903, in Kitty Hawk, North Carolina, brothers Wilbur and Orville Wright soared into history as inventors of the first successful airplane, which they called the Flyer.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+3 matches: first, brother, wright
+
+Source Sentence and Story Headline Match:
+On December 17, 1903, in Kitty Hawk, North Carolina, brothers Wilbur and Orville Wright soared into history as inventors of the first successful airplane, which they called the Flyer.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+1 matches: first
+
+Source Sentence and Best Story Sentence Match:
+On December 17, 1903, in Kitty Hawk, North Carolina, brothers Wilbur and Orville Wright soared into history as inventors of the first successful airplane, which they called the Flyer.
+The Wright brothers' historic 59-second flight took place on Dec. 17, 1903, in North Carolina.
+6 matches: north, carolina, brother, 17, wright, 1903
+
+----------------
+
+sent_2:
+2 out of 23 sentences
+1 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+Since then, their “first in flight” status has been commemorated on the North Carolina license plate and in countless history books.
+1 default entities: LOCATION North Carolina
+1 custom entities: LOCATION North Carolina
+
+Source Sentence and Source Headline Match:
+Since then, their “first in flight” status has been commemorated on the North Carolina license plate and in countless history books.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+2 matches: first, flight
+
+Source Sentence and Story Headline Match:
+Since then, their “first in flight” status has been commemorated on the North Carolina license plate and in countless history books.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+2 matches: first, flight
+
+Source Sentence and Best Story Sentence Match:
+Since then, their “first in flight” status has been commemorated on the North Carolina license plate and in countless history books.
+The Wright brothers' historic 59-second flight took place on Dec. 17, 1903, in North Carolina.
+3 matches: north, carolina, flight
+
+----------------
+
+sent_3:
+3 out of 23 sentences
+1 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Now, however, the state of Connecticut is poised to put a law on the books stating that the achievement of the first powered flight belongs not to the Wrights but to Gustave Whitehead, a German immigrant who is believed by some historians to have made the momentous first flight in Bridgeport, Connecticut, more than two years earlier.
+5 default entities: GSP Connecticut, PERSON Gustave Whitehead, GPE German, GPE Bridgeport, GSP Connecticut
+4 custom entities: GSP Connecticut, PERSON Gustave Whitehead, GPE German, GPE Bridgeport
+
+Source Sentence and Source Headline Match:
+Now, however, the state of Connecticut is poised to put a law on the books stating that the achievement of the first powered flight belongs not to the Wrights but to Gustave Whitehead, a German immigrant who is believed by some historians to have made the momentous first flight in Bridgeport, Connecticut, more than two years earlier.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+4 matches: connecticut, first, flight, wright
+
+Source Sentence and Story Headline Match:
+Now, however, the state of Connecticut is poised to put a law on the books stating that the achievement of the first powered flight belongs not to the Wrights but to Gustave Whitehead, a German immigrant who is believed by some historians to have made the momentous first flight in Bridgeport, Connecticut, more than two years earlier.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+3 matches: connecticut, first, flight
+
+Source Sentence and Best Story Sentence Match:
+Now, however, the state of Connecticut is poised to put a law on the books stating that the achievement of the first powered flight belongs not to the Wrights but to Gustave Whitehead, a German immigrant who is believed by some historians to have made the momentous first flight in Bridgeport, Connecticut, more than two years earlier.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+7 matches: whitehead, bridgeport, connecticut, gustave, first, wright, flight
+
+----------------
+
+sent_4:
+4 out of 23 sentences
+2 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Just after midnight on June 5, the Connecticut Senate passed House Bill No.
+4 default entities: ORGANIZATION Connecticut, ORGANIZATION Senate, ORGANIZATION House, PERSON Bill No
+4 custom entities: ORGANIZATION Connecticut, ORGANIZATION Senate, ORGANIZATION House, PERSON Bill No
+
+Source Sentence and Source Headline Match:
+Just after midnight on June 5, the Connecticut Senate passed House Bill No.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+1 matches: connecticut
+
+Source Sentence and Story Headline Match:
+Just after midnight on June 5, the Connecticut Senate passed House Bill No.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+2 matches: connecticut, bill
+
+Source Sentence and Best Story Sentence Match:
+Just after midnight on June 5, the Connecticut Senate passed House Bill No.
+Connecticut lawmakers passed a bill in 2013 stating that a German-born state resident staged the first successful human flight, before the Wright brothers.
+3 matches: pass, connecticut, bill
+
+----------------
+
+sent_5:
+5 out of 23 sentences
+2 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+6671, which states that “The Governor shall proclaim a date certain in each year as Powered Flight Day to honor the first powered flight by [the Wright brothers] Gustave Whitehead and to commemorate the Connecticut aviation and aerospace industry.” According to one Republican state senator, Mike McLachlan, the governor is set to sign the bill into law as early as next week.
+6 default entities: PERSON Powered Flight, ORGANIZATION Wright, PERSON Gustave Whitehead, GSP Connecticut, ORGANIZATION Republican, PERSON Mike McLachlan
+6 custom entities: PERSON Powered Flight, ORGANIZATION Wright, PERSON Gustave Whitehead, GSP Connecticut, ORGANIZATION Republican, PERSON Mike
+
+Source Sentence and Source Headline Match:
+6671, which states that “The Governor shall proclaim a date certain in each year as Powered Flight Day to honor the first powered flight by [the Wright brothers] Gustave Whitehead and to commemorate the Connecticut aviation and aerospace industry.” According to one Republican state senator, Mike McLachlan, the governor is set to sign the bill into law as early as next week.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+5 matches: connecticut, first, brother, flight, wright
+
+Source Sentence and Story Headline Match:
+6671, which states that “The Governor shall proclaim a date certain in each year as Powered Flight Day to honor the first powered flight by [the Wright brothers] Gustave Whitehead and to commemorate the Connecticut aviation and aerospace industry.” According to one Republican state senator, Mike McLachlan, the governor is set to sign the bill into law as early as next week.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+4 matches: connecticut, first, flight, bill
+
+Source Sentence and Best Story Sentence Match:
+6671, which states that “The Governor shall proclaim a date certain in each year as Powered Flight Day to honor the first powered flight by [the Wright brothers] Gustave Whitehead and to commemorate the Connecticut aviation and aerospace industry.” According to one Republican state senator, Mike McLachlan, the governor is set to sign the bill into law as early as next week.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+8 matches: whitehead, bill, connecticut, brother, gustave, first, wright, flight
+
+----------------
+
+sent_6:
+6 out of 23 sentences
+3 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The fact that other aviators were working on flying machines at the same time as the Wrights certainly doesn’t come as a surprise to anyone–historian have long known this to be true.
+1 default entities: ORGANIZATION Wrights
+1 custom entities: ORGANIZATION Wrights
+
+Source Sentence and Source Headline Match:
+The fact that other aviators were working on flying machines at the same time as the Wrights certainly doesn’t come as a surprise to anyone–historian have long known this to be true.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+1 matches: wright
+
+Source Sentence and Story Headline Match:
+The fact that other aviators were working on flying machines at the same time as the Wrights certainly doesn’t come as a surprise to anyone–historian have long known this to be true.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The fact that other aviators were working on flying machines at the same time as the Wrights certainly doesn’t come as a surprise to anyone–historian have long known this to be true.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+3 matches: aviator, know, wright
+
+----------------
+
+sent_7:
+7 out of 23 sentences
+3 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+According to longstanding claims about Whitehead that appeared in a contemporary article in the Bridgeport Herald, he successfully flew his plane, known as No.
+2 default entities: ORGANIZATION Bridgeport Herald, ORGANIZATION No
+2 custom entities: ORGANIZATION Bridgeport, ORGANIZATION No
+
+Source Sentence and Source Headline Match:
+According to longstanding claims about Whitehead that appeared in a contemporary article in the Bridgeport Herald, he successfully flew his plane, known as No.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+According to longstanding claims about Whitehead that appeared in a contemporary article in the Bridgeport Herald, he successfully flew his plane, known as No.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+According to longstanding claims about Whitehead that appeared in a contemporary article in the Bridgeport Herald, he successfully flew his plane, known as No.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+3 matches: claim, whitehead, bridgeport
+
+----------------
+
+sent_8:
+8 out of 23 sentences
+3 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+21 or “The Condor,” early on the morning of August 14, 1901, achieving a flight of some 1.5 miles at a height of 150 feet in the skies over Bridgeport.
+2 default entities: ORGANIZATION Condor, GPE Bridgeport
+2 custom entities: ORGANIZATION Condor, GPE Bridgeport
+
+Source Sentence and Source Headline Match:
+21 or “The Condor,” early on the morning of August 14, 1901, achieving a flight of some 1.5 miles at a height of 150 feet in the skies over Bridgeport.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+1 matches: flight
+
+Source Sentence and Story Headline Match:
+21 or “The Condor,” early on the morning of August 14, 1901, achieving a flight of some 1.5 miles at a height of 150 feet in the skies over Bridgeport.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+1 matches: flight
+
+Source Sentence and Best Story Sentence Match:
+21 or “The Condor,” early on the morning of August 14, 1901, achieving a flight of some 1.5 miles at a height of 150 feet in the skies over Bridgeport.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+3 matches: bridgeport, flight, achieve
+
+----------------
+
+sent_9:
+9 out of 23 sentences
+4 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+In March, Australian aviation historian John Brown revealed what he considers to be photographic proof of this “first” flight, in the form of a blown-up image of a long-missing photograph of Whitehead actually flying his plane.
+4 default entities: GPE March, GPE Australian, PERSON John Brown, GPE Whitehead
+3 custom entities: GPE Australian, PERSON John Brown, GPE Whitehead
+
+Source Sentence and Source Headline Match:
+In March, Australian aviation historian John Brown revealed what he considers to be photographic proof of this “first” flight, in the form of a blown-up image of a long-missing photograph of Whitehead actually flying his plane.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+2 matches: first, flight
+
+Source Sentence and Story Headline Match:
+In March, Australian aviation historian John Brown revealed what he considers to be photographic proof of this “first” flight, in the form of a blown-up image of a long-missing photograph of Whitehead actually flying his plane.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+2 matches: first, flight
+
+Source Sentence and Best Story Sentence Match:
+In March, Australian aviation historian John Brown revealed what he considers to be photographic proof of this “first” flight, in the form of a blown-up image of a long-missing photograph of Whitehead actually flying his plane.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+3 matches: whitehead, first, flight
+
+----------------
+
+sent_10:
+10 out of 23 sentences
+4 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Contemporary reports of a 1906 aviation exhibition in New York mention the Whitehead photograph as part of the collection.
+2 default entities: GPE New York, ORGANIZATION Whitehead
+2 custom entities: GPE New York, ORGANIZATION Whitehead
+
+Source Sentence and Source Headline Match:
+Contemporary reports of a 1906 aviation exhibition in New York mention the Whitehead photograph as part of the collection.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Contemporary reports of a 1906 aviation exhibition in New York mention the Whitehead photograph as part of the collection.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Contemporary reports of a 1906 aviation exhibition in New York mention the Whitehead photograph as part of the collection.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+2 matches: whitehead, aviation
+
+----------------
+
+sent_11:
+11 out of 23 sentences
+4 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+When Brown discovered a panoramic photograph of the exhibit in the attic of a museum in Bavaria (where he was working for a German aircraft construction company), he was able to identify the missing photograph on the wall by enlarging the image by some 3,500 percent.
+3 default entities: PERSON Brown, GPE Bavaria, GPE German
+3 custom entities: PERSON Brown, GPE Bavaria, GPE German
+
+Source Sentence and Source Headline Match:
+When Brown discovered a panoramic photograph of the exhibit in the attic of a museum in Bavaria (where he was working for a German aircraft construction company), he was able to identify the missing photograph on the wall by enlarging the image by some 3,500 percent.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+When Brown discovered a panoramic photograph of the exhibit in the attic of a museum in Bavaria (where he was working for a German aircraft construction company), he was able to identify the missing photograph on the wall by enlarging the image by some 3,500 percent.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+When Brown discovered a panoramic photograph of the exhibit in the attic of a museum in Bavaria (where he was working for a German aircraft construction company), he was able to identify the missing photograph on the wall by enlarging the image by some 3,500 percent.
+Brown says he has photographic evidence — albeit very blurry — showing Gustave flying the first motorized aircraft in Connecticut in 1901.
+2 matches: brown, aircraft
+
+----------------
+
+sent_12:
+12 out of 23 sentences
+4 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+As a result of Brown’s research, the well-known aviation publication Jane’s All the World’s Aircraft endorsed Whitehead as first in flight in its 100th anniversary issue this spring.
+5 default entities: PERSON Brown, PERSON Jane, ORGANIZATION World, PERSON Aircraft, PERSON Whitehead
+2 custom entities: PERSON Aircraft, PERSON Whitehead
+
+Source Sentence and Source Headline Match:
+As a result of Brown’s research, the well-known aviation publication Jane’s All the World’s Aircraft endorsed Whitehead as first in flight in its 100th anniversary issue this spring.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+2 matches: first, flight
+
+Source Sentence and Story Headline Match:
+As a result of Brown’s research, the well-known aviation publication Jane’s All the World’s Aircraft endorsed Whitehead as first in flight in its 100th anniversary issue this spring.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+2 matches: first, flight
+
+Source Sentence and Best Story Sentence Match:
+As a result of Brown’s research, the well-known aviation publication Jane’s All the World’s Aircraft endorsed Whitehead as first in flight in its 100th anniversary issue this spring.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+3 matches: whitehead, first, flight
+
+----------------
+
+sent_13:
+13 out of 23 sentences
+5 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+However, historians at the Smithsonian National Air and Space Museum, where the Wright brothers’ famous Flyer has been on display since 1948, remain highly skeptical of Brown’s claims.
+4 default entities: ORGANIZATION Smithsonian National Air, PERSON Space Museum, ORGANIZATION Wright, PERSON Brown
+3 custom entities: ORGANIZATION Smithsonian National Air, PERSON Space Museum, ORGANIZATION Wright
+
+Source Sentence and Source Headline Match:
+However, historians at the Smithsonian National Air and Space Museum, where the Wright brothers’ famous Flyer has been on display since 1948, remain highly skeptical of Brown’s claims.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+2 matches: brother, wright
+
+Source Sentence and Story Headline Match:
+However, historians at the Smithsonian National Air and Space Museum, where the Wright brothers’ famous Flyer has been on display since 1948, remain highly skeptical of Brown’s claims.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+However, historians at the Smithsonian National Air and Space Museum, where the Wright brothers’ famous Flyer has been on display since 1948, remain highly skeptical of Brown’s claims.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+5 matches: smithsonian, 1948, display, museum, wright
+
+----------------
+
+sent_14:
+14 out of 23 sentences
+5 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+They point to the fact that not one of Whitehead’s flying machines built post-1902 ever left the ground, and maintain that the original newspaper account documenting Whitehead’s flight exaggerated his achievements, while other newspapers simply reprinted the story without confirmation.
+2 default entities: GPE Whitehead, PERSON Whitehead
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+They point to the fact that not one of Whitehead’s flying machines built post-1902 ever left the ground, and maintain that the original newspaper account documenting Whitehead’s flight exaggerated his achievements, while other newspapers simply reprinted the story without confirmation.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+1 matches: flight
+
+Source Sentence and Story Headline Match:
+They point to the fact that not one of Whitehead’s flying machines built post-1902 ever left the ground, and maintain that the original newspaper account documenting Whitehead’s flight exaggerated his achievements, while other newspapers simply reprinted the story without confirmation.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+1 matches: flight
+
+Source Sentence and Best Story Sentence Match:
+They point to the fact that not one of Whitehead’s flying machines built post-1902 ever left the ground, and maintain that the original newspaper account documenting Whitehead’s flight exaggerated his achievements, while other newspapers simply reprinted the story without confirmation.
+"Gimme a break… I have not seen anything that convinced me that Whitehead got off the ground in a powered machine at all."
+2 matches: machine, ground
+
+----------------
+
+sent_15:
+15 out of 23 sentences
+5 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The photograph on which Brown builds his case, moreover, is simply too blurry to provide definitive proof of anything.
+1 default entities: PERSON Brown
+1 custom entities: PERSON Brown
+
+Source Sentence and Source Headline Match:
+The photograph on which Brown builds his case, moreover, is simply too blurry to provide definitive proof of anything.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The photograph on which Brown builds his case, moreover, is simply too blurry to provide definitive proof of anything.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The photograph on which Brown builds his case, moreover, is simply too blurry to provide definitive proof of anything.
+Brown says he has photographic evidence — albeit very blurry — showing Gustave flying the first motorized aircraft in Connecticut in 1901.
+2 matches: brown, blurry
+
+----------------
+
+sent_16:
+16 out of 23 sentences
+6 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+Brown and fellow proponents of Whitehead’s claim to the “first in flight” status have countered that the Smithsonian is bound by the terms of a contract with the Wright estate stating that the museum will lose the Flyer if they recognize anyone other than Orville and Wilbur Wright as having made the first successful powered flight.
+6 default entities: GPE Brown, GPE Whitehead, GPE Smithsonian, GPE Wright, PERSON Orville, PERSON Wilbur Wright
+5 custom entities: GPE Brown, GPE Smithsonian, GPE Wright, PERSON Orville, PERSON Wilbur Wright
+
+Source Sentence and Source Headline Match:
+Brown and fellow proponents of Whitehead’s claim to the “first in flight” status have countered that the Smithsonian is bound by the terms of a contract with the Wright estate stating that the museum will lose the Flyer if they recognize anyone other than Orville and Wilbur Wright as having made the first successful powered flight.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+3 matches: first, flight, wright
+
+Source Sentence and Story Headline Match:
+Brown and fellow proponents of Whitehead’s claim to the “first in flight” status have countered that the Smithsonian is bound by the terms of a contract with the Wright estate stating that the museum will lose the Flyer if they recognize anyone other than Orville and Wilbur Wright as having made the first successful powered flight.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+2 matches: first, flight
+
+Source Sentence and Best Story Sentence Match:
+Brown and fellow proponents of Whitehead’s claim to the “first in flight” status have countered that the Smithsonian is bound by the terms of a contract with the Wright estate stating that the museum will lose the Flyer if they recognize anyone other than Orville and Wilbur Wright as having made the first successful powered flight.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+10 matches: smithsonian, lose, orville, museum, contract, first, wright, estate, state, flight
+
+----------------
+
+sent_17:
+17 out of 23 sentences
+6 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Though the museum has acknowledged that such a contract exists, its officials vigorously maintain they would not let it stand in the way of a historical fact—if such a fact could be established definitively, which in this case it has not.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Though the museum has acknowledged that such a contract exists, its officials vigorously maintain they would not let it stand in the way of a historical fact—if such a fact could be established definitively, which in this case it has not.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Though the museum has acknowledged that such a contract exists, its officials vigorously maintain they would not let it stand in the way of a historical fact—if such a fact could be established definitively, which in this case it has not.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Though the museum has acknowledged that such a contract exists, its officials vigorously maintain they would not let it stand in the way of a historical fact—if such a fact could be established definitively, which in this case it has not.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+2 matches: contract, museum
+
+----------------
+
+sent_18:
+18 out of 23 sentences
+7 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But such skepticism has not stopped many in Connecticut from celebrating what they see as Whitehead’s historic achievement.
+2 default entities: GSP Connecticut, PERSON Whitehead
+1 custom entities: GSP Connecticut
+
+Source Sentence and Source Headline Match:
+But such skepticism has not stopped many in Connecticut from celebrating what they see as Whitehead’s historic achievement.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+1 matches: connecticut
+
+Source Sentence and Story Headline Match:
+But such skepticism has not stopped many in Connecticut from celebrating what they see as Whitehead’s historic achievement.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+1 matches: connecticut
+
+Source Sentence and Best Story Sentence Match:
+But such skepticism has not stopped many in Connecticut from celebrating what they see as Whitehead’s historic achievement.
+Connecticut lawmakers passed a bill in 2013 stating that a German-born state resident staged the first successful human flight, before the Wright brothers.
+1 matches: connecticut
+
+----------------
+
+sent_19:
+19 out of 23 sentences
+7 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+“Our license plate should say ‘firster in flight,’” said Bill Finch, the mayor of Bridgeport, after Jane’s All the World’s Aircraft endorsed Brown’s new research in March.
+6 default entities: PERSON Bill Finch, GPE Bridgeport, PERSON Jane, ORGANIZATION World, PERSON Aircraft, PERSON Brown
+3 custom entities: PERSON Bill Finch, GPE Bridgeport, PERSON Aircraft
+
+Source Sentence and Source Headline Match:
+“Our license plate should say ‘firster in flight,’” said Bill Finch, the mayor of Bridgeport, after Jane’s All the World’s Aircraft endorsed Brown’s new research in March.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+1 matches: flight
+
+Source Sentence and Story Headline Match:
+“Our license plate should say ‘firster in flight,’” said Bill Finch, the mayor of Bridgeport, after Jane’s All the World’s Aircraft endorsed Brown’s new research in March.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+3 matches: flight, say, bill
+
+Source Sentence and Best Story Sentence Match:
+“Our license plate should say ‘firster in flight,’” said Bill Finch, the mayor of Bridgeport, after Jane’s All the World’s Aircraft endorsed Brown’s new research in March.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+3 matches: bridgeport, flight, bill
+
+----------------
+
+sent_20:
+20 out of 23 sentences
+7 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+And at Chip’s Family Restaurant, breakfast specials like the “No.
+2 default entities: ORGANIZATION Chip, PERSON Family Restaurant
+2 custom entities: ORGANIZATION Chip's Family Restaurant, ORGANIZATION No
+
+Source Sentence and Source Headline Match:
+And at Chip’s Family Restaurant, breakfast specials like the “No.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+And at Chip’s Family Restaurant, breakfast specials like the “No.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_21:
+21 out of 23 sentences
+7 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+21,” a hamburger omelet served with German apple pancakes, attest to locals’ enthusiasm for Connecticut’s new claim to fame.
+2 default entities: GPE German, GSP Connecticut
+1 custom entities: GPE German
+
+Source Sentence and Source Headline Match:
+21,” a hamburger omelet served with German apple pancakes, attest to locals’ enthusiasm for Connecticut’s new claim to fame.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+21,” a hamburger omelet served with German apple pancakes, attest to locals’ enthusiasm for Connecticut’s new claim to fame.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+21,” a hamburger omelet served with German apple pancakes, attest to locals’ enthusiasm for Connecticut’s new claim to fame.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+1 matches: claim
+
+----------------
+
+sent_22:
+22 out of 23 sentences
+7 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Now, with their passage of House Bill No.
+2 default entities: ORGANIZATION House, PERSON Bill No
+2 custom entities: ORGANIZATION House, PERSON Bill No
+
+Source Sentence and Source Headline Match:
+Now, with their passage of House Bill No.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Now, with their passage of House Bill No.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+1 matches: bill
+
+Source Sentence and Best Story Sentence Match:
+Now, with their passage of House Bill No.
+The bill now moves on to a vote by the full state House.
+2 matches: bill, house
+
+----------------
+
+sent_23:
+23 out of 23 sentences
+7 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+6671, Connecticut senators have decided to make Whitehead’s place in history—at least in their state–official.
+2 default entities: GSP Connecticut, PERSON Whitehead
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+6671, Connecticut senators have decided to make Whitehead’s place in history—at least in their state–official.
+n Connecticut, Wright Brothers No Longer “First in Flight”.
+1 matches: connecticut
+
+Source Sentence and Story Headline Match:
+6671, Connecticut senators have decided to make Whitehead’s place in history—at least in their state–official.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+1 matches: connecticut
+
+Source Sentence and Best Story Sentence Match:
+6671, Connecticut senators have decided to make Whitehead’s place in history—at least in their state–official.
+Connecticut lawmakers passed a bill in 2013 stating that a German-born state resident staged the first successful human flight, before the Wright brothers.
+1 matches: connecticut
+
+----------------
+

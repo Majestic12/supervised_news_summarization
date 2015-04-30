@@ -1,0 +1,54 @@
+sent_1:
+
+Virgin America Inc. (“Virgin America”), the California-based airline known for its upscale service and low fares, today announced that it has filed a registration statement with the Securities and Exchange Commission for a proposed initial public offering of its common stock.
+Virgin America went public in Nov. 2014 and is now valued at more than $1.3 billion.
+3 best matches: public, virgin, america
+
+----------------
+sent_2:
+
+The number of shares to be offered and the price range for the proposed offering have not yet been determined.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+2 best matches: offering, share
+
+----------------
+sent_3:
+
+Barclays and Deutsche Bank Securities are acting as joint book-running managers and as representatives of the underwriters for the proposed offering.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+1 best matches: offering
+
+----------------
+sent_4:
+
+A registration statement relating to the offering of Virgin America’s securities has been filed with the Securities and Exchange Commission but has not yet become effective.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+2 best matches: virgin, offering
+
+----------------
+sent_5:
+
+These securities may not be sold nor may offers to buy be accepted prior to the time the registration statement becomes effective.
+The airline said shareholders had decided "not to proceed with an offering at this time."
+1 best matches: time
+
+----------------
+sent_6:
+
+no story sentence best matches found
+
+----------------
+sent_7:
+
+The offering will be made only by means of a prospectus.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+1 best matches: offering
+
+----------------
+sent_8:
+
+When available, copies of the preliminary prospectus related to the offering may be obtained from: Barclays Capital Inc., c/o Broadridge Financial Solutions, 1155 Long Island Avenue, Edgewood, NY 11717,  telephone: 1 (888) 603-5847, or by emailing: Barclaysprospectus@broadridge.com; or Deutsche Bank Securities Inc., Attn: Prospectus Group, 60 Wall Street, New York, NY 10005, by telephone at (800) 503-4611, or by emailing: prospectus.CPDG@db.com.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+1 best matches: offering
+
+----------------

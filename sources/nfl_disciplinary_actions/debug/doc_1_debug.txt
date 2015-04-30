@@ -1,0 +1,411 @@
+sent_1:
+1 out of 15 sentences
+1 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Atlanta Falcons will forfeit a fifth-round draft pick in the 2016 draft and the team has been fined $350,000 as punishment for artificially pumping in crowd noise during home games in 2013 and 2014, the NFL announced.
+2 default entities: ORGANIZATION Atlanta Falcons, ORGANIZATION NFL
+2 custom entities: ORGANIZATION Atlanta Falcons, ORGANIZATION NFL
+
+Source Sentence and Source Headline Match:
+The Atlanta Falcons will forfeit a fifth-round draft pick in the 2016 draft and the team has been fined $350,000 as punishment for artificially pumping in crowd noise during home games in 2013 and 2014, the NFL announced.
+Falcons fined, lose draft pick for using fake crowd noise.
+6 matches: pick, crowd, fin, draft, noise, falcon
+
+Source Sentence and Story Headline Match:
+The Atlanta Falcons will forfeit a fifth-round draft pick in the 2016 draft and the team has been fined $350,000 as punishment for artificially pumping in crowd noise during home games in 2013 and 2014, the NFL announced.
+Atlanta Falcons to lose NFL draft pick for fake crowd noise in stadium.
+7 matches: pick, crowd, draft, noise, nfl, falcon, atlanta
+
+Source Sentence and Best Story Sentence Match:
+The Atlanta Falcons will forfeit a fifth-round draft pick in the 2016 draft and the team has been fined $350,000 as punishment for artificially pumping in crowd noise during home games in 2013 and 2014, the NFL announced.
+The NFL announced on March 30 that the Atlanta Falcons must forfeit a fifth-round pick in the 2016 draft and pay a $350,000 fine for pumping artificial crowd noise into the Georgia Dome at moments when opposing teams were calling plays during the 2013 and 2014 seasons.
+16 matches: fifth-round, 2014, pick, 2013, forfeit, pump, crowd, 2016, team, draft, noise, nfl, falcon, announce, atlanta, 350,000
+
+----------------
+
+sent_2:
+2 out of 15 sentences
+2 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The NFL also has suspended Falcons president Rich McKay from his role as chairman of the league's competition committee effective April 1.
+2 default entities: ORGANIZATION NFL, PERSON Rich McKay
+2 custom entities: ORGANIZATION NFL, PERSON Rich McKay
+
+Source Sentence and Source Headline Match:
+The NFL also has suspended Falcons president Rich McKay from his role as chairman of the league's competition committee effective April 1.
+Falcons fined, lose draft pick for using fake crowd noise.
+1 matches: falcon
+
+Source Sentence and Story Headline Match:
+The NFL also has suspended Falcons president Rich McKay from his role as chairman of the league's competition committee effective April 1.
+Atlanta Falcons to lose NFL draft pick for fake crowd noise in stadium.
+2 matches: falcon, nfl
+
+Source Sentence and Best Story Sentence Match:
+The NFL also has suspended Falcons president Rich McKay from his role as chairman of the league's competition committee effective April 1.
+The NFL named former Falcons marketing director Roddy White as the person "directly responsible for the violation," but Falcons President Rich McKay, who was not aware of the violation, will be suspended from his position as the chairman of the league's competition committee.
+10 matches: chairman, competition, rich, committee, president, nfl, suspend, falcon, mckay, league's
+
+----------------
+
+sent_3:
+3 out of 15 sentences
+2 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+McKay, who has served on the competition committee for 22 years, cannot apply for reinstatement until June 30.
+1 default entities: GPE McKay
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+McKay, who has served on the competition committee for 22 years, cannot apply for reinstatement until June 30.
+Falcons fined, lose draft pick for using fake crowd noise.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+McKay, who has served on the competition committee for 22 years, cannot apply for reinstatement until June 30.
+Atlanta Falcons to lose NFL draft pick for fake crowd noise in stadium.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+McKay, who has served on the competition committee for 22 years, cannot apply for reinstatement until June 30.
+The NFL named former Falcons marketing director Roddy White as the person "directly responsible for the violation," but Falcons President Rich McKay, who was not aware of the violation, will be suspended from his position as the chairman of the league's competition committee.
+3 matches: competition, committee, mckay
+
+----------------
+
+sent_4:
+4 out of 15 sentences
+3 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The league's investigation into the crowd noise issue began last November, and revealed that team's former event marketing director, Roddy White, used an audio file with fake crowd noise to make it louder inside the Georgia Dome, which is a direct violation of a rule that prohibits artificial crowd noise.
+2 default entities: PERSON Roddy White, ORGANIZATION Georgia Dome
+2 custom entities: PERSON Roddy White, ORGANIZATION Georgia Dome
+
+Source Sentence and Source Headline Match:
+The league's investigation into the crowd noise issue began last November, and revealed that team's former event marketing director, Roddy White, used an audio file with fake crowd noise to make it louder inside the Georgia Dome, which is a direct violation of a rule that prohibits artificial crowd noise.
+Falcons fined, lose draft pick for using fake crowd noise.
+4 matches: crowd, fake, noise, use
+
+Source Sentence and Story Headline Match:
+The league's investigation into the crowd noise issue began last November, and revealed that team's former event marketing director, Roddy White, used an audio file with fake crowd noise to make it louder inside the Georgia Dome, which is a direct violation of a rule that prohibits artificial crowd noise.
+Atlanta Falcons to lose NFL draft pick for fake crowd noise in stadium.
+3 matches: crowd, fake, noise
+
+Source Sentence and Best Story Sentence Match:
+The league's investigation into the crowd noise issue began last November, and revealed that team's former event marketing director, Roddy White, used an audio file with fake crowd noise to make it louder inside the Georgia Dome, which is a direct violation of a rule that prohibits artificial crowd noise.
+The NFL named former Falcons marketing director Roddy White as the person "directly responsible for the violation," but Falcons President Rich McKay, who was not aware of the violation, will be suspended from his position as the chairman of the league's competition committee.
+6 matches: former, white, violation, director, league's, roddy
+
+----------------
+
+sent_5:
+5 out of 15 sentences
+3 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+White is no longer with the Falcons.
+1 default entities: GPE White
+1 custom entities: GPE White
+
+Source Sentence and Source Headline Match:
+White is no longer with the Falcons.
+Falcons fined, lose draft pick for using fake crowd noise.
+1 matches: falcon
+
+Source Sentence and Story Headline Match:
+White is no longer with the Falcons.
+Atlanta Falcons to lose NFL draft pick for fake crowd noise in stadium.
+1 matches: falcon
+
+Source Sentence and Best Story Sentence Match:
+White is no longer with the Falcons.
+The NFL named former Falcons marketing director Roddy White as the person "directly responsible for the violation," but Falcons President Rich McKay, who was not aware of the violation, will be suspended from his position as the chairman of the league's competition committee.
+2 matches: falcon, white
+
+----------------
+
+sent_6:
+6 out of 15 sentences
+4 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+"Our review also determined that Falcons ownership and senior executives, including team President Rich McKay, were unaware of Mr. White's use of an audio file with artificial crowd noise.
+2 default entities: PERSON Rich McKay, PERSON Mr. White
+1 custom entities: PERSON Rich McKay
+
+Source Sentence and Source Headline Match:
+"Our review also determined that Falcons ownership and senior executives, including team President Rich McKay, were unaware of Mr. White's use of an audio file with artificial crowd noise.
+Falcons fined, lose draft pick for using fake crowd noise.
+4 matches: falcon, crowd, noise, use
+
+Source Sentence and Story Headline Match:
+"Our review also determined that Falcons ownership and senior executives, including team President Rich McKay, were unaware of Mr. White's use of an audio file with artificial crowd noise.
+Atlanta Falcons to lose NFL draft pick for fake crowd noise in stadium.
+3 matches: falcon, crowd, noise
+
+Source Sentence and Best Story Sentence Match:
+"Our review also determined that Falcons ownership and senior executives, including team President Rich McKay, were unaware of Mr. White's use of an audio file with artificial crowd noise.
+The NFL announced on March 30 that the Atlanta Falcons must forfeit a fifth-round pick in the 2016 draft and pay a $350,000 fine for pumping artificial crowd noise into the Georgia Dome at moments when opposing teams were calling plays during the 2013 and 2014 seasons.
+5 matches: falcon, crowd, team, artificial, noise
+
+----------------
+
+sent_7:
+7 out of 15 sentences
+4 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+However, Mr. McKay, as the senior club executive overseeing game operations, bears some responsibility for ensuring that team employees comply with league rules," NFL executive vice president Troy Vincent said in a statement Monday.
+3 default entities: PERSON Mr. McKay, ORGANIZATION NFL, PERSON Troy Vincent
+2 custom entities: ORGANIZATION NFL, PERSON Troy Vincent
+
+Source Sentence and Source Headline Match:
+However, Mr. McKay, as the senior club executive overseeing game operations, bears some responsibility for ensuring that team employees comply with league rules," NFL executive vice president Troy Vincent said in a statement Monday.
+Falcons fined, lose draft pick for using fake crowd noise.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+However, Mr. McKay, as the senior club executive overseeing game operations, bears some responsibility for ensuring that team employees comply with league rules," NFL executive vice president Troy Vincent said in a statement Monday.
+Atlanta Falcons to lose NFL draft pick for fake crowd noise in stadium.
+1 matches: nfl
+
+Source Sentence and Best Story Sentence Match:
+However, Mr. McKay, as the senior club executive overseeing game operations, bears some responsibility for ensuring that team employees comply with league rules," NFL executive vice president Troy Vincent said in a statement Monday.
+The NFL named former Falcons marketing director Roddy White as the person "directly responsible for the violation," but Falcons President Rich McKay, who was not aware of the violation, will be suspended from his position as the chairman of the league's competition committee.
+3 matches: president, nfl, mckay
+
+----------------
+
+sent_8:
+8 out of 15 sentences
+5 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+The Falcons went 3-5 in home games in both 2013 and 2014.
+1 default entities: ORGANIZATION Falcons
+1 custom entities: ORGANIZATION Falcons
+
+Source Sentence and Source Headline Match:
+The Falcons went 3-5 in home games in both 2013 and 2014.
+Falcons fined, lose draft pick for using fake crowd noise.
+1 matches: falcon
+
+Source Sentence and Story Headline Match:
+The Falcons went 3-5 in home games in both 2013 and 2014.
+Atlanta Falcons to lose NFL draft pick for fake crowd noise in stadium.
+1 matches: falcon
+
+Source Sentence and Best Story Sentence Match:
+The Falcons went 3-5 in home games in both 2013 and 2014.
+The NFL announced on March 30 that the Atlanta Falcons must forfeit a fifth-round pick in the 2016 draft and pay a $350,000 fine for pumping artificial crowd noise into the Georgia Dome at moments when opposing teams were calling plays during the 2013 and 2014 seasons.
+3 matches: falcon, 2013, 2014
+
+----------------
+
+sent_9:
+9 out of 15 sentences
+6 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+Falcons owner Arthur Blank said in a statement on Monday that the team will not appeal the punishment.
+1 default entities: PERSON Arthur Blank
+1 custom entities: PERSON Arthur Blank
+
+Source Sentence and Source Headline Match:
+Falcons owner Arthur Blank said in a statement on Monday that the team will not appeal the punishment.
+Falcons fined, lose draft pick for using fake crowd noise.
+1 matches: falcon
+
+Source Sentence and Story Headline Match:
+Falcons owner Arthur Blank said in a statement on Monday that the team will not appeal the punishment.
+Atlanta Falcons to lose NFL draft pick for fake crowd noise in stadium.
+1 matches: falcon
+
+Source Sentence and Best Story Sentence Match:
+Falcons owner Arthur Blank said in a statement on Monday that the team will not appeal the punishment.
+The NFL announced on March 30 that the Atlanta Falcons must forfeit a fifth-round pick in the 2016 draft and pay a $350,000 fine for pumping artificial crowd noise into the Georgia Dome at moments when opposing teams were calling plays during the 2013 and 2014 seasons.
+2 matches: falcon, team
+
+----------------
+
+sent_10:
+10 out of 15 sentences
+7 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+"What took place was wrong and nowhere near the standards by which we run our business.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"What took place was wrong and nowhere near the standards by which we run our business.
+Falcons fined, lose draft pick for using fake crowd noise.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"What took place was wrong and nowhere near the standards by which we run our business.
+Atlanta Falcons to lose NFL draft pick for fake crowd noise in stadium.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"What took place was wrong and nowhere near the standards by which we run our business.
+"What took place was wrong and nowhere near the standards by which we run our business."
+8 matches: business, wrong, near, nowhere, standard, run, place, take
+
+----------------
+
+sent_11:
+11 out of 15 sentences
+7 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+Anytime there are actions that compromise the integrity of the NFL or threaten the culture of our franchise, as this issue did, they will be dealt with swiftly and strongly," Blank said.
+2 default entities: ORGANIZATION NFL, PERSON Blank
+2 custom entities: ORGANIZATION NFL, PERSON Blank
+
+Source Sentence and Source Headline Match:
+Anytime there are actions that compromise the integrity of the NFL or threaten the culture of our franchise, as this issue did, they will be dealt with swiftly and strongly," Blank said.
+Falcons fined, lose draft pick for using fake crowd noise.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Anytime there are actions that compromise the integrity of the NFL or threaten the culture of our franchise, as this issue did, they will be dealt with swiftly and strongly," Blank said.
+Atlanta Falcons to lose NFL draft pick for fake crowd noise in stadium.
+1 matches: nfl
+
+Source Sentence and Best Story Sentence Match:
+Anytime there are actions that compromise the integrity of the NFL or threaten the culture of our franchise, as this issue did, they will be dealt with swiftly and strongly," Blank said.
+The NFL announced on March 30 that the Atlanta Falcons must forfeit a fifth-round pick in the 2016 draft and pay a $350,000 fine for pumping artificial crowd noise into the Georgia Dome at moments when opposing teams were calling plays during the 2013 and 2014 seasons.
+1 matches: nfl
+
+----------------
+
+sent_12:
+12 out of 15 sentences
+7 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+"Further, we have addressed the matter internally and taken actions to ensure that something like this does not happen again.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"Further, we have addressed the matter internally and taken actions to ensure that something like this does not happen again.
+Falcons fined, lose draft pick for using fake crowd noise.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"Further, we have addressed the matter internally and taken actions to ensure that something like this does not happen again.
+Atlanta Falcons to lose NFL draft pick for fake crowd noise in stadium.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"Further, we have addressed the matter internally and taken actions to ensure that something like this does not happen again.
+"What took place was wrong and nowhere near the standards by which we run our business."
+1 matches: take
+
+----------------
+
+sent_13:
+13 out of 15 sentences
+7 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+The Falcons and all of our other businesses are built upon a foundation of values that drive our decision making.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Falcons and all of our other businesses are built upon a foundation of values that drive our decision making.
+Falcons fined, lose draft pick for using fake crowd noise.
+1 matches: falcon
+
+Source Sentence and Story Headline Match:
+The Falcons and all of our other businesses are built upon a foundation of values that drive our decision making.
+Atlanta Falcons to lose NFL draft pick for fake crowd noise in stadium.
+1 matches: falcon
+
+Source Sentence and Best Story Sentence Match:
+The Falcons and all of our other businesses are built upon a foundation of values that drive our decision making.
+The NFL announced on March 30 that the Atlanta Falcons must forfeit a fifth-round pick in the 2016 draft and pay a $350,000 fine for pumping artificial crowd noise into the Georgia Dome at moments when opposing teams were calling plays during the 2013 and 2014 seasons.
+1 matches: falcon
+
+----------------
+
+sent_14:
+14 out of 15 sentences
+7 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+This issue was a clear failure in that regard.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+This issue was a clear failure in that regard.
+Falcons fined, lose draft pick for using fake crowd noise.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+This issue was a clear failure in that regard.
+Atlanta Falcons to lose NFL draft pick for fake crowd noise in stadium.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_15:
+15 out of 15 sentences
+7 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+I apologize for any embarrassment this situation has caused the NFL, our fans, and our Falcons players and associates."
+1 default entities: ORGANIZATION NFL
+1 custom entities: ORGANIZATION NFL
+
+Source Sentence and Source Headline Match:
+I apologize for any embarrassment this situation has caused the NFL, our fans, and our Falcons players and associates."
+Falcons fined, lose draft pick for using fake crowd noise.
+1 matches: falcon
+
+Source Sentence and Story Headline Match:
+I apologize for any embarrassment this situation has caused the NFL, our fans, and our Falcons players and associates."
+Atlanta Falcons to lose NFL draft pick for fake crowd noise in stadium.
+2 matches: falcon, nfl
+
+Source Sentence and Best Story Sentence Match:
+I apologize for any embarrassment this situation has caused the NFL, our fans, and our Falcons players and associates."
+The NFL announced on March 30 that the Atlanta Falcons must forfeit a fifth-round pick in the 2016 draft and pay a $350,000 fine for pumping artificial crowd noise into the Georgia Dome at moments when opposing teams were calling plays during the 2013 and 2014 seasons.
+2 matches: falcon, nfl
+
+----------------
+

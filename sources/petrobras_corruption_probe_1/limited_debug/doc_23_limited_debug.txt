@@ -1,0 +1,340 @@
+sent_1:
+
+Petrobras’s earnings report answers the question of costs from a graft scandal while posing a much bigger one: how can the state-run oil driller change a culture of mismanagement that led to record losses and debt.
+In its first audited financial results since Aug. 2014, Petrobras reported on April 22 that it lost $8.8 billion in Q4 2014 due to corruption, oil price pressures, refinery cost overruns, and other factors.
+3 best matches: report, cost, oil
+
+----------------
+sent_2:
+
+Reporting its first audited results since August, Brazil’s national oil company disclosed a 44.6 billion-real ($15 billion) impairment, mainly from overpriced and unfinished refinery projects.
+In its first audited financial results since Aug. 2014, Petrobras reported on April 22 that it lost $8.8 billion in Q4 2014 due to corruption, oil price pressures, refinery cost overruns, and other factors.
+8 best matches: refinery, billion, report, since, first, oil, result, audit
+
+----------------
+sent_3:
+
+That charge overshadowed a 6.2 billion-real corruption-linked writedown and drove a 2014 net loss of 21.6 billion reais that wiped out dividend payments.
+Petrobras lost over $17 billion in 2014 from graft and overvalued assets, according to CEO Aldemir Bendine on April 22.
+2 best matches: billion, 2014
+
+----------------
+sent_4:
+
+no story sentence best matches found
+
+----------------
+sent_5:
+
+While the release of earnings after a five-month internal debate on graft writedowns clears the way for a return to bond markets, Chief Executive Officer Aldemir Bendine is still grappling with a way to contain losses and reduce the oil industry’s biggest debt load at a time of near six-year low crude prices.
+Petrobras lost over $17 billion in 2014 from graft and overvalued assets, according to CEO Aldemir Bendine on April 22.
+3 best matches: aldemir, graft, bendine
+
+----------------
+sent_6:
+
+All as the graft scandal continues to unfold.
+Julio Marcelo de Oliveira, prosecutor for Brazil, asked the country's Federal Audits Court on Feb. 19 to stop "leniency agreements" that allow companies accused of involvement in the Petrobras scandal to continue bidding on federal contracts while still under investigation.
+2 best matches: continue, scandal
+
+----------------
+sent_7:
+
+“It’s still hard for investors to decide what to do with the stock,” Celson Placido, strategist and partner at brokerage firm XP Investimentos, said by telephone interview from Sao Paulo.
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+1 best matches: say
+
+----------------
+sent_8:
+
+“Recognizing only 6 billion reais of losses related to corruption means the rest of the losses are due to incompetence.
+In its first audited financial results since Aug. 2014, Petrobras reported on April 22 that it lost $8.8 billion in Q4 2014 due to corruption, oil price pressures, refinery cost overruns, and other factors.
+3 best matches: corruption, billion, due
+
+----------------
+sent_9:
+
+no story sentence best matches found
+
+----------------
+sent_10:
+
+A combination of missed production targets, mounting debt and gasoline subsidies has eroded confidence in the biggest producer in deep waters, shrinking its market value to about $60 billion from $310 billion in 2008.
+Petrobras lost over $17 billion in 2014 from graft and overvalued assets, according to CEO Aldemir Bendine on April 22.
+1 best matches: billion
+
+----------------
+sent_11:
+
+The list of troubles at Petrobras swelled since last year when police arrested its former head of refining, Paulo Roberto Costa, revealing a money-laundering and corruption scandal.
+A wide-ranging corruption probe launched after the March 2014 arrest of Paulo Roberto Costa, Petrobras' former chief of refining.
+7 best matches: former, corruption, petrobras, paulo, arrest, costa, roberto
+
+----------------
+sent_12:
+
+A lack of consensus within the company over the size of the writedowns prompted CEO Maria das Gracas Foster to resign.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+1 best matches: company
+
+----------------
+sent_13:
+
+She was replaced Feb. 6 by Bendine, the former CEO of state-run Banco do Brasil SA.
+Petrobras lost over $17 billion in 2014 from graft and overvalued assets, according to CEO Aldemir Bendine on April 22.
+2 best matches: ceo, bendine
+
+----------------
+sent_14:
+
+Petrobras has been taking measures to strengthen its corporate governance and internal controls, including the establishment of a new compliance, governance and risk directory, and is seeking reimbursement for damages.
+Seeking leniency, Costa shed light on $3.7 billion in questionable payments Petrobras made from slush funds to Brazil's Workers' Party and other political parties.
+2 best matches: petrobras, seek
+
+----------------
+sent_15:
+
+The company’s American depositary receipts have climbed 12 percent since April 13, when the company said it would present the delayed results to the board.
+In its first audited financial results since Aug. 2014, Petrobras reported on April 22 that it lost $8.8 billion in Q4 2014 due to corruption, oil price pressures, refinery cost overruns, and other factors.
+3 best matches: result, april, since
+
+----------------
+sent_16:
+
+Shares were down 4 percent to 12.60 reais at 12:49 p.m. in Sao Paulo while bonds due 2024 rallied 1.9 cents on the dollar.
+In its first audited financial results since Aug. 2014, Petrobras reported on April 22 that it lost $8.8 billion in Q4 2014 due to corruption, oil price pressures, refinery cost overruns, and other factors.
+1 best matches: due
+
+----------------
+sent_17:
+
+“Today is an important day, not only for us but for the whole company,” Bendine told reporters on Wednesday in Rio de Janeiro.
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+2 best matches: day, bendine
+
+----------------
+sent_18:
+
+He opted not to pay dividends to preserve cash and reduced the 2016 investment budget by 37 percent to $25 billion.
+Brazil's federal prosecutors said Feb. 19 that they will seek about $1.55 billion in compensation from six construction and engineering companies accused of paying bribes to Petrobras.
+2 best matches: pay, billion
+
+----------------
+sent_19:
+
+no story sentence best matches found
+
+----------------
+sent_20:
+
+The so-called Carwash scandal has made it more difficult for Brazilian President Dilma Rousseff, a former chairman of Petrobras, to enact economic reforms as her popularity falls to all-time lows.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+3 best matches: brazilian, petrobras, scandal
+
+----------------
+sent_21:
+
+The investigation has also cast a shadow over the nation’s bond market, with no Brazilian companies selling debt overseas since Nov. 14.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+2 best matches: brazilian, company
+
+----------------
+sent_22:
+
+“One of the darkest clouds hanging over Brazil is being lifted,” said Nicholas Spiro, the managing director at Spiro Sovereign Strategy in London.
+Bern-based federal prosecutors said in a March 18 statement that the frozen assets were identified in more than 300 accounts in 30 banks and were used for bribery in Brazil.
+2 best matches: say, brazil
+
+----------------
+sent_23:
+
+“Yet while the company may avert a technical default, the fallout from the scandal has yet to run its course.
+The bribery and corruption scandal alone, dubbed "Operation Car Wash," cost the company $2.1 billion.
+2 best matches: company, scandal
+
+----------------
+sent_24:
+
+More importantly, the political damage from the affair is huge.”
+Seeking leniency, Costa shed light on $3.7 billion in questionable payments Petrobras made from slush funds to Brazil's Workers' Party and other political parties.
+1 best matches: political
+
+----------------
+sent_25:
+
+While Petrobras, known formally as Petroleo Brasileiro SA, still has “giant” challenges ahead, the reported losses are in line with analyst estimates, according to Adriano Pires, the head of Rio-based consultancy CBIE.
+Petrobras lost over $17 billion in 2014 from graft and overvalued assets, according to CEO Aldemir Bendine on April 22.
+2 best matches: accord, petrobras
+
+----------------
+sent_26:
+
+Impairments include about 31 billion reais for delays and overruns at the Abreu e Lima and Comperj processing plants and 10 billion reais to reflect lower energy prices.
+In its first audited financial results since Aug. 2014, Petrobras reported on April 22 that it lost $8.8 billion in Q4 2014 due to corruption, oil price pressures, refinery cost overruns, and other factors.
+3 best matches: overrun, billion, price
+
+----------------
+sent_27:
+
+The company will present a revised business plan in about 30 days, Bendine said.
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+6 best matches: plan, business, 30, day, bendine, say
+
+----------------
+sent_28:
+
+“After years of over promising and under delivering, they are finally setting expectations low enough that they can beat them,” James Gulbrandsen, a Rio de Janeiro-based partner and chief investment officer at NCH Brazil, said in an e-mail.
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+2 best matches: year, say
+
+----------------
+sent_29:
+
+no story sentence best matches found
+
+----------------
+sent_30:
+
+While Petrobras isn’t interested in selling production assets in its so-called pre-salt fields, it doesn’t rule out selling high-risk exploration partnerships there, Bendine said.
+Petrobras lost over $17 billion in 2014 from graft and overvalued assets, according to CEO Aldemir Bendine on April 22.
+3 best matches: petrobras, asset, bendine
+
+----------------
+sent_31:
+
+He said Royal Dutch Shell Plc, which agreed to buy BG Group Plc, may seek more pre-salt partnerships.
+Brazil's federal prosecutors said Feb. 19 that they will seek about $1.55 billion in compensation from six construction and engineering companies accused of paying bribes to Petrobras.
+2 best matches: say, seek
+
+----------------
+sent_32:
+
+Petrobras had its credit rating cut to junk by Moody’s Investors Service on Feb. 24.
+Credit ratings firm Standard & Poor's on March 23 cut its outlook on Petrobras to negative from stable after affirming the company's BBB-, or "junk," status.
+5 best matches: rating, credit, junk, cut, petrobras
+
+----------------
+sent_33:
+
+Releasing earnings, which were delayed as the company grappled with a way to book graft costs, averts a potential acceleration of debt payments.
+The bribery and corruption scandal alone, dubbed "Operation Car Wash," cost the company $2.1 billion.
+2 best matches: company, cost
+
+----------------
+sent_34:
+
+This month, Petrobras obtained more than $9 billion from bank loans, credit lines and a platform sale and leaseback accord to cover funding needs for 2015.
+Petrobras lost over $17 billion in 2014 from graft and overvalued assets, according to CEO Aldemir Bendine on April 22.
+3 best matches: accord, petrobras, billion
+
+----------------
+sent_35:
+
+The company is considering selling local bonds in Brazil this year and may tap new markets to raise funds for 2016, Chief Financial Officer Ivan Monteiro said Wednesday.
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+2 best matches: year, say
+
+----------------
+sent_36:
+
+Funding needs for 2016 have been met.
+Seeking leniency, Costa shed light on $3.7 billion in questionable payments Petrobras made from slush funds to Brazil's Workers' Party and other political parties.
+1 best matches: fund
+
+----------------
+sent_37:
+
+Full-year sales rose 11 percent in 2014 to 337.26 billion reais, the company said in Wednesday’s statement.
+Brazil's federal prosecutors said Feb. 19 that they will seek about $1.55 billion in compensation from six construction and engineering companies accused of paying bribes to Petrobras.
+3 best matches: company, say, billion
+
+----------------
+sent_38:
+
+The refining unit posted the largest operating loss in the year of 57.4 billion reais.
+Petrobras lost over $17 billion in 2014 from graft and overvalued assets, according to CEO Aldemir Bendine on April 22.
+1 best matches: billion
+
+----------------
+sent_39:
+
+Investments fell 17 percent in 2014 to 87 billion reais.
+Petrobras lost over $17 billion in 2014 from graft and overvalued assets, according to CEO Aldemir Bendine on April 22.
+3 best matches: 17, billion, 2014
+
+----------------
+sent_40:
+
+“The Petrobras investment case relies on the company’s ability to de-leverage its balance sheet in the upcoming quarters,” HSBC Holdings Plc analyst Luiz Felipe Carvalho said in a note to investors.
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+2 best matches: say, petrobras
+
+----------------
+sent_41:
+
+no story sentence best matches found
+
+----------------
+sent_42:
+
+Petrobras has missed annual production goals each year in the past decade.
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+2 best matches: year, petrobras
+
+----------------
+sent_43:
+
+While output from its pre-salt discoveries has risen to more than 700,000 barrels a day, the decline in older reservoirs together with operational delays have largely eroded the gains.
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+1 best matches: day
+
+----------------
+sent_44:
+
+Investors should be cautious about Petrobras’s growth prospects because locally built production vessels face delays and higher-than-expected maintenance stoppages at offshore fields, according to Credit Suisse Group AG.
+Petrobras lost over $17 billion in 2014 from graft and overvalued assets, according to CEO Aldemir Bendine on April 22.
+1 best matches: accord
+
+----------------
+sent_45:
+
+Since 2011, the government has forced the company to sell gasoline and diesel at below-market prices, an inflation-fighting measure that generated tens of billions of dollars in operating losses at its refining division.
+In its first audited financial results since Aug. 2014, Petrobras reported on April 22 that it lost $8.8 billion in Q4 2014 due to corruption, oil price pressures, refinery cost overruns, and other factors.
+3 best matches: since, billion, price
+
+----------------
+sent_46:
+
+Petrobras took on an additional $35 billion in debt over the period as a result of the policy, according to Credit Suisse.
+Petrobras lost over $17 billion in 2014 from graft and overvalued assets, according to CEO Aldemir Bendine on April 22.
+3 best matches: accord, petrobras, billion
+
+----------------
+sent_47:
+
+Petrobras is selling imported gasoline and diesel at a small premium following the drop in global crude prices, and is unlikely to increase them anytime soon, according to Credit Suisse.
+Petrobras lost over $17 billion in 2014 from graft and overvalued assets, according to CEO Aldemir Bendine on April 22.
+2 best matches: accord, petrobras
+
+----------------
+sent_48:
+
+The company will release an updated five-year business plan in 30 days that includes “competitive pricing” for fuel and focuses on reducing the debt burden, CFO Monteiro said in a conference call Thursday.
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+6 best matches: plan, business, 30, day, say, release
+
+----------------
+sent_49:
+
+“The publication of results is just the kickoff for resuming other discussions in the company,” Karina Freitas, an analyst at brokerage Concordia, said by telephone from Sao Paulo before the release.
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+2 best matches: say, release
+
+----------------
+sent_50:
+
+“Once there’s a clear signal on leverage levels, the next step would be the operational side: production levels, fuel price policies, investments.”
+In its first audited financial results since Aug. 2014, Petrobras reported on April 22 that it lost $8.8 billion in Q4 2014 due to corruption, oil price pressures, refinery cost overruns, and other factors.
+1 best matches: price
+
+----------------

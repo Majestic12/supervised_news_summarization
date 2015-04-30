@@ -1,0 +1,919 @@
+sent_1:
+1 out of 34 sentences
+1 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Netflix’s new sitcom Unbreakable Kimmy Schmidt migrated to the streaming service when NBC left the show swaddled on Netflix’s doorstep, unable to nurture another cult-ready comedy as the network shifted its focus to drama development.
+4 default entities: PERSON Netflix, PERSON Unbreakable Kimmy Schmidt, ORGANIZATION NBC, PERSON Netflix
+2 custom entities: PERSON Unbreakable Kimmy Schmidt, ORGANIZATION NBC
+
+Source Sentence and Source Headline Match:
+Netflix’s new sitcom Unbreakable Kimmy Schmidt migrated to the streaming service when NBC left the show swaddled on Netflix’s doorstep, unable to nurture another cult-ready comedy as the network shifted its focus to drama development.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+4 matches: schmidt, sitcom, kimmy, unbreakable
+
+Source Sentence and Story Headline Match:
+Netflix’s new sitcom Unbreakable Kimmy Schmidt migrated to the streaming service when NBC left the show swaddled on Netflix’s doorstep, unable to nurture another cult-ready comedy as the network shifted its focus to drama development.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Netflix’s new sitcom Unbreakable Kimmy Schmidt migrated to the streaming service when NBC left the show swaddled on Netflix’s doorstep, unable to nurture another cult-ready comedy as the network shifted its focus to drama development.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+4 matches: comedy, schmidt, kimmy, unbreakable
+
+----------------
+
+sent_2:
+2 out of 34 sentences
+1 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The move had the ring of a no-confidence vote.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The move had the ring of a no-confidence vote.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The move had the ring of a no-confidence vote.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_3:
+3 out of 34 sentences
+1 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Kimmy Schmidt, created by 30 Rock’s Tina Fey and Robert Carlock, is based on an elaborate premise that seems unworkable from its logline, making it the sort of thing Netflix can capriciously buy at a network fire sale without denting its war chest.
+5 default entities: PERSON Kimmy Schmidt, PERSON Rock, PERSON Tina Fey, PERSON Robert Carlock, PERSON Netflix
+5 custom entities: PERSON Kimmy, PERSON Schmidt, PERSON Tina Fey, PERSON Robert Carlock, PERSON Netflix
+
+Source Sentence and Source Headline Match:
+Kimmy Schmidt, created by 30 Rock’s Tina Fey and Robert Carlock, is based on an elaborate premise that seems unworkable from its logline, making it the sort of thing Netflix can capriciously buy at a network fire sale without denting its war chest.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+3 matches: schmidt, kimmy, netflix
+
+Source Sentence and Story Headline Match:
+Kimmy Schmidt, created by 30 Rock’s Tina Fey and Robert Carlock, is based on an elaborate premise that seems unworkable from its logline, making it the sort of thing Netflix can capriciously buy at a network fire sale without denting its war chest.
+Netflix confirms reboot of "Full House"
+1 matches: netflix
+
+Source Sentence and Best Story Sentence Match:
+Kimmy Schmidt, created by 30 Rock’s Tina Fey and Robert Carlock, is based on an elaborate premise that seems unworkable from its logline, making it the sort of thing Netflix can capriciously buy at a network fire sale without denting its war chest.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+4 matches: schmidt, kimmy, netflix, tina
+
+----------------
+
+sent_4:
+4 out of 34 sentences
+1 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Turns out the glass was half-full: Kimmy Schmidt is not only a winning comedy; it exemplifies what a Netflix sitcom should be.
+3 default entities: GPE Turns, PERSON Kimmy Schmidt, GPE Netflix
+3 custom entities: GPE Turns, PERSON Kimmy Schmidt, GPE Netflix
+
+Source Sentence and Source Headline Match:
+Turns out the glass was half-full: Kimmy Schmidt is not only a winning comedy; it exemplifies what a Netflix sitcom should be.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+4 matches: schmidt, sitcom, kimmy, netflix
+
+Source Sentence and Story Headline Match:
+Turns out the glass was half-full: Kimmy Schmidt is not only a winning comedy; it exemplifies what a Netflix sitcom should be.
+Netflix confirms reboot of "Full House"
+1 matches: netflix
+
+Source Sentence and Best Story Sentence Match:
+Turns out the glass was half-full: Kimmy Schmidt is not only a winning comedy; it exemplifies what a Netflix sitcom should be.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+4 matches: comedy, schmidt, kimmy, netflix
+
+----------------
+
+sent_5:
+5 out of 34 sentences
+2 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Ellie Kemper stars as the title character, who decides to make a go of it in Manhattan after being rescued from the nuclear fallout shelter she called home for 15 years.
+3 default entities: PERSON Ellie, ORGANIZATION Kemper, GPE Manhattan
+3 custom entities: PERSON Ellie, ORGANIZATION Kemper, GPE Manhattan
+
+Source Sentence and Source Headline Match:
+Ellie Kemper stars as the title character, who decides to make a go of it in Manhattan after being rescued from the nuclear fallout shelter she called home for 15 years.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Ellie Kemper stars as the title character, who decides to make a go of it in Manhattan after being rescued from the nuclear fallout shelter she called home for 15 years.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Ellie Kemper stars as the title character, who decides to make a go of it in Manhattan after being rescued from the nuclear fallout shelter she called home for 15 years.
+"Daredevil," which stars British actor Charlie Cox as the title character, debuted on Netflix on April 10.
+3 matches: star, title, character
+
+----------------
+
+sent_6:
+6 out of 34 sentences
+2 out of 9 paragraphs
+Tagged as a quote
+
+Sentence:
+Kimmy is one of the four “Indiana mole women,” who were convinced by a fire-and-brimstone cult leader that an apocalypse had razed the earth and the shelter was the only inhabitable place left.
+1 default entities: PERSON Kimmy
+2 custom entities: PERSON Kimmy, GPE Indiana
+
+Source Sentence and Source Headline Match:
+Kimmy is one of the four “Indiana mole women,” who were convinced by a fire-and-brimstone cult leader that an apocalypse had razed the earth and the shelter was the only inhabitable place left.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+1 matches: kimmy
+
+Source Sentence and Story Headline Match:
+Kimmy is one of the four “Indiana mole women,” who were convinced by a fire-and-brimstone cult leader that an apocalypse had razed the earth and the shelter was the only inhabitable place left.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Kimmy is one of the four “Indiana mole women,” who were convinced by a fire-and-brimstone cult leader that an apocalypse had razed the earth and the shelter was the only inhabitable place left.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+1 matches: kimmy
+
+----------------
+
+sent_7:
+7 out of 34 sentences
+2 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The women head to New York City as part of the obligatory media gauntlet, and Kimmy decides to stay there, choosing to shed her past in the city’s anonymizing bustle rather than let her involvement in a news oddity define her life.
+2 default entities: GPE New York City, PERSON Kimmy
+2 custom entities: GPE New York City, PERSON Kimmy
+
+Source Sentence and Source Headline Match:
+The women head to New York City as part of the obligatory media gauntlet, and Kimmy decides to stay there, choosing to shed her past in the city’s anonymizing bustle rather than let her involvement in a news oddity define her life.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+1 matches: kimmy
+
+Source Sentence and Story Headline Match:
+The women head to New York City as part of the obligatory media gauntlet, and Kimmy decides to stay there, choosing to shed her past in the city’s anonymizing bustle rather than let her involvement in a news oddity define her life.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The women head to New York City as part of the obligatory media gauntlet, and Kimmy decides to stay there, choosing to shed her past in the city’s anonymizing bustle rather than let her involvement in a news oddity define her life.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+1 matches: kimmy
+
+----------------
+
+sent_8:
+8 out of 34 sentences
+3 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The backstory is a lot to digest, and though the pilot zooms a bit too quickly through the exposition, Fey and Carlock efficiently set the table so they can focus on unleashing Kimmy on a city of unwitting curmudgeons.
+3 default entities: PERSON Fey, PERSON Carlock, PERSON Kimmy
+3 custom entities: PERSON Fey, PERSON Carlock, PERSON Kimmy
+
+Source Sentence and Source Headline Match:
+The backstory is a lot to digest, and though the pilot zooms a bit too quickly through the exposition, Fey and Carlock efficiently set the table so they can focus on unleashing Kimmy on a city of unwitting curmudgeons.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+1 matches: kimmy
+
+Source Sentence and Story Headline Match:
+The backstory is a lot to digest, and though the pilot zooms a bit too quickly through the exposition, Fey and Carlock efficiently set the table so they can focus on unleashing Kimmy on a city of unwitting curmudgeons.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The backstory is a lot to digest, and though the pilot zooms a bit too quickly through the exposition, Fey and Carlock efficiently set the table so they can focus on unleashing Kimmy on a city of unwitting curmudgeons.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+1 matches: kimmy
+
+----------------
+
+sent_9:
+9 out of 34 sentences
+3 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Kimmy is the world-weary Manhattanite’s nightmare, an unfailingly cheerful spinning top with an almost-intimidating optimism.
+1 default entities: PERSON Kimmy
+1 custom entities: PERSON Kimmy
+
+Source Sentence and Source Headline Match:
+Kimmy is the world-weary Manhattanite’s nightmare, an unfailingly cheerful spinning top with an almost-intimidating optimism.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+1 matches: kimmy
+
+Source Sentence and Story Headline Match:
+Kimmy is the world-weary Manhattanite’s nightmare, an unfailingly cheerful spinning top with an almost-intimidating optimism.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Kimmy is the world-weary Manhattanite’s nightmare, an unfailingly cheerful spinning top with an almost-intimidating optimism.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+1 matches: kimmy
+
+----------------
+
+sent_10:
+10 out of 34 sentences
+3 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Kimmy approaches everything as a delightful adventure, finding joy in such soul-draining, quotidian tasks like landing a job or finding an apartment.
+1 default entities: GPE Kimmy
+1 custom entities: GPE Kimmy
+
+Source Sentence and Source Headline Match:
+Kimmy approaches everything as a delightful adventure, finding joy in such soul-draining, quotidian tasks like landing a job or finding an apartment.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+1 matches: kimmy
+
+Source Sentence and Story Headline Match:
+Kimmy approaches everything as a delightful adventure, finding joy in such soul-draining, quotidian tasks like landing a job or finding an apartment.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Kimmy approaches everything as a delightful adventure, finding joy in such soul-draining, quotidian tasks like landing a job or finding an apartment.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+1 matches: kimmy
+
+----------------
+
+sent_11:
+11 out of 34 sentences
+3 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+As someone who, up until recently, was convinced there was no civilization left, Kimmy is unable to take anything for granted, not even the tiny indignities that can make big-city living so brutal.
+1 default entities: PERSON Kimmy
+1 custom entities: PERSON Kimmy
+
+Source Sentence and Source Headline Match:
+As someone who, up until recently, was convinced there was no civilization left, Kimmy is unable to take anything for granted, not even the tiny indignities that can make big-city living so brutal.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+1 matches: kimmy
+
+Source Sentence and Story Headline Match:
+As someone who, up until recently, was convinced there was no civilization left, Kimmy is unable to take anything for granted, not even the tiny indignities that can make big-city living so brutal.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+As someone who, up until recently, was convinced there was no civilization left, Kimmy is unable to take anything for granted, not even the tiny indignities that can make big-city living so brutal.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+1 matches: kimmy
+
+----------------
+
+sent_12:
+12 out of 34 sentences
+4 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Kimmy Schmidt is built from standard fish-out-of-water comedy parts, including the boss and roommate who find themselves equally inspired and confounded by their new addition.
+2 default entities: PERSON Kimmy, ORGANIZATION Schmidt
+2 custom entities: PERSON Kimmy, ORGANIZATION Schmidt
+
+Source Sentence and Source Headline Match:
+Kimmy Schmidt is built from standard fish-out-of-water comedy parts, including the boss and roommate who find themselves equally inspired and confounded by their new addition.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+2 matches: schmidt, kimmy
+
+Source Sentence and Story Headline Match:
+Kimmy Schmidt is built from standard fish-out-of-water comedy parts, including the boss and roommate who find themselves equally inspired and confounded by their new addition.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Kimmy Schmidt is built from standard fish-out-of-water comedy parts, including the boss and roommate who find themselves equally inspired and confounded by their new addition.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+5 matches: include, comedy, addition, kimmy, schmidt
+
+----------------
+
+sent_13:
+13 out of 34 sentences
+4 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Here, the roommate is Titus (Tituss Burgess), a reclusive, downtrodden, would-be actor frustrated that his efforts to break into show business have only yielded a job passing out fliers in Times Square while wearing an Iron Man-esque robot costume.
+4 default entities: GPE Titus, PERSON Tituss Burgess, GPE Times, PERSON Iron
+3 custom entities: PERSON Titus Tituss Burgess, GPE Times, PERSON Iron
+
+Source Sentence and Source Headline Match:
+Here, the roommate is Titus (Tituss Burgess), a reclusive, downtrodden, would-be actor frustrated that his efforts to break into show business have only yielded a job passing out fliers in Times Square while wearing an Iron Man-esque robot costume.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Here, the roommate is Titus (Tituss Burgess), a reclusive, downtrodden, would-be actor frustrated that his efforts to break into show business have only yielded a job passing out fliers in Times Square while wearing an Iron Man-esque robot costume.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Here, the roommate is Titus (Tituss Burgess), a reclusive, downtrodden, would-be actor frustrated that his efforts to break into show business have only yielded a job passing out fliers in Times Square while wearing an Iron Man-esque robot costume.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+1 matches: show
+
+----------------
+
+sent_14:
+14 out of 34 sentences
+4 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Jacqueline (Jane Krakowski), a vapid, Upper West Side fembot, drafts Kimmy to be her nanny after she lies to conceal her mole-woman infamy.
+4 default entities: GPE Jacqueline, PERSON Jane Krakowski, PERSON Upper West Side, PERSON Kimmy
+4 custom entities: PERSON Jacqueline, PERSON Jane Krakowski, LOCATION Upper West Side, PERSON Kimmy
+
+Source Sentence and Source Headline Match:
+Jacqueline (Jane Krakowski), a vapid, Upper West Side fembot, drafts Kimmy to be her nanny after she lies to conceal her mole-woman infamy.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+1 matches: kimmy
+
+Source Sentence and Story Headline Match:
+Jacqueline (Jane Krakowski), a vapid, Upper West Side fembot, drafts Kimmy to be her nanny after she lies to conceal her mole-woman infamy.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Jacqueline (Jane Krakowski), a vapid, Upper West Side fembot, drafts Kimmy to be her nanny after she lies to conceal her mole-woman infamy.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+1 matches: kimmy
+
+----------------
+
+sent_15:
+15 out of 34 sentences
+5 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The show hinges on its lead actress, and Kemper is revelatory as Kimmy, a role that caters perfectly to the actor’s strengths.
+2 default entities: GPE Kemper, PERSON Kimmy
+2 custom entities: GPE Kemper, PERSON Kimmy
+
+Source Sentence and Source Headline Match:
+The show hinges on its lead actress, and Kemper is revelatory as Kimmy, a role that caters perfectly to the actor’s strengths.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+1 matches: kimmy
+
+Source Sentence and Story Headline Match:
+The show hinges on its lead actress, and Kemper is revelatory as Kimmy, a role that caters perfectly to the actor’s strengths.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The show hinges on its lead actress, and Kemper is revelatory as Kimmy, a role that caters perfectly to the actor’s strengths.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+1 matches: show
+
+----------------
+
+sent_16:
+16 out of 34 sentences
+5 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Kimmy is sensitive and guileless, but with a sturdy backbone and moxie to spare, a balance Kemper perfected while starring in The Office as Erin Hannon, a character with a similar silhouette.
+3 default entities: PERSON Kimmy, PERSON Kemper, PERSON Erin Hannon
+3 custom entities: PERSON Kimmy, PERSON Kemper, PERSON Erin Hannon
+
+Source Sentence and Source Headline Match:
+Kimmy is sensitive and guileless, but with a sturdy backbone and moxie to spare, a balance Kemper perfected while starring in The Office as Erin Hannon, a character with a similar silhouette.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+1 matches: kimmy
+
+Source Sentence and Story Headline Match:
+Kimmy is sensitive and guileless, but with a sturdy backbone and moxie to spare, a balance Kemper perfected while starring in The Office as Erin Hannon, a character with a similar silhouette.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Kimmy is sensitive and guileless, but with a sturdy backbone and moxie to spare, a balance Kemper perfected while starring in The Office as Erin Hannon, a character with a similar silhouette.
+"Daredevil," which stars British actor Charlie Cox as the title character, debuted on Netflix on April 10.
+1 matches: character
+
+----------------
+
+sent_17:
+17 out of 34 sentences
+5 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Kimmy could easily overwhelm an audience the same way she overwhelms those around her with manic joy, but she never feels like too much of a good thing.
+1 default entities: PERSON Kimmy
+1 custom entities: PERSON Kimmy
+
+Source Sentence and Source Headline Match:
+Kimmy could easily overwhelm an audience the same way she overwhelms those around her with manic joy, but she never feels like too much of a good thing.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+1 matches: kimmy
+
+Source Sentence and Story Headline Match:
+Kimmy could easily overwhelm an audience the same way she overwhelms those around her with manic joy, but she never feels like too much of a good thing.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Kimmy could easily overwhelm an audience the same way she overwhelms those around her with manic joy, but she never feels like too much of a good thing.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+1 matches: kimmy
+
+----------------
+
+sent_18:
+18 out of 34 sentences
+5 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+That’s a result of Kemper’s savvy performance as well as the scripts she’s working with, which allow Kimmy moments of loneliness and doubt even she remains a beacon of positivity.
+2 default entities: GPE Kemper, PERSON Kimmy
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+That’s a result of Kemper’s savvy performance as well as the scripts she’s working with, which allow Kimmy moments of loneliness and doubt even she remains a beacon of positivity.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+1 matches: kimmy
+
+Source Sentence and Story Headline Match:
+That’s a result of Kemper’s savvy performance as well as the scripts she’s working with, which allow Kimmy moments of loneliness and doubt even she remains a beacon of positivity.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+That’s a result of Kemper’s savvy performance as well as the scripts she’s working with, which allow Kimmy moments of loneliness and doubt even she remains a beacon of positivity.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+1 matches: kimmy
+
+----------------
+
+sent_19:
+19 out of 34 sentences
+6 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+30 Rock fans lured by Fey and Carlock’s involvement will find lots to love about Kimmy Schmidt.
+3 default entities: PERSON Fey, PERSON Carlock, PERSON Kimmy Schmidt
+2 custom entities: PERSON Fey, PERSON Kimmy Schmidt
+
+Source Sentence and Source Headline Match:
+30 Rock fans lured by Fey and Carlock’s involvement will find lots to love about Kimmy Schmidt.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+2 matches: schmidt, kimmy
+
+Source Sentence and Story Headline Match:
+30 Rock fans lured by Fey and Carlock’s involvement will find lots to love about Kimmy Schmidt.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+30 Rock fans lured by Fey and Carlock’s involvement will find lots to love about Kimmy Schmidt.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+2 matches: schmidt, kimmy
+
+----------------
+
+sent_20:
+20 out of 34 sentences
+6 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The show doesn’t crank out gags at the same overwhelming frequency as 30 Rock, but from its earliest moments, Kimmy Schmidt brims with a comic sensibility recognizable as Fey’s.
+2 default entities: PERSON Kimmy Schmidt, PERSON Fey
+1 custom entities: PERSON Kimmy Schmidt
+
+Source Sentence and Source Headline Match:
+The show doesn’t crank out gags at the same overwhelming frequency as 30 Rock, but from its earliest moments, Kimmy Schmidt brims with a comic sensibility recognizable as Fey’s.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+2 matches: schmidt, kimmy
+
+Source Sentence and Story Headline Match:
+The show doesn’t crank out gags at the same overwhelming frequency as 30 Rock, but from its earliest moments, Kimmy Schmidt brims with a comic sensibility recognizable as Fey’s.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The show doesn’t crank out gags at the same overwhelming frequency as 30 Rock, but from its earliest moments, Kimmy Schmidt brims with a comic sensibility recognizable as Fey’s.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+2 matches: schmidt, kimmy
+
+----------------
+
+sent_21:
+21 out of 34 sentences
+6 out of 9 paragraphs
+Tagged as a quote
+
+Sentence:
+As Kimmy and her fellow captives are shown emerging from the bunker in a local news report, the chyron reads: “White Women Found.” Underneath, in a far smaller font: “Hispanic woman also found.” Krakowski and Burgess are soothing presences for 30 Rock devotees, but Jacqueline and Titus’ absurdity pales in comparison to that of Jenna or D’Fwan, indicative of Kimmy Schmidt’s commitment to more earthbound storytelling.
+7 default entities: PERSON Kimmy, PERSON Krakowski, ORGANIZATION Burgess, PERSON Jacqueline, PERSON Titus, PERSON Jenna, PERSON Kimmy Schmidt
+8 custom entities: PERSON Kimmy, FACILITY White Women Found Underneath, PERSON Krakowski, ORGANIZATION Burgess, PERSON Jacqueline, GPE Titus, PERSON Jenna, PERSON Kimmy
+
+Source Sentence and Source Headline Match:
+As Kimmy and her fellow captives are shown emerging from the bunker in a local news report, the chyron reads: “White Women Found.” Underneath, in a far smaller font: “Hispanic woman also found.” Krakowski and Burgess are soothing presences for 30 Rock devotees, but Jacqueline and Titus’ absurdity pales in comparison to that of Jenna or D’Fwan, indicative of Kimmy Schmidt’s commitment to more earthbound storytelling.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+1 matches: kimmy
+
+Source Sentence and Story Headline Match:
+As Kimmy and her fellow captives are shown emerging from the bunker in a local news report, the chyron reads: “White Women Found.” Underneath, in a far smaller font: “Hispanic woman also found.” Krakowski and Burgess are soothing presences for 30 Rock devotees, but Jacqueline and Titus’ absurdity pales in comparison to that of Jenna or D’Fwan, indicative of Kimmy Schmidt’s commitment to more earthbound storytelling.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+As Kimmy and her fellow captives are shown emerging from the bunker in a local news report, the chyron reads: “White Women Found.” Underneath, in a far smaller font: “Hispanic woman also found.” Krakowski and Burgess are soothing presences for 30 Rock devotees, but Jacqueline and Titus’ absurdity pales in comparison to that of Jenna or D’Fwan, indicative of Kimmy Schmidt’s commitment to more earthbound storytelling.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+1 matches: show
+
+----------------
+
+sent_22:
+22 out of 34 sentences
+7 out of 9 paragraphs
+Tagged as a quote
+
+Sentence:
+Kimmy Schmidt can still get plenty weird—“Who among us is a perfect foot slut?” asks Kimmy—but it isn’t a full-on live-action cartoon.
+2 default entities: PERSON Kimmy, PERSON Schmidt
+2 custom entities: PERSON Kimmy, PERSON Schmidt
+
+Source Sentence and Source Headline Match:
+Kimmy Schmidt can still get plenty weird—“Who among us is a perfect foot slut?” asks Kimmy—but it isn’t a full-on live-action cartoon.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+2 matches: schmidt, kimmy
+
+Source Sentence and Story Headline Match:
+Kimmy Schmidt can still get plenty weird—“Who among us is a perfect foot slut?” asks Kimmy—but it isn’t a full-on live-action cartoon.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Kimmy Schmidt can still get plenty weird—“Who among us is a perfect foot slut?” asks Kimmy—but it isn’t a full-on live-action cartoon.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+2 matches: schmidt, kimmy
+
+----------------
+
+sent_23:
+23 out of 34 sentences
+7 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Granted, the New York City of Kimmy Schmidt is the same one Liz Lemon is constantly griping about in 30 Rock, a trash-shrewn hellmouth populated with jerks and menacing youths.
+3 default entities: GPE Granted, GPE New York City, PERSON Kimmy Schmidt
+2 custom entities: GPE New York City, PERSON Kimmy Schmidt
+
+Source Sentence and Source Headline Match:
+Granted, the New York City of Kimmy Schmidt is the same one Liz Lemon is constantly griping about in 30 Rock, a trash-shrewn hellmouth populated with jerks and menacing youths.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+2 matches: schmidt, kimmy
+
+Source Sentence and Story Headline Match:
+Granted, the New York City of Kimmy Schmidt is the same one Liz Lemon is constantly griping about in 30 Rock, a trash-shrewn hellmouth populated with jerks and menacing youths.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Granted, the New York City of Kimmy Schmidt is the same one Liz Lemon is constantly griping about in 30 Rock, a trash-shrewn hellmouth populated with jerks and menacing youths.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+2 matches: schmidt, kimmy
+
+----------------
+
+sent_24:
+24 out of 34 sentences
+7 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The spiritual link between the shows is always apparent, thanks to another jaunty, jazzy score by Jeff Richmond, in addition to more explicit callbacks—the cult’s leader, Reverend Richard Wayne Gary Wayne, sounds strikingly similar to the wacky religious leader mentioned by Kenneth Parcell.
+3 default entities: PERSON Jeff Richmond, PERSON Reverend Richard Wayne, PERSON Kenneth Parcell
+3 custom entities: PERSON Jeff Richmond, PERSON Reverend Richard Wayne, PERSON Kenneth Parcell
+
+Source Sentence and Source Headline Match:
+The spiritual link between the shows is always apparent, thanks to another jaunty, jazzy score by Jeff Richmond, in addition to more explicit callbacks—the cult’s leader, Reverend Richard Wayne Gary Wayne, sounds strikingly similar to the wacky religious leader mentioned by Kenneth Parcell.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The spiritual link between the shows is always apparent, thanks to another jaunty, jazzy score by Jeff Richmond, in addition to more explicit callbacks—the cult’s leader, Reverend Richard Wayne Gary Wayne, sounds strikingly similar to the wacky religious leader mentioned by Kenneth Parcell.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The spiritual link between the shows is always apparent, thanks to another jaunty, jazzy score by Jeff Richmond, in addition to more explicit callbacks—the cult’s leader, Reverend Richard Wayne Gary Wayne, sounds strikingly similar to the wacky religious leader mentioned by Kenneth Parcell.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+1 matches: show
+
+----------------
+
+sent_25:
+25 out of 34 sentences
+7 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But Kimmy is the anti-Liz.
+1 default entities: PERSON Kimmy
+1 custom entities: PERSON Kimmy
+
+Source Sentence and Source Headline Match:
+But Kimmy is the anti-Liz.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+1 matches: kimmy
+
+Source Sentence and Story Headline Match:
+But Kimmy is the anti-Liz.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+But Kimmy is the anti-Liz.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+1 matches: kimmy
+
+----------------
+
+sent_26:
+26 out of 34 sentences
+7 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+She isn’t frustrated because her identity is defined by her work; she’s frustrated because her identity isn’t defined at all.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+She isn’t frustrated because her identity is defined by her work; she’s frustrated because her identity isn’t defined at all.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+She isn’t frustrated because her identity is defined by her work; she’s frustrated because her identity isn’t defined at all.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_27:
+27 out of 34 sentences
+7 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+She would love nothing more than for a demanding job to come along and absorb her life.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+She would love nothing more than for a demanding job to come along and absorb her life.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+She would love nothing more than for a demanding job to come along and absorb her life.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_28:
+28 out of 34 sentences
+8 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Kimmy’s journey longs to be told in a heavily serialized way, and to its credit, the show doesn’t hesitate to bury narrative land mines or develop longer arcs.
+1 default entities: PERSON Kimmy
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Kimmy’s journey longs to be told in a heavily serialized way, and to its credit, the show doesn’t hesitate to bury narrative land mines or develop longer arcs.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Kimmy’s journey longs to be told in a heavily serialized way, and to its credit, the show doesn’t hesitate to bury narrative land mines or develop longer arcs.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Kimmy’s journey longs to be told in a heavily serialized way, and to its credit, the show doesn’t hesitate to bury narrative land mines or develop longer arcs.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+1 matches: show
+
+----------------
+
+sent_29:
+29 out of 34 sentences
+8 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+This main character is a vault of secrets, and the writers revel in the mysteries within her, including her inexplicable fear of Velcro and her complex relationships with her three bunker mates, shaded in with sharp cutaway gags.
+1 default entities: GPE Velcro
+1 custom entities: GPE Velcro
+
+Source Sentence and Source Headline Match:
+This main character is a vault of secrets, and the writers revel in the mysteries within her, including her inexplicable fear of Velcro and her complex relationships with her three bunker mates, shaded in with sharp cutaway gags.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+This main character is a vault of secrets, and the writers revel in the mysteries within her, including her inexplicable fear of Velcro and her complex relationships with her three bunker mates, shaded in with sharp cutaway gags.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+This main character is a vault of secrets, and the writers revel in the mysteries within her, including her inexplicable fear of Velcro and her complex relationships with her three bunker mates, shaded in with sharp cutaway gags.
+"Daredevil," which stars British actor Charlie Cox as the title character, debuted on Netflix on April 10.
+1 matches: character
+
+----------------
+
+sent_30:
+30 out of 34 sentences
+8 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It’s the type of comedy storytelling NBC simply can’t get away with anymore, at least not if it intends to change its ratings fate.
+1 default entities: ORGANIZATION NBC
+1 custom entities: ORGANIZATION NBC
+
+Source Sentence and Source Headline Match:
+It’s the type of comedy storytelling NBC simply can’t get away with anymore, at least not if it intends to change its ratings fate.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It’s the type of comedy storytelling NBC simply can’t get away with anymore, at least not if it intends to change its ratings fate.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+It’s the type of comedy storytelling NBC simply can’t get away with anymore, at least not if it intends to change its ratings fate.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+1 matches: comedy
+
+----------------
+
+sent_31:
+31 out of 34 sentences
+8 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+So Kimmy Schmidt is a great fit for Netflix, as its serialization lends it to binge-viewing, as does its run time.
+2 default entities: PERSON Kimmy Schmidt, PERSON Netflix
+2 custom entities: PERSON Kimmy Schmidt, PERSON Netflix
+
+Source Sentence and Source Headline Match:
+So Kimmy Schmidt is a great fit for Netflix, as its serialization lends it to binge-viewing, as does its run time.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+3 matches: schmidt, kimmy, netflix
+
+Source Sentence and Story Headline Match:
+So Kimmy Schmidt is a great fit for Netflix, as its serialization lends it to binge-viewing, as does its run time.
+Netflix confirms reboot of "Full House"
+1 matches: netflix
+
+Source Sentence and Best Story Sentence Match:
+So Kimmy Schmidt is a great fit for Netflix, as its serialization lends it to binge-viewing, as does its run time.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+3 matches: schmidt, kimmy, netflix
+
+----------------
+
+sent_32:
+32 out of 34 sentences
+8 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The show was produced with network television in mind, so all 13 of its 22-minute episodes can be wolfed down on a Saturday afternoon without encroaching on Saturday night.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The show was produced with network television in mind, so all 13 of its 22-minute episodes can be wolfed down on a Saturday afternoon without encroaching on Saturday night.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The show was produced with network television in mind, so all 13 of its 22-minute episodes can be wolfed down on a Saturday afternoon without encroaching on Saturday night.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The show was produced with network television in mind, so all 13 of its 22-minute episodes can be wolfed down on a Saturday afternoon without encroaching on Saturday night.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+1 matches: show
+
+----------------
+
+sent_33:
+33 out of 34 sentences
+9 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Netflix has already committed to a second season of Kimmy Schmidt, which will allow its writers to play a long game with such elements as Jacqueline’s defiant stepdaughter (Dylan Gelula), who feuds with Kimmy and vows to unearth her true identity.
+5 default entities: GPE Netflix, PERSON Kimmy Schmidt, PERSON Jacqueline, PERSON Dylan Gelula, PERSON Kimmy
+4 custom entities: GPE Netflix, PERSON Kimmy Schmidt, PERSON Dylan Gelula, PERSON Kimmy
+
+Source Sentence and Source Headline Match:
+Netflix has already committed to a second season of Kimmy Schmidt, which will allow its writers to play a long game with such elements as Jacqueline’s defiant stepdaughter (Dylan Gelula), who feuds with Kimmy and vows to unearth her true identity.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+3 matches: schmidt, kimmy, netflix
+
+Source Sentence and Story Headline Match:
+Netflix has already committed to a second season of Kimmy Schmidt, which will allow its writers to play a long game with such elements as Jacqueline’s defiant stepdaughter (Dylan Gelula), who feuds with Kimmy and vows to unearth her true identity.
+Netflix confirms reboot of "Full House"
+1 matches: netflix
+
+Source Sentence and Best Story Sentence Match:
+Netflix has already committed to a second season of Kimmy Schmidt, which will allow its writers to play a long game with such elements as Jacqueline’s defiant stepdaughter (Dylan Gelula), who feuds with Kimmy and vows to unearth her true identity.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+4 matches: schmidt, season, kimmy, netflix
+
+----------------
+
+sent_34:
+34 out of 34 sentences
+9 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It’s a happy beginning for Unbreakable Kimmy Schmidt, which like its central character, demonstrates the beauty of shedding the past and starting anew.
+1 default entities: ORGANIZATION Unbreakable Kimmy Schmidt
+1 custom entities: ORGANIZATION Unbreakable Kimmy Schmidt
+
+Source Sentence and Source Headline Match:
+It’s a happy beginning for Unbreakable Kimmy Schmidt, which like its central character, demonstrates the beauty of shedding the past and starting anew.
+Unbreakable Kimmy Schmidt provides a solid template for the Netflix sitcom.
+3 matches: schmidt, kimmy, unbreakable
+
+Source Sentence and Story Headline Match:
+It’s a happy beginning for Unbreakable Kimmy Schmidt, which like its central character, demonstrates the beauty of shedding the past and starting anew.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+It’s a happy beginning for Unbreakable Kimmy Schmidt, which like its central character, demonstrates the beauty of shedding the past and starting anew.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+3 matches: schmidt, kimmy, unbreakable
+
+----------------
+

@@ -1,0 +1,2039 @@
+sent_1:
+1 out of 73 sentences
+1 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+This is a very interesting question: the Nexus 7 (2013) was and still is one of the defining tablets for Android.
+1 default entities: PERSON Android
+1 custom entities: PERSON Android
+
+Source Sentence and Source Headline Match:
+This is a very interesting question: the Nexus 7 (2013) was and still is one of the defining tablets for Android.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+3 matches: 7, 2013, nexus
+
+Source Sentence and Story Headline Match:
+This is a very interesting question: the Nexus 7 (2013) was and still is one of the defining tablets for Android.
+Nexus 7 tablet no longer for sale from Google.
+3 matches: 7, tablet, nexus
+
+Source Sentence and Best Story Sentence Match:
+This is a very interesting question: the Nexus 7 (2013) was and still is one of the defining tablets for Android.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_2:
+2 out of 73 sentences
+1 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 9 is the latest and greatest, but has arrived with a whole host of issues.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Nexus 9 is the latest and greatest, but has arrived with a whole host of issues.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 9, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 9 is the latest and greatest, but has arrived with a whole host of issues.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 9 is the latest and greatest, but has arrived with a whole host of issues.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 matches: 9, nexus
+
+----------------
+
+sent_3:
+3 out of 73 sentences
+1 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+So is it worth upgrading your Nexus 7 to a new Nexus 9?
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+So is it worth upgrading your Nexus 7 to a new Nexus 9?
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+4 matches: 7, 9, nexus, new
+
+Source Sentence and Story Headline Match:
+So is it worth upgrading your Nexus 7 to a new Nexus 9?
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+So is it worth upgrading your Nexus 7 to a new Nexus 9?
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+3 matches: 7, 9, nexus
+
+----------------
+
+sent_4:
+4 out of 73 sentences
+1 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Find out in our Nexus 9 vs Nexus 7 (2013) comparison.
+1 default entities: GPE Find
+1 custom entities: GPE Find
+
+Source Sentence and Source Headline Match:
+Find out in our Nexus 9 vs Nexus 7 (2013) comparison.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+6 matches: 2013, 9, nexus, 7, comparison, v
+
+Source Sentence and Story Headline Match:
+Find out in our Nexus 9 vs Nexus 7 (2013) comparison.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+Find out in our Nexus 9 vs Nexus 7 (2013) comparison.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_5:
+5 out of 73 sentences
+2 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Up front, there's not much to distinguish between the Nexus 9 and Nexus 7 (2013) other than the size and shape difference.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Up front, there's not much to distinguish between the Nexus 9 and Nexus 7 (2013) other than the size and shape difference.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+4 matches: 7, 2013, 9, nexus
+
+Source Sentence and Story Headline Match:
+Up front, there's not much to distinguish between the Nexus 9 and Nexus 7 (2013) other than the size and shape difference.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+Up front, there's not much to distinguish between the Nexus 9 and Nexus 7 (2013) other than the size and shape difference.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_6:
+6 out of 73 sentences
+2 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 9 adopts a 4:3 aspect ratio while, in comparison, the Nexus 7 (2013) is in the wide screen 16:9 format.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Nexus 9 adopts a 4:3 aspect ratio while, in comparison, the Nexus 7 (2013) is in the wide screen 16:9 format.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+5 matches: 7, 2013, comparison, 9, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 9 adopts a 4:3 aspect ratio while, in comparison, the Nexus 7 (2013) is in the wide screen 16:9 format.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 9 adopts a 4:3 aspect ratio while, in comparison, the Nexus 7 (2013) is in the wide screen 16:9 format.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+4 matches: 7, screen, 9, nexus
+
+----------------
+
+sent_7:
+7 out of 73 sentences
+2 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Of course, the Nexus 9 is an 8.9-inch device and the Nexus 7 (2013) a 7-inch diagonal display.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Of course, the Nexus 9 is an 8.9-inch device and the Nexus 7 (2013) a 7-inch diagonal display.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+4 matches: 7, 2013, 9, nexus
+
+Source Sentence and Story Headline Match:
+Of course, the Nexus 9 is an 8.9-inch device and the Nexus 7 (2013) a 7-inch diagonal display.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+Of course, the Nexus 9 is an 8.9-inch device and the Nexus 7 (2013) a 7-inch diagonal display.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_8:
+8 out of 73 sentences
+3 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The back of the Nexus 9 is a little different depending on which color you choose: the black one is almost identical to the rubberized back of the Nexus 5, which we love.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The back of the Nexus 9 is a little different depending on which color you choose: the black one is almost identical to the rubberized back of the Nexus 5, which we love.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 9, nexus
+
+Source Sentence and Story Headline Match:
+The back of the Nexus 9 is a little different depending on which color you choose: the black one is almost identical to the rubberized back of the Nexus 5, which we love.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+The back of the Nexus 9 is a little different depending on which color you choose: the black one is almost identical to the rubberized back of the Nexus 5, which we love.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 matches: 9, nexus
+
+----------------
+
+sent_9:
+9 out of 73 sentences
+3 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It's a bit of a fingerprint magnet though.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It's a bit of a fingerprint magnet though.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It's a bit of a fingerprint magnet though.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_10:
+10 out of 73 sentences
+3 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The white Nexus 9 feels a little more papery, and you'd be hard-pressed to spot fingerprints on it.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The white Nexus 9 feels a little more papery, and you'd be hard-pressed to spot fingerprints on it.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 9, nexus
+
+Source Sentence and Story Headline Match:
+The white Nexus 9 feels a little more papery, and you'd be hard-pressed to spot fingerprints on it.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+The white Nexus 9 feels a little more papery, and you'd be hard-pressed to spot fingerprints on it.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 matches: 9, nexus
+
+----------------
+
+sent_11:
+11 out of 73 sentences
+3 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The white Nexus 9 also has a silver trim along the metallic sides, with a beveled edge that picks up a hint of bright silver.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The white Nexus 9 also has a silver trim along the metallic sides, with a beveled edge that picks up a hint of bright silver.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 9, nexus
+
+Source Sentence and Story Headline Match:
+The white Nexus 9 also has a silver trim along the metallic sides, with a beveled edge that picks up a hint of bright silver.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+The white Nexus 9 also has a silver trim along the metallic sides, with a beveled edge that picks up a hint of bright silver.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 matches: 9, nexus
+
+----------------
+
+sent_12:
+12 out of 73 sentences
+3 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The black Nexus 9 misses out on this nice highlight, and also has slightly more flat buttons.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The black Nexus 9 misses out on this nice highlight, and also has slightly more flat buttons.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 9, nexus
+
+Source Sentence and Story Headline Match:
+The black Nexus 9 misses out on this nice highlight, and also has slightly more flat buttons.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+The black Nexus 9 misses out on this nice highlight, and also has slightly more flat buttons.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 matches: 9, nexus
+
+----------------
+
+sent_13:
+13 out of 73 sentences
+3 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+I haven't seen the sandy beige Nexus 9, so I can't comment on its texture or feel.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+I haven't seen the sandy beige Nexus 9, so I can't comment on its texture or feel.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 9, nexus
+
+Source Sentence and Story Headline Match:
+I haven't seen the sandy beige Nexus 9, so I can't comment on its texture or feel.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+I haven't seen the sandy beige Nexus 9, so I can't comment on its texture or feel.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 matches: 9, nexus
+
+----------------
+
+sent_14:
+14 out of 73 sentences
+4 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+All buttons, incidentally, are in the same locations on both the Nexus 9 and Nexus 7 (2013): power button and volume rocker on the upper right, USB 2.0 charging port centered on the bottom and headphone port to the right on the upper edge.
+1 default entities: ORGANIZATION USB
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+All buttons, incidentally, are in the same locations on both the Nexus 9 and Nexus 7 (2013): power button and volume rocker on the upper right, USB 2.0 charging port centered on the bottom and headphone port to the right on the upper edge.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+4 matches: 7, 2013, 9, nexus
+
+Source Sentence and Story Headline Match:
+All buttons, incidentally, are in the same locations on both the Nexus 9 and Nexus 7 (2013): power button and volume rocker on the upper right, USB 2.0 charging port centered on the bottom and headphone port to the right on the upper edge.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+All buttons, incidentally, are in the same locations on both the Nexus 9 and Nexus 7 (2013): power button and volume rocker on the upper right, USB 2.0 charging port centered on the bottom and headphone port to the right on the upper edge.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_15:
+15 out of 73 sentences
+4 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Both tablets have a camera lens squeezed into the upper corner on the back.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Both tablets have a camera lens squeezed into the upper corner on the back.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Both tablets have a camera lens squeezed into the upper corner on the back.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+Both tablets have a camera lens squeezed into the upper corner on the back.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: tablet
+
+----------------
+
+sent_16:
+16 out of 73 sentences
+4 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 7 (2013), has a rounder back, mostly towards the sides, and has a harder plastic feel than the other current Nexus devices.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Nexus 7 (2013), has a rounder back, mostly towards the sides, and has a harder plastic feel than the other current Nexus devices.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+3 matches: 7, 2013, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 7 (2013), has a rounder back, mostly towards the sides, and has a harder plastic feel than the other current Nexus devices.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 7 (2013), has a rounder back, mostly towards the sides, and has a harder plastic feel than the other current Nexus devices.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_17:
+17 out of 73 sentences
+4 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 7 (2013) also has rear-mounted stereo speakers compared to the Nexus 9's front-facing stereo BoomSound speakers.
+1 default entities: ORGANIZATION BoomSound
+1 custom entities: ORGANIZATION BoomSound
+
+Source Sentence and Source Headline Match:
+The Nexus 7 (2013) also has rear-mounted stereo speakers compared to the Nexus 9's front-facing stereo BoomSound speakers.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+3 matches: 7, 2013, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 7 (2013) also has rear-mounted stereo speakers compared to the Nexus 9's front-facing stereo BoomSound speakers.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 7 (2013) also has rear-mounted stereo speakers compared to the Nexus 9's front-facing stereo BoomSound speakers.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_18:
+18 out of 73 sentences
+5 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 9 is, of course, much heavier than the Nexus 7 (2013).
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Nexus 9 is, of course, much heavier than the Nexus 7 (2013).
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+4 matches: 7, 2013, 9, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 9 is, of course, much heavier than the Nexus 7 (2013).
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 9 is, of course, much heavier than the Nexus 7 (2013).
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_19:
+19 out of 73 sentences
+5 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 9 weighs in at 425 grams for the Wi-Fi version and 436 grams for the LTE version.
+1 default entities: ORGANIZATION LTE
+1 custom entities: ORGANIZATION LTE
+
+Source Sentence and Source Headline Match:
+The Nexus 9 weighs in at 425 grams for the Wi-Fi version and 436 grams for the LTE version.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 9, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 9 weighs in at 425 grams for the Wi-Fi version and 436 grams for the LTE version.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 9 weighs in at 425 grams for the Wi-Fi version and 436 grams for the LTE version.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 matches: 9, nexus
+
+----------------
+
+sent_20:
+20 out of 73 sentences
+5 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Wi-Fi only Nexus 7 (2013), on the other hand, is a very pocketable 290 grams (or 299 grams for the LTE version).
+1 default entities: ORGANIZATION LTE
+1 custom entities: ORGANIZATION LTE
+
+Source Sentence and Source Headline Match:
+The Wi-Fi only Nexus 7 (2013), on the other hand, is a very pocketable 290 grams (or 299 grams for the LTE version).
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+3 matches: 7, 2013, nexus
+
+Source Sentence and Story Headline Match:
+The Wi-Fi only Nexus 7 (2013), on the other hand, is a very pocketable 290 grams (or 299 grams for the LTE version).
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Wi-Fi only Nexus 7 (2013), on the other hand, is a very pocketable 290 grams (or 299 grams for the LTE version).
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_21:
+21 out of 73 sentences
+5 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Despite the excitement that ''HTC design'' brought in the lead up to the Nexus 9, the actual device feels a little flimsy and heats up unnecessarily.
+
+no default named entity found
+1 custom entities: ORGANIZATION HTC
+
+Source Sentence and Source Headline Match:
+Despite the excitement that ''HTC design'' brought in the lead up to the Nexus 9, the actual device feels a little flimsy and heats up unnecessarily.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 9, nexus
+
+Source Sentence and Story Headline Match:
+Despite the excitement that ''HTC design'' brought in the lead up to the Nexus 9, the actual device feels a little flimsy and heats up unnecessarily.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+Despite the excitement that ''HTC design'' brought in the lead up to the Nexus 9, the actual device feels a little flimsy and heats up unnecessarily.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 matches: 9, nexus
+
+----------------
+
+sent_22:
+22 out of 73 sentences
+5 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It looks nice enough, but it's far from being as solid as the Nexus 7 (2103)
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It looks nice enough, but it's far from being as solid as the Nexus 7 (2103)
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 7, nexus
+
+Source Sentence and Story Headline Match:
+It looks nice enough, but it's far from being as solid as the Nexus 7 (2103)
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+It looks nice enough, but it's far from being as solid as the Nexus 7 (2103)
+The Nexus 7 won critical praise for its high build quality and low price.
+2 matches: 7, nexus
+
+----------------
+
+sent_23:
+23 out of 73 sentences
+6 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 9 bridges the size gap between the Nexus 7 (2013) and Nexus 10, coming in just shy of nine inches at 8.9 inches on the diagonal.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Nexus 9 bridges the size gap between the Nexus 7 (2013) and Nexus 10, coming in just shy of nine inches at 8.9 inches on the diagonal.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+4 matches: 7, 2013, 9, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 9 bridges the size gap between the Nexus 7 (2013) and Nexus 10, coming in just shy of nine inches at 8.9 inches on the diagonal.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 9 bridges the size gap between the Nexus 7 (2013) and Nexus 10, coming in just shy of nine inches at 8.9 inches on the diagonal.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_24:
+24 out of 73 sentences
+6 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 9 has the same screen resolution and aspect ratio as the iPad: 2,048 x 1,536 with a pixel density of 281 pixels per inch.
+1 default entities: ORGANIZATION iPad
+1 custom entities: ORGANIZATION iPad
+
+Source Sentence and Source Headline Match:
+The Nexus 9 has the same screen resolution and aspect ratio as the iPad: 2,048 x 1,536 with a pixel density of 281 pixels per inch.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 9, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 9 has the same screen resolution and aspect ratio as the iPad: 2,048 x 1,536 with a pixel density of 281 pixels per inch.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 9 has the same screen resolution and aspect ratio as the iPad: 2,048 x 1,536 with a pixel density of 281 pixels per inch.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+3 matches: screen, 9, nexus
+
+----------------
+
+sent_25:
+25 out of 73 sentences
+6 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 7 (2013) rocks a straight 7-inch widescreen display with 1,920 x 1,200 resolution and 323 ppi.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Nexus 7 (2013) rocks a straight 7-inch widescreen display with 1,920 x 1,200 resolution and 323 ppi.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+3 matches: 7, 2013, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 7 (2013) rocks a straight 7-inch widescreen display with 1,920 x 1,200 resolution and 323 ppi.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 7 (2013) rocks a straight 7-inch widescreen display with 1,920 x 1,200 resolution and 323 ppi.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_26:
+26 out of 73 sentences
+6 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Both tablets utilize IPS LCD display technology.
+1 default entities: ORGANIZATION IPS
+1 custom entities: ORGANIZATION IPS
+
+Source Sentence and Source Headline Match:
+Both tablets utilize IPS LCD display technology.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Both tablets utilize IPS LCD display technology.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+Both tablets utilize IPS LCD display technology.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: tablet
+
+----------------
+
+sent_27:
+27 out of 73 sentences
+7 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 9 in our hands has a cooler greenish tint to the display than the Nexus 7 (2013), which tends (a lot) towards pink.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Nexus 9 in our hands has a cooler greenish tint to the display than the Nexus 7 (2013), which tends (a lot) towards pink.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+4 matches: 7, 2013, 9, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 9 in our hands has a cooler greenish tint to the display than the Nexus 7 (2013), which tends (a lot) towards pink.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 9 in our hands has a cooler greenish tint to the display than the Nexus 7 (2013), which tends (a lot) towards pink.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_28:
+28 out of 73 sentences
+7 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 7 (2013) is also significantly brighter than the newer display and of course, is slightly more defined thanks to the higher pixel density.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Nexus 7 (2013) is also significantly brighter than the newer display and of course, is slightly more defined thanks to the higher pixel density.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+4 matches: 7, 2013, new, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 7 (2013) is also significantly brighter than the newer display and of course, is slightly more defined thanks to the higher pixel density.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 7 (2013) is also significantly brighter than the newer display and of course, is slightly more defined thanks to the higher pixel density.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+4 matches: 7, 2013, nexus, high
+
+----------------
+
+sent_29:
+29 out of 73 sentences
+7 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+While the novelty of the 4:3 ratio is nice, especially when gaming, to have films letter-boxed defeats the purpose.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+While the novelty of the 4:3 ratio is nice, especially when gaming, to have films letter-boxed defeats the purpose.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+no heading matches found
+
+Source Sentence and Story Headline Match:
+While the novelty of the 4:3 ratio is nice, especially when gaming, to have films letter-boxed defeats the purpose.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_30:
+30 out of 73 sentences
+7 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Viewing angles are better on the Nexus 9 though.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Viewing angles are better on the Nexus 9 though.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 9, nexus
+
+Source Sentence and Story Headline Match:
+Viewing angles are better on the Nexus 9 though.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+Viewing angles are better on the Nexus 9 though.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 matches: 9, nexus
+
+----------------
+
+sent_31:
+31 out of 73 sentences
+8 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Nothing to see here, people, move along.
+1 default entities: GPE Nothing
+1 custom entities: GPE Nothing
+
+Source Sentence and Source Headline Match:
+Nothing to see here, people, move along.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Nothing to see here, people, move along.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_32:
+32 out of 73 sentences
+8 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Both tablets are running the latest version of Android: Android 5.0 Lollipop.
+1 default entities: PERSON Android
+1 custom entities: PERSON Android Android
+
+Source Sentence and Source Headline Match:
+Both tablets are running the latest version of Android: Android 5.0 Lollipop.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Both tablets are running the latest version of Android: Android 5.0 Lollipop.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+Both tablets are running the latest version of Android: Android 5.0 Lollipop.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+4 matches: android, version, lollipop, late
+
+----------------
+
+sent_33:
+33 out of 73 sentences
+8 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 9 came with Lollipop out of the box, whereas the Nexus 7 (2013) was the delivery device for Android 4.4 KitKat.
+1 default entities: PERSON Lollipop
+2 custom entities: PERSON Lollipop, ORGANIZATION KitKat
+
+Source Sentence and Source Headline Match:
+The Nexus 9 came with Lollipop out of the box, whereas the Nexus 7 (2013) was the delivery device for Android 4.4 KitKat.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+4 matches: 7, 2013, 9, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 9 came with Lollipop out of the box, whereas the Nexus 7 (2013) was the delivery device for Android 4.4 KitKat.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 9 came with Lollipop out of the box, whereas the Nexus 7 (2013) was the delivery device for Android 4.4 KitKat.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_34:
+34 out of 73 sentences
+8 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Other than the differences you'll notice because of the different aspect ratios, the stock Android experience is pretty much identical on both devices.
+1 default entities: PERSON Android
+1 custom entities: PERSON Android
+
+Source Sentence and Source Headline Match:
+Other than the differences you'll notice because of the different aspect ratios, the stock Android experience is pretty much identical on both devices.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Other than the differences you'll notice because of the different aspect ratios, the stock Android experience is pretty much identical on both devices.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Other than the differences you'll notice because of the different aspect ratios, the stock Android experience is pretty much identical on both devices.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+2 matches: android, device
+
+----------------
+
+sent_35:
+35 out of 73 sentences
+8 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The main difference is in performance.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The main difference is in performance.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The main difference is in performance.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_36:
+36 out of 73 sentences
+9 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+This is where things get interesting.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+This is where things get interesting.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+no heading matches found
+
+Source Sentence and Story Headline Match:
+This is where things get interesting.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_37:
+37 out of 73 sentences
+9 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Of course, the Nexus 9 is a full year newer than the Nexus 7 (2013), and is the first tablet to utilize Nvidia's 64-bit dual-core Tegra K1.
+2 default entities: GPE Nvidia, PERSON Tegra K1
+1 custom entities: PERSON Tegra K1
+
+Source Sentence and Source Headline Match:
+Of course, the Nexus 9 is a full year newer than the Nexus 7 (2013), and is the first tablet to utilize Nvidia's 64-bit dual-core Tegra K1.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+5 matches: 7, 2013, 9, nexus, new
+
+Source Sentence and Story Headline Match:
+Of course, the Nexus 9 is a full year newer than the Nexus 7 (2013), and is the first tablet to utilize Nvidia's 64-bit dual-core Tegra K1.
+Nexus 7 tablet no longer for sale from Google.
+3 matches: 7, tablet, nexus
+
+Source Sentence and Best Story Sentence Match:
+Of course, the Nexus 9 is a full year newer than the Nexus 7 (2013), and is the first tablet to utilize Nvidia's 64-bit dual-core Tegra K1.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_38:
+38 out of 73 sentences
+9 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+However, despite supporting 4 GB of RAM, the Nexus 9 specs only include 2 GB of RAM, and that lack of RAM is noticeable in the stuttery performance of the tablet and the semi-frequent freezes and crashes.
+3 default entities: ORGANIZATION RAM, ORGANIZATION RAM, ORGANIZATION RAM
+2 custom entities: ORGANIZATION RAM, ORGANIZATION RAM
+
+Source Sentence and Source Headline Match:
+However, despite supporting 4 GB of RAM, the Nexus 9 specs only include 2 GB of RAM, and that lack of RAM is noticeable in the stuttery performance of the tablet and the semi-frequent freezes and crashes.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 9, nexus
+
+Source Sentence and Story Headline Match:
+However, despite supporting 4 GB of RAM, the Nexus 9 specs only include 2 GB of RAM, and that lack of RAM is noticeable in the stuttery performance of the tablet and the semi-frequent freezes and crashes.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: tablet, nexus
+
+Source Sentence and Best Story Sentence Match:
+However, despite supporting 4 GB of RAM, the Nexus 9 specs only include 2 GB of RAM, and that lack of RAM is noticeable in the stuttery performance of the tablet and the semi-frequent freezes and crashes.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+2 matches: include, tablet
+
+----------------
+
+sent_39:
+39 out of 73 sentences
+10 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 7 (2013) packs a quad-core Snapdragon S4 Pro, clocked at 1.5 GHz, with 2 GB of RAM backing it up.
+2 default entities: ORGANIZATION Snapdragon S4 Pro, ORGANIZATION RAM
+2 custom entities: ORGANIZATION Snapdragon S4, ORGANIZATION RAM
+
+Source Sentence and Source Headline Match:
+The Nexus 7 (2013) packs a quad-core Snapdragon S4 Pro, clocked at 1.5 GHz, with 2 GB of RAM backing it up.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+3 matches: 7, 2013, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 7 (2013) packs a quad-core Snapdragon S4 Pro, clocked at 1.5 GHz, with 2 GB of RAM backing it up.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 7 (2013) packs a quad-core Snapdragon S4 Pro, clocked at 1.5 GHz, with 2 GB of RAM backing it up.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_40:
+40 out of 73 sentences
+10 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+This is a much weaker processor than the 2.3 GHz dual-core CPU beating inside the Nexus 9, but the Snapdragon manages just fine.
+2 default entities: ORGANIZATION GHz, ORGANIZATION Snapdragon
+2 custom entities: ORGANIZATION GHz, ORGANIZATION Snapdragon
+
+Source Sentence and Source Headline Match:
+This is a much weaker processor than the 2.3 GHz dual-core CPU beating inside the Nexus 9, but the Snapdragon manages just fine.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 9, nexus
+
+Source Sentence and Story Headline Match:
+This is a much weaker processor than the 2.3 GHz dual-core CPU beating inside the Nexus 9, but the Snapdragon manages just fine.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+This is a much weaker processor than the 2.3 GHz dual-core CPU beating inside the Nexus 9, but the Snapdragon manages just fine.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 matches: 9, nexus
+
+----------------
+
+sent_41:
+41 out of 73 sentences
+10 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In comparison, the Nexus 9 also rocks a Kepler DX1 GPU compared to the Nexus 7 (2013)'s Adreno 320.
+1 default entities: ORGANIZATION Kepler
+1 custom entities: ORGANIZATION Kepler
+
+Source Sentence and Source Headline Match:
+In comparison, the Nexus 9 also rocks a Kepler DX1 GPU compared to the Nexus 7 (2013)'s Adreno 320.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+5 matches: 7, 2013, comparison, 9, nexus
+
+Source Sentence and Story Headline Match:
+In comparison, the Nexus 9 also rocks a Kepler DX1 GPU compared to the Nexus 7 (2013)'s Adreno 320.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+In comparison, the Nexus 9 also rocks a Kepler DX1 GPU compared to the Nexus 7 (2013)'s Adreno 320.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_42:
+42 out of 73 sentences
+11 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Even though Lollipop looks great and generally performs nice and smoothly, there's always the shadow of stutter and lag on the horizon with the Nexus 9, and lags of any kind on a device with this kind of specs sheet and stock Android should be absolutely unheard of.
+2 default entities: GPE Lollipop, PERSON Android
+2 custom entities: GPE Lollipop, PERSON Android
+
+Source Sentence and Source Headline Match:
+Even though Lollipop looks great and generally performs nice and smoothly, there's always the shadow of stutter and lag on the horizon with the Nexus 9, and lags of any kind on a device with this kind of specs sheet and stock Android should be absolutely unheard of.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 9, nexus
+
+Source Sentence and Story Headline Match:
+Even though Lollipop looks great and generally performs nice and smoothly, there's always the shadow of stutter and lag on the horizon with the Nexus 9, and lags of any kind on a device with this kind of specs sheet and stock Android should be absolutely unheard of.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+Even though Lollipop looks great and generally performs nice and smoothly, there's always the shadow of stutter and lag on the horizon with the Nexus 9, and lags of any kind on a device with this kind of specs sheet and stock Android should be absolutely unheard of.
+That's why we've always introduced Nexus devices alongside our platform releases.
+3 matches: device, always, nexus
+
+----------------
+
+sent_43:
+43 out of 73 sentences
+11 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Admittedly, things have settled down a bit since the update to LRX21R.
+1 default entities: ORGANIZATION LRX21R
+1 custom entities: ORGANIZATION LRX21R
+
+Source Sentence and Source Headline Match:
+Admittedly, things have settled down a bit since the update to LRX21R.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Admittedly, things have settled down a bit since the update to LRX21R.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_44:
+44 out of 73 sentences
+11 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Read our Nexus 9 review for the earlier build problems.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Read our Nexus 9 review for the earlier build problems.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 9, nexus
+
+Source Sentence and Story Headline Match:
+Read our Nexus 9 review for the earlier build problems.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+Read our Nexus 9 review for the earlier build problems.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 matches: build, nexus
+
+----------------
+
+sent_45:
+45 out of 73 sentences
+12 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 7 (2013) specs, in comparison, seems to handle Lollipop pretty well for an older device.
+1 default entities: PERSON Lollipop
+1 custom entities: PERSON Lollipop
+
+Source Sentence and Source Headline Match:
+The Nexus 7 (2013) specs, in comparison, seems to handle Lollipop pretty well for an older device.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+4 matches: 7, 2013, comparison, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 7 (2013) specs, in comparison, seems to handle Lollipop pretty well for an older device.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 7 (2013) specs, in comparison, seems to handle Lollipop pretty well for an older device.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_46:
+46 out of 73 sentences
+12 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+During basic operation (responsiveness, app launches, multitasking), both handle Lollipop nicely and some things are very equal (the camera app launches at exactly the same speed, for example).
+1 default entities: PERSON Lollipop
+1 custom entities: PERSON Lollipop
+
+Source Sentence and Source Headline Match:
+During basic operation (responsiveness, app launches, multitasking), both handle Lollipop nicely and some things are very equal (the camera app launches at exactly the same speed, for example).
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+no heading matches found
+
+Source Sentence and Story Headline Match:
+During basic operation (responsiveness, app launches, multitasking), both handle Lollipop nicely and some things are very equal (the camera app launches at exactly the same speed, for example).
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+During basic operation (responsiveness, app launches, multitasking), both handle Lollipop nicely and some things are very equal (the camera app launches at exactly the same speed, for example).
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+1 matches: lollipop
+
+----------------
+
+sent_47:
+47 out of 73 sentences
+12 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+However, when put under more pressure, like hi-res gaming, the Nexus 9's Tegra K1 shows its strength and leaves the Nexus 7 (2013) in the dust.
+1 default entities: PERSON Tegra K1
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+However, when put under more pressure, like hi-res gaming, the Nexus 9's Tegra K1 shows its strength and leaves the Nexus 7 (2013) in the dust.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+3 matches: 7, 2013, nexus
+
+Source Sentence and Story Headline Match:
+However, when put under more pressure, like hi-res gaming, the Nexus 9's Tegra K1 shows its strength and leaves the Nexus 7 (2013) in the dust.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+However, when put under more pressure, like hi-res gaming, the Nexus 9's Tegra K1 shows its strength and leaves the Nexus 7 (2013) in the dust.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_48:
+48 out of 73 sentences
+13 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Nexus cameras suck.
+1 default entities: PERSON Nexus
+1 custom entities: PERSON Nexus
+
+Source Sentence and Source Headline Match:
+Nexus cameras suck.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+1 matches: nexus
+
+Source Sentence and Story Headline Match:
+Nexus cameras suck.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+Nexus cameras suck.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 matches: nexus
+
+----------------
+
+sent_49:
+49 out of 73 sentences
+13 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+That needs saying right up front.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+That needs saying right up front.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+no heading matches found
+
+Source Sentence and Story Headline Match:
+That needs saying right up front.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+That needs saying right up front.
+Google said it stopped selling the Nexus 5 to focus on the Nexus 6.
+1 matches: say
+
+----------------
+
+sent_50:
+50 out of 73 sentences
+13 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+No one buys a Nexus for the camera, and even less so a Nexus tablet.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+No one buys a Nexus for the camera, and even less so a Nexus tablet.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+1 matches: nexus
+
+Source Sentence and Story Headline Match:
+No one buys a Nexus for the camera, and even less so a Nexus tablet.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: tablet, nexus
+
+Source Sentence and Best Story Sentence Match:
+No one buys a Nexus for the camera, and even less so a Nexus tablet.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 matches: nexus
+
+----------------
+
+sent_51:
+51 out of 73 sentences
+13 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+So if you're wanting a giant tablet to take photos with you might want to look at an iPad or Galaxy Tab S instead.
+2 default entities: ORGANIZATION iPad, PERSON Galaxy Tab
+2 custom entities: ORGANIZATION iPad, PERSON Galaxy Tab
+
+Source Sentence and Source Headline Match:
+So if you're wanting a giant tablet to take photos with you might want to look at an iPad or Galaxy Tab S instead.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+no heading matches found
+
+Source Sentence and Story Headline Match:
+So if you're wanting a giant tablet to take photos with you might want to look at an iPad or Galaxy Tab S instead.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+So if you're wanting a giant tablet to take photos with you might want to look at an iPad or Galaxy Tab S instead.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: tablet
+
+----------------
+
+sent_52:
+52 out of 73 sentences
+13 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 9 camera shoots at 8 MP and is the same as that found in the thoroughly mid-range Desire 610, along with a 1.6 MP front-facing camera.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Nexus 9 camera shoots at 8 MP and is the same as that found in the thoroughly mid-range Desire 610, along with a 1.6 MP front-facing camera.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 9, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 9 camera shoots at 8 MP and is the same as that found in the thoroughly mid-range Desire 610, along with a 1.6 MP front-facing camera.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 9 camera shoots at 8 MP and is the same as that found in the thoroughly mid-range Desire 610, along with a 1.6 MP front-facing camera.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 matches: 9, nexus
+
+----------------
+
+sent_53:
+53 out of 73 sentences
+13 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 7 (2013) camera brings equally sucky 5 MP performance with a 1.2 MP selfie camera up front.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Nexus 7 (2013) camera brings equally sucky 5 MP performance with a 1.2 MP selfie camera up front.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+3 matches: 7, 2013, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 7 (2013) camera brings equally sucky 5 MP performance with a 1.2 MP selfie camera up front.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 7 (2013) camera brings equally sucky 5 MP performance with a 1.2 MP selfie camera up front.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_54:
+54 out of 73 sentences
+14 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 9 has a decently sized 6,700 mAh battery that fails to produce anything even resembling a reasonable amount of run time.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Nexus 9 has a decently sized 6,700 mAh battery that fails to produce anything even resembling a reasonable amount of run time.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 9, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 9 has a decently sized 6,700 mAh battery that fails to produce anything even resembling a reasonable amount of run time.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 9 has a decently sized 6,700 mAh battery that fails to produce anything even resembling a reasonable amount of run time.
+The Nexus 6 largely resembles the Moto X (2014), Motorola's 5.2-inch smartphone, and is the largest smartphone so far produced by Google.
+3 matches: resemble, produce, nexus
+
+----------------
+
+sent_55:
+55 out of 73 sentences
+14 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+I have to confess the battery life has improved following the recent software update, but still.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+I have to confess the battery life has improved following the recent software update, but still.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+no heading matches found
+
+Source Sentence and Story Headline Match:
+I have to confess the battery life has improved following the recent software update, but still.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+I have to confess the battery life has improved following the recent software update, but still.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 matches: still
+
+----------------
+
+sent_56:
+56 out of 73 sentences
+14 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 9 battery is also painfully slow to charge.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Nexus 9 battery is also painfully slow to charge.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 9, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 9 battery is also painfully slow to charge.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 9 battery is also painfully slow to charge.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 matches: 9, nexus
+
+----------------
+
+sent_57:
+57 out of 73 sentences
+15 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 7 (2013) has a much smaller 3,950 mAh battery but it powers a much smaller screen.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Nexus 7 (2013) has a much smaller 3,950 mAh battery but it powers a much smaller screen.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+3 matches: 7, 2013, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 7 (2013) has a much smaller 3,950 mAh battery but it powers a much smaller screen.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 7 (2013) has a much smaller 3,950 mAh battery but it powers a much smaller screen.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_58:
+58 out of 73 sentences
+15 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It charges a lot faster too, thanks to its smaller capacity, but run time is a problem for both tablets, and both tend to heat up a bit under stress.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It charges a lot faster too, thanks to its smaller capacity, but run time is a problem for both tablets, and both tend to heat up a bit under stress.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It charges a lot faster too, thanks to its smaller capacity, but run time is a problem for both tablets, and both tend to heat up a bit under stress.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+It charges a lot faster too, thanks to its smaller capacity, but run time is a problem for both tablets, and both tend to heat up a bit under stress.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+2 matches: small, tablet
+
+----------------
+
+sent_59:
+59 out of 73 sentences
+15 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+At least you won't be waiting half a day while the Nexus 7 (2013) charges though.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+At least you won't be waiting half a day while the Nexus 7 (2013) charges though.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+3 matches: 7, 2013, nexus
+
+Source Sentence and Story Headline Match:
+At least you won't be waiting half a day while the Nexus 7 (2013) charges though.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+At least you won't be waiting half a day while the Nexus 7 (2013) charges though.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_60:
+60 out of 73 sentences
+15 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Project Volta and the Battery Saver are your two new best friends.
+1 default entities: ORGANIZATION Battery
+1 custom entities: ORGANIZATION Battery
+
+Source Sentence and Source Headline Match:
+Project Volta and the Battery Saver are your two new best friends.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+1 matches: new
+
+Source Sentence and Story Headline Match:
+Project Volta and the Battery Saver are your two new best friends.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Project Volta and the Battery Saver are your two new best friends.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 matches: best
+
+----------------
+
+sent_61:
+61 out of 73 sentences
+16 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 7 (2013) release date was July 26, 2013 and the Nexus 9 release date was November 3, 2014.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Nexus 7 (2013) release date was July 26, 2013 and the Nexus 9 release date was November 3, 2014.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+4 matches: 7, 2013, 9, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 7 (2013) release date was July 26, 2013 and the Nexus 9 release date was November 3, 2014.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 7 (2013) release date was July 26, 2013 and the Nexus 9 release date was November 3, 2014.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+4 matches: 7, 2013, nexus, release
+
+----------------
+
+sent_62:
+62 out of 73 sentences
+16 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 7 (2013) price was 229 USD for the 16 GB version, 269 USD for the 32 GB version with WiFi only, and 349 USD for the 32 GB version with 4G/LTE connectivity.
+1 default entities: ORGANIZATION WiFi
+1 custom entities: ORGANIZATION WiFi
+
+Source Sentence and Source Headline Match:
+The Nexus 7 (2013) price was 229 USD for the 16 GB version, 269 USD for the 32 GB version with WiFi only, and 349 USD for the 32 GB version with 4G/LTE connectivity.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+3 matches: 7, 2013, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 7 (2013) price was 229 USD for the 16 GB version, 269 USD for the 32 GB version with WiFi only, and 349 USD for the 32 GB version with 4G/LTE connectivity.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 7 (2013) price was 229 USD for the 16 GB version, 269 USD for the 32 GB version with WiFi only, and 349 USD for the 32 GB version with 4G/LTE connectivity.
+The Nexus 7 won critical praise for its high build quality and low price.
+3 matches: 7, nexus, price
+
+----------------
+
+sent_63:
+63 out of 73 sentences
+16 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A white version of the tablet was added to the Play Store in December, 2013.
+1 default entities: ORGANIZATION Play Store
+1 custom entities: ORGANIZATION Play Store
+
+Source Sentence and Source Headline Match:
+A white version of the tablet was added to the Play Store in December, 2013.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+1 matches: 2013
+
+Source Sentence and Story Headline Match:
+A white version of the tablet was added to the Play Store in December, 2013.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+A white version of the tablet was added to the Play Store in December, 2013.
+The Nexus 7 is no longer available from Google's official online store.
+1 matches: store
+
+----------------
+
+sent_64:
+64 out of 73 sentences
+16 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 9 price is 389 USD for the 16 GB version with WiFi, 479 USD for the 32 GB WiFi version and 559 USD for the 32 GB LTE version.
+1 default entities: ORGANIZATION WiFi
+1 custom entities: ORGANIZATION WiFi
+
+Source Sentence and Source Headline Match:
+The Nexus 9 price is 389 USD for the 16 GB version with WiFi, 479 USD for the 32 GB WiFi version and 559 USD for the 32 GB LTE version.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 9, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 9 price is 389 USD for the 16 GB version with WiFi, 479 USD for the 32 GB WiFi version and 559 USD for the 32 GB LTE version.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 9 price is 389 USD for the 16 GB version with WiFi, 479 USD for the 32 GB WiFi version and 559 USD for the 32 GB LTE version.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 matches: nexus, price
+
+----------------
+
+sent_65:
+65 out of 73 sentences
+17 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+This is a tough one: as far as all-round brilliance goes, the Nexus 7 (2013) was a close-to-perfect tablet for the price.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+This is a tough one: as far as all-round brilliance goes, the Nexus 7 (2013) was a close-to-perfect tablet for the price.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+3 matches: 7, 2013, nexus
+
+Source Sentence and Story Headline Match:
+This is a tough one: as far as all-round brilliance goes, the Nexus 7 (2013) was a close-to-perfect tablet for the price.
+Nexus 7 tablet no longer for sale from Google.
+3 matches: 7, tablet, nexus
+
+Source Sentence and Best Story Sentence Match:
+This is a tough one: as far as all-round brilliance goes, the Nexus 7 (2013) was a close-to-perfect tablet for the price.
+The Nexus 7 won critical praise for its high build quality and low price.
+3 matches: 7, nexus, price
+
+----------------
+
+sent_66:
+66 out of 73 sentences
+17 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Sure, the battery wasn't great and neither was the camera, but hey, it's a Nexus so what do you expect?
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Sure, the battery wasn't great and neither was the camera, but hey, it's a Nexus so what do you expect?
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+1 matches: nexus
+
+Source Sentence and Story Headline Match:
+Sure, the battery wasn't great and neither was the camera, but hey, it's a Nexus so what do you expect?
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+Sure, the battery wasn't great and neither was the camera, but hey, it's a Nexus so what do you expect?
+The Nexus 7 won critical praise for its high build quality and low price.
+1 matches: nexus
+
+----------------
+
+sent_67:
+67 out of 73 sentences
+17 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 9 is significantly more expensive but seems to have a longer list of issues.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Nexus 9 is significantly more expensive but seems to have a longer list of issues.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+2 matches: 9, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 9 is significantly more expensive but seems to have a longer list of issues.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 9 is significantly more expensive but seems to have a longer list of issues.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 matches: 9, nexus
+
+----------------
+
+sent_68:
+68 out of 73 sentences
+17 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It even feels flimsier as an object.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It even feels flimsier as an object.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It even feels flimsier as an object.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_69:
+69 out of 73 sentences
+18 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+If all you want is pure speed and better specs, then the Tegra K1 in the Nexus 9 can't be beat, even if it seems like Lollipop struggles sometimes to keep up.
+2 default entities: ORGANIZATION Tegra K1, ORGANIZATION Lollipop
+2 custom entities: ORGANIZATION Tegra K1, ORGANIZATION Lollipop
+
+Source Sentence and Source Headline Match:
+If all you want is pure speed and better specs, then the Tegra K1 in the Nexus 9 can't be beat, even if it seems like Lollipop struggles sometimes to keep up.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+3 matches: 9, nexus, good
+
+Source Sentence and Story Headline Match:
+If all you want is pure speed and better specs, then the Tegra K1 in the Nexus 9 can't be beat, even if it seems like Lollipop struggles sometimes to keep up.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+If all you want is pure speed and better specs, then the Tegra K1 in the Nexus 9 can't be beat, even if it seems like Lollipop struggles sometimes to keep up.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 matches: 9, nexus
+
+----------------
+
+sent_70:
+70 out of 73 sentences
+18 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The new aspect ratio is nice but the Nexus 9 fails to impress as a standout tablet.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The new aspect ratio is nice but the Nexus 9 fails to impress as a standout tablet.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+3 matches: 9, nexus, new
+
+Source Sentence and Story Headline Match:
+The new aspect ratio is nice but the Nexus 9 fails to impress as a standout tablet.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: tablet, nexus
+
+Source Sentence and Best Story Sentence Match:
+The new aspect ratio is nice but the Nexus 9 fails to impress as a standout tablet.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 matches: 9, nexus
+
+----------------
+
+sent_71:
+71 out of 73 sentences
+18 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nexus 7 (2013), on the other hand, is still one of the best Android tablets around.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Nexus 7 (2013), on the other hand, is still one of the best Android tablets around.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+3 matches: 7, 2013, nexus
+
+Source Sentence and Story Headline Match:
+The Nexus 7 (2013), on the other hand, is still one of the best Android tablets around.
+Nexus 7 tablet no longer for sale from Google.
+3 matches: 7, tablet, nexus
+
+Source Sentence and Best Story Sentence Match:
+The Nexus 7 (2013), on the other hand, is still one of the best Android tablets around.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_72:
+72 out of 73 sentences
+18 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+As far as bargains go, the Nexus 7 (2013) is still pretty unbeatable, and for my money, pound for pound, I'd prefer the Nexus 7 (2013)'s quibbles over the Nexus 9's problems, even if it is the older tablet.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+As far as bargains go, the Nexus 7 (2013) is still pretty unbeatable, and for my money, pound for pound, I'd prefer the Nexus 7 (2013)'s quibbles over the Nexus 9's problems, even if it is the older tablet.
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+3 matches: 7, 2013, nexus
+
+Source Sentence and Story Headline Match:
+As far as bargains go, the Nexus 7 (2013) is still pretty unbeatable, and for my money, pound for pound, I'd prefer the Nexus 7 (2013)'s quibbles over the Nexus 9's problems, even if it is the older tablet.
+Nexus 7 tablet no longer for sale from Google.
+3 matches: 7, tablet, nexus
+
+Source Sentence and Best Story Sentence Match:
+As far as bargains go, the Nexus 7 (2013) is still pretty unbeatable, and for my money, pound for pound, I'd prefer the Nexus 7 (2013)'s quibbles over the Nexus 9's problems, even if it is the older tablet.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+
+sent_73:
+73 out of 73 sentences
+19 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+For your money, which is the better buy the Nexus 7 (2013) or Nexus 9?
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+For your money, which is the better buy the Nexus 7 (2013) or Nexus 9?
+Nexus 9 vs Nexus 7 (2013) comparison: the new Nexus is bigger, but better?
+5 matches: 7, 2013, 9, nexus, good
+
+Source Sentence and Story Headline Match:
+For your money, which is the better buy the Nexus 7 (2013) or Nexus 9?
+Nexus 7 tablet no longer for sale from Google.
+2 matches: 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+For your money, which is the better buy the Nexus 7 (2013) or Nexus 9?
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 matches: 7, 2013, nexus
+
+----------------
+

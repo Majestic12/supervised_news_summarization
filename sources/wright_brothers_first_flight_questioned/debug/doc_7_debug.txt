@@ -1,0 +1,189 @@
+sent_1:
+1 out of 7 sentences
+1 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+An Ohio House panel has approved a resolution rejecting Connecticut's insistence that one of its aviators beat the Wright brothers to the first successful airplane flight by two years.
+3 default entities: FACILITY Ohio House, GSP Connecticut, ORGANIZATION Wright
+2 custom entities: FACILITY Ohio House, ORGANIZATION Wright
+
+Source Sentence and Source Headline Match:
+An Ohio House panel has approved a resolution rejecting Connecticut's insistence that one of its aviators beat the Wright brothers to the first successful airplane flight by two years.
+Ohio panel OKs measure saying Connecticut not 1st in flight.
+3 matches: panel, ohio, flight
+
+Source Sentence and Story Headline Match:
+An Ohio House panel has approved a resolution rejecting Connecticut's insistence that one of its aviators beat the Wright brothers to the first successful airplane flight by two years.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+3 matches: ohio, first, flight
+
+Source Sentence and Best Story Sentence Match:
+An Ohio House panel has approved a resolution rejecting Connecticut's insistence that one of its aviators beat the Wright brothers to the first successful airplane flight by two years.
+A panel of Ohio state lawmakers unanimously backed a bill April 14 that rejects a position approved by Connecticut state lawmakers declaring Connecticut first in flight.
+6 matches: panel, approve, reject, ohio, first, flight
+
+----------------
+
+sent_2:
+2 out of 7 sentences
+2 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Ohio House Transportation Committee OK'd the measure by an 11-0 vote Tuesday.
+2 default entities: FACILITY Ohio House, ORGANIZATION Transportation Committee
+2 custom entities: FACILITY Ohio House, ORGANIZATION Transportation Committee
+
+Source Sentence and Source Headline Match:
+The Ohio House Transportation Committee OK'd the measure by an 11-0 vote Tuesday.
+Ohio panel OKs measure saying Connecticut not 1st in flight.
+2 matches: measure, ohio
+
+Source Sentence and Story Headline Match:
+The Ohio House Transportation Committee OK'd the measure by an 11-0 vote Tuesday.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+1 matches: ohio
+
+Source Sentence and Best Story Sentence Match:
+The Ohio House Transportation Committee OK'd the measure by an 11-0 vote Tuesday.
+The bill now moves on to a vote by the full state House.
+2 matches: vote, house
+
+----------------
+
+sent_3:
+3 out of 7 sentences
+2 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The measure's next stop is the full House.
+1 default entities: ORGANIZATION House
+1 custom entities: ORGANIZATION House
+
+Source Sentence and Source Headline Match:
+The measure's next stop is the full House.
+Ohio panel OKs measure saying Connecticut not 1st in flight.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The measure's next stop is the full House.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The measure's next stop is the full House.
+The bill now moves on to a vote by the full state House.
+2 matches: full, house
+
+----------------
+
+sent_4:
+4 out of 7 sentences
+3 out of 5 paragraphs
+Tagged as a quote
+
+Sentence:
+The measure repudiates Connecticut's contention Gustave Whitehead successfully flew a powered, heavier-than-air machine of his own design on Aug. 14, 1901, "or on any other date."
+2 default entities: GSP Connecticut, PERSON Gustave Whitehead
+1 custom entities: PERSON Gustave Whitehead
+
+Source Sentence and Source Headline Match:
+The measure repudiates Connecticut's contention Gustave Whitehead successfully flew a powered, heavier-than-air machine of his own design on Aug. 14, 1901, "or on any other date."
+Ohio panel OKs measure saying Connecticut not 1st in flight.
+1 matches: measure
+
+Source Sentence and Story Headline Match:
+The measure repudiates Connecticut's contention Gustave Whitehead successfully flew a powered, heavier-than-air machine of his own design on Aug. 14, 1901, "or on any other date."
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The measure repudiates Connecticut's contention Gustave Whitehead successfully flew a powered, heavier-than-air machine of his own design on Aug. 14, 1901, "or on any other date."
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+3 matches: 1901, whitehead, gustave
+
+----------------
+
+sent_5:
+5 out of 7 sentences
+4 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A 2013 Connecticut law declared Whitehead's 1901 flight as beating the Wright Brothers' December 1903 flight off Kitty Hawk, North Carolina.
+4 default entities: PERSON Whitehead, ORGANIZATION Wright Brothers, PERSON Kitty Hawk, GPE North Carolina
+2 custom entities: ORGANIZATION Wright Brothers, PERSON Kitty Hawk North Carolina
+
+Source Sentence and Source Headline Match:
+A 2013 Connecticut law declared Whitehead's 1901 flight as beating the Wright Brothers' December 1903 flight off Kitty Hawk, North Carolina.
+Ohio panel OKs measure saying Connecticut not 1st in flight.
+2 matches: connecticut, flight
+
+Source Sentence and Story Headline Match:
+A 2013 Connecticut law declared Whitehead's 1901 flight as beating the Wright Brothers' December 1903 flight off Kitty Hawk, North Carolina.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+2 matches: connecticut, flight
+
+Source Sentence and Best Story Sentence Match:
+A 2013 Connecticut law declared Whitehead's 1901 flight as beating the Wright Brothers' December 1903 flight off Kitty Hawk, North Carolina.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+8 matches: connecticut, brother, hawk, kitty, wright, 1903, flight, 1901
+
+----------------
+
+sent_6:
+6 out of 7 sentences
+4 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Aviation historians generally agree the Wrights won the race to flight.
+2 default entities: GPE Aviation, ORGANIZATION Wrights
+2 custom entities: GPE Aviation, ORGANIZATION Wrights
+
+Source Sentence and Source Headline Match:
+Aviation historians generally agree the Wrights won the race to flight.
+Ohio panel OKs measure saying Connecticut not 1st in flight.
+1 matches: flight
+
+Source Sentence and Story Headline Match:
+Aviation historians generally agree the Wrights won the race to flight.
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+1 matches: flight
+
+Source Sentence and Best Story Sentence Match:
+Aviation historians generally agree the Wrights won the race to flight.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+3 matches: flight, aviation, wright
+
+----------------
+
+sent_7:
+7 out of 7 sentences
+5 out of 5 paragraphs
+Tagged as a quote
+
+Sentence:
+Connecticut state Sen. Kevin Kelly says his state "must stand strongly behind the history (it knows) to be true."
+2 default entities: GSP Connecticut, PERSON Kevin Kelly
+2 custom entities: GSP Connecticut, ORGANIZATION Sen Kevin Kelly
+
+Source Sentence and Source Headline Match:
+Connecticut state Sen. Kevin Kelly says his state "must stand strongly behind the history (it knows) to be true."
+Ohio panel OKs measure saying Connecticut not 1st in flight.
+2 matches: connecticut, say
+
+Source Sentence and Story Headline Match:
+Connecticut state Sen. Kevin Kelly says his state "must stand strongly behind the history (it knows) to be true."
+Ohio lawmakers advance bill saying Connecticut was not 'first in flight'
+2 matches: connecticut, say
+
+Source Sentence and Best Story Sentence Match:
+Connecticut state Sen. Kevin Kelly says his state "must stand strongly behind the history (it knows) to be true."
+Connecticut lawmakers passed a bill in 2013 stating that a German-born state resident staged the first successful human flight, before the Wright brothers.
+2 matches: connecticut, state
+
+----------------
+

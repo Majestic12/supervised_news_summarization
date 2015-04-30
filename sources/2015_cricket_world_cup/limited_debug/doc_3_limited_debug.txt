@@ -1,0 +1,94 @@
+sent_1:
+
+Scotland will need time to get over the disappointment of their one-wicket World Cup defeat by Afghanistan, according to captain Preston Mommsen.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+5 best matches: cup, afghanistan, defeat, world, scotland
+
+----------------
+sent_2:
+
+Afghanistan recovered from 97-7 to overhaul 210 in the final over and deny Scotland a first World Cup win.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+6 best matches: win, afghanistan, world, cup, first, scotland
+
+----------------
+sent_3:
+
+no story sentence best matches found
+
+----------------
+sent_4:
+
+"There was a lot riding on this, a huge opportunity to get that first win.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+2 best matches: win, first
+
+----------------
+sent_5:
+
+no story sentence best matches found
+
+----------------
+sent_6:
+
+no story sentence best matches found
+
+----------------
+sent_7:
+
+Scotland, who have never won a World Cup match, had earlier slumped to 144-8, only to be taken to their highest score in the tournament by a ninth-wicket partnership of 62 between Majid Haq and Alasdair Evans.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+4 best matches: cup, win, world, scotland
+
+----------------
+sent_8:
+
+Afghanistan then suffered their own collapse of five wickets for 12 runs, but Samiullah Shenwari's 96 took them to the brink of victory, with last man Shapoor Zadran hitting the winning runs with three balls to spare.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+3 best matches: win, afghanistan, wicket
+
+----------------
+sent_9:
+
+no story sentence best matches found
+
+----------------
+sent_10:
+
+no story sentence best matches found
+
+----------------
+sent_11:
+
+no story sentence best matches found
+
+----------------
+sent_12:
+
+no story sentence best matches found
+
+----------------
+sent_13:
+
+Scotland's 11th successive World Cup defeat in three tournaments since making their debut in 1999 is a record, and their third reverse in this campaign leaves them on the brink of elimination from quarter-final contention.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+3 best matches: cup, defeat, world
+
+----------------
+sent_14:
+
+no story sentence best matches found
+
+----------------
+sent_15:
+
+no story sentence best matches found
+
+----------------
+sent_16:
+
+We've played good cricket in parts in the first three games, but not for long enough."
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+2 best matches: first, cricket
+
+----------------

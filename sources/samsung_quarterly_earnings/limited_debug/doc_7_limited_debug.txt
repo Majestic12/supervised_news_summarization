@@ -1,0 +1,70 @@
+sent_1:
+
+Samsung Electronics (005930.KS) will freeze wages in 2015 for employees in South Korea for the first time in six years, after the world's biggest smartphone maker saw profits fall in the face of rising competition.
+Samsung will freeze the salaries of all employees in South Korea this year because business conditions are "not optimistic," the company said Feb. 26.
+6 best matches: samsung, freeze, employee, south, korea, year
+
+----------------
+sent_2:
+
+The cost-cutting move is the latest by Samsung Electronics, which in January reported its first annual profit decline since 2011, as it lost market share to Apple Inc's (AAPL.O) new iPhones and cheaper Chinese rivals like Xiaomi Inc [XTC.UL].
+While Samsung did earn $4.9 billion in profit (down 27% from a year earlier), smartphone rival Apple earned $18 billion in profit.
+4 best matches: rival, samsung, apple, profit
+
+----------------
+sent_3:
+
+The wage freeze also comes as the electronics giant is widely expected to unveil its next Galaxy S smartphone at a March 1 event, hoping to revive sales growth momentum.
+Samsung on April 10 released the Galaxy S6, which the company hopes can help turn around its struggling smartphone division.
+3 best matches: hop, smartphone, galaxy
+
+----------------
+sent_4:
+
+Samsung Electronics had already frozen 2015 wages for executives as part of belt-tightening measures, a company spokeswoman said, confirming media reports.
+Samsung will freeze the salaries of all employees in South Korea this year because business conditions are "not optimistic," the company said Feb. 26.
+4 best matches: samsung, company, freeze, say
+
+----------------
+sent_5:
+
+"The measures are likely to inject a sense of crisis into employees, who have enjoyed steady wage increases and hefty bonuses in recent years," said Chang Sea-Jin, a business professor at Korea Advanced Institute of Science and Technology and author of the book "Sony vs Samsung".
+Samsung will freeze the salaries of all employees in South Korea this year because business conditions are "not optimistic," the company said Feb. 26.
+6 best matches: samsung, business, employee, korea, say, year
+
+----------------
+sent_6:
+
+A Samsung spokesman did not elaborate on the reasons for the wage freeze.
+Samsung will freeze the salaries of all employees in South Korea this year because business conditions are "not optimistic," the company said Feb. 26.
+2 best matches: samsung, freeze
+
+----------------
+sent_7:
+
+The company last froze wages in 2009, in the wake of the global financial crisis.
+Samsung last froze employee wages in 2009 in repose to the global financial crisis.
+7 best matches: global, last, financial, 2009, wage, crisis, froze
+
+----------------
+sent_8:
+
+Samsung Electronics has 93,928 employees in South Korea as of 2013.
+Samsung will freeze the salaries of all employees in South Korea this year because business conditions are "not optimistic," the company said Feb. 26.
+4 best matches: samsung, south, korea, employee
+
+----------------
+sent_9:
+
+Robert Yi, Samsung's head of investor relations, signaled earlier this month that the firm may cut dividends in 2015 after it hiked its payout by 40 percent and bought back stocks last year.
+While Samsung did earn $4.9 billion in profit (down 27% from a year earlier), smartphone rival Apple earned $18 billion in profit.
+2 best matches: year, early
+
+----------------
+sent_10:
+
+Samsung Electronics shares ended down 0.3 percent while the wider market .KS11 was up 0.1 percent as of 0613 GMT (0113 ET).
+Samsung has been increasing its reliance on its display and semiconductor divisions in the face of increased smartphone competition.
+1 best matches: samsung
+
+----------------

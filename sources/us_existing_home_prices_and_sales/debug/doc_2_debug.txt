@@ -1,0 +1,222 @@
+sent_1:
+1 out of 8 sentences
+1 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Home prices continued to rise in January, despite slowing growth and some seasonal weakness, a closely watched index showed on Tuesday.
+1 default entities: GPE Home
+1 custom entities: GPE Home
+
+Source Sentence and Source Headline Match:
+Home prices continued to rise in January, despite slowing growth and some seasonal weakness, a closely watched index showed on Tuesday.
+Home prices rose in January, despite seasonal weakness: S&P/Case-Shiller.
+7 matches: january, despite, price, rise, seasonal, home, weakness
+
+Source Sentence and Story Headline Match:
+Home prices continued to rise in January, despite slowing growth and some seasonal weakness, a closely watched index showed on Tuesday.
+US existing home sales leap 6.1% in March.
+1 matches: home
+
+Source Sentence and Best Story Sentence Match:
+Home prices continued to rise in January, despite slowing growth and some seasonal weakness, a closely watched index showed on Tuesday.
+The S&P/Case-Shiller index found the biggest year-on-year gains in home prices were in Denver and Miami, where prices rose 8.4 and 8.3%, respectively.
+4 matches: index, home, rise, price
+
+----------------
+
+sent_2:
+2 out of 8 sentences
+2 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The S&P/Case-Shiller Index showed residential real estate values increased 4.6 percent year-over-year in 20 cities, up slightly from the pace in December.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The S&P/Case-Shiller Index showed residential real estate values increased 4.6 percent year-over-year in 20 cities, up slightly from the pace in December.
+Home prices rose in January, despite seasonal weakness: S&P/Case-Shiller.
+2 matches: case-shiller, s&p
+
+Source Sentence and Story Headline Match:
+The S&P/Case-Shiller Index showed residential real estate values increased 4.6 percent year-over-year in 20 cities, up slightly from the pace in December.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The S&P/Case-Shiller Index showed residential real estate values increased 4.6 percent year-over-year in 20 cities, up slightly from the pace in December.
+The S&P/Case-Shiller index found the biggest year-on-year gains in home prices were in Denver and Miami, where prices rose 8.4 and 8.3%, respectively.
+3 matches: case-shiller, index, s&p
+
+----------------
+
+sent_3:
+3 out of 8 sentences
+2 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Denver and Miami led the gains over the last 12 months, with homes appreciating 8.4 and 8.3 percent, respectively.
+1 default entities: PERSON Miami
+1 custom entities: PERSON Miami
+
+Source Sentence and Source Headline Match:
+Denver and Miami led the gains over the last 12 months, with homes appreciating 8.4 and 8.3 percent, respectively.
+Home prices rose in January, despite seasonal weakness: S&P/Case-Shiller.
+1 matches: home
+
+Source Sentence and Story Headline Match:
+Denver and Miami led the gains over the last 12 months, with homes appreciating 8.4 and 8.3 percent, respectively.
+US existing home sales leap 6.1% in March.
+1 matches: home
+
+Source Sentence and Best Story Sentence Match:
+Denver and Miami led the gains over the last 12 months, with homes appreciating 8.4 and 8.3 percent, respectively.
+The S&P/Case-Shiller index found the biggest year-on-year gains in home prices were in Denver and Miami, where prices rose 8.4 and 8.3%, respectively.
+7 matches: 8.4, 8.3, miami, respectively, gain, denver, home
+
+----------------
+
+sent_4:
+4 out of 8 sentences
+3 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+However, both the 10- and 20-city home price indices were essentially flat month-to-month.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+However, both the 10- and 20-city home price indices were essentially flat month-to-month.
+Home prices rose in January, despite seasonal weakness: S&P/Case-Shiller.
+2 matches: home, price
+
+Source Sentence and Story Headline Match:
+However, both the 10- and 20-city home price indices were essentially flat month-to-month.
+US existing home sales leap 6.1% in March.
+1 matches: home
+
+Source Sentence and Best Story Sentence Match:
+However, both the 10- and 20-city home price indices were essentially flat month-to-month.
+The S&P/Case-Shiller index found the biggest year-on-year gains in home prices were in Denver and Miami, where prices rose 8.4 and 8.3%, respectively.
+3 matches: index, home, price
+
+----------------
+
+sent_5:
+5 out of 8 sentences
+3 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+San Francisco, where home prices fell nearly 1 percent between December and January, was the biggest laggard.
+1 default entities: GPE San Francisco
+3 custom entities: GPE San, PERSON Francisco, PERSON January
+
+Source Sentence and Source Headline Match:
+San Francisco, where home prices fell nearly 1 percent between December and January, was the biggest laggard.
+Home prices rose in January, despite seasonal weakness: S&P/Case-Shiller.
+3 matches: january, home, price
+
+Source Sentence and Story Headline Match:
+San Francisco, where home prices fell nearly 1 percent between December and January, was the biggest laggard.
+US existing home sales leap 6.1% in March.
+1 matches: home
+
+Source Sentence and Best Story Sentence Match:
+San Francisco, where home prices fell nearly 1 percent between December and January, was the biggest laggard.
+Six cities, including San Francisco, reported price declines in the twelve months leading up to January.
+4 matches: january, francisco, san, price
+
+----------------
+
+sent_6:
+6 out of 8 sentences
+4 out of 5 paragraphs
+Tagged as a quote
+
+Sentence:
+In a statement, S&P Dow Jones Industry attributed some of the weakness to "unusually cold and wet weather."
+1 default entities: PERSON P Dow Jones Industry
+1 custom entities: PERSON Jones Industry
+
+Source Sentence and Source Headline Match:
+In a statement, S&P Dow Jones Industry attributed some of the weakness to "unusually cold and wet weather."
+Home prices rose in January, despite seasonal weakness: S&P/Case-Shiller.
+2 matches: s&p, weakness
+
+Source Sentence and Story Headline Match:
+In a statement, S&P Dow Jones Industry attributed some of the weakness to "unusually cold and wet weather."
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+In a statement, S&P Dow Jones Industry attributed some of the weakness to "unusually cold and wet weather."
+The S&P/Case-Shiller index found the biggest year-on-year gains in home prices were in Denver and Miami, where prices rose 8.4 and 8.3%, respectively.
+1 matches: s&p
+
+----------------
+
+sent_7:
+7 out of 8 sentences
+5 out of 5 paragraphs
+Tagged as a quote
+
+Sentence:
+"Despite price gains, the housing market faces some difficulties.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"Despite price gains, the housing market faces some difficulties.
+Home prices rose in January, despite seasonal weakness: S&P/Case-Shiller.
+2 matches: despite, price
+
+Source Sentence and Story Headline Match:
+"Despite price gains, the housing market faces some difficulties.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"Despite price gains, the housing market faces some difficulties.
+The S&P/Case-Shiller index found the biggest year-on-year gains in home prices were in Denver and Miami, where prices rose 8.4 and 8.3%, respectively.
+2 matches: gain, price
+
+----------------
+
+sent_8:
+8 out of 8 sentences
+5 out of 5 paragraphs
+Tagged as a quote
+
+Sentence:
+Home prices are rising roughly twice as fast as wages, putting pressure on potential homebuyers and heightening the risk that any uptick in interest rates could be a major setback," said David M. Blitzer, managing director and chairman of the Index Committee for S&P Dow Jones Indices.
+4 default entities: GPE Home, PERSON David M. Blitzer, ORGANIZATION Index Committee, PERSON P Dow Jones Indices
+4 custom entities: GPE Home, PERSON David M Blitzer, ORGANIZATION Index Committee, PERSON Jones Indices
+
+Source Sentence and Source Headline Match:
+Home prices are rising roughly twice as fast as wages, putting pressure on potential homebuyers and heightening the risk that any uptick in interest rates could be a major setback," said David M. Blitzer, managing director and chairman of the Index Committee for S&P Dow Jones Indices.
+Home prices rose in January, despite seasonal weakness: S&P/Case-Shiller.
+4 matches: rise, home, s&p, price
+
+Source Sentence and Story Headline Match:
+Home prices are rising roughly twice as fast as wages, putting pressure on potential homebuyers and heightening the risk that any uptick in interest rates could be a major setback," said David M. Blitzer, managing director and chairman of the Index Committee for S&P Dow Jones Indices.
+US existing home sales leap 6.1% in March.
+1 matches: home
+
+Source Sentence and Best Story Sentence Match:
+Home prices are rising roughly twice as fast as wages, putting pressure on potential homebuyers and heightening the risk that any uptick in interest rates could be a major setback," said David M. Blitzer, managing director and chairman of the Index Committee for S&P Dow Jones Indices.
+The S&P/Case-Shiller index found the biggest year-on-year gains in home prices were in Denver and Miami, where prices rose 8.4 and 8.3%, respectively.
+5 matches: index, home, rise, s&p, price
+
+----------------
+

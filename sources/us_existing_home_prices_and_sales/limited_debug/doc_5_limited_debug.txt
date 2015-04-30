@@ -1,0 +1,168 @@
+sent_1:
+
+Springing back from a tough winter and supported by the growing economy, sales of used homes in March reached the fastest pace in 18 months, according to data released Wednesday.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+3 best matches: sale, home, march
+
+----------------
+sent_2:
+
+If such strong results keep up, 2015 could be the best year for used-home sales in almost a decade, said Lawrence Yun, chief economist of the National Association of Realtors.
+Sales of existing homes increased 6.1% in March to a seasonally adjusted rate of 5.19 million, the National Association of Realtors said April 22.
+5 best matches: association, sale, realtor, national, say
+
+----------------
+sent_3:
+
+“After a quiet start to the year, sales activity picked up greatly throughout the country,” he said.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+5 best matches: sale, year, activity, pick, start
+
+----------------
+sent_4:
+
+“The combination of low interest rates and the ongoing stability in the job market is improving buyer confidence and finally releasing some of the sizable pent-up demand that accumulated in recent years.”
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+1 best matches: year
+
+----------------
+sent_5:
+
+Sales of existing homes rose 6.1% in March to a seasonally adjusted annual rate of 5.19 million, the fastest pace in 18 months, the National Association of Realtors reported Wednesday.
+Sales of existing homes increased 6.1% in March to a seasonally adjusted rate of 5.19 million, the National Association of Realtors said April 22.
+13 best matches: sale, march, exist, association, million, realtor, rate, national, seasonally, 6.1, home, adjust, 5.19
+
+----------------
+sent_6:
+
+Economists polled by MarketWatch had expected a March rate of 5.08 million, after a slightly revised 4.89 million pace in February.
+Sales of existing homes increased 6.1% in March to a seasonally adjusted rate of 5.19 million, the National Association of Realtors said April 22.
+3 best matches: million, rate, march
+
+----------------
+sent_7:
+
+Treasury yields shot higher after the housing data.
+In addition, housing inventory continued to shrink, slipping 11.1% in December 2014 to 1.85 million existing homes available for sale compared to November 2014.
+1 best matches: housing
+
+----------------
+sent_8:
+
+Markets are tuning into today’s data to get an early indication for how buying activity will fare during this year’s hot home-selling season.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+1 best matches: activity
+
+----------------
+sent_9:
+
+Deal making tends to pick up with the warmer weather.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+1 best matches: pick
+
+----------------
+sent_10:
+
+For context, the pace of total existing-home sales is down almost one-third from the bubble peak.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+1 best matches: sale
+
+----------------
+sent_11:
+
+But there are still reasons to be cautious about home sales.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+2 best matches: sale, home
+
+----------------
+sent_12:
+
+Prominent economists met at a forum Tuesday in Washington and warned that weak income growth and few first-time buyers have been holding back home sales.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+2 best matches: sale, home
+
+----------------
+sent_13:
+
+And here’s another worry: The government recently reported that monthly job gains hit the slowest pace in more than a year.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+1 best matches: year
+
+----------------
+sent_14:
+
+Difficult-to-get mortgages are also hobbling home sales, as are too few homes on the market, experts say.
+Sales of existing homes increased 6.1% in March to a seasonally adjusted rate of 5.19 million, the National Association of Realtors said April 22.
+3 best matches: sale, home, say
+
+----------------
+sent_15:
+
+On Wednesday NAR reported that March’s inventory was 2 million existing homes for sale, a 4.6-month supply at the current sales pace.
+In addition, housing inventory continued to shrink, slipping 11.1% in December 2014 to 1.85 million existing homes available for sale compared to November 2014.
+5 best matches: sale, million, home, inventory, exist
+
+----------------
+sent_16:
+
+A healthier supply would be closer to 6 months.
+Nationwide, home prices were up 4.6% in January compared to the same month in the previous year.
+1 best matches: month
+
+----------------
+sent_17:
+
+The tight supply is pushing up home prices, NAR said.
+The median price in March for existing homes stood at $212,100, NAR reported, which is a 7.8% increase from March 2014.
+3 best matches: nar, home, price
+
+----------------
+sent_18:
+
+The median sales price of used homes hit $212,100 in March, up 7.8% from the year-earlier period.
+The median price in March for existing homes stood at $212,100, NAR reported, which is a 7.8% increase from March 2014.
+6 best matches: 7.8, march, price, 212,100, median, home
+
+----------------
+sent_19:
+
+On the bright side, for those who can obtain a mortgage, low rates should encourage borrowing by making it easier to afford a home.
+Sales of existing homes increased 6.1% in March to a seasonally adjusted rate of 5.19 million, the National Association of Realtors said April 22.
+2 best matches: home, rate
+
+----------------
+sent_20:
+
+“It seems we are seeing signs of increasing demand for mortgages used for purchases,” wrote Derek Lindsey, an analyst with BNP Paribas.
+Sales of existing homes increased 6.1% in March to a seasonally adjusted rate of 5.19 million, the National Association of Realtors said April 22.
+1 best matches: increase
+
+----------------
+sent_21:
+
+“The spring buying season could show some impressive continued acceleration in sales.”
+In addition, housing inventory continued to shrink, slipping 11.1% in December 2014 to 1.85 million existing homes available for sale compared to November 2014.
+2 best matches: sale, continue
+
+----------------
+sent_22:
+
+On Thursday markets will get a reading on March’s sales of new homes.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+2 best matches: sale, home
+
+----------------
+sent_23:
+
+Economists expect that the sales pace fell last month.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+1 best matches: sale
+
+----------------
+sent_24:
+
+New homes tend to be pricier than existing, or used, homes.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+2 best matches: home, exist
+
+----------------

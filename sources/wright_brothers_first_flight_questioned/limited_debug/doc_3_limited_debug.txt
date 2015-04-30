@@ -1,0 +1,222 @@
+sent_1:
+
+Were the Wright brothers first in flight?
+Connecticut lawmakers passed a bill in 2013 stating that a German-born state resident staged the first successful human flight, before the Wright brothers.
+4 best matches: first, flight, brother, wright
+
+----------------
+sent_2:
+
+no story sentence best matches found
+
+----------------
+sent_3:
+
+A little-known 1948 contract between the estate of Orville Wright and the Smithsonian has the museum legally bound to call the Wright brothers first in flight: "The Smithsonian shall [not state] any aircraft ... earlier than the Wright aeroplane of 1903 ... was capable of carrying a man under its own power in controlled flight," it states.
+"The Smithsonian… shall [not] publish or permit to be displayed a statement or label… any aircraft model or design of earlier date than the Wright Aeroplane of 1903, claiming in effect that such aircraft was capable of carrying a man under its own power in controlled flight."
+12 best matches: aircraft, power, smithsonian, man, shall, aeroplane, wright, 1903, controlled, capable, flight, carrying
+
+----------------
+sent_4:
+
+One aviation historian claims that contract is wrong, however, forcing the museum to ignore the truth.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+2 best matches: claim, aviation
+
+----------------
+sent_5:
+
+And for the first time, the museum has released the contract publicly to FoxNews.com, to let the world make its own decisions.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+3 best matches: contract, first, museum
+
+----------------
+sent_6:
+
+According to most anyone you ask, Orville and Wilbur sailed into history books on Dec. 17, 1903, following their historic flight at Kitty Hawk, North Carolina.
+The Wright brothers' historic 59-second flight took place on Dec. 17, 1903, in North Carolina.
+7 best matches: north, carolina, dec, 17, 1903, flight, historic
+
+----------------
+sent_7:
+
+The Smithsonian features the Wright Flyer prominently today.
+"The Smithsonian… shall [not] publish or permit to be displayed a statement or label… any aircraft model or design of earlier date than the Wright Aeroplane of 1903, claiming in effect that such aircraft was capable of carrying a man under its own power in controlled flight."
+2 best matches: smithsonian, wright
+
+----------------
+sent_8:
+
+But Australian aviation historian John Brown argues that a recently uncovered photograph proves German immigrant Gustav Whitehead flew first (over Connecticut, in the wee hours of Aug. 14, 1901).
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+4 best matches: whitehead, connecticut, aviation, 1901
+
+----------------
+sent_9:
+
+Brown says the Smithsonian is bound by that contract to ignore Whitehead’s feat.
+Brown says he has photographic evidence — albeit very blurry — showing Gustave flying the first motorized aircraft in Connecticut in 1901.
+2 best matches: brown, say
+
+----------------
+sent_10:
+
+And the secrecy has to go, he wrote last week to the Smithsonian’s senior curator.
+Crouch has written four books on the Wright brothers and has studied Gustave Whitehead.
+1 best matches: write
+
+----------------
+sent_11:
+
+“With apologies to Ronald Reagan and Mikhail Gorbachev: ... Mr. Crouch, tear up that contract!”
+Crouch has written four books on the Wright brothers and has studied Gustave Whitehead.
+1 best matches: crouch
+
+----------------
+sent_12:
+
+The contract was signed in 1948 between surviving Wright brother Orville and the museum; it secured ownership of the Flyer from London’s Science Museum for $1, with a stipulation: The Wright plane must always be recognized as the first true airplane.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+8 best matches: plane, 1948, airplane, orville, museum, contract, first, wright
+
+----------------
+sent_13:
+
+“Jane’s: All the World’s Aircraft” -- widely considered the essential bible of flight -- recently acknowledged Whitehead's achievement, and agreed with Brown about the contract.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+2 best matches: flight, widely
+
+----------------
+sent_14:
+
+“History is normally written by researchers who have dispassionately analyzed all relevant data and not, as here, by the lawyers of interested parties,” the book reads.
+Crouch has written four books on the Wright brothers and has studied Gustave Whitehead.
+2 best matches: write, book
+
+----------------
+sent_15:
+
+The contract does exist and still holds, said Tom Crouch, senior curator of aeronautics at the museum, in a recent blog post.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+2 best matches: contract, museum
+
+----------------
+sent_16:
+
+&quotThe contract remains in force today, a healthy reminder of a less-than-exemplary moment in Smithsonian history.&quot
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+2 best matches: smithsonian, contract
+
+----------------
+sent_17:
+
+The Smithsonian was involved in pioneering efforts to achieve flight in the first years of the 20th century, it turns out.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+6 best matches: turn, century, first, achieve, flight, 20th
+
+----------------
+sent_18:
+
+An airplane created by the museum was on display in the teens, labelled “first airplane capable of flight.”
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+5 best matches: airplane, display, museum, first, flight
+
+----------------
+sent_19:
+
+“That was a very misleading statement,” Peter Jakab, associate director of curatorial affairs for the Smithsonian Museum, told FoxNews.com -- one that angered Orville.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+3 best matches: smithsonian, orville, museum
+
+----------------
+sent_20:
+
+Wright sent his plane to London in 1928 in protest, with Charles Lindbergh's help, where it remained until 1942 when the museum published an extensive article about the Smithsonian's &quotLangley plane&quot that set the record straight.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+3 best matches: plane, museum, wright
+
+----------------
+sent_21:
+
+“The plane was put in storage during World War II at a quarry with the Magna Carta and the crown jewels.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+1 best matches: plane
+
+----------------
+sent_22:
+
+After the war, arrangements were made to bring it back,” Jakab said.
+A panel of Ohio state lawmakers unanimously backed a bill April 14 that rejects a position approved by Connecticut state lawmakers declaring Connecticut first in flight.
+1 best matches: back
+
+----------------
+sent_23:
+
+Those arrangements were between the executors of the estate -- Orville having died of a heart attack -- and the Smithsonian.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+3 best matches: smithsonian, estate, orville
+
+----------------
+sent_24:
+
+To avoid paying high taxes on the transfer, a contract was signed.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+1 best matches: contract
+
+----------------
+sent_25:
+
+“The executors put in the agreement a label that always would be displayed with the flyer … directed toward the Langley issue,” he told FoxNews.com.
+"The Smithsonian… shall [not] publish or permit to be displayed a statement or label… any aircraft model or design of earlier date than the Wright Aeroplane of 1903, claiming in effect that such aircraft was capable of carrying a man under its own power in controlled flight."
+2 best matches: label, display
+
+----------------
+sent_26:
+
+In an open letter sent March 24 to the Smithsonian's Crouch, Brown argued that the letter was coloring his view of history.
+"Two years, four months, and three days before the Wright brothers, somebody else flew first… It's really a radical revision of the history of aviation."
+1 best matches: history
+
+----------------
+sent_27:
+
+“You saying the Wrights flew first is like Bill Gates saying Microsoft products are good -- except that Bill is more credible because no contract actually requires him to say that,” Brown wrote.
+Connecticut lawmakers passed a bill in 2013 stating that a German-born state resident staged the first successful human flight, before the Wright brothers.
+3 best matches: first, bill, wright
+
+----------------
+sent_28:
+
+In an open response two days later, Crouch dismissed those claims.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+2 best matches: claim, two
+
+----------------
+sent_29:
+
+“I can only repeat that if substantial evidence of a pre-Wright flight claim were to be produced, I hope I would have the courage to admit it.”
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+2 best matches: claim, flight
+
+----------------
+sent_30:
+
+Ultimately, the question of who flew first is less important than the legacy left by the Wright's design anyway, Jakab argued.
+"Two years, four months, and three days before the Wright brothers, somebody else flew first… It's really a radical revision of the history of aviation."
+2 best matches: first, flew
+
+----------------
+sent_31:
+
+“[The Wright Flyer] was able to evolve into something we have today.
+Connecticut lawmakers passed a bill in 2013 stating that a German-born state resident staged the first successful human flight, before the Wright brothers.
+1 best matches: wright
+
+----------------
+sent_32:
+
+And that’s its real powerful significance -- in addition to being the first to fly.”
+Connecticut lawmakers passed a bill in 2013 stating that a German-born state resident staged the first successful human flight, before the Wright brothers.
+1 best matches: first
+
+----------------

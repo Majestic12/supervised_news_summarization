@@ -1,0 +1,326 @@
+sent_1:
+1 out of 12 sentences
+1 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+With backing from Chancellor Angela Merkel's grand coalition government, a German parliamentary committee wants to meet former U.S. intelligence contractor Edward Snowden in Moscow in the coming weeks, German network ARD reported on Thursday.
+7 default entities: PERSON Chancellor Angela Merkel, GPE German, GPE U.S., PERSON Edward Snowden, GPE Moscow, GPE German, ORGANIZATION ARD
+6 custom entities: PERSON Chancellor Angela, GPE German, PERSON Edward Snowden, GPE Moscow, GPE German, ORGANIZATION ARD
+
+Source Sentence and Source Headline Match:
+With backing from Chancellor Angela Merkel's grand coalition government, a German parliamentary committee wants to meet former U.S. intelligence contractor Edward Snowden in Moscow in the coming weeks, German network ARD reported on Thursday.
+German committee wants to question Snowden in Moscow.
+5 matches: snowden, committee, want, moscow, german
+
+Source Sentence and Story Headline Match:
+With backing from Chancellor Angela Merkel's grand coalition government, a German parliamentary committee wants to meet former U.S. intelligence contractor Edward Snowden in Moscow in the coming weeks, German network ARD reported on Thursday.
+German intelligence agency helped NSA spy in Europe.
+2 matches: intelligence, german
+
+Source Sentence and Best Story Sentence Match:
+With backing from Chancellor Angela Merkel's grand coalition government, a German parliamentary committee wants to meet former U.S. intelligence contractor Edward Snowden in Moscow in the coming weeks, German network ARD reported on Thursday.
+A German parliamentary committee investigating the NSA's activities voted June 5 to question Edward Snowden in Moscow.
+6 matches: snowden, parliamentary, committee, edward, moscow, german
+
+----------------
+
+sent_2:
+2 out of 12 sentences
+2 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The ruling right-left coalition has resisted opposition demands that Snowden come to Germany to testify to the parliamentary committee looking into the mass surveillance of German citizens by the U.S. National Security Agency (NSA) that he exposed.
+5 default entities: PERSON Snowden, GPE Germany, GPE German, GPE U.S., ORGANIZATION NSA
+5 custom entities: PERSON Snowden, GPE Germany, GPE German, ORGANIZATION U.S National, PERSON Agency NSA
+
+Source Sentence and Source Headline Match:
+The ruling right-left coalition has resisted opposition demands that Snowden come to Germany to testify to the parliamentary committee looking into the mass surveillance of German citizens by the U.S. National Security Agency (NSA) that he exposed.
+German committee wants to question Snowden in Moscow.
+3 matches: snowden, committee, german
+
+Source Sentence and Story Headline Match:
+The ruling right-left coalition has resisted opposition demands that Snowden come to Germany to testify to the parliamentary committee looking into the mass surveillance of German citizens by the U.S. National Security Agency (NSA) that he exposed.
+German intelligence agency helped NSA spy in Europe.
+3 matches: agency, nsa, german
+
+Source Sentence and Best Story Sentence Match:
+The ruling right-left coalition has resisted opposition demands that Snowden come to Germany to testify to the parliamentary committee looking into the mass surveillance of German citizens by the U.S. National Security Agency (NSA) that he exposed.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+6 matches: snowden, national, nsa, agency, citizen, security
+
+----------------
+
+sent_3:
+3 out of 12 sentences
+3 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The NSA practices have become a major political issue in Germany, which is sensitive to the abuses of such agencies after their Nazi and Communist pasts and reports that the NSA monitored Merkel's cellphone calls have cast a shadow over the once close U.S.-German relations.
+6 default entities: ORGANIZATION NSA, GPE Germany, ORGANIZATION Nazi, ORGANIZATION Communist, ORGANIZATION NSA, PERSON Merkel
+5 custom entities: ORGANIZATION NSA, GPE Germany, ORGANIZATION Nazi, ORGANIZATION Communist, ORGANIZATION NSA
+
+Source Sentence and Source Headline Match:
+The NSA practices have become a major political issue in Germany, which is sensitive to the abuses of such agencies after their Nazi and Communist pasts and reports that the NSA monitored Merkel's cellphone calls have cast a shadow over the once close U.S.-German relations.
+German committee wants to question Snowden in Moscow.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The NSA practices have become a major political issue in Germany, which is sensitive to the abuses of such agencies after their Nazi and Communist pasts and reports that the NSA monitored Merkel's cellphone calls have cast a shadow over the once close U.S.-German relations.
+German intelligence agency helped NSA spy in Europe.
+2 matches: nsa, agency
+
+Source Sentence and Best Story Sentence Match:
+The NSA practices have become a major political issue in Germany, which is sensitive to the abuses of such agencies after their Nazi and Communist pasts and reports that the NSA monitored Merkel's cellphone calls have cast a shadow over the once close U.S.-German relations.
+Friedrich, Germany's minister responsible for national security said he is keen to speak to Snowden over allegations that the NSA monitored Chancellor Angela Merkel's phone calls.
+4 matches: call, merkel's, nsa, monitor
+
+----------------
+
+sent_4:
+4 out of 12 sentences
+4 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+ARD quoted a leader of the committee, Christian Flisek, saying a meeting with Snowden in Moscow would not have the character of witness testifying but rather be a chance to give members a chance to get a better picture of Snowden.
+5 default entities: ORGANIZATION ARD, PERSON Christian Flisek, PERSON Snowden, GPE Moscow, GPE Snowden
+5 custom entities: ORGANIZATION ARD, PERSON Christian Flisek, PERSON Snowden, GPE Moscow, GPE Snowden
+
+Source Sentence and Source Headline Match:
+ARD quoted a leader of the committee, Christian Flisek, saying a meeting with Snowden in Moscow would not have the character of witness testifying but rather be a chance to give members a chance to get a better picture of Snowden.
+German committee wants to question Snowden in Moscow.
+3 matches: snowden, committee, moscow
+
+Source Sentence and Story Headline Match:
+ARD quoted a leader of the committee, Christian Flisek, saying a meeting with Snowden in Moscow would not have the character of witness testifying but rather be a chance to give members a chance to get a better picture of Snowden.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+ARD quoted a leader of the committee, Christian Flisek, saying a meeting with Snowden in Moscow would not have the character of witness testifying but rather be a chance to give members a chance to get a better picture of Snowden.
+Snowden said he wanted to testify before the committee in Berlin, but the German government could not give assurances that he wouldn't be detained and extradited to the U.S.
+5 matches: snowden, testify, committee, say, give
+
+----------------
+
+sent_5:
+5 out of 12 sentences
+5 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Flisek told ARD that the committee members would have, for instance, the chance to ask Snowden directly whether or not he wanted to return to the United States.
+4 default entities: PERSON Flisek, ORGANIZATION ARD, PERSON Snowden, GPE United States
+4 custom entities: PERSON Flisek, ORGANIZATION ARD, PERSON Snowden, GPE United States
+
+Source Sentence and Source Headline Match:
+Flisek told ARD that the committee members would have, for instance, the chance to ask Snowden directly whether or not he wanted to return to the United States.
+German committee wants to question Snowden in Moscow.
+3 matches: snowden, committee, want
+
+Source Sentence and Story Headline Match:
+Flisek told ARD that the committee members would have, for instance, the chance to ask Snowden directly whether or not he wanted to return to the United States.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Flisek told ARD that the committee members would have, for instance, the chance to ask Snowden directly whether or not he wanted to return to the United States.
+Despite outcry from European leaders over the leaks, Snowden told Der Spiegel in 2013 that the NSA is "in bed together with the Germans and most other Western states."
+3 matches: snowden, tell, state
+
+----------------
+
+sent_6:
+6 out of 12 sentences
+6 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Flisek said it was now up to Snowden to decide if he wants to meet the committee in Moscow, something the Germans would like to do by July 2.
+3 default entities: PERSON Flisek, GPE Snowden, GPE Moscow
+3 custom entities: PERSON Flisek, GPE Snowden, GPE Moscow
+
+Source Sentence and Source Headline Match:
+Flisek said it was now up to Snowden to decide if he wants to meet the committee in Moscow, something the Germans would like to do by July 2.
+German committee wants to question Snowden in Moscow.
+5 matches: snowden, committee, want, moscow, german
+
+Source Sentence and Story Headline Match:
+Flisek said it was now up to Snowden to decide if he wants to meet the committee in Moscow, something the Germans would like to do by July 2.
+German intelligence agency helped NSA spy in Europe.
+1 matches: german
+
+Source Sentence and Best Story Sentence Match:
+Flisek said it was now up to Snowden to decide if he wants to meet the committee in Moscow, something the Germans would like to do by July 2.
+Snowden said he wanted to testify before the committee in Berlin, but the German government could not give assurances that he wouldn't be detained and extradited to the U.S.
+5 matches: snowden, want, committee, say, german
+
+----------------
+
+sent_7:
+7 out of 12 sentences
+7 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Greens and Left parties, the two small opposition parties on the committee, voted against the measure because they want Snowden to come to Germany to testify.
+4 default entities: GPE Greens, ORGANIZATION Left, PERSON Snowden, GPE Germany
+4 custom entities: GPE Greens, ORGANIZATION Left, PERSON Snowden, GPE Germany
+
+Source Sentence and Source Headline Match:
+The Greens and Left parties, the two small opposition parties on the committee, voted against the measure because they want Snowden to come to Germany to testify.
+German committee wants to question Snowden in Moscow.
+3 matches: snowden, committee, want
+
+Source Sentence and Story Headline Match:
+The Greens and Left parties, the two small opposition parties on the committee, voted against the measure because they want Snowden to come to Germany to testify.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The Greens and Left parties, the two small opposition parties on the committee, voted against the measure because they want Snowden to come to Germany to testify.
+Snowden said he wanted to testify before the committee in Berlin, but the German government could not give assurances that he wouldn't be detained and extradited to the U.S.
+4 matches: snowden, want, testify, committee
+
+----------------
+
+sent_8:
+8 out of 12 sentences
+7 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The coalition-dominated committee voted against that.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The coalition-dominated committee voted against that.
+German committee wants to question Snowden in Moscow.
+1 matches: committee
+
+Source Sentence and Story Headline Match:
+The coalition-dominated committee voted against that.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The coalition-dominated committee voted against that.
+A German parliamentary committee investigating the NSA's activities voted June 5 to question Edward Snowden in Moscow.
+2 matches: committee, vote
+
+----------------
+
+sent_9:
+9 out of 12 sentences
+8 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Snowden has said he would like to be questioned in Germany.
+2 default entities: GPE Snowden, GPE Germany
+2 custom entities: GPE Snowden, GPE Germany
+
+Source Sentence and Source Headline Match:
+Snowden has said he would like to be questioned in Germany.
+German committee wants to question Snowden in Moscow.
+2 matches: snowden, question
+
+Source Sentence and Story Headline Match:
+Snowden has said he would like to be questioned in Germany.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Snowden has said he would like to be questioned in Germany.
+A German parliamentary committee investigating the NSA's activities voted June 5 to question Edward Snowden in Moscow.
+2 matches: snowden, question
+
+----------------
+
+sent_10:
+10 out of 12 sentences
+8 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But the German government had told the committee it could not ensure that Snowden would not be detained and possibly extradited to the United States once he arrived.
+3 default entities: GPE German, PERSON Snowden, GPE United States
+3 custom entities: GPE German, PERSON Snowden, GPE United States
+
+Source Sentence and Source Headline Match:
+But the German government had told the committee it could not ensure that Snowden would not be detained and possibly extradited to the United States once he arrived.
+German committee wants to question Snowden in Moscow.
+3 matches: snowden, committee, german
+
+Source Sentence and Story Headline Match:
+But the German government had told the committee it could not ensure that Snowden would not be detained and possibly extradited to the United States once he arrived.
+German intelligence agency helped NSA spy in Europe.
+1 matches: german
+
+Source Sentence and Best Story Sentence Match:
+But the German government had told the committee it could not ensure that Snowden would not be detained and possibly extradited to the United States once he arrived.
+Snowden said he wanted to testify before the committee in Berlin, but the German government could not give assurances that he wouldn't be detained and extradited to the U.S.
+7 matches: snowden, committee, government, extradite, detain, could, german
+
+----------------
+
+sent_11:
+11 out of 12 sentences
+9 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Russia granted Snowden a year's asylum in August 2013 despite the United States wanting Moscow to send him home to face criminal charges, including espionage, for disclosing in June secret U.S Internet and telephone surveillance programs.
+4 default entities: GPE Russia, PERSON Snowden, GPE United States, GPE Moscow
+4 custom entities: GPE Russia, PERSON Snowden, GPE United States, GPE Moscow
+
+Source Sentence and Source Headline Match:
+Russia granted Snowden a year's asylum in August 2013 despite the United States wanting Moscow to send him home to face criminal charges, including espionage, for disclosing in June secret U.S Internet and telephone surveillance programs.
+German committee wants to question Snowden in Moscow.
+3 matches: snowden, want, moscow
+
+Source Sentence and Story Headline Match:
+Russia granted Snowden a year's asylum in August 2013 despite the United States wanting Moscow to send him home to face criminal charges, including espionage, for disclosing in June secret U.S Internet and telephone surveillance programs.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Russia granted Snowden a year's asylum in August 2013 despite the United States wanting Moscow to send him home to face criminal charges, including espionage, for disclosing in June secret U.S Internet and telephone surveillance programs.
+Despite outcry from European leaders over the leaks, Snowden told Der Spiegel in 2013 that the NSA is "in bed together with the Germans and most other Western states."
+4 matches: snowden, 2013, state, despite
+
+----------------
+
+sent_12:
+12 out of 12 sentences
+10 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Last month, Snowden said he was not under the control of Russia's government and had given Moscow no intelligence documents after nearly a year of asylum there.
+3 default entities: PERSON Snowden, GPE Russia, GPE Moscow
+3 custom entities: PERSON Snowden, GPE Russia's, GPE Moscow
+
+Source Sentence and Source Headline Match:
+Last month, Snowden said he was not under the control of Russia's government and had given Moscow no intelligence documents after nearly a year of asylum there.
+German committee wants to question Snowden in Moscow.
+2 matches: snowden, moscow
+
+Source Sentence and Story Headline Match:
+Last month, Snowden said he was not under the control of Russia's government and had given Moscow no intelligence documents after nearly a year of asylum there.
+German intelligence agency helped NSA spy in Europe.
+1 matches: intelligence
+
+Source Sentence and Best Story Sentence Match:
+Last month, Snowden said he was not under the control of Russia's government and had given Moscow no intelligence documents after nearly a year of asylum there.
+Snowden said he wanted to testify before the committee in Berlin, but the German government could not give assurances that he wouldn't be detained and extradited to the U.S.
+4 matches: snowden, government, say, give
+
+----------------
+

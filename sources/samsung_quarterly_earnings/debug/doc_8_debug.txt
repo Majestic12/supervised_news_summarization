@@ -1,0 +1,162 @@
+sent_1:
+1 out of 6 sentences
+1 out of 4 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Samsung Electronics Co. will this year freeze the salaries of all its workers in South Korea as the Galaxy smartphone maker battles slowing sales and plunging earnings.
+4 default entities: PERSON Samsung, ORGANIZATION Electronics, GPE South Korea, GPE Galaxy
+4 custom entities: PERSON Samsung, ORGANIZATION Electronics Co, GPE South Korea, GPE Galaxy
+
+Source Sentence and Source Headline Match:
+Samsung Electronics Co. will this year freeze the salaries of all its workers in South Korea as the Galaxy smartphone maker battles slowing sales and plunging earnings.
+Samsung to Freeze South Korean Salaries in 2015 as Profit Slumps.
+4 matches: samsung, salary, south, freeze
+
+Source Sentence and Story Headline Match:
+Samsung Electronics Co. will this year freeze the salaries of all its workers in South Korea as the Galaxy smartphone maker battles slowing sales and plunging earnings.
+Samsung net profit falls 39% from same quarter in 2014.
+1 matches: samsung
+
+Source Sentence and Best Story Sentence Match:
+Samsung Electronics Co. will this year freeze the salaries of all its workers in South Korea as the Galaxy smartphone maker battles slowing sales and plunging earnings.
+Samsung will freeze the salaries of all employees in South Korea this year because business conditions are "not optimistic," the company said Feb. 26.
+6 matches: samsung, freeze, salary, south, korea, year
+
+----------------
+
+sent_2:
+2 out of 6 sentences
+2 out of 4 paragraphs
+Tagged as a quote
+
+Sentence:
+The freeze is Samsung’s first in six years and is designed to strengthen competitiveness given business conditions are “not optimistic,” the Suwon, South Korea-based company said in a statement Thursday.
+3 default entities: PERSON Samsung, GPE Suwon, GPE South
+1 custom entities: ORGANIZATION Suwon South
+
+Source Sentence and Source Headline Match:
+The freeze is Samsung’s first in six years and is designed to strengthen competitiveness given business conditions are “not optimistic,” the Suwon, South Korea-based company said in a statement Thursday.
+Samsung to Freeze South Korean Salaries in 2015 as Profit Slumps.
+2 matches: south, freeze
+
+Source Sentence and Story Headline Match:
+The freeze is Samsung’s first in six years and is designed to strengthen competitiveness given business conditions are “not optimistic,” the Suwon, South Korea-based company said in a statement Thursday.
+Samsung net profit falls 39% from same quarter in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The freeze is Samsung’s first in six years and is designed to strengthen competitiveness given business conditions are “not optimistic,” the Suwon, South Korea-based company said in a statement Thursday.
+Samsung will freeze the salaries of all employees in South Korea this year because business conditions are "not optimistic," the company said Feb. 26.
+8 matches: company, freeze, business, south, condition, say, optimistic, year
+
+----------------
+
+sent_3:
+3 out of 6 sentences
+2 out of 4 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Performance incentives and bonuses aren’t included in the freeze, the company said.
+1 default entities: GPE Performance
+1 custom entities: GPE Performance
+
+Source Sentence and Source Headline Match:
+Performance incentives and bonuses aren’t included in the freeze, the company said.
+Samsung to Freeze South Korean Salaries in 2015 as Profit Slumps.
+1 matches: freeze
+
+Source Sentence and Story Headline Match:
+Performance incentives and bonuses aren’t included in the freeze, the company said.
+Samsung net profit falls 39% from same quarter in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Performance incentives and bonuses aren’t included in the freeze, the company said.
+Samsung will freeze the salaries of all employees in South Korea this year because business conditions are "not optimistic," the company said Feb. 26.
+3 matches: company, freeze, say
+
+----------------
+
+sent_4:
+4 out of 6 sentences
+3 out of 4 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Earnings have slumped for three straight quarters as the South Korean company lost its outright lead in the global market and consumers switched to Apple Inc.’s new iPhones and cheaper Chinese handsets running on Google Inc.’s Android operating system.
+6 default entities: LOCATION South Korean, PERSON Apple Inc., ORGANIZATION iPhones, GPE Chinese, ORGANIZATION Google Inc., PERSON Android
+5 custom entities: LOCATION South Korean, PERSON Apple, ORGANIZATION iPhones, GPE Chinese, PERSON Google
+
+Source Sentence and Source Headline Match:
+Earnings have slumped for three straight quarters as the South Korean company lost its outright lead in the global market and consumers switched to Apple Inc.’s new iPhones and cheaper Chinese handsets running on Google Inc.’s Android operating system.
+Samsung to Freeze South Korean Salaries in 2015 as Profit Slumps.
+3 matches: korean, slump, south
+
+Source Sentence and Story Headline Match:
+Earnings have slumped for three straight quarters as the South Korean company lost its outright lead in the global market and consumers switched to Apple Inc.’s new iPhones and cheaper Chinese handsets running on Google Inc.’s Android operating system.
+Samsung net profit falls 39% from same quarter in 2014.
+1 matches: quarter
+
+Source Sentence and Best Story Sentence Match:
+Earnings have slumped for three straight quarters as the South Korean company lost its outright lead in the global market and consumers switched to Apple Inc.’s new iPhones and cheaper Chinese handsets running on Google Inc.’s Android operating system.
+"In the second quarter, the company expects its overall earnings to increase compared to the previous quarter."
+3 matches: quarter, earnings, company
+
+----------------
+
+sent_5:
+5 out of 6 sentences
+3 out of 4 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Apple rose into a tie with Samsung as the world’s biggest smartphone marker last quarter, with both companies shipping 74.5 million units, Strategy Analytics said Jan. 29.
+3 default entities: PERSON Apple, PERSON Samsung, PERSON Strategy Analytics
+4 custom entities: PERSON Apple, PERSON Samsung, PERSON Strategy Analytics, PERSON Jan
+
+Source Sentence and Source Headline Match:
+Apple rose into a tie with Samsung as the world’s biggest smartphone marker last quarter, with both companies shipping 74.5 million units, Strategy Analytics said Jan. 29.
+Samsung to Freeze South Korean Salaries in 2015 as Profit Slumps.
+1 matches: samsung
+
+Source Sentence and Story Headline Match:
+Apple rose into a tie with Samsung as the world’s biggest smartphone marker last quarter, with both companies shipping 74.5 million units, Strategy Analytics said Jan. 29.
+Samsung net profit falls 39% from same quarter in 2014.
+2 matches: quarter, samsung
+
+Source Sentence and Best Story Sentence Match:
+Apple rose into a tie with Samsung as the world’s biggest smartphone marker last quarter, with both companies shipping 74.5 million units, Strategy Analytics said Jan. 29.
+Samsung on April 10 released the Galaxy S6, which the company hopes can help turn around its struggling smartphone division.
+3 matches: samsung, smartphone, company
+
+----------------
+
+sent_6:
+6 out of 6 sentences
+4 out of 4 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Samsung has 99,556 employees in Korea as of Sept. 30, according to a regulatory filing.
+2 default entities: GPE Samsung, GPE Korea
+2 custom entities: GPE Samsung, GPE Korea
+
+Source Sentence and Source Headline Match:
+Samsung has 99,556 employees in Korea as of Sept. 30, according to a regulatory filing.
+Samsung to Freeze South Korean Salaries in 2015 as Profit Slumps.
+1 matches: samsung
+
+Source Sentence and Story Headline Match:
+Samsung has 99,556 employees in Korea as of Sept. 30, according to a regulatory filing.
+Samsung net profit falls 39% from same quarter in 2014.
+1 matches: samsung
+
+Source Sentence and Best Story Sentence Match:
+Samsung has 99,556 employees in Korea as of Sept. 30, according to a regulatory filing.
+Samsung had 99,556 employees in South Korea through Sept. 2014.
+5 matches: samsung, sept, korea, employee, 99,556
+
+----------------
+

@@ -1,0 +1,154 @@
+sent_1:
+
+The treasurer of Brazil's ruling Workers' Party, Joao Vaccari, has stepped down, after being arrested over corruption at oil giant Petrobras.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+6 best matches: joao, petrobras, arrest, party, vaccari, worker
+
+----------------
+sent_2:
+
+Mr Vaccari is charged over an alleged scheme in which the party received dirty money from inflated deals between oil executives and construction firms.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+2 best matches: party, vaccari
+
+----------------
+sent_3:
+
+Party president Rui Falcao said he still had confidence in Mr Vaccari.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+2 best matches: party, vaccari
+
+----------------
+sent_4:
+
+He is the closest ally of President Dilma Rousseff to have been arrested in the broadening scandal.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+2 best matches: arrest, scandal
+
+----------------
+sent_5:
+
+The arrest places further pressure on the president, who has faced street protests, impeachment calls and plummeting opinion ratings since her re-election four months ago.
+On March 15, almost 1 million Brazilians marched in protests in more than 50 cities calling for the ouster of President Rousseff.
+3 best matches: call, president, protest
+
+----------------
+sent_6:
+
+Ms Rousseff served as the head of Petrobras for much of the period when the corruption took place, but she has not been implicated in the scandal.
+Protesters insist Rousseff must have known about the accusations of corruption and political bribes at Petrobras while she chaired its board.
+3 best matches: corruption, petrobras, rousseff
+
+----------------
+sent_7:
+
+More than 40 politicians, including the heads of both houses of congress, are being investigated over the affair.
+He was indicted in mid-March on charges including money laundering and accepting kickbacks.
+1 best matches: include
+
+----------------
+sent_8:
+
+Prosecutors say Mr Vaccari served as the Workers' Party's liaison in a scheme where oil officials colluded with construction firms to artificially inflate billions of dollars worth of contracts.
+Brazil's federal prosecutors said Feb. 19 that they will seek about $1.55 billion in compensation from six construction and engineering companies accused of paying bribes to Petrobras.
+4 best matches: prosecutor, say, billion, construction
+
+----------------
+sent_9:
+
+According to oil officials who are testifying for the prosecution, some of the cash skimmed from the deals was diverted to the party and its allies.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+1 best matches: oil
+
+----------------
+sent_10:
+
+The party says it remains sure of Mr Vaccari's innocence, "not only because of his conduct, but because in a democratic state everyone has the fundamental right to be considered innocent until proven guilty".
+Although the Workers' Party said he was innocent, he resigned after his arrest.
+3 best matches: innocent, party, say
+
+----------------
+sent_11:
+
+When he was first questioned in February Mr Vaccari said in a statement that the Workers' Party only receives legal contributions and that he would co-operate with investigators.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+3 best matches: party, vaccari, worker
+
+----------------
+sent_12:
+
+He said he answered their questions "with transparency".
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+1 best matches: say
+
+----------------
+sent_13:
+
+Mr Vaccari was charged last month, becoming one of the most powerful political figures to have been named in the scandal.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+2 best matches: vaccari, scandal
+
+----------------
+sent_14:
+
+His arrest was reportedly ordered because of concerns that he may influence the investigation or flee the country.
+A wide-ranging corruption probe launched after the March 2014 arrest of Paulo Roberto Costa, Petrobras' former chief of refining.
+1 best matches: arrest
+
+----------------
+sent_15:
+
+"Anyone responsible for such severe crimes, including using the position of treasurer of a political party to raise criminal funds and corrupt the political system, is a risk to public order," a judge handling the case, Sergio Moro, said in a court order.
+Seeking leniency, Costa shed light on $3.7 billion in questionable payments Petrobras made from slush funds to Brazil's Workers' Party and other political parties.
+3 best matches: party, fund, political
+
+----------------
+sent_16:
+
+Prosecutors say they have "ample proof" that Joao Vaccari, acting as the Workers' Party treasurer, asked for donations from former Petrobras services division chief Renato Duque and executives at companies who won Petrobras contracts.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+5 best matches: petrobras, joao, party, vaccari, worker
+
+----------------
+sent_17:
+
+Police have also questioned Mr Vaccari's wife, Giselda Rousie Lima, and have a warrant for his sister-in-law Marice Correia Lima in connection with the scandal.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+2 best matches: connection, scandal
+
+----------------
+sent_18:
+
+During the wide-ranging investigation into Petrobras, dozens of executives from six of Brazil's largest engineering companies and two former Petrobras managers have been indicted for money laundering, bribery and of funnelling money from the company to politicians.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+5 best matches: wide-ranging, company, dozen, petrobras, indict
+
+----------------
+sent_19:
+
+Prosecutors have asked the Supreme Court to investigate dozens of legislators including the speakers of both houses of Congress for allegedly receiving the bribes.
+Julio Marcelo de Oliveira, prosecutor for Brazil, asked the country's Federal Audits Court on Feb. 19 to stop "leniency agreements" that allow companies accused of involvement in the Petrobras scandal to continue bidding on federal contracts while still under investigation.
+3 best matches: prosecutor, court, ask
+
+----------------
+sent_20:
+
+President Rousseff's opponents have argued that she must have known about the bribery scheme because she served as chairwoman on Petrobras's board at a time when it was taking place.
+Protesters insist Rousseff must have known about the accusations of corruption and political bribes at Petrobras while she chaired its board.
+3 best matches: know, board, must
+
+----------------
+sent_21:
+
+The scandal has meant Petrobras, one of the largest oil businesses in the world, has lost much of its market value since September.
+In its first audited financial results since Aug. 2014, Petrobras reported on April 22 that it lost $8.8 billion in Q4 2014 due to corruption, oil price pressures, refinery cost overruns, and other factors.
+4 best matches: lose, since, petrobras, oil
+
+----------------
+sent_22:
+
+Petrobras describes itself as the main driver behind the oil and natural gas sector contributing to 13% of Brazil's GDP.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+2 best matches: petrobras, oil
+
+----------------

@@ -1,0 +1,937 @@
+sent_1:
+1 out of 35 sentences
+1 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Jordan Spieth, meet history.
+2 default entities: GPE Jordan, ORGANIZATION Spieth
+2 custom entities: GPE Jordan, PERSON Spieth
+
+Source Sentence and Source Headline Match:
+Jordan Spieth, meet history.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+2 matches: spieth, jordan
+
+Source Sentence and Story Headline Match:
+Jordan Spieth, meet history.
+Jordan Spieth wins 2015 Masters with historic showing.
+2 matches: spieth, jordan
+
+Source Sentence and Best Story Sentence Match:
+Jordan Spieth, meet history.
+Jordan Spieth won the 2015 Masters on April 12, finishing the tournament at 18-under 270.
+2 matches: spieth, jordan
+
+----------------
+
+sent_2:
+2 out of 35 sentences
+1 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+History, meet Jordan Spieth.
+2 default entities: GPE History, PERSON Jordan Spieth
+2 custom entities: PERSON History, PERSON Jordan Spieth
+
+Source Sentence and Source Headline Match:
+History, meet Jordan Spieth.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+2 matches: spieth, jordan
+
+Source Sentence and Story Headline Match:
+History, meet Jordan Spieth.
+Jordan Spieth wins 2015 Masters with historic showing.
+2 matches: spieth, jordan
+
+Source Sentence and Best Story Sentence Match:
+History, meet Jordan Spieth.
+Jordan Spieth won the 2015 Masters on April 12, finishing the tournament at 18-under 270.
+2 matches: spieth, jordan
+
+----------------
+
+sent_3:
+3 out of 35 sentences
+2 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Spieth shot a third-round 70 on Saturday and set a Masters 54-hole scoring record at 16-under 200.
+2 default entities: PERSON Spieth, ORGANIZATION Masters
+2 custom entities: PERSON Spieth, ORGANIZATION Masters
+
+Source Sentence and Source Headline Match:
+Spieth shot a third-round 70 on Saturday and set a Masters 54-hole scoring record at 16-under 200.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+6 matches: master, record, spieth, set, scoring, 54-hole
+
+Source Sentence and Story Headline Match:
+Spieth shot a third-round 70 on Saturday and set a Masters 54-hole scoring record at 16-under 200.
+Jordan Spieth wins 2015 Masters with historic showing.
+2 matches: master, spieth
+
+Source Sentence and Best Story Sentence Match:
+Spieth shot a third-round 70 on Saturday and set a Masters 54-hole scoring record at 16-under 200.
+Jordan Spieth shot a third-round 70 on April 11, which set a new 54-hole scoring record of 16-under par.
+9 matches: 70, set, spieth, record, 16-under, third-round, scoring, 54-hole, shoot
+
+----------------
+
+sent_4:
+4 out of 35 sentences
+3 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Tiger Woods was at 15-under 201 after three rounds in 1997 and Raymond Floyd was at the same number in 1976.
+3 default entities: PERSON Tiger, PERSON Woods, PERSON Raymond Floyd
+3 custom entities: PERSON Tiger, PERSON Woods, PERSON Raymond Floyd
+
+Source Sentence and Source Headline Match:
+Tiger Woods was at 15-under 201 after three rounds in 1997 and Raymond Floyd was at the same number in 1976.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Tiger Woods was at 15-under 201 after three rounds in 1997 and Raymond Floyd was at the same number in 1976.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Tiger Woods was at 15-under 201 after three rounds in 1997 and Raymond Floyd was at the same number in 1976.
+Spieth tied the 72-hole tournament scoring record of 18-under 270 set by Tiger Woods in 1997.
+3 matches: tiger, 1997, wood
+
+----------------
+
+sent_5:
+5 out of 35 sentences
+4 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Speaking of Woods, Spieth will need a 3-under 69 on Sunday to break the all-time Masters scoring record of 18-under 270, which Woods set back in 1997.
+3 default entities: PERSON Woods, PERSON Spieth, PERSON Woods
+2 custom entities: PERSON Woods Spieth, PERSON Woods
+
+Source Sentence and Source Headline Match:
+Speaking of Woods, Spieth will need a 3-under 69 on Sunday to break the all-time Masters scoring record of 18-under 270, which Woods set back in 1997.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+4 matches: record, master, spieth, set
+
+Source Sentence and Story Headline Match:
+Speaking of Woods, Spieth will need a 3-under 69 on Sunday to break the all-time Masters scoring record of 18-under 270, which Woods set back in 1997.
+Jordan Spieth wins 2015 Masters with historic showing.
+2 matches: master, spieth
+
+Source Sentence and Best Story Sentence Match:
+Speaking of Woods, Spieth will need a 3-under 69 on Sunday to break the all-time Masters scoring record of 18-under 270, which Woods set back in 1997.
+Spieth tied the 72-hole tournament scoring record of 18-under 270 set by Tiger Woods in 1997.
+8 matches: 270, 1997, score, record, set, spieth, wood, 18-under
+
+----------------
+
+sent_6:
+6 out of 35 sentences
+5 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It wasn't easy for Spieth on Saturday.
+1 default entities: PERSON Spieth
+1 custom entities: PERSON Spieth
+
+Source Sentence and Source Headline Match:
+It wasn't easy for Spieth on Saturday.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+1 matches: spieth
+
+Source Sentence and Story Headline Match:
+It wasn't easy for Spieth on Saturday.
+Jordan Spieth wins 2015 Masters with historic showing.
+1 matches: spieth
+
+Source Sentence and Best Story Sentence Match:
+It wasn't easy for Spieth on Saturday.
+Jordan Spieth won the 2015 Masters on April 12, finishing the tournament at 18-under 270.
+1 matches: spieth
+
+----------------
+
+sent_7:
+7 out of 35 sentences
+6 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Texan made three bogeys and a double bogey and fanned one out into the gallery on No.
+1 default entities: ORGANIZATION Texan
+1 custom entities: ORGANIZATION Texan
+
+Source Sentence and Source Headline Match:
+The Texan made three bogeys and a double bogey and fanned one out into the gallery on No.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Texan made three bogeys and a double bogey and fanned one out into the gallery on No.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The Texan made three bogeys and a double bogey and fanned one out into the gallery on No.
+The 21-year-old won his first Masters title with one of the most dominant performances in tournament history.
+1 matches: one
+
+----------------
+
+sent_8:
+8 out of 35 sentences
+6 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+18.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+18.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+18.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_9:
+9 out of 35 sentences
+6 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+With Justin Rose breathing down his neck, Spieth got up and down to maintain a 4-stroke lead over Rose and 5 over Phil Mickelson.
+4 default entities: PERSON Justin Rose, PERSON Spieth, PERSON Rose, PERSON Phil Mickelson
+4 custom entities: PERSON Justin Rose, PERSON Spieth, PERSON Rose, PERSON Phil Mickelson
+
+Source Sentence and Source Headline Match:
+With Justin Rose breathing down his neck, Spieth got up and down to maintain a 4-stroke lead over Rose and 5 over Phil Mickelson.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+1 matches: spieth
+
+Source Sentence and Story Headline Match:
+With Justin Rose breathing down his neck, Spieth got up and down to maintain a 4-stroke lead over Rose and 5 over Phil Mickelson.
+Jordan Spieth wins 2015 Masters with historic showing.
+1 matches: spieth
+
+Source Sentence and Best Story Sentence Match:
+With Justin Rose breathing down his neck, Spieth got up and down to maintain a 4-stroke lead over Rose and 5 over Phil Mickelson.
+Jordan Spieth won the 2015 Masters on April 12, finishing the tournament at 18-under 270.
+1 matches: spieth
+
+----------------
+
+sent_10:
+10 out of 35 sentences
+7 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+"It was huge," Spieth told CBS about his up and down.
+2 default entities: PERSON Spieth, ORGANIZATION CBS
+2 custom entities: PERSON Spieth, ORGANIZATION CBS
+
+Source Sentence and Source Headline Match:
+"It was huge," Spieth told CBS about his up and down.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+1 matches: spieth
+
+Source Sentence and Story Headline Match:
+"It was huge," Spieth told CBS about his up and down.
+Jordan Spieth wins 2015 Masters with historic showing.
+1 matches: spieth
+
+Source Sentence and Best Story Sentence Match:
+"It was huge," Spieth told CBS about his up and down.
+Jordan Spieth won the 2015 Masters on April 12, finishing the tournament at 18-under 270.
+1 matches: spieth
+
+----------------
+
+sent_11:
+11 out of 35 sentences
+7 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+"Just to see one go in after the disappointment there at 17.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"Just to see one go in after the disappointment there at 17.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"Just to see one go in after the disappointment there at 17.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"Just to see one go in after the disappointment there at 17.
+The 21-year-old won his first Masters title with one of the most dominant performances in tournament history.
+1 matches: one
+
+----------------
+
+sent_12:
+12 out of 35 sentences
+7 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+I don't recommend ever hitting it there.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+I don't recommend ever hitting it there.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+I don't recommend ever hitting it there.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_13:
+13 out of 35 sentences
+7 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+Very pleased with having that putt roll right in to get some momentum."
+1 default entities: PERSON Very
+1 custom entities: PERSON Very
+
+Source Sentence and Source Headline Match:
+Very pleased with having that putt roll right in to get some momentum."
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Very pleased with having that putt roll right in to get some momentum."
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_14:
+14 out of 35 sentences
+8 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Still, there were plenty of birdies.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Still, there were plenty of birdies.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Still, there were plenty of birdies.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_15:
+15 out of 35 sentences
+8 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+With Woods, Mickelson and Rory McIlroy spitting fire early on Saturday, Spieth kept his cool and went out in 35.
+4 default entities: PERSON Woods, PERSON Mickelson, PERSON Rory McIlroy, PERSON Spieth
+3 custom entities: PERSON Woods Mickelson, PERSON Rory McIlroy, PERSON Spieth
+
+Source Sentence and Source Headline Match:
+With Woods, Mickelson and Rory McIlroy spitting fire early on Saturday, Spieth kept his cool and went out in 35.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+1 matches: spieth
+
+Source Sentence and Story Headline Match:
+With Woods, Mickelson and Rory McIlroy spitting fire early on Saturday, Spieth kept his cool and went out in 35.
+Jordan Spieth wins 2015 Masters with historic showing.
+1 matches: spieth
+
+Source Sentence and Best Story Sentence Match:
+With Woods, Mickelson and Rory McIlroy spitting fire early on Saturday, Spieth kept his cool and went out in 35.
+Spieth tied the 72-hole tournament scoring record of 18-under 270 set by Tiger Woods in 1997.
+2 matches: spieth, wood
+
+----------------
+
+sent_16:
+16 out of 35 sentences
+8 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He made seven birdies overall, including this gorgeous one at No.
+1 default entities: ORGANIZATION No
+1 custom entities: ORGANIZATION No
+
+Source Sentence and Source Headline Match:
+He made seven birdies overall, including this gorgeous one at No.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+He made seven birdies overall, including this gorgeous one at No.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+He made seven birdies overall, including this gorgeous one at No.
+The 21-year-old won his first Masters title with one of the most dominant performances in tournament history.
+1 matches: one
+
+----------------
+
+sent_17:
+17 out of 35 sentences
+8 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+16.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+16.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+1 matches: 16
+
+Source Sentence and Story Headline Match:
+16.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_18:
+18 out of 35 sentences
+9 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+That pushed Spieth to 18 under (only he and Woods have ever touched that number at Augusta) before he made a double at No.
+4 default entities: PERSON Spieth, PERSON Woods, FACILITY Augusta, ORGANIZATION No
+4 custom entities: PERSON Spieth, PERSON Woods, ORGANIZATION Augusta, ORGANIZATION No
+
+Source Sentence and Source Headline Match:
+That pushed Spieth to 18 under (only he and Woods have ever touched that number at Augusta) before he made a double at No.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+1 matches: spieth
+
+Source Sentence and Story Headline Match:
+That pushed Spieth to 18 under (only he and Woods have ever touched that number at Augusta) before he made a double at No.
+Jordan Spieth wins 2015 Masters with historic showing.
+1 matches: spieth
+
+Source Sentence and Best Story Sentence Match:
+That pushed Spieth to 18 under (only he and Woods have ever touched that number at Augusta) before he made a double at No.
+Spieth tied the 72-hole tournament scoring record of 18-under 270 set by Tiger Woods in 1997.
+2 matches: spieth, wood
+
+----------------
+
+sent_19:
+19 out of 35 sentences
+9 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+17.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+17.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+17.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_20:
+20 out of 35 sentences
+10 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The 18th was a gut check for Spieth, and he passed that test.
+1 default entities: PERSON Spieth
+1 custom entities: PERSON Spieth
+
+Source Sentence and Source Headline Match:
+The 18th was a gut check for Spieth, and he passed that test.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+1 matches: spieth
+
+Source Sentence and Story Headline Match:
+The 18th was a gut check for Spieth, and he passed that test.
+Jordan Spieth wins 2015 Masters with historic showing.
+1 matches: spieth
+
+Source Sentence and Best Story Sentence Match:
+The 18th was a gut check for Spieth, and he passed that test.
+Jordan Spieth won the 2015 Masters on April 12, finishing the tournament at 18-under 270.
+1 matches: spieth
+
+----------------
+
+sent_21:
+21 out of 35 sentences
+11 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+"I had 24 hours from the time I finished until the time I teed off.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"I had 24 hours from the time I finished until the time I teed off.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"I had 24 hours from the time I finished until the time I teed off.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"I had 24 hours from the time I finished until the time I teed off.
+Jordan Spieth won the 2015 Masters on April 12, finishing the tournament at 18-under 270.
+1 matches: finish
+
+----------------
+
+sent_22:
+22 out of 35 sentences
+11 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+That's a long time to sit on a lead like that.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+That's a long time to sit on a lead like that.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+That's a long time to sit on a lead like that.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+That's a long time to sit on a lead like that.
+He also reached 19-under par for the first time in Masters' history.
+1 matches: time
+
+----------------
+
+sent_23:
+23 out of 35 sentences
+11 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+All in all I kept it together with the putter."
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+All in all I kept it together with the putter."
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+All in all I kept it together with the putter."
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_24:
+24 out of 35 sentences
+12 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Spieth's wins are never simple and this one, if it happens, will be no exception.
+1 default entities: PERSON Spieth
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Spieth's wins are never simple and this one, if it happens, will be no exception.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Spieth's wins are never simple and this one, if it happens, will be no exception.
+Jordan Spieth wins 2015 Masters with historic showing.
+1 matches: win
+
+Source Sentence and Best Story Sentence Match:
+Spieth's wins are never simple and this one, if it happens, will be no exception.
+The 21-year-old won his first Masters title with one of the most dominant performances in tournament history.
+1 matches: one
+
+----------------
+
+sent_25:
+25 out of 35 sentences
+13 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He likes where he's at, however.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+He likes where he's at, however.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+He likes where he's at, however.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_26:
+26 out of 35 sentences
+14 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+"All the time," Spieth answered when asked if he'd thought of this week since losing to Bubba Watson in 2014.
+2 default entities: PERSON Spieth, PERSON Bubba Watson
+2 custom entities: PERSON Spieth, PERSON Bubba Watson
+
+Source Sentence and Source Headline Match:
+"All the time," Spieth answered when asked if he'd thought of this week since losing to Bubba Watson in 2014.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+1 matches: spieth
+
+Source Sentence and Story Headline Match:
+"All the time," Spieth answered when asked if he'd thought of this week since losing to Bubba Watson in 2014.
+Jordan Spieth wins 2015 Masters with historic showing.
+1 matches: spieth
+
+Source Sentence and Best Story Sentence Match:
+"All the time," Spieth answered when asked if he'd thought of this week since losing to Bubba Watson in 2014.
+Spieth became the first player to win every round of the tournament since 1976 and the fifth overall.
+2 matches: since, spieth
+
+----------------
+
+sent_27:
+27 out of 35 sentences
+14 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+"We always think of Masters week.
+1 default entities: GPE Masters
+1 custom entities: GPE Masters
+
+Source Sentence and Source Headline Match:
+"We always think of Masters week.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+1 matches: master
+
+Source Sentence and Story Headline Match:
+"We always think of Masters week.
+Jordan Spieth wins 2015 Masters with historic showing.
+1 matches: master
+
+Source Sentence and Best Story Sentence Match:
+"We always think of Masters week.
+The 21-year-old won his first Masters title with one of the most dominant performances in tournament history.
+1 matches: master
+
+----------------
+
+sent_28:
+28 out of 35 sentences
+15 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+"This is the greatest week in our sport.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"This is the greatest week in our sport.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"This is the greatest week in our sport.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_29:
+29 out of 35 sentences
+15 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+Last year definitely left a bad taste in my mouth.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Last year definitely left a bad taste in my mouth.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Last year definitely left a bad taste in my mouth.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_30:
+30 out of 35 sentences
+15 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+I've been looking to get some revenge.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+I've been looking to get some revenge.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+I've been looking to get some revenge.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_31:
+31 out of 35 sentences
+15 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+I've still got a long way to go."
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+I've still got a long way to go."
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+I've still got a long way to go."
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_32:
+32 out of 35 sentences
+16 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He does.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+He does.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+He does.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_33:
+33 out of 35 sentences
+16 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+He'll have to hold off a "has the look" Rose and a Mickelson, who always turns back the clock on Masters week.
+3 default entities: PERSON Rose, ORGANIZATION Mickelson, GPE Masters
+2 custom entities: PERSON Rose, GPE Masters
+
+Source Sentence and Source Headline Match:
+He'll have to hold off a "has the look" Rose and a Mickelson, who always turns back the clock on Masters week.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+1 matches: master
+
+Source Sentence and Story Headline Match:
+He'll have to hold off a "has the look" Rose and a Mickelson, who always turns back the clock on Masters week.
+Jordan Spieth wins 2015 Masters with historic showing.
+1 matches: master
+
+Source Sentence and Best Story Sentence Match:
+He'll have to hold off a "has the look" Rose and a Mickelson, who always turns back the clock on Masters week.
+The 21-year-old won his first Masters title with one of the most dominant performances in tournament history.
+1 matches: master
+
+----------------
+
+sent_34:
+34 out of 35 sentences
+17 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Oh yeah, Rory and Tiger will be charging, too.
+2 default entities: PERSON Rory, PERSON Tiger
+2 custom entities: PERSON Rory, PERSON Tiger
+
+Source Sentence and Source Headline Match:
+Oh yeah, Rory and Tiger will be charging, too.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Oh yeah, Rory and Tiger will be charging, too.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Oh yeah, Rory and Tiger will be charging, too.
+Spieth tied the 72-hole tournament scoring record of 18-under 270 set by Tiger Woods in 1997.
+1 matches: tiger
+
+----------------
+
+sent_35:
+35 out of 35 sentences
+18 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+If Spieth wants to get his first green jacket and a piece of history, he'll definitely have to earn it.
+1 default entities: PERSON Spieth
+1 custom entities: PERSON Spieth
+
+Source Sentence and Source Headline Match:
+If Spieth wants to get his first green jacket and a piece of history, he'll definitely have to earn it.
+Jordan Spieth (-16) sets 54-hole scoring record, owns 2015 Masters.
+1 matches: spieth
+
+Source Sentence and Story Headline Match:
+If Spieth wants to get his first green jacket and a piece of history, he'll definitely have to earn it.
+Jordan Spieth wins 2015 Masters with historic showing.
+1 matches: spieth
+
+Source Sentence and Best Story Sentence Match:
+If Spieth wants to get his first green jacket and a piece of history, he'll definitely have to earn it.
+The 21-year-old won his first Masters title with one of the most dominant performances in tournament history.
+2 matches: first, history
+
+----------------
+

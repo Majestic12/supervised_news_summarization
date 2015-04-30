@@ -1,0 +1,357 @@
+sent_1:
+1 out of 13 sentences
+1 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+If you’re with us and the thousands of video fans at VidCon, you’ll hear about more ways we’re investing in you on YouTube.
+2 default entities: ORGANIZATION VidCon, ORGANIZATION YouTube
+2 custom entities: ORGANIZATION VidCon, ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+If you’re with us and the thousands of video fans at VidCon, you’ll hear about more ways we’re investing in you on YouTube.
+Investing in you: more tools to build your channels.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+If you’re with us and the thousands of video fans at VidCon, you’ll hear about more ways we’re investing in you on YouTube.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+If you’re with us and the thousands of video fans at VidCon, you’ll hear about more ways we’re investing in you on YouTube.
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+2 matches: video, youtube
+
+----------------
+
+sent_2:
+2 out of 13 sentences
+1 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+We’re here to help you: from promotion to channel management to content optimization, we have the resources and programs to support you.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+We’re here to help you: from promotion to channel management to content optimization, we have the resources and programs to support you.
+Investing in you: more tools to build your channels.
+1 matches: channel
+
+Source Sentence and Story Headline Match:
+We’re here to help you: from promotion to channel management to content optimization, we have the resources and programs to support you.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: content
+
+Source Sentence and Best Story Sentence Match:
+We’re here to help you: from promotion to channel management to content optimization, we have the resources and programs to support you.
+"We're here to help you: from promotion to channel management to content optimization, we have the resources and programs to support you."
+9 matches: support, help, management, program, promotion, resource, optimization, content, channel
+
+----------------
+
+sent_3:
+3 out of 13 sentences
+1 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+That’s why more of you with accounts in good standing will be able to use a bunch of features you’ve been asking for: live streaming, custom thumbnails, external annotations and series playlists.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+That’s why more of you with accounts in good standing will be able to use a bunch of features you’ve been asking for: live streaming, custom thumbnails, external annotations and series playlists.
+Investing in you: more tools to build your channels.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+That’s why more of you with accounts in good standing will be able to use a bunch of features you’ve been asking for: live streaming, custom thumbnails, external annotations and series playlists.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+That’s why more of you with accounts in good standing will be able to use a bunch of features you’ve been asking for: live streaming, custom thumbnails, external annotations and series playlists.
+YouTube has taken a number of steps to help attract advertisers to the site, including letting certain high-profile producers use professional studio facilities in cities like London, Los Angeles, and New York.
+1 matches: use
+
+----------------
+
+sent_4:
+4 out of 13 sentences
+2 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Start live streaming if you have 100+ subscribers: All channels in good standing with at least a hundred subscribers will be able to live stream, within the next few weeks.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Start live streaming if you have 100+ subscribers: All channels in good standing with at least a hundred subscribers will be able to live stream, within the next few weeks.
+Investing in you: more tools to build your channels.
+1 matches: channel
+
+Source Sentence and Story Headline Match:
+Start live streaming if you have 100+ subscribers: All channels in good standing with at least a hundred subscribers will be able to live stream, within the next few weeks.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Start live streaming if you have 100+ subscribers: All channels in good standing with at least a hundred subscribers will be able to live stream, within the next few weeks.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+1 matches: next
+
+----------------
+
+sent_5:
+5 out of 13 sentences
+2 out of 6 paragraphs
+Tagged as a quote
+
+Sentence:
+Check your Account Features page for an “Enable” button, and click it if you're interested.
+1 default entities: GPE Check
+1 custom entities: GPE Check
+
+Source Sentence and Source Headline Match:
+Check your Account Features page for an “Enable” button, and click it if you're interested.
+Investing in you: more tools to build your channels.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Check your Account Features page for an “Enable” button, and click it if you're interested.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_6:
+6 out of 13 sentences
+3 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Choose your best thumbnail: Help your video stand out by using a custom thumbnail.
+1 default entities: GPE Choose
+1 custom entities: GPE Choose
+
+Source Sentence and Source Headline Match:
+Choose your best thumbnail: Help your video stand out by using a custom thumbnail.
+Investing in you: more tools to build your channels.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Choose your best thumbnail: Help your video stand out by using a custom thumbnail.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Choose your best thumbnail: Help your video stand out by using a custom thumbnail.
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+1 matches: video
+
+----------------
+
+sent_7:
+7 out of 13 sentences
+3 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Make sure you only upload images that are representative of what viewers will see, like prominent stills from the video.
+1 default entities: GPE Make
+1 custom entities: GPE Make
+
+Source Sentence and Source Headline Match:
+Make sure you only upload images that are representative of what viewers will see, like prominent stills from the video.
+Investing in you: more tools to build your channels.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Make sure you only upload images that are representative of what viewers will see, like prominent stills from the video.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Make sure you only upload images that are representative of what viewers will see, like prominent stills from the video.
+Fullscreen, a large YouTube video production company partly owned by AT&T, released a tool March 25 for its content creators to upload their videos directly to Facebook.
+2 matches: upload, video
+
+----------------
+
+sent_8:
+8 out of 13 sentences
+4 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Drive traffic to your merch: Want viewers to buy that new t-shirt you’re wearing in your video?
+1 default entities: GPE Drive
+1 custom entities: GPE Drive
+
+Source Sentence and Source Headline Match:
+Drive traffic to your merch: Want viewers to buy that new t-shirt you’re wearing in your video?
+Investing in you: more tools to build your channels.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Drive traffic to your merch: Want viewers to buy that new t-shirt you’re wearing in your video?
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Drive traffic to your merch: Want viewers to buy that new t-shirt you’re wearing in your video?
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+2 matches: buy, video
+
+----------------
+
+sent_9:
+9 out of 13 sentences
+4 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+You can now use annotations to link externally to various online stores and your associated websites.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+You can now use annotations to link externally to various online stores and your associated websites.
+Investing in you: more tools to build your channels.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+You can now use annotations to link externally to various online stores and your associated websites.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+You can now use annotations to link externally to various online stores and your associated websites.
+YouTube has taken a number of steps to help attract advertisers to the site, including letting certain high-profile producers use professional studio facilities in cities like London, Los Angeles, and New York.
+1 matches: use
+
+----------------
+
+sent_10:
+10 out of 13 sentences
+5 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Program related videos for viewers: Help viewers watch more of your videos by placing them in a series playlist.
+1 default entities: GPE Program
+1 custom entities: GPE Program
+
+Source Sentence and Source Headline Match:
+Program related videos for viewers: Help viewers watch more of your videos by placing them in a series playlist.
+Investing in you: more tools to build your channels.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Program related videos for viewers: Help viewers watch more of your videos by placing them in a series playlist.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Program related videos for viewers: Help viewers watch more of your videos by placing them in a series playlist.
+"We're here to help you: from promotion to channel management to content optimization, we have the resources and programs to support you."
+2 matches: program, help
+
+----------------
+
+sent_11:
+11 out of 13 sentences
+5 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+When you group videos that belong together, we’ll show viewers of your videos the next episode from the series and a link to the whole playlist.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+When you group videos that belong together, we’ll show viewers of your videos the next episode from the series and a link to the whole playlist.
+Investing in you: more tools to build your channels.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+When you group videos that belong together, we’ll show viewers of your videos the next episode from the series and a link to the whole playlist.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+When you group videos that belong together, we’ll show viewers of your videos the next episode from the series and a link to the whole playlist.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+2 matches: together, next
+
+----------------
+
+sent_12:
+12 out of 13 sentences
+5 out of 6 paragraphs
+Tagged as a quote
+
+Sentence:
+Just mark your playlist as a “series” in the playlist settings.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Just mark your playlist as a “series” in the playlist settings.
+Investing in you: more tools to build your channels.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Just mark your playlist as a “series” in the playlist settings.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_13:
+13 out of 13 sentences
+6 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+If you want tips on the best ways to use any of these features, learn more from the YouTube Creator Playbook.
+1 default entities: ORGANIZATION YouTube Creator Playbook
+1 custom entities: ORGANIZATION YouTube Creator Playbook
+
+Source Sentence and Source Headline Match:
+If you want tips on the best ways to use any of these features, learn more from the YouTube Creator Playbook.
+Investing in you: more tools to build your channels.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+If you want tips on the best ways to use any of these features, learn more from the YouTube Creator Playbook.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+If you want tips on the best ways to use any of these features, learn more from the YouTube Creator Playbook.
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+2 matches: creator, youtube
+
+----------------
+

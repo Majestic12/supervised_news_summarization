@@ -1,0 +1,892 @@
+sent_1:
+1 out of 33 sentences
+1 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+DOWAAN, Al Qaeda’s branch in Yemen took control of a major airport and an oil export terminal in the southern part of the country on Thursday, expanding the resurgent militant group’s reach just two weeks after it seized the  nearby city of Al Mukalla and emptied its bank and prison.
+4 default entities: GPE DOWAAN, PERSON Al Qaeda, GPE Yemen, PERSON Al Mukalla
+4 custom entities: ORGANIZATION DOWAAN, PERSON Al, GPE Yemen, PERSON Al Mukalla
+
+Source Sentence and Source Headline Match:
+DOWAAN, Al Qaeda’s branch in Yemen took control of a major airport and an oil export terminal in the southern part of the country on Thursday, expanding the resurgent militant group’s reach just two weeks after it seized the  nearby city of Al Mukalla and emptied its bank and prison.
+War in Yemen Is Allowing Qaeda Group to Expand.
+1 matches: yemen
+
+Source Sentence and Story Headline Match:
+DOWAAN, Al Qaeda’s branch in Yemen took control of a major airport and an oil export terminal in the southern part of the country on Thursday, expanding the resurgent militant group’s reach just two weeks after it seized the  nearby city of Al Mukalla and emptied its bank and prison.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: city
+
+Source Sentence and Best Story Sentence Match:
+DOWAAN, Al Qaeda’s branch in Yemen took control of a major airport and an oil export terminal in the southern part of the country on Thursday, expanding the resurgent militant group’s reach just two weeks after it seized the  nearby city of Al Mukalla and emptied its bank and prison.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 matches: yemen, control
+
+----------------
+
+sent_2:
+2 out of 33 sentences
+2 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Local officials said that fighters belonging to the group Al Qaeda in the Arabian Peninsula, also known as AQAP, took control of the Riyan Airport and a nearby military base outside Al Mukalla, the fifth-largest city in Yemen.
+7 default entities: GPE Local, PERSON Al Qaeda, PERSON Arabian Peninsula, ORGANIZATION AQAP, ORGANIZATION Riyan Airport, PERSON Al Mukalla, GPE Yemen
+7 custom entities: GPE Local, PERSON Al Qaeda, PERSON Arabian Peninsula, ORGANIZATION AQAP, ORGANIZATION Riyan Airport, PERSON Al Mukalla, GPE Yemen
+
+Source Sentence and Source Headline Match:
+Local officials said that fighters belonging to the group Al Qaeda in the Arabian Peninsula, also known as AQAP, took control of the Riyan Airport and a nearby military base outside Al Mukalla, the fifth-largest city in Yemen.
+War in Yemen Is Allowing Qaeda Group to Expand.
+3 matches: qaeda, yemen, group
+
+Source Sentence and Story Headline Match:
+Local officials said that fighters belonging to the group Al Qaeda in the Arabian Peninsula, also known as AQAP, took control of the Riyan Airport and a nearby military base outside Al Mukalla, the fifth-largest city in Yemen.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: city
+
+Source Sentence and Best Story Sentence Match:
+Local officials said that fighters belonging to the group Al Qaeda in the Arabian Peninsula, also known as AQAP, took control of the Riyan Airport and a nearby military base outside Al Mukalla, the fifth-largest city in Yemen.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+4 matches: group, yemen, control, military
+
+----------------
+
+sent_3:
+3 out of 33 sentences
+2 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The group also seized the Dhabah oil terminal on the Arabian Sea coast, which the group had tried to capture before, according to Yemeni officials.
+3 default entities: ORGANIZATION Dhabah, PERSON Arabian Sea, GPE Yemeni
+3 custom entities: ORGANIZATION Dhabah, PERSON Arabian Sea, GPE Yemeni
+
+Source Sentence and Source Headline Match:
+The group also seized the Dhabah oil terminal on the Arabian Sea coast, which the group had tried to capture before, according to Yemeni officials.
+War in Yemen Is Allowing Qaeda Group to Expand.
+1 matches: group
+
+Source Sentence and Story Headline Match:
+The group also seized the Dhabah oil terminal on the Arabian Sea coast, which the group had tried to capture before, according to Yemeni officials.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: yemeni
+
+Source Sentence and Best Story Sentence Match:
+The group also seized the Dhabah oil terminal on the Arabian Sea coast, which the group had tried to capture before, according to Yemeni officials.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 matches: official, accord
+
+----------------
+
+sent_4:
+4 out of 33 sentences
+3 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Al Qaeda is capitalizing on the expanding multisided war in Yemen and the collapse of its government to carve out territory for itself.
+3 default entities: PERSON Al, ORGANIZATION Qaeda, GPE Yemen
+3 custom entities: PERSON Al, ORGANIZATION Qaeda, GPE Yemen
+
+Source Sentence and Source Headline Match:
+Al Qaeda is capitalizing on the expanding multisided war in Yemen and the collapse of its government to carve out territory for itself.
+War in Yemen Is Allowing Qaeda Group to Expand.
+4 matches: qaeda, yemen, war, expand
+
+Source Sentence and Story Headline Match:
+Al Qaeda is capitalizing on the expanding multisided war in Yemen and the collapse of its government to carve out territory for itself.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Al Qaeda is capitalizing on the expanding multisided war in Yemen and the collapse of its government to carve out territory for itself.
+An April 21 WHO statement warns of "an imminent collapse of health care services in Yemen."
+2 matches: collapse, yemen
+
+----------------
+
+sent_5:
+5 out of 33 sentences
+3 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+When its fighters stormed Al Mukalla, the capital of Hadhramaut Province, they seized government buildings, looted the central bank office and freed hundreds of inmates from the city penitentiary, including a senior leader of the group.
+2 default entities: PERSON Al Mukalla, ORGANIZATION Hadhramaut Province
+2 custom entities: PERSON Al Mukalla, ORGANIZATION Hadhramaut
+
+Source Sentence and Source Headline Match:
+When its fighters stormed Al Mukalla, the capital of Hadhramaut Province, they seized government buildings, looted the central bank office and freed hundreds of inmates from the city penitentiary, including a senior leader of the group.
+War in Yemen Is Allowing Qaeda Group to Expand.
+1 matches: group
+
+Source Sentence and Story Headline Match:
+When its fighters stormed Al Mukalla, the capital of Hadhramaut Province, they seized government buildings, looted the central bank office and freed hundreds of inmates from the city penitentiary, including a senior leader of the group.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: city
+
+Source Sentence and Best Story Sentence Match:
+When its fighters stormed Al Mukalla, the capital of Hadhramaut Province, they seized government buildings, looted the central bank office and freed hundreds of inmates from the city penitentiary, including a senior leader of the group.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 matches: group
+
+----------------
+
+sent_6:
+6 out of 33 sentences
+4 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Al Qaeda’s adversaries in Yemen are largely in disarray or distracted by other fighting.
+3 default entities: PERSON Al, PERSON Qaeda, GPE Yemen
+2 custom entities: PERSON Al, GPE Yemen
+
+Source Sentence and Source Headline Match:
+Al Qaeda’s adversaries in Yemen are largely in disarray or distracted by other fighting.
+War in Yemen Is Allowing Qaeda Group to Expand.
+1 matches: yemen
+
+Source Sentence and Story Headline Match:
+Al Qaeda’s adversaries in Yemen are largely in disarray or distracted by other fighting.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Al Qaeda’s adversaries in Yemen are largely in disarray or distracted by other fighting.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 matches: yemen
+
+----------------
+
+sent_7:
+7 out of 33 sentences
+4 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Military units have melted away or put up little resistance as Al Qaeda has advanced.
+1 default entities: PERSON Al Qaeda
+1 custom entities: PERSON Al Qaeda
+
+Source Sentence and Source Headline Match:
+Military units have melted away or put up little resistance as Al Qaeda has advanced.
+War in Yemen Is Allowing Qaeda Group to Expand.
+1 matches: qaeda
+
+Source Sentence and Story Headline Match:
+Military units have melted away or put up little resistance as Al Qaeda has advanced.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Military units have melted away or put up little resistance as Al Qaeda has advanced.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 matches: military
+
+----------------
+
+sent_8:
+8 out of 33 sentences
+4 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Houthis, a militia movement from northern Yemen that is considered Al Qaeda’s most determined foe, have been preoccupied with battles against rival militias across the country, and their fighters have been battered by aerial assaults from the Saudi-led Arab coalition, which is trying to restore the exiled government to power.
+3 default entities: ORGANIZATION Houthis, PERSON Al Qaeda, PERSON Arab
+2 custom entities: PERSON Al, PERSON Arab
+
+Source Sentence and Source Headline Match:
+The Houthis, a militia movement from northern Yemen that is considered Al Qaeda’s most determined foe, have been preoccupied with battles against rival militias across the country, and their fighters have been battered by aerial assaults from the Saudi-led Arab coalition, which is trying to restore the exiled government to power.
+War in Yemen Is Allowing Qaeda Group to Expand.
+1 matches: yemen
+
+Source Sentence and Story Headline Match:
+The Houthis, a militia movement from northern Yemen that is considered Al Qaeda’s most determined foe, have been preoccupied with battles against rival militias across the country, and their fighters have been battered by aerial assaults from the Saudi-led Arab coalition, which is trying to restore the exiled government to power.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The Houthis, a militia movement from northern Yemen that is considered Al Qaeda’s most determined foe, have been preoccupied with battles against rival militias across the country, and their fighters have been battered by aerial assaults from the Saudi-led Arab coalition, which is trying to restore the exiled government to power.
+"The coalition will continue to prevent the movement of Houthi militias from moving or undertaking any operations inside Yemen."
+4 matches: coalition, movement, yemen, militia
+
+----------------
+
+sent_9:
+9 out of 33 sentences
+5 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Saudi Arabia has focused on crippling the Houthis, leaving Al Qaeda all but unopposed around Al Mukalla, though the group was dealt a setback this week when a top figure and several other members were killed in an American drone strike.
+6 default entities: GPE Saudi, PERSON Arabia, ORGANIZATION Houthis, PERSON Al Qaeda, PERSON Al Mukalla, GPE American
+6 custom entities: GPE Saudi, PERSON Arabia, ORGANIZATION Houthis, PERSON Al Qaeda, PERSON Al Mukalla, GPE American
+
+Source Sentence and Source Headline Match:
+Saudi Arabia has focused on crippling the Houthis, leaving Al Qaeda all but unopposed around Al Mukalla, though the group was dealt a setback this week when a top figure and several other members were killed in an American drone strike.
+War in Yemen Is Allowing Qaeda Group to Expand.
+2 matches: qaeda, group
+
+Source Sentence and Story Headline Match:
+Saudi Arabia has focused on crippling the Houthis, leaving Al Qaeda all but unopposed around Al Mukalla, though the group was dealt a setback this week when a top figure and several other members were killed in an American drone strike.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+2 matches: arabia, saudi
+
+Source Sentence and Best Story Sentence Match:
+Saudi Arabia has focused on crippling the Houthis, leaving Al Qaeda all but unopposed around Al Mukalla, though the group was dealt a setback this week when a top figure and several other members were killed in an American drone strike.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+4 matches: group, arabia, saudi, figure
+
+----------------
+
+sent_10:
+10 out of 33 sentences
+6 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Still, the Saudi assaults on the Houthis have indirectly helped empower Al Qaeda in ways the group had not enjoyed before.
+3 default entities: GPE Saudi, ORGANIZATION Houthis, PERSON Al Qaeda
+3 custom entities: GPE Saudi, ORGANIZATION Houthis, PERSON Al Qaeda
+
+Source Sentence and Source Headline Match:
+Still, the Saudi assaults on the Houthis have indirectly helped empower Al Qaeda in ways the group had not enjoyed before.
+War in Yemen Is Allowing Qaeda Group to Expand.
+2 matches: qaeda, group
+
+Source Sentence and Story Headline Match:
+Still, the Saudi assaults on the Houthis have indirectly helped empower Al Qaeda in ways the group had not enjoyed before.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+Still, the Saudi assaults on the Houthis have indirectly helped empower Al Qaeda in ways the group had not enjoyed before.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 matches: saudi, group
+
+----------------
+
+sent_11:
+11 out of 33 sentences
+6 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Its fighters are now developing relations with Yemeni tribal leaders who share antipathy for the Houthis and their allies, said Jamal Benomar, the United Nations diplomat who had unsuccessfully sought to achieve a political reconciliation in Yemen.
+5 default entities: PERSON Yemeni, ORGANIZATION Houthis, PERSON Jamal Benomar, ORGANIZATION United Nations, GPE Yemen
+5 custom entities: PERSON Yemeni, ORGANIZATION Houthis, PERSON Jamal Benomar, ORGANIZATION United Nations, GPE Yemen
+
+Source Sentence and Source Headline Match:
+Its fighters are now developing relations with Yemeni tribal leaders who share antipathy for the Houthis and their allies, said Jamal Benomar, the United Nations diplomat who had unsuccessfully sought to achieve a political reconciliation in Yemen.
+War in Yemen Is Allowing Qaeda Group to Expand.
+1 matches: yemen
+
+Source Sentence and Story Headline Match:
+Its fighters are now developing relations with Yemeni tribal leaders who share antipathy for the Houthis and their allies, said Jamal Benomar, the United Nations diplomat who had unsuccessfully sought to achieve a political reconciliation in Yemen.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: yemeni
+
+Source Sentence and Best Story Sentence Match:
+Its fighters are now developing relations with Yemeni tribal leaders who share antipathy for the Houthis and their allies, said Jamal Benomar, the United Nations diplomat who had unsuccessfully sought to achieve a political reconciliation in Yemen.
+Saudi Arabia launched military operations including airstrikes against the Houthis and their allies in Yemen on March 25.
+3 matches: yemen, houthis, ally
+
+----------------
+
+sent_12:
+12 out of 33 sentences
+7 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+“For the first time, Al Qaeda is building a strategic alliance with the tribes,” Mr. Benomar, who has requested a reassignment, said in an interview at The New York Times on Wednesday.
+3 default entities: PERSON Al Qaeda, PERSON Mr. Benomar, FACILITY The New York Times
+2 custom entities: PERSON Al Qaeda, FACILITY The New York Times
+
+Source Sentence and Source Headline Match:
+“For the first time, Al Qaeda is building a strategic alliance with the tribes,” Mr. Benomar, who has requested a reassignment, said in an interview at The New York Times on Wednesday.
+War in Yemen Is Allowing Qaeda Group to Expand.
+1 matches: qaeda
+
+Source Sentence and Story Headline Match:
+“For the first time, Al Qaeda is building a strategic alliance with the tribes,” Mr. Benomar, who has requested a reassignment, said in an interview at The New York Times on Wednesday.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“For the first time, Al Qaeda is building a strategic alliance with the tribes,” Mr. Benomar, who has requested a reassignment, said in an interview at The New York Times on Wednesday.
+"For the first time, Al-Qaeda is building a strategic alliance with the tribes.
+6 matches: build, strategic, tribe, time, first, alliance
+
+----------------
+
+sent_13:
+13 out of 33 sentences
+7 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+“It is a strengthened and dangerous Al Qaeda.
+1 default entities: PERSON Al Qaeda
+1 custom entities: PERSON Al Qaeda
+
+Source Sentence and Source Headline Match:
+“It is a strengthened and dangerous Al Qaeda.
+War in Yemen Is Allowing Qaeda Group to Expand.
+1 matches: qaeda
+
+Source Sentence and Story Headline Match:
+“It is a strengthened and dangerous Al Qaeda.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“It is a strengthened and dangerous Al Qaeda.
+It is a strengthened and dangerous Al-Qaeda."
+2 matches: dangerous, strengthen
+
+----------------
+
+sent_14:
+14 out of 33 sentences
+7 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+This is what worries everybody.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+This is what worries everybody.”
+War in Yemen Is Allowing Qaeda Group to Expand.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+This is what worries everybody.”
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_15:
+15 out of 33 sentences
+8 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In Washington, Pentagon officials acknowledged that the American-backed Saudi airstrikes have created more space for Al Qaeda to gain territory.
+4 default entities: GPE Washington, GPE Pentagon, GPE Saudi, PERSON Al Qaeda
+3 custom entities: GPE Washington, GPE Saudi, PERSON Al Qaeda
+
+Source Sentence and Source Headline Match:
+In Washington, Pentagon officials acknowledged that the American-backed Saudi airstrikes have created more space for Al Qaeda to gain territory.
+War in Yemen Is Allowing Qaeda Group to Expand.
+1 matches: qaeda
+
+Source Sentence and Story Headline Match:
+In Washington, Pentagon officials acknowledged that the American-backed Saudi airstrikes have created more space for Al Qaeda to gain territory.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+In Washington, Pentagon officials acknowledged that the American-backed Saudi airstrikes have created more space for Al Qaeda to gain territory.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 matches: official, airstrikes
+
+----------------
+
+sent_16:
+16 out of 33 sentences
+8 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+Defense Secretary Ashton B. Carter, in a news conference, called gains by the group “of serious concern” to the United States.
+3 default entities: ORGANIZATION Defense, PERSON Ashton B. Carter, GPE United States
+3 custom entities: ORGANIZATION Defense, PERSON Ashton B Carter, GPE United States
+
+Source Sentence and Source Headline Match:
+Defense Secretary Ashton B. Carter, in a news conference, called gains by the group “of serious concern” to the United States.
+War in Yemen Is Allowing Qaeda Group to Expand.
+1 matches: group
+
+Source Sentence and Story Headline Match:
+Defense Secretary Ashton B. Carter, in a news conference, called gains by the group “of serious concern” to the United States.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Defense Secretary Ashton B. Carter, in a news conference, called gains by the group “of serious concern” to the United States.
+U.S. Defense Secretary Ashton Carter also said in a news conference that gains by Al-Qaeda were "of serious concern."
+9 matches: serious, secretary, concern, defense, conference, ashton, carter, news, gain
+
+----------------
+
+sent_17:
+17 out of 33 sentences
+8 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+“It’s obvious that it’s easier to do our counterterror operations when there’s a settled government” in Yemen, he said.
+1 default entities: GPE Yemen
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“It’s obvious that it’s easier to do our counterterror operations when there’s a settled government” in Yemen, he said.
+War in Yemen Is Allowing Qaeda Group to Expand.
+1 matches: yemen
+
+Source Sentence and Story Headline Match:
+“It’s obvious that it’s easier to do our counterterror operations when there’s a settled government” in Yemen, he said.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“It’s obvious that it’s easier to do our counterterror operations when there’s a settled government” in Yemen, he said.
+"The coalition will continue to prevent the movement of Houthi militias from moving or undertaking any operations inside Yemen."
+2 matches: operation, yemen
+
+----------------
+
+sent_18:
+18 out of 33 sentences
+8 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+“In the meantime, we need to, and do, protect ourselves against AQAP.
+1 default entities: ORGANIZATION AQAP
+1 custom entities: ORGANIZATION AQAP
+
+Source Sentence and Source Headline Match:
+“In the meantime, we need to, and do, protect ourselves against AQAP.
+War in Yemen Is Allowing Qaeda Group to Expand.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“In the meantime, we need to, and do, protect ourselves against AQAP.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_19:
+19 out of 33 sentences
+8 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+Because they are dangerous.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Because they are dangerous.”
+War in Yemen Is Allowing Qaeda Group to Expand.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Because they are dangerous.”
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Because they are dangerous.”
+It is a strengthened and dangerous Al-Qaeda."
+1 matches: dangerous
+
+----------------
+
+sent_20:
+20 out of 33 sentences
+9 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Gen. Lloyd Austin, head of the United States Central Command, was in Riyadh, Saudi Arabia, on Thursday for meetings with Saudi officials.
+6 default entities: PERSON Lloyd Austin, GPE United States, ORGANIZATION Central Command, GPE Riyadh, GPE Saudi Arabia, GPE Saudi
+6 custom entities: PERSON Lloyd Austin, GPE United States, ORGANIZATION Central Command, GPE Riyadh, PERSON Arabia, GPE Saudi
+
+Source Sentence and Source Headline Match:
+Gen. Lloyd Austin, head of the United States Central Command, was in Riyadh, Saudi Arabia, on Thursday for meetings with Saudi officials.
+War in Yemen Is Allowing Qaeda Group to Expand.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Gen. Lloyd Austin, head of the United States Central Command, was in Riyadh, Saudi Arabia, on Thursday for meetings with Saudi officials.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+2 matches: arabia, saudi
+
+Source Sentence and Best Story Sentence Match:
+Gen. Lloyd Austin, head of the United States Central Command, was in Riyadh, Saudi Arabia, on Thursday for meetings with Saudi officials.
+Yemeni President Mansour Hadi fled to Saudi Arabia, Saudi state TV reported March 26.
+3 matches: arabia, state, saudi
+
+----------------
+
+sent_21:
+21 out of 33 sentences
+9 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+Mr. Carter said that the United States would continue to support the Saudi campaign, calling the kingdom “a longstanding friend and ally,” and that the United States was trying to “help them protect themselves and their own border.” Mr. Carter characterized the Saudi objective in Yemen as restoring “a political process there in which a legitimate government can be established.”
+8 default entities: PERSON Mr., PERSON Carter, GPE United States, GPE Saudi, GPE United States, PERSON Mr. Carter, GPE Saudi, GPE Yemen
+7 custom entities: PERSON Carter, GPE United States, GPE Saudi, GPE United States, PERSON Carter, GPE Saudi, GPE Yemen
+
+Source Sentence and Source Headline Match:
+Mr. Carter said that the United States would continue to support the Saudi campaign, calling the kingdom “a longstanding friend and ally,” and that the United States was trying to “help them protect themselves and their own border.” Mr. Carter characterized the Saudi objective in Yemen as restoring “a political process there in which a legitimate government can be established.”
+War in Yemen Is Allowing Qaeda Group to Expand.
+1 matches: yemen
+
+Source Sentence and Story Headline Match:
+Mr. Carter said that the United States would continue to support the Saudi campaign, calling the kingdom “a longstanding friend and ally,” and that the United States was trying to “help them protect themselves and their own border.” Mr. Carter characterized the Saudi objective in Yemen as restoring “a political process there in which a legitimate government can be established.”
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+Mr. Carter said that the United States would continue to support the Saudi campaign, calling the kingdom “a longstanding friend and ally,” and that the United States was trying to “help them protect themselves and their own border.” Mr. Carter characterized the Saudi objective in Yemen as restoring “a political process there in which a legitimate government can be established.”
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+5 matches: would, continue, campaign, say, yemen
+
+----------------
+
+sent_22:
+22 out of 33 sentences
+10 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+With growing alarm over the extremists’ gains and the rapidly deteriorating humanitarian situation, Khaled Bahah, a top official in the exiled government, called on Thursday for the Houthis to halt their offensive as a condition for peace talks.
+2 default entities: PERSON Khaled Bahah, ORGANIZATION Houthis
+2 custom entities: PERSON Khaled Bahah, ORGANIZATION Houthis
+
+Source Sentence and Source Headline Match:
+With growing alarm over the extremists’ gains and the rapidly deteriorating humanitarian situation, Khaled Bahah, a top official in the exiled government, called on Thursday for the Houthis to halt their offensive as a condition for peace talks.
+War in Yemen Is Allowing Qaeda Group to Expand.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+With growing alarm over the extremists’ gains and the rapidly deteriorating humanitarian situation, Khaled Bahah, a top official in the exiled government, called on Thursday for the Houthis to halt their offensive as a condition for peace talks.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+With growing alarm over the extremists’ gains and the rapidly deteriorating humanitarian situation, Khaled Bahah, a top official in the exiled government, called on Thursday for the Houthis to halt their offensive as a condition for peace talks.
+The Iranian plan calls for a ceasefire, humanitarian aid, resuming a national dialogue and "an inclusive national unity government."
+3 matches: government, call, humanitarian
+
+----------------
+
+sent_23:
+23 out of 33 sentences
+11 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+Speaking in Saudi Arabia, where the government has taken refuge, Mr. Bahah said the “language of reason and dialogue must be given priority.” But first, he said, the Houthis must halt their attacks and “stop tampering with the destiny of the nation and destroying its institutions.”
+3 default entities: GPE Saudi Arabia, PERSON Mr. Bahah, ORGANIZATION Houthis
+3 custom entities: GPE Saudi Arabia, PERSON Bahah, ORGANIZATION Houthis
+
+Source Sentence and Source Headline Match:
+Speaking in Saudi Arabia, where the government has taken refuge, Mr. Bahah said the “language of reason and dialogue must be given priority.” But first, he said, the Houthis must halt their attacks and “stop tampering with the destiny of the nation and destroying its institutions.”
+War in Yemen Is Allowing Qaeda Group to Expand.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Speaking in Saudi Arabia, where the government has taken refuge, Mr. Bahah said the “language of reason and dialogue must be given priority.” But first, he said, the Houthis must halt their attacks and “stop tampering with the destiny of the nation and destroying its institutions.”
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+2 matches: arabia, saudi
+
+Source Sentence and Best Story Sentence Match:
+Speaking in Saudi Arabia, where the government has taken refuge, Mr. Bahah said the “language of reason and dialogue must be given priority.” But first, he said, the Houthis must halt their attacks and “stop tampering with the destiny of the nation and destroying its institutions.”
+Saudi Arabia launched military operations including airstrikes against the Houthis and their allies in Yemen on March 25.
+3 matches: arabia, saudi, houthis
+
+----------------
+
+sent_24:
+24 out of 33 sentences
+12 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Mr. Bahah was appointed vice president on Sunday by President Abdu Rabbu Mansour Hadi, who fled Yemen shortly before the Saudis began bombing.
+5 default entities: PERSON Mr., PERSON Bahah, PERSON Abdu Rabbu Mansour Hadi, PERSON Yemen, ORGANIZATION Saudis
+4 custom entities: PERSON Bahah, PERSON Abdu Rabbu Mansour, PERSON Yemen, ORGANIZATION Saudis
+
+Source Sentence and Source Headline Match:
+Mr. Bahah was appointed vice president on Sunday by President Abdu Rabbu Mansour Hadi, who fled Yemen shortly before the Saudis began bombing.
+War in Yemen Is Allowing Qaeda Group to Expand.
+1 matches: yemen
+
+Source Sentence and Story Headline Match:
+Mr. Bahah was appointed vice president on Sunday by President Abdu Rabbu Mansour Hadi, who fled Yemen shortly before the Saudis began bombing.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+2 matches: saudi, bomb
+
+Source Sentence and Best Story Sentence Match:
+Mr. Bahah was appointed vice president on Sunday by President Abdu Rabbu Mansour Hadi, who fled Yemen shortly before the Saudis began bombing.
+Yemeni President Mansour Hadi fled to Saudi Arabia, Saudi state TV reported March 26.
+5 matches: hadi, mansour, president, flee, saudi
+
+----------------
+
+sent_25:
+25 out of 33 sentences
+13 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Mr. Bahah, who served as Yemen’s last prime minister, is widely viewed as a conciliatory figure among the country’s increasingly fractured and polarized political elite.
+3 default entities: PERSON Mr., GPE Bahah, GPE Yemen
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Mr. Bahah, who served as Yemen’s last prime minister, is widely viewed as a conciliatory figure among the country’s increasingly fractured and polarized political elite.
+War in Yemen Is Allowing Qaeda Group to Expand.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Mr. Bahah, who served as Yemen’s last prime minister, is widely viewed as a conciliatory figure among the country’s increasingly fractured and polarized political elite.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Mr. Bahah, who served as Yemen’s last prime minister, is widely viewed as a conciliatory figure among the country’s increasingly fractured and polarized political elite.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 matches: figure
+
+----------------
+
+sent_26:
+26 out of 33 sentences
+13 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+His appointment as vice president was seen as an attempt to bridge the divisions fueling the war and to provide alternative leadership to that of Mr. Hadi, who lacks any significant base of support.
+1 default entities: PERSON Mr. Hadi
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+His appointment as vice president was seen as an attempt to bridge the divisions fueling the war and to provide alternative leadership to that of Mr. Hadi, who lacks any significant base of support.
+War in Yemen Is Allowing Qaeda Group to Expand.
+1 matches: war
+
+Source Sentence and Story Headline Match:
+His appointment as vice president was seen as an attempt to bridge the divisions fueling the war and to provide alternative leadership to that of Mr. Hadi, who lacks any significant base of support.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+His appointment as vice president was seen as an attempt to bridge the divisions fueling the war and to provide alternative leadership to that of Mr. Hadi, who lacks any significant base of support.
+"Health facilities are struggling to function as they face increasing shortages of life-saving medicines and vital health supplies, frequent disruptions in power supply and lack of fuel for generators.
+2 matches: lack, fuel
+
+----------------
+
+sent_27:
+27 out of 33 sentences
+14 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+But a senior Houthi official, responding to Mr. Bahah’s comments on Thursday, told Reuters that the Saudi-led bombing campaign had to stop “immediately and without conditions.”
+3 default entities: ORGANIZATION Houthi, PERSON Mr. Bahah, ORGANIZATION Reuters
+2 custom entities: ORGANIZATION Houthi, ORGANIZATION Reuters
+
+Source Sentence and Source Headline Match:
+But a senior Houthi official, responding to Mr. Bahah’s comments on Thursday, told Reuters that the Saudi-led bombing campaign had to stop “immediately and without conditions.”
+War in Yemen Is Allowing Qaeda Group to Expand.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+But a senior Houthi official, responding to Mr. Bahah’s comments on Thursday, told Reuters that the Saudi-led bombing campaign had to stop “immediately and without conditions.”
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+But a senior Houthi official, responding to Mr. Bahah’s comments on Thursday, told Reuters that the Saudi-led bombing campaign had to stop “immediately and without conditions.”
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+4 matches: official, saudi-led, bombing, campaign
+
+----------------
+
+sent_28:
+28 out of 33 sentences
+15 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The political deadlock has contributed to increasingly dire assessments from international aid agencies about the toll on civilians in Yemen, a country that must import nearly all of its food.
+1 default entities: GPE Yemen
+1 custom entities: GPE Yemen
+
+Source Sentence and Source Headline Match:
+The political deadlock has contributed to increasingly dire assessments from international aid agencies about the toll on civilians in Yemen, a country that must import nearly all of its food.
+War in Yemen Is Allowing Qaeda Group to Expand.
+1 matches: yemen
+
+Source Sentence and Story Headline Match:
+The political deadlock has contributed to increasingly dire assessments from international aid agencies about the toll on civilians in Yemen, a country that must import nearly all of its food.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The political deadlock has contributed to increasingly dire assessments from international aid agencies about the toll on civilians in Yemen, a country that must import nearly all of its food.
+The UN on April 17 launched an emergency appeal of $273.7 million for Yemen as Saudi airstrikes were pounding most of the country.
+2 matches: country, yemen
+
+----------------
+
+sent_29:
+29 out of 33 sentences
+15 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Saudi-led military coalition has imposed an air and sea blockade, which, along with the fighting, has caused critical shortages of food and fuel in many cities, including Sana, the capital, and Aden, a southern port gripped by combat for weeks.
+2 default entities: PERSON Sana, PERSON Aden
+1 custom entities: PERSON Sana
+
+Source Sentence and Source Headline Match:
+The Saudi-led military coalition has imposed an air and sea blockade, which, along with the fighting, has caused critical shortages of food and fuel in many cities, including Sana, the capital, and Aden, a southern port gripped by combat for weeks.
+War in Yemen Is Allowing Qaeda Group to Expand.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Saudi-led military coalition has imposed an air and sea blockade, which, along with the fighting, has caused critical shortages of food and fuel in many cities, including Sana, the capital, and Aden, a southern port gripped by combat for weeks.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: city
+
+Source Sentence and Best Story Sentence Match:
+The Saudi-led military coalition has imposed an air and sea blockade, which, along with the fighting, has caused critical shortages of food and fuel in many cities, including Sana, the capital, and Aden, a southern port gripped by combat for weeks.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+3 matches: coalition, saudi-led, southern
+
+----------------
+
+sent_30:
+30 out of 33 sentences
+16 out of 18 paragraphs
+Tagged as a quote
+
+Sentence:
+The World Food Program said Thursday that it would distribute food to 105,000 displaced people around Aden in the next few days, but that conditions were so unsafe it was “struggling to reach people.” The World Health Organization said on Thursday that it had delivered more than 18 tons of medicine and surgical supplies to Sana.
+5 default entities: PERSON Program, GPE Aden, ORGANIZATION World, PERSON Organization, GPE Sana
+5 custom entities: PERSON Program, GPE Aden, ORGANIZATION World, PERSON Organization, GPE Sana
+
+Source Sentence and Source Headline Match:
+The World Food Program said Thursday that it would distribute food to 105,000 displaced people around Aden in the next few days, but that conditions were so unsafe it was “struggling to reach people.” The World Health Organization said on Thursday that it had delivered more than 18 tons of medicine and surgical supplies to Sana.
+War in Yemen Is Allowing Qaeda Group to Expand.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The World Food Program said Thursday that it would distribute food to 105,000 displaced people around Aden in the next few days, but that conditions were so unsafe it was “struggling to reach people.” The World Health Organization said on Thursday that it had delivered more than 18 tons of medicine and surgical supplies to Sana.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The World Food Program said Thursday that it would distribute food to 105,000 displaced people around Aden in the next few days, but that conditions were so unsafe it was “struggling to reach people.” The World Health Organization said on Thursday that it had delivered more than 18 tons of medicine and surgical supplies to Sana.
+"Health facilities are struggling to function as they face increasing shortages of life-saving medicines and vital health supplies, frequent disruptions in power supply and lack of fuel for generators.
+4 matches: health, supply, struggle, medicine
+
+----------------
+
+sent_31:
+31 out of 33 sentences
+17 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+According to the United Nations, hundreds of people have been killed in the fighting, including at least 364 civilians.
+1 default entities: ORGANIZATION United Nations
+1 custom entities: ORGANIZATION United Nations
+
+Source Sentence and Source Headline Match:
+According to the United Nations, hundreds of people have been killed in the fighting, including at least 364 civilians.
+War in Yemen Is Allowing Qaeda Group to Expand.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+According to the United Nations, hundreds of people have been killed in the fighting, including at least 364 civilians.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+According to the United Nations, hundreds of people have been killed in the fighting, including at least 364 civilians.
+An April 20 Saudi airstrike on a hillside tore through the Yemeni capital, killing at least 25 people and wounding nearly 400 people, according to witnesses and medics.
+4 matches: people, kill, least, accord
+
+----------------
+
+sent_32:
+32 out of 33 sentences
+17 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+On Thursday, Human Rights Watch called for an investigation into airstrikes last month that it said had killed at least 31 civilian workers at a dairy factory outside the port city of Hodeida.
+2 default entities: PERSON Human Rights Watch, GPE Hodeida
+2 custom entities: PERSON Watch, GPE Hodeida
+
+Source Sentence and Source Headline Match:
+On Thursday, Human Rights Watch called for an investigation into airstrikes last month that it said had killed at least 31 civilian workers at a dairy factory outside the port city of Hodeida.
+War in Yemen Is Allowing Qaeda Group to Expand.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+On Thursday, Human Rights Watch called for an investigation into airstrikes last month that it said had killed at least 31 civilian workers at a dairy factory outside the port city of Hodeida.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: city
+
+Source Sentence and Best Story Sentence Match:
+On Thursday, Human Rights Watch called for an investigation into airstrikes last month that it said had killed at least 31 civilian workers at a dairy factory outside the port city of Hodeida.
+At least 944 people were killed, including 77 children, and 3,487 injured since the start of airstrikes as of April 17, the UN said April 21.
+4 matches: least, kill, say, airstrikes
+
+----------------
+
+sent_33:
+33 out of 33 sentences
+18 out of 18 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Also on Thursday, Doctors Without Borders, the medical charity, said that physicians at a hospital it helps administer had treated 30 civilians wounded in airstrikes overnight in northern Amran Province.
+2 default entities: PERSON Doctors Without Borders, PERSON Amran Province
+1 custom entities: PERSON Amran Province
+
+Source Sentence and Source Headline Match:
+Also on Thursday, Doctors Without Borders, the medical charity, said that physicians at a hospital it helps administer had treated 30 civilians wounded in airstrikes overnight in northern Amran Province.
+War in Yemen Is Allowing Qaeda Group to Expand.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Also on Thursday, Doctors Without Borders, the medical charity, said that physicians at a hospital it helps administer had treated 30 civilians wounded in airstrikes overnight in northern Amran Province.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Also on Thursday, Doctors Without Borders, the medical charity, said that physicians at a hospital it helps administer had treated 30 civilians wounded in airstrikes overnight in northern Amran Province.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 matches: say, airstrikes
+
+----------------
+

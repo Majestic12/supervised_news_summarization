@@ -1,0 +1,189 @@
+sent_1:
+
+Hong Kong's government has unveiled proposed reforms for the next election, which do not concede to pro-democracy demands for a fully free vote.
+The elections will allow five million eligible Hong Kong voters to directly vote for their next chief executive.
+4 best matches: election, vote, hong, next
+
+----------------
+sent_2:
+
+The electoral blueprint complies with guidelines from China's legislature that candidates for the 2017 election will be screened.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+3 best matches: 2017, election, blueprint
+
+----------------
+sent_3:
+
+Democracy activists said this amounted to a "fake democracy".
+Activists say Beijing promised direct elections in 2017.
+2 best matches: activist, say
+
+----------------
+sent_4:
+
+When the guidelines were announced last August there were weeks of street protests and some violent clashes.
+The umbrellas became the symbol of the protests, which lasted over two months.
+2 best matches: last, protest
+
+----------------
+sent_5:
+
+Carrie Lam, Hong Kong's second highest government official, put forward the reform package.
+A report by a UK parliament committee on March 6 expressed concern that Hong Kong's "high degree of autonomy is coming under pressure" from mainland China.
+3 best matches: kong's, hong, high
+
+----------------
+sent_6:
+
+"These proposals are in strict compliance with the Basic Law [Hong Kong's constitution] and the relevant decisions of [China's] standing committee of the National People's Congress," Ms Lam said.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+3 best matches: kong's, committee, hong
+
+----------------
+sent_7:
+
+"At the same time they fully take into account the views expressed by various sectors of the community," she said.
+Activists say Beijing promised direct elections in 2017.
+1 best matches: say
+
+----------------
+sent_8:
+
+Hong Kong's leader will be chosen by the general population of more than five million eligible voters in the 2017 elections for the first time.
+The elections will allow five million eligible Hong Kong voters to directly vote for their next chief executive.
+6 best matches: hong, election, million, voter, five, eligible
+
+----------------
+sent_9:
+
+However, the process prior to that was outlined by Ms Lam: A primary vote will take place where the 1,200 members of the largely pro-Beijing nominating committee will get one vote each.
+Candidates in the election, however, must receive 50% approval from a committee largely hand-picked by Beijing.
+3 best matches: however, committee, largely
+
+----------------
+sent_10:
+
+A candidate will have to win at least 120 votes which will result in a shortlist of between five and 10 candidates.
+The elections will allow five million eligible Hong Kong voters to directly vote for their next chief executive.
+2 best matches: vote, five
+
+----------------
+sent_11:
+
+These candidates will then be put to a second round of voting by members of the nominating committee.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+2 best matches: candidate, committee
+
+----------------
+sent_12:
+
+Each member will cast at least two approval votes.
+The city's legislature will vote on the plan in June.
+1 best matches: vote
+
+----------------
+sent_13:
+
+The two or three candidates who win more than 600 votes each will then be eligible to run in the public election.
+The elections will allow five million eligible Hong Kong voters to directly vote for their next chief executive.
+3 best matches: election, eligible, vote
+
+----------------
+sent_14:
+
+Pro-democracy protesters have said this process allows Beijing to eliminate unwanted candidates and does not amount to universal suffrage.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+2 best matches: candidate, beijing
+
+----------------
+sent_15:
+
+Thousands of people barricaded parts of Hong Kong for more than two months in protest when the guidelines were first announced last year.
+The umbrellas became the symbol of the protests, which lasted over two months.
+4 best matches: two, last, month, protest
+
+----------------
+sent_16:
+
+But China has repeatedly made it clear that no concessions will be given.
+If it does not get a two-thirds majority, the 2017 election will be based on current rules, which are also considered to give de facto control of the choice of the city's leader to Beijing.
+1 best matches: give
+
+----------------
+sent_17:
+
+In December, Hong Kong police dismantled the last of the protest camps.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+2 best matches: kong, hong
+
+----------------
+sent_18:
+
+The electoral proposal is due to be voted on in the legislature in the summer, and needs a two-thirds majority in the 70-member Legislative Council to be passed.
+Protesters gathered outside the Legislative Council.
+2 best matches: council, legislative
+
+----------------
+sent_19:
+
+The 27 pan-democratic lawmakers have mostly vowed to veto it.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+1 best matches: lawmaker
+
+----------------
+sent_20:
+
+Many of them walked out of the chamber after the proposal was announced.
+The proposal comes after months of protests in 2014 over a Beijing-back election plan.
+1 best matches: proposal
+
+----------------
+sent_21:
+
+"We will launch a campaign to oppose the proposal and we will ask the Hong Kong public to continue to seek true universal suffrage," Civic Party lawmaker Alan Leong said.
+China said April 13 that it changed visa allowances for Shenzhen residents to visit Hong Kong from unlimited multiple-entry to once per week.
+3 best matches: kong, say, hong
+
+----------------
+sent_22:
+
+The government will have to win over at least four of them to get the proposal through.
+The proposal comes after months of protests in 2014 over a Beijing-back election plan.
+1 best matches: proposal
+
+----------------
+sent_23:
+
+Speaking beforehand, the city's leader, Chief executive CY Leung, warned that if the proposal was vetoed this time, it would be a number of years before it was discussed again.
+If this proposal is vetoed, it could be several years before the next opportunity."
+3 best matches: proposal, veto, year
+
+----------------
+sent_24:
+
+That would mean the current system, under which the chief executive is elected by a 1,200-member election committee, would remain in place.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+4 best matches: executive, election, committee, chief
+
+----------------
+sent_25:
+
+China governs Hong Kong, a former British colony, under the "one country, two systems" principle.
+China responded that the UK, which ran Hong Kong for nearly 150 years, has "no right to interfere" in what China considers a domestic issue.
+3 best matches: kong, hong, china
+
+----------------
+sent_26:
+
+The system has allowed the city a high degree of autonomy and civil rights, including freedom of assembly and free speech.
+A report by a UK parliament committee on March 6 expressed concern that Hong Kong's "high degree of autonomy is coming under pressure" from mainland China.
+3 best matches: autonomy, degree, high
+
+----------------
+sent_27:
+
+Hong Kong's mini-constitution says the ultimate aim is to elect the chief executive "by universal suffrage upon nomination by a broadly representative nominating committee".
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+5 best matches: kong's, executive, committee, hong, chief
+
+----------------

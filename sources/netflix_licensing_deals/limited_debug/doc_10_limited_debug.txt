@@ -1,0 +1,150 @@
+sent_1:
+
+The streaming service made the long-rumored news official with a 13-episode commitment to 'Fuller House.'
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+3 best matches: 13-episode, fuller, house
+
+----------------
+sent_2:
+
+Full House is opening its doors again.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+2 best matches: full, house
+
+----------------
+sent_3:
+
+Following former star John Stamos' announcement on Monday's Jimmy Kimmel Live!, Netflix confirmed Monday that it is reviving the family sitcom, handing out a 13-episode pickup to sequel Fuller House.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+6 best matches: fuller, confirm, netflix, house, 13-episode, sitcom
+
+----------------
+sent_4:
+
+The new incarnation will star original cast members Candace Cameron-Bure (D.J.
+It will star Candace Cameron-Bure playing the role of D.J.
+4 best matches: star, cameron-bure, d.j, candace
+
+----------------
+sent_5:
+
+), her on-screen younger sister, Jodie Sweetin (Stephanie), and Andrea Barber, who played her best friend, Kimmy Gibbler.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+1 best matches: kimmy
+
+----------------
+sent_6:
+
+Stamos will produce and reprise his role as Uncle Jesse in a guest role, while talks are under way to bring back fellow original stars Bob Saget, Mary-Kate  and Ashley Olsen, Dave Coulier and Lori Loughlin.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+3 best matches: star, guest, original
+
+----------------
+sent_7:
+
+The revival will premiere on Netflix in 2016 and finds D.J.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+1 best matches: netflix
+
+----------------
+sent_8:
+
+no story sentence best matches found
+
+----------------
+sent_9:
+
+Stephanie, now an aspiring musician, and single mother Kimmy — along with Kimmy’s feisty teenage daughter, Ramona — all move in to help take care of D.J.’s two boys — the rebellious 12-year-old J.D.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+1 best matches: kimmy
+
+----------------
+sent_10:
+
+no story sentence best matches found
+
+----------------
+sent_11:
+
+The multicamera comedy hails from Warner Horizon Television, Miller-Boyett Productions and Jeff Franklin Productions.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+1 best matches: comedy
+
+----------------
+sent_12:
+
+Full House creator Jeff Franklin will return to oversee Fuller House alongside exec producers Robert L. Boyett and Thomas L. Miller.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+3 best matches: full, fuller, house
+
+----------------
+sent_13:
+
+The series originally aired on ABC from 1987 to 1995.
+"Full House" ended its original run in 1995.
+1 best matches: 1995
+
+----------------
+sent_14:
+
+Full House is the latest in a long string of revivals popping up across the TV landscape as broadcast networks and streaming services alike look to known brands to cut through the clutter.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+2 best matches: full, house
+
+----------------
+sent_15:
+
+Fox recently ordered a six-episode event series for The X Files, and NBC announced a straight-to-series order for a Coach revival starring Craig T. Nelson, with several others in the works.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+2 best matches: star, others
+
+----------------
+sent_16:
+
+"The continued support of  Full House fans of all ages for the last 28 years has been astounding," Franklin, Boyett and Miller said in a joint statement confirming the news.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+3 best matches: full, confirm, house
+
+----------------
+sent_17:
+
+"It is an honor and a thrill to catch up with these beloved characters and explore their lives today.
+"Daredevil," which stars British actor Charlie Cox as the title character, debuted on Netflix on April 10.
+1 best matches: character
+
+----------------
+sent_18:
+
+The love you saw on the show was real.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+1 best matches: show
+
+----------------
+sent_19:
+
+The cast has remained a loving family off screen all these years.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+1 best matches: cast
+
+----------------
+sent_20:
+
+We are as excited as our fans to finally bring Full House back to life.”
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+2 best matches: full, house
+
+----------------
+sent_21:
+
+For Netflix, Fuller House comes as the streaming service has already revived Wet Hot American Summer, as well as Arrested Development, with another round of the cult comedy considered likely.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+3 best matches: fuller, netflix, house
+
+----------------
+sent_22:
+
+The series joins a roster of original comedies at Netflix that also includes Grace and Frankie, Love, Unbreakable Kimmy Schmidt, Will Arnett's Bojack Horseman and Flaked and more.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+6 best matches: include, netflix, comedy, kimmy, unbreakable, schmidt
+
+----------------

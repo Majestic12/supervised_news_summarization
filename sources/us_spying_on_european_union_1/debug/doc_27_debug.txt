@@ -1,0 +1,541 @@
+sent_1:
+1 out of 20 sentences
+1 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A German media report has implicated Germany's foreign intelligence agency in helping the NSA target European interests.
+4 default entities: GPE German, GPE Germany, ORGANIZATION NSA, GPE European
+3 custom entities: GPE German, ORGANIZATION NSA, GPE European
+
+Source Sentence and Source Headline Match:
+A German media report has implicated Germany's foreign intelligence agency in helping the NSA target European interests.
+BND helped NSA spy on German, European interests.
+4 matches: european, interest, nsa, german
+
+Source Sentence and Story Headline Match:
+A German media report has implicated Germany's foreign intelligence agency in helping the NSA target European interests.
+German intelligence agency helped NSA spy in Europe.
+4 matches: agency, intelligence, nsa, german
+
+Source Sentence and Best Story Sentence Match:
+A German media report has implicated Germany's foreign intelligence agency in helping the NSA target European interests.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+5 matches: report, germany's, intelligence, nsa, agency
+
+----------------
+
+sent_2:
+2 out of 20 sentences
+1 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The revelation has prompted politicians to call for an end to the collaboration.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The revelation has prompted politicians to call for an end to the collaboration.
+BND helped NSA spy on German, European interests.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The revelation has prompted politicians to call for an end to the collaboration.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The revelation has prompted politicians to call for an end to the collaboration.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+1 matches: politician
+
+----------------
+
+sent_3:
+3 out of 20 sentences
+2 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The German Intelligence Agency (BND) assisted the US National Security Agency (NSA) in spying on European targets, including German interests, according to a report in Spiegel Online on Thursday.
+7 default entities: ORGANIZATION German Intelligence Agency, ORGANIZATION BND, ORGANIZATION US National, ORGANIZATION NSA, GPE European, GPE German, GPE Spiegel Online
+6 custom entities: ORGANIZATION German Intelligence Agency, ORGANIZATION US National, PERSON Agency NSA, GPE European, GPE German, GPE Spiegel Online
+
+Source Sentence and Source Headline Match:
+The German Intelligence Agency (BND) assisted the US National Security Agency (NSA) in spying on European targets, including German interests, according to a report in Spiegel Online on Thursday.
+BND helped NSA spy on German, European interests.
+5 matches: european, bnd, interest, nsa, german
+
+Source Sentence and Story Headline Match:
+The German Intelligence Agency (BND) assisted the US National Security Agency (NSA) in spying on European targets, including German interests, according to a report in Spiegel Online on Thursday.
+German intelligence agency helped NSA spy in Europe.
+4 matches: agency, intelligence, nsa, german
+
+Source Sentence and Best Story Sentence Match:
+The German Intelligence Agency (BND) assisted the US National Security Agency (NSA) in spying on European targets, including German interests, according to a report in Spiegel Online on Thursday.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+6 matches: report, spiegel, nsa, bnd, agency, intelligence
+
+----------------
+
+sent_4:
+4 out of 20 sentences
+3 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The BND provided signals intelligence (SIGINT) for the NSA in more than 40,000 instances, according to the report.
+3 default entities: ORGANIZATION BND, ORGANIZATION SIGINT, ORGANIZATION NSA
+3 custom entities: ORGANIZATION BND, ORGANIZATION SIGINT, ORGANIZATION NSA
+
+Source Sentence and Source Headline Match:
+The BND provided signals intelligence (SIGINT) for the NSA in more than 40,000 instances, according to the report.
+BND helped NSA spy on German, European interests.
+2 matches: bnd, nsa
+
+Source Sentence and Story Headline Match:
+The BND provided signals intelligence (SIGINT) for the NSA in more than 40,000 instances, according to the report.
+German intelligence agency helped NSA spy in Europe.
+2 matches: intelligence, nsa
+
+Source Sentence and Best Story Sentence Match:
+The BND provided signals intelligence (SIGINT) for the NSA in more than 40,000 instances, according to the report.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+4 matches: report, bnd, intelligence, nsa
+
+----------------
+
+sent_5:
+5 out of 20 sentences
+3 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+One of the targets was the Airbus Group, an aerospace and defense manufacturer.
+1 default entities: ORGANIZATION Airbus Group
+1 custom entities: ORGANIZATION Airbus Group
+
+Source Sentence and Source Headline Match:
+One of the targets was the Airbus Group, an aerospace and defense manufacturer.
+BND helped NSA spy on German, European interests.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+One of the targets was the Airbus Group, an aerospace and defense manufacturer.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+One of the targets was the Airbus Group, an aerospace and defense manufacturer.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+1 matches: target
+
+----------------
+
+sent_6:
+6 out of 20 sentences
+4 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The type of information the BND is allowed to collect is said to be strictly regulated by German law.
+2 default entities: ORGANIZATION BND, GPE German
+2 custom entities: ORGANIZATION BND, GPE German
+
+Source Sentence and Source Headline Match:
+The type of information the BND is allowed to collect is said to be strictly regulated by German law.
+BND helped NSA spy on German, European interests.
+2 matches: bnd, german
+
+Source Sentence and Story Headline Match:
+The type of information the BND is allowed to collect is said to be strictly regulated by German law.
+German intelligence agency helped NSA spy in Europe.
+1 matches: german
+
+Source Sentence and Best Story Sentence Match:
+The type of information the BND is allowed to collect is said to be strictly regulated by German law.
+A 31-year-old German intelligence worker was arrested in July 2014 on accusations of passing information about the parliamentary inquiry into the NSA to an American contact.
+2 matches: information, german
+
+----------------
+
+sent_7:
+7 out of 20 sentences
+4 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The German spy agency is reported to have passed on Internet IP addresses as well as mobile phone numbers to the NSA.
+2 default entities: GPE German, ORGANIZATION NSA
+2 custom entities: GPE German, ORGANIZATION NSA
+
+Source Sentence and Source Headline Match:
+The German spy agency is reported to have passed on Internet IP addresses as well as mobile phone numbers to the NSA.
+BND helped NSA spy on German, European interests.
+3 matches: spy, nsa, german
+
+Source Sentence and Story Headline Match:
+The German spy agency is reported to have passed on Internet IP addresses as well as mobile phone numbers to the NSA.
+German intelligence agency helped NSA spy in Europe.
+4 matches: agency, spy, nsa, german
+
+Source Sentence and Best Story Sentence Match:
+The German spy agency is reported to have passed on Internet IP addresses as well as mobile phone numbers to the NSA.
+The BND used thousands of "selectors" sent by the NSA that included IP addresses, emails, and phone numbers.
+5 matches: phone, address, number, nsa, ip
+
+----------------
+
+sent_8:
+8 out of 20 sentences
+5 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+German government spokesman Steffen Seibert said the BND had been asked to "thoroughly clarify this complex matter."
+3 default entities: GPE German, PERSON Steffen Seibert, ORGANIZATION BND
+3 custom entities: GPE German, PERSON Steffen Seibert, ORGANIZATION BND
+
+Source Sentence and Source Headline Match:
+German government spokesman Steffen Seibert said the BND had been asked to "thoroughly clarify this complex matter."
+BND helped NSA spy on German, European interests.
+2 matches: bnd, german
+
+Source Sentence and Story Headline Match:
+German government spokesman Steffen Seibert said the BND had been asked to "thoroughly clarify this complex matter."
+German intelligence agency helped NSA spy in Europe.
+1 matches: german
+
+Source Sentence and Best Story Sentence Match:
+German government spokesman Steffen Seibert said the BND had been asked to "thoroughly clarify this complex matter."
+Snowden said he wanted to testify before the committee in Berlin, but the German government could not give assurances that he wouldn't be detained and extradited to the U.S.
+3 matches: government, say, german
+
+----------------
+
+sent_9:
+9 out of 20 sentences
+5 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+He added in a statement that the government had no proof of "massive eavesdropping against German or European citizens."
+2 default entities: GPE German, GPE European
+2 custom entities: GPE German, GPE European
+
+Source Sentence and Source Headline Match:
+He added in a statement that the government had no proof of "massive eavesdropping against German or European citizens."
+BND helped NSA spy on German, European interests.
+2 matches: european, german
+
+Source Sentence and Story Headline Match:
+He added in a statement that the government had no proof of "massive eavesdropping against German or European citizens."
+German intelligence agency helped NSA spy in Europe.
+1 matches: german
+
+Source Sentence and Best Story Sentence Match:
+He added in a statement that the government had no proof of "massive eavesdropping against German or European citizens."
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+2 matches: citizen, european
+
+----------------
+
+sent_10:
+10 out of 20 sentences
+6 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Members of a German parliamentary inquiry committee stopped a meeting Thursday after the new information was published.
+1 default entities: GPE German
+1 custom entities: GPE German
+
+Source Sentence and Source Headline Match:
+Members of a German parliamentary inquiry committee stopped a meeting Thursday after the new information was published.
+BND helped NSA spy on German, European interests.
+1 matches: german
+
+Source Sentence and Story Headline Match:
+Members of a German parliamentary inquiry committee stopped a meeting Thursday after the new information was published.
+German intelligence agency helped NSA spy in Europe.
+1 matches: german
+
+Source Sentence and Best Story Sentence Match:
+Members of a German parliamentary inquiry committee stopped a meeting Thursday after the new information was published.
+A 31-year-old German intelligence worker was arrested in July 2014 on accusations of passing information about the parliamentary inquiry into the NSA to an American contact.
+4 matches: inquiry, parliamentary, information, german
+
+----------------
+
+sent_11:
+11 out of 20 sentences
+7 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+Left Party leader Gregor Gysi called the collaboration a "scandal" and demanded an end to "conformism with the US administration."
+4 default entities: PERSON Left, ORGANIZATION Party, PERSON Gregor Gysi, GSP US
+4 custom entities: PERSON Left, ORGANIZATION Party, PERSON Gregor Gysi, GSP US
+
+Source Sentence and Source Headline Match:
+Left Party leader Gregor Gysi called the collaboration a "scandal" and demanded an end to "conformism with the US administration."
+BND helped NSA spy on German, European interests.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Left Party leader Gregor Gysi called the collaboration a "scandal" and demanded an end to "conformism with the US administration."
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Left Party leader Gregor Gysi called the collaboration a "scandal" and demanded an end to "conformism with the US administration."
+Despite outcry from European leaders over the leaks, Snowden told Der Spiegel in 2013 that the NSA is "in bed together with the Germans and most other Western states."
+1 matches: leader
+
+----------------
+
+sent_12:
+12 out of 20 sentences
+8 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+"The limit has now been exceeded.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"The limit has now been exceeded.
+BND helped NSA spy on German, European interests.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"The limit has now been exceeded.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_13:
+13 out of 20 sentences
+8 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+The chancellor must explain the situation," Konstantin von Notz, deputy parliamentary leader of the Greens, told the daily Leipziger Volkszeitung.
+4 default entities: PERSON Konstantin, PERSON Notz, GPE Greens, PERSON Leipziger Volkszeitung
+3 custom entities: PERSON Konstantin, GPE Greens, PERSON Leipziger Volkszeitung
+
+Source Sentence and Source Headline Match:
+The chancellor must explain the situation," Konstantin von Notz, deputy parliamentary leader of the Greens, told the daily Leipziger Volkszeitung.
+BND helped NSA spy on German, European interests.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The chancellor must explain the situation," Konstantin von Notz, deputy parliamentary leader of the Greens, told the daily Leipziger Volkszeitung.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The chancellor must explain the situation," Konstantin von Notz, deputy parliamentary leader of the Greens, told the daily Leipziger Volkszeitung.
+Despite outcry from European leaders over the leaks, Snowden told Der Spiegel in 2013 that the NSA is "in bed together with the Germans and most other Western states."
+2 matches: leader, tell
+
+----------------
+
+sent_14:
+14 out of 20 sentences
+9 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+Von Notz added that he found it "hard to imagine" that the chancellor's office was unaware of the spy agencies' cooperation.
+2 default entities: PERSON Von, PERSON Notz
+2 custom entities: PERSON Von, PERSON Notz
+
+Source Sentence and Source Headline Match:
+Von Notz added that he found it "hard to imagine" that the chancellor's office was unaware of the spy agencies' cooperation.
+BND helped NSA spy on German, European interests.
+1 matches: spy
+
+Source Sentence and Story Headline Match:
+Von Notz added that he found it "hard to imagine" that the chancellor's office was unaware of the spy agencies' cooperation.
+German intelligence agency helped NSA spy in Europe.
+2 matches: spy, agency
+
+Source Sentence and Best Story Sentence Match:
+Von Notz added that he found it "hard to imagine" that the chancellor's office was unaware of the spy agencies' cooperation.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+2 matches: spy, agency
+
+----------------
+
+sent_15:
+15 out of 20 sentences
+9 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Chancellery is responsible for overseeing the work of German intelligence agencies.
+2 default entities: ORGANIZATION Chancellery, GPE German
+2 custom entities: ORGANIZATION Chancellery, GPE German
+
+Source Sentence and Source Headline Match:
+The Chancellery is responsible for overseeing the work of German intelligence agencies.
+BND helped NSA spy on German, European interests.
+1 matches: german
+
+Source Sentence and Story Headline Match:
+The Chancellery is responsible for overseeing the work of German intelligence agencies.
+German intelligence agency helped NSA spy in Europe.
+3 matches: agency, intelligence, german
+
+Source Sentence and Best Story Sentence Match:
+The Chancellery is responsible for overseeing the work of German intelligence agencies.
+German officials in Oct. 2014 refused to relinquish intelligence documents that would illuminate the nature of government spy agencies' relationships with the U.S, the AP reported.
+3 matches: agency, intelligence, german
+
+----------------
+
+sent_16:
+16 out of 20 sentences
+10 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Spiegel Online, however, reported that rather than inform the chancellor's office of the cooperation, a mid-level manager at the BND requested the NSA cease to make such requests.
+4 default entities: PERSON Spiegel, ORGANIZATION Online, ORGANIZATION BND, ORGANIZATION NSA
+4 custom entities: PERSON Spiegel, PERSON Online, ORGANIZATION BND, ORGANIZATION NSA
+
+Source Sentence and Source Headline Match:
+Spiegel Online, however, reported that rather than inform the chancellor's office of the cooperation, a mid-level manager at the BND requested the NSA cease to make such requests.
+BND helped NSA spy on German, European interests.
+2 matches: bnd, nsa
+
+Source Sentence and Story Headline Match:
+Spiegel Online, however, reported that rather than inform the chancellor's office of the cooperation, a mid-level manager at the BND requested the NSA cease to make such requests.
+German intelligence agency helped NSA spy in Europe.
+1 matches: nsa
+
+Source Sentence and Best Story Sentence Match:
+Spiegel Online, however, reported that rather than inform the chancellor's office of the cooperation, a mid-level manager at the BND requested the NSA cease to make such requests.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+4 matches: report, bnd, spiegel, nsa
+
+----------------
+
+sent_17:
+17 out of 20 sentences
+11 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+This is not the first case of the NSA and BND having worked together.
+2 default entities: ORGANIZATION NSA, ORGANIZATION BND
+2 custom entities: ORGANIZATION NSA, ORGANIZATION BND
+
+Source Sentence and Source Headline Match:
+This is not the first case of the NSA and BND having worked together.
+BND helped NSA spy on German, European interests.
+2 matches: bnd, nsa
+
+Source Sentence and Story Headline Match:
+This is not the first case of the NSA and BND having worked together.
+German intelligence agency helped NSA spy in Europe.
+1 matches: nsa
+
+Source Sentence and Best Story Sentence Match:
+This is not the first case of the NSA and BND having worked together.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+2 matches: bnd, nsa
+
+----------------
+
+sent_18:
+18 out of 20 sentences
+11 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In March of 2014, the Süddeutsche Zeitung newspaper reported that the BND supplied the NSA with German citizens' communication data from 2004 to 2008.
+4 default entities: ORGANIZATION Süddeutsche Zeitung, ORGANIZATION BND, ORGANIZATION NSA, GPE German
+4 custom entities: ORGANIZATION Süddeutsche Zeitung, ORGANIZATION BND, ORGANIZATION NSA, GPE German
+
+Source Sentence and Source Headline Match:
+In March of 2014, the Süddeutsche Zeitung newspaper reported that the BND supplied the NSA with German citizens' communication data from 2004 to 2008.
+BND helped NSA spy on German, European interests.
+3 matches: bnd, nsa, german
+
+Source Sentence and Story Headline Match:
+In March of 2014, the Süddeutsche Zeitung newspaper reported that the BND supplied the NSA with German citizens' communication data from 2004 to 2008.
+German intelligence agency helped NSA spy in Europe.
+2 matches: nsa, german
+
+Source Sentence and Best Story Sentence Match:
+In March of 2014, the Süddeutsche Zeitung newspaper reported that the BND supplied the NSA with German citizens' communication data from 2004 to 2008.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+3 matches: report, bnd, nsa
+
+----------------
+
+sent_19:
+19 out of 20 sentences
+11 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The operation was called the Eikonal project.
+1 default entities: ORGANIZATION Eikonal
+1 custom entities: ORGANIZATION Eikonal
+
+Source Sentence and Source Headline Match:
+The operation was called the Eikonal project.
+BND helped NSA spy on German, European interests.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The operation was called the Eikonal project.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The operation was called the Eikonal project.
+The NSA did not listen to conversations, but got device serial numbers, phone numbers, locations and call durations.
+1 matches: call
+
+----------------
+
+sent_20:
+20 out of 20 sentences
+12 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The report brings to light a growing trend of mass data collection by intelligence services, which was first revealed when former NSA contractor Edward Snowden leaked information regarding the US agency's practices.
+3 default entities: ORGANIZATION NSA, PERSON Edward Snowden, GSP US
+3 custom entities: ORGANIZATION NSA, PERSON Edward Snowden, ORGANIZATION US
+
+Source Sentence and Source Headline Match:
+The report brings to light a growing trend of mass data collection by intelligence services, which was first revealed when former NSA contractor Edward Snowden leaked information regarding the US agency's practices.
+BND helped NSA spy on German, European interests.
+1 matches: nsa
+
+Source Sentence and Story Headline Match:
+The report brings to light a growing trend of mass data collection by intelligence services, which was first revealed when former NSA contractor Edward Snowden leaked information regarding the US agency's practices.
+German intelligence agency helped NSA spy in Europe.
+2 matches: intelligence, nsa
+
+Source Sentence and Best Story Sentence Match:
+The report brings to light a growing trend of mass data collection by intelligence services, which was first revealed when former NSA contractor Edward Snowden leaked information regarding the US agency's practices.
+French paper Le Monde reported in Oct. 2013 that documents leaked by Edward Snowden show that from Dec. 10, 2012, to Jan. 7, 2013, the NSA intercepted and collected 70.3 million phone records of French citizens, or about 3 million per day.
+5 matches: leak, report, snowden, edward, nsa
+
+----------------
+

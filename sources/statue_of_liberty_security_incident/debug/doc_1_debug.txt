@@ -1,0 +1,987 @@
+sent_1:
+1 out of 36 sentences
+1 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Authorities say a thorough sweep at the Statue of Liberty after a bomb threat has turned up no explosives.
+1 default entities: GPE Liberty
+1 custom entities: GPE Liberty
+
+Source Sentence and Source Headline Match:
+Authorities say a thorough sweep at the Statue of Liberty after a bomb threat has turned up no explosives.
+Thorough sweep of Statue of Liberty turns up no explosives.
+6 matches: turn, statue, liberty, explosive, thorough, sweep
+
+Source Sentence and Story Headline Match:
+Authorities say a thorough sweep at the Statue of Liberty after a bomb threat has turned up no explosives.
+Statue of Liberty given all clear after reports of a suspicious package.
+2 matches: liberty, statue
+
+Source Sentence and Best Story Sentence Match:
+Authorities say a thorough sweep at the Statue of Liberty after a bomb threat has turned up no explosives.
+bomb squad was at the Statue of Liberty investigating reports of a suspicious package.
+3 matches: liberty, statue, bomb
+
+----------------
+
+sent_2:
+2 out of 36 sentences
+2 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The landmark was evacuated Friday as a precaution after a 911 caller made the threat and a canine unit sniffed out a potential problem.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The landmark was evacuated Friday as a precaution after a 911 caller made the threat and a canine unit sniffed out a potential problem.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The landmark was evacuated Friday as a precaution after a 911 caller made the threat and a canine unit sniffed out a potential problem.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The landmark was evacuated Friday as a precaution after a 911 caller made the threat and a canine unit sniffed out a potential problem.
+Visitors were evacuated off Liberty Island.
+1 matches: evacuate
+
+----------------
+
+sent_3:
+3 out of 36 sentences
+2 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But authorities say a more thorough sweep came up empty.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+But authorities say a more thorough sweep came up empty.
+Thorough sweep of Statue of Liberty turns up no explosives.
+2 matches: sweep, thorough
+
+Source Sentence and Story Headline Match:
+But authorities say a more thorough sweep came up empty.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+But authorities say a more thorough sweep came up empty.
+The National Park Service said April 24 that all visitors and personnel on Liberty Island were safe.
+1 matches: say
+
+----------------
+
+sent_4:
+4 out of 36 sentences
+3 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+The Park Service said in a statement that the threat was from a person who said "they were going to blow up the Statue of Liberty."
+2 default entities: ORGANIZATION Park Service, GPE Liberty
+2 custom entities: ORGANIZATION Park Service, GPE Liberty
+
+Source Sentence and Source Headline Match:
+The Park Service said in a statement that the threat was from a person who said "they were going to blow up the Statue of Liberty."
+Thorough sweep of Statue of Liberty turns up no explosives.
+2 matches: liberty, statue
+
+Source Sentence and Story Headline Match:
+The Park Service said in a statement that the threat was from a person who said "they were going to blow up the Statue of Liberty."
+Statue of Liberty given all clear after reports of a suspicious package.
+2 matches: liberty, statue
+
+Source Sentence and Best Story Sentence Match:
+The Park Service said in a statement that the threat was from a person who said "they were going to blow up the Statue of Liberty."
+The Service said in a statement that someone placed a 911 call around 11am saying they were going to "blow up" the Statue of Liberty.
+7 matches: statue, liberty, blow, say, go, service, statement
+
+----------------
+
+sent_5:
+5 out of 36 sentences
+4 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Hundreds of visitors were evacuated by boat.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Hundreds of visitors were evacuated by boat.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Hundreds of visitors were evacuated by boat.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Hundreds of visitors were evacuated by boat.
+Visitors were evacuated off Liberty Island.
+2 matches: visitor, evacuate
+
+----------------
+
+sent_6:
+6 out of 36 sentences
+4 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+No one was harmed.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+No one was harmed.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+No one was harmed.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_7:
+7 out of 36 sentences
+5 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+THIS IS A BREAKING NEWS UPDATE.
+1 default entities: ORGANIZATION BREAKING
+1 custom entities: ORGANIZATION BREAKING
+
+Source Sentence and Source Headline Match:
+THIS IS A BREAKING NEWS UPDATE.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+THIS IS A BREAKING NEWS UPDATE.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_8:
+8 out of 36 sentences
+5 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Check back soon for further information.
+1 default entities: PERSON Check
+1 custom entities: PERSON Check
+
+Source Sentence and Source Headline Match:
+Check back soon for further information.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Check back soon for further information.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_9:
+9 out of 36 sentences
+5 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+AP's earlier story is below.
+1 default entities: ORGANIZATION AP
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+AP's earlier story is below.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+AP's earlier story is below.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_10:
+10 out of 36 sentences
+6 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Statue of Liberty was evacuated as a precaution on Friday after a bomb threat, forcing hundreds of tourists to be herded off the island.
+1 default entities: PERSON Liberty
+1 custom entities: PERSON Liberty
+
+Source Sentence and Source Headline Match:
+The Statue of Liberty was evacuated as a precaution on Friday after a bomb threat, forcing hundreds of tourists to be herded off the island.
+Thorough sweep of Statue of Liberty turns up no explosives.
+2 matches: liberty, statue
+
+Source Sentence and Story Headline Match:
+The Statue of Liberty was evacuated as a precaution on Friday after a bomb threat, forcing hundreds of tourists to be herded off the island.
+Statue of Liberty given all clear after reports of a suspicious package.
+2 matches: liberty, statue
+
+Source Sentence and Best Story Sentence Match:
+The Statue of Liberty was evacuated as a precaution on Friday after a bomb threat, forcing hundreds of tourists to be herded off the island.
+bomb squad was at the Statue of Liberty investigating reports of a suspicious package.
+3 matches: liberty, statue, bomb
+
+----------------
+
+sent_11:
+11 out of 36 sentences
+7 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+A 911 caller made the threat late Friday morning, "stating they were going to blow up the Statue of Liberty," the National Park Service said in a statement.
+2 default entities: GPE Liberty, ORGANIZATION National Park Service
+1 custom entities: ORGANIZATION National Park Service
+
+Source Sentence and Source Headline Match:
+A 911 caller made the threat late Friday morning, "stating they were going to blow up the Statue of Liberty," the National Park Service said in a statement.
+Thorough sweep of Statue of Liberty turns up no explosives.
+2 matches: liberty, statue
+
+Source Sentence and Story Headline Match:
+A 911 caller made the threat late Friday morning, "stating they were going to blow up the Statue of Liberty," the National Park Service said in a statement.
+Statue of Liberty given all clear after reports of a suspicious package.
+2 matches: liberty, statue
+
+Source Sentence and Best Story Sentence Match:
+A 911 caller made the threat late Friday morning, "stating they were going to blow up the Statue of Liberty," the National Park Service said in a statement.
+The Service said in a statement that someone placed a 911 call around 11am saying they were going to "blow up" the Statue of Liberty.
+8 matches: statue, liberty, blow, say, go, service, 911, statement
+
+----------------
+
+sent_12:
+12 out of 36 sentences
+8 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+Federal police, including two canine units, investigated and the dogs found "an area of interest" in a locker area at the statue's base, the agency said.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Federal police, including two canine units, investigated and the dogs found "an area of interest" in a locker area at the statue's base, the agency said.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Federal police, including two canine units, investigated and the dogs found "an area of interest" in a locker area at the statue's base, the agency said.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Federal police, including two canine units, investigated and the dogs found "an area of interest" in a locker area at the statue's base, the agency said.
+The New York City Police Dept.
+1 matches: police
+
+----------------
+
+sent_13:
+13 out of 36 sentences
+8 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Law enforcement then decided to evacuate the island.
+1 default entities: PERSON Law
+1 custom entities: PERSON Law
+
+Source Sentence and Source Headline Match:
+Law enforcement then decided to evacuate the island.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Law enforcement then decided to evacuate the island.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Law enforcement then decided to evacuate the island.
+Visitors were evacuated off Liberty Island.
+2 matches: evacuate, island
+
+----------------
+
+sent_14:
+14 out of 36 sentences
+9 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Nothing harmful was found in the lockers, according to New York Police Department spokesman Steve David, but the bomb squad continued sweeping the area Friday afternoon as a precaution.
+2 default entities: GPE New York, PERSON Steve David
+2 custom entities: GPE New York, PERSON Steve David
+
+Source Sentence and Source Headline Match:
+Nothing harmful was found in the lockers, according to New York Police Department spokesman Steve David, but the bomb squad continued sweeping the area Friday afternoon as a precaution.
+Thorough sweep of Statue of Liberty turns up no explosives.
+1 matches: sweep
+
+Source Sentence and Story Headline Match:
+Nothing harmful was found in the lockers, according to New York Police Department spokesman Steve David, but the bomb squad continued sweeping the area Friday afternoon as a precaution.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Nothing harmful was found in the lockers, according to New York Police Department spokesman Steve David, but the bomb squad continued sweeping the area Friday afternoon as a precaution.
+The New York City Police Dept.
+3 matches: police, new, york
+
+----------------
+
+sent_15:
+15 out of 36 sentences
+10 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+John Blount, of Allentown, Pennsylvania, was in the statue's crown, chatting with a park ranger.
+3 default entities: PERSON John Blount, GPE Allentown, GPE Pennsylvania
+2 custom entities: PERSON John Blount, PERSON Allentown Pennsylvania
+
+Source Sentence and Source Headline Match:
+John Blount, of Allentown, Pennsylvania, was in the statue's crown, chatting with a park ranger.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+John Blount, of Allentown, Pennsylvania, was in the statue's crown, chatting with a park ranger.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+John Blount, of Allentown, Pennsylvania, was in the statue's crown, chatting with a park ranger.
+The National Park Service said April 24 that all visitors and personnel on Liberty Island were safe.
+1 matches: park
+
+----------------
+
+sent_16:
+16 out of 36 sentences
+11 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+"All of a sudden he got a call on his phone," Blount said.
+1 default entities: PERSON Blount
+1 custom entities: PERSON Blount
+
+Source Sentence and Source Headline Match:
+"All of a sudden he got a call on his phone," Blount said.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"All of a sudden he got a call on his phone," Blount said.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"All of a sudden he got a call on his phone," Blount said.
+The Service said in a statement that someone placed a 911 call around 11am saying they were going to "blow up" the Statue of Liberty.
+2 matches: say, call
+
+----------------
+
+sent_17:
+17 out of 36 sentences
+11 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+"He said 'OK', looked up and said, 'It's time to leave.'
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"He said 'OK', looked up and said, 'It's time to leave.'
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"He said 'OK', looked up and said, 'It's time to leave.'
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"He said 'OK', looked up and said, 'It's time to leave.'
+The National Park Service said April 24 that all visitors and personnel on Liberty Island were safe.
+1 matches: say
+
+----------------
+
+sent_18:
+18 out of 36 sentences
+11 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+We had just made it up there."
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+We had just made it up there."
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+We had just made it up there."
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_19:
+19 out of 36 sentences
+12 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He said it was a very calm evacuation down.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+He said it was a very calm evacuation down.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+He said it was a very calm evacuation down.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+He said it was a very calm evacuation down.
+Officials gave an all clear about 4 hours after evacuations began.
+1 matches: evacuation
+
+----------------
+
+sent_20:
+20 out of 36 sentences
+12 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+They got on a boat, and "we were just floating around out there for the past hour and a half."
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+They got on a boat, and "we were just floating around out there for the past hour and a half."
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+They got on a boat, and "we were just floating around out there for the past hour and a half."
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+They got on a boat, and "we were just floating around out there for the past hour and a half."
+Officials gave an all clear about 4 hours after evacuations began.
+1 matches: hour
+
+----------------
+
+sent_21:
+21 out of 36 sentences
+13 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+His wife's purse was in a locker; they had to leave without reclaiming their property.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+His wife's purse was in a locker; they had to leave without reclaiming their property.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+His wife's purse was in a locker; they had to leave without reclaiming their property.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_22:
+22 out of 36 sentences
+14 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Statue Cruises, which operates the ferries that carry tourists to the Statue of Liberty National Monument and Ellis Island, said officials found a suspicious package at Liberty Island.
+5 default entities: PERSON Statue, ORGANIZATION Cruises, ORGANIZATION Liberty National Monument, PERSON Ellis Island, ORGANIZATION Liberty Island
+5 custom entities: PERSON Statue, ORGANIZATION Cruises, ORGANIZATION Liberty National Monument, PERSON Ellis Island, ORGANIZATION Liberty Island
+
+Source Sentence and Source Headline Match:
+Statue Cruises, which operates the ferries that carry tourists to the Statue of Liberty National Monument and Ellis Island, said officials found a suspicious package at Liberty Island.
+Thorough sweep of Statue of Liberty turns up no explosives.
+2 matches: liberty, statue
+
+Source Sentence and Story Headline Match:
+Statue Cruises, which operates the ferries that carry tourists to the Statue of Liberty National Monument and Ellis Island, said officials found a suspicious package at Liberty Island.
+Statue of Liberty given all clear after reports of a suspicious package.
+4 matches: liberty, statue, package, suspicious
+
+Source Sentence and Best Story Sentence Match:
+Statue Cruises, which operates the ferries that carry tourists to the Statue of Liberty National Monument and Ellis Island, said officials found a suspicious package at Liberty Island.
+bomb squad was at the Statue of Liberty investigating reports of a suspicious package.
+4 matches: liberty, statue, package, suspicious
+
+----------------
+
+sent_23:
+23 out of 36 sentences
+14 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The company was postponing all service to the island until the investigation was completed, said Mike Burke, its chief operating officer and vice president.
+1 default entities: PERSON Mike Burke
+1 custom entities: PERSON Mike Burke
+
+Source Sentence and Source Headline Match:
+The company was postponing all service to the island until the investigation was completed, said Mike Burke, its chief operating officer and vice president.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The company was postponing all service to the island until the investigation was completed, said Mike Burke, its chief operating officer and vice president.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The company was postponing all service to the island until the investigation was completed, said Mike Burke, its chief operating officer and vice president.
+The National Park Service said April 24 that all visitors and personnel on Liberty Island were safe.
+3 matches: service, island, say
+
+----------------
+
+sent_24:
+24 out of 36 sentences
+15 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Eric Gustafson, of Worchester, Massachusetts, was on Liberty Island with his wife and son.
+4 default entities: PERSON Eric Gustafson, ORGANIZATION Worchester, GPE Massachusetts, ORGANIZATION Liberty Island
+3 custom entities: PERSON Eric Gustafson, ORGANIZATION Worchester Massachusetts, ORGANIZATION Liberty Island
+
+Source Sentence and Source Headline Match:
+Eric Gustafson, of Worchester, Massachusetts, was on Liberty Island with his wife and son.
+Thorough sweep of Statue of Liberty turns up no explosives.
+1 matches: liberty
+
+Source Sentence and Story Headline Match:
+Eric Gustafson, of Worchester, Massachusetts, was on Liberty Island with his wife and son.
+Statue of Liberty given all clear after reports of a suspicious package.
+1 matches: liberty
+
+Source Sentence and Best Story Sentence Match:
+Eric Gustafson, of Worchester, Massachusetts, was on Liberty Island with his wife and son.
+Visitors were evacuated off Liberty Island.
+2 matches: liberty, island
+
+----------------
+
+sent_25:
+25 out of 36 sentences
+15 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+They were about to enter the building for the tour when park rangers ushered "everyone to the flagpole" and then told them they had to leave.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+They were about to enter the building for the tour when park rangers ushered "everyone to the flagpole" and then told them they had to leave.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+They were about to enter the building for the tour when park rangers ushered "everyone to the flagpole" and then told them they had to leave.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+They were about to enter the building for the tour when park rangers ushered "everyone to the flagpole" and then told them they had to leave.
+The National Park Service said April 24 that all visitors and personnel on Liberty Island were safe.
+1 matches: park
+
+----------------
+
+sent_26:
+26 out of 36 sentences
+16 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+"They didn't give us a reason for it.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"They didn't give us a reason for it.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"They didn't give us a reason for it.
+Statue of Liberty given all clear after reports of a suspicious package.
+1 matches: give
+
+Source Sentence and Best Story Sentence Match:
+"They didn't give us a reason for it.
+Officials gave an all clear about 4 hours after evacuations began.
+1 matches: give
+
+----------------
+
+sent_27:
+27 out of 36 sentences
+16 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+The communication was lacking," he said.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The communication was lacking," he said.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The communication was lacking," he said.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The communication was lacking," he said.
+The National Park Service said April 24 that all visitors and personnel on Liberty Island were safe.
+1 matches: say
+
+----------------
+
+sent_28:
+28 out of 36 sentences
+16 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+About 90 minutes later, they were back in Manhattan.
+1 default entities: GPE Manhattan
+1 custom entities: GPE Manhattan
+
+Source Sentence and Source Headline Match:
+About 90 minutes later, they were back in Manhattan.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+About 90 minutes later, they were back in Manhattan.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_29:
+29 out of 36 sentences
+17 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+They later saw Twitter accounts about a suspicious package.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+They later saw Twitter accounts about a suspicious package.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+They later saw Twitter accounts about a suspicious package.
+Statue of Liberty given all clear after reports of a suspicious package.
+2 matches: package, suspicious
+
+Source Sentence and Best Story Sentence Match:
+They later saw Twitter accounts about a suspicious package.
+bomb squad was at the Statue of Liberty investigating reports of a suspicious package.
+2 matches: package, suspicious
+
+----------------
+
+sent_30:
+30 out of 36 sentences
+18 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+"We weren't nervous.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"We weren't nervous.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"We weren't nervous.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_31:
+31 out of 36 sentences
+18 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+It was mostly just frustrating," he said, adding that the evacuation was very orderly.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It was mostly just frustrating," he said, adding that the evacuation was very orderly.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It was mostly just frustrating," he said, adding that the evacuation was very orderly.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+It was mostly just frustrating," he said, adding that the evacuation was very orderly.
+Officials gave an all clear about 4 hours after evacuations began.
+1 matches: evacuation
+
+----------------
+
+sent_32:
+32 out of 36 sentences
+19 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+Other tourists said they were taken off boats while trying to leave nearby Ellis Island, then those vessels then were used to evacuate Liberty Island.
+2 default entities: PERSON Ellis Island, PERSON Liberty Island
+2 custom entities: PERSON Ellis Island, PERSON Liberty Island
+
+Source Sentence and Source Headline Match:
+Other tourists said they were taken off boats while trying to leave nearby Ellis Island, then those vessels then were used to evacuate Liberty Island.
+Thorough sweep of Statue of Liberty turns up no explosives.
+1 matches: liberty
+
+Source Sentence and Story Headline Match:
+Other tourists said they were taken off boats while trying to leave nearby Ellis Island, then those vessels then were used to evacuate Liberty Island.
+Statue of Liberty given all clear after reports of a suspicious package.
+1 matches: liberty
+
+Source Sentence and Best Story Sentence Match:
+Other tourists said they were taken off boats while trying to leave nearby Ellis Island, then those vessels then were used to evacuate Liberty Island.
+Visitors were evacuated off Liberty Island.
+3 matches: liberty, evacuate, island
+
+----------------
+
+sent_33:
+33 out of 36 sentences
+20 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+Karen Mason, 68, of Cincinnati, Ohio, said they had just boarded a boat at Ellis Island at 12:40 p.m. "All of a sudden, they said 'Disembark, disembark, disembark.
+5 default entities: PERSON Karen, GPE Mason, GPE Cincinnati, GPE Ohio, FACILITY Ellis Island
+4 custom entities: PERSON Karen, ORGANIZATION Cincinnati Ohio, FACILITY Ellis Island, PERSON Disembark
+
+Source Sentence and Source Headline Match:
+Karen Mason, 68, of Cincinnati, Ohio, said they had just boarded a boat at Ellis Island at 12:40 p.m. "All of a sudden, they said 'Disembark, disembark, disembark.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Karen Mason, 68, of Cincinnati, Ohio, said they had just boarded a boat at Ellis Island at 12:40 p.m. "All of a sudden, they said 'Disembark, disembark, disembark.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Karen Mason, 68, of Cincinnati, Ohio, said they had just boarded a boat at Ellis Island at 12:40 p.m. "All of a sudden, they said 'Disembark, disembark, disembark.
+The National Park Service said April 24 that all visitors and personnel on Liberty Island were safe.
+2 matches: island, say
+
+----------------
+
+sent_34:
+34 out of 36 sentences
+20 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+We have to evacuate the boat.'"
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+We have to evacuate the boat.'"
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+We have to evacuate the boat.'"
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+We have to evacuate the boat.'"
+Visitors were evacuated off Liberty Island.
+1 matches: evacuate
+
+----------------
+
+sent_35:
+35 out of 36 sentences
+21 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+She said she didn't feel like she was in any danger.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+She said she didn't feel like she was in any danger.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+She said she didn't feel like she was in any danger.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+She said she didn't feel like she was in any danger.
+The National Park Service said April 24 that all visitors and personnel on Liberty Island were safe.
+1 matches: say
+
+----------------
+
+sent_36:
+36 out of 36 sentences
+21 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+"But we saw helicopters and we knew something was going on," she said.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"But we saw helicopters and we knew something was going on," she said.
+Thorough sweep of Statue of Liberty turns up no explosives.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"But we saw helicopters and we knew something was going on," she said.
+Statue of Liberty given all clear after reports of a suspicious package.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"But we saw helicopters and we knew something was going on," she said.
+The Service said in a statement that someone placed a 911 call around 11am saying they were going to "blow up" the Statue of Liberty.
+2 matches: go, say
+
+----------------
+

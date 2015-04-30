@@ -1,0 +1,848 @@
+sent_1:
+1 out of 31 sentences
+1 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Just in time for Halloween, we have two new treats for Android fans.
+2 default entities: PERSON Halloween, ORGANIZATION Android
+1 custom entities: ORGANIZATION Android
+
+Source Sentence and Source Headline Match:
+Just in time for Halloween, we have two new treats for Android fans.
+Android for all and the new Nexus 5.
+2 matches: android, new
+
+Source Sentence and Story Headline Match:
+Just in time for Halloween, we have two new treats for Android fans.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Just in time for Halloween, we have two new treats for Android fans.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+1 matches: android
+
+----------------
+
+sent_2:
+2 out of 31 sentences
+1 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+First, we're excited to unwrap our latest platform release, KitKat, which delivers a smarter, more immersive Android experience to even more people.
+2 default entities: GPE First, ORGANIZATION KitKat
+1 custom entities: ORGANIZATION KitKat
+
+Source Sentence and Source Headline Match:
+First, we're excited to unwrap our latest platform release, KitKat, which delivers a smarter, more immersive Android experience to even more people.
+Android for all and the new Nexus 5.
+1 matches: android
+
+Source Sentence and Story Headline Match:
+First, we're excited to unwrap our latest platform release, KitKat, which delivers a smarter, more immersive Android experience to even more people.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+First, we're excited to unwrap our latest platform release, KitKat, which delivers a smarter, more immersive Android experience to even more people.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+3 matches: android, release, late
+
+----------------
+
+sent_3:
+3 out of 31 sentences
+1 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+And second, we're introducing Nexus 5—a new Nexus phone developed with LG.
+1 default entities: ORGANIZATION LG
+1 custom entities: ORGANIZATION LG
+
+Source Sentence and Source Headline Match:
+And second, we're introducing Nexus 5—a new Nexus phone developed with LG.
+Android for all and the new Nexus 5.
+2 matches: new, nexus
+
+Source Sentence and Story Headline Match:
+And second, we're introducing Nexus 5—a new Nexus phone developed with LG.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+And second, we're introducing Nexus 5—a new Nexus phone developed with LG.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 matches: nexus
+
+----------------
+
+sent_4:
+4 out of 31 sentences
+2 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The first thing you’ll notice about KitKat is we’ve made the experience much more engaging: the book you're reading, the game you're playing, or the movie you're watching—now all of these take center stage with the new immersive mode, which automatically hides everything except what you really want to see.
+1 default entities: ORGANIZATION KitKat
+1 custom entities: ORGANIZATION KitKat
+
+Source Sentence and Source Headline Match:
+The first thing you’ll notice about KitKat is we’ve made the experience much more engaging: the book you're reading, the game you're playing, or the movie you're watching—now all of these take center stage with the new immersive mode, which automatically hides everything except what you really want to see.
+Android for all and the new Nexus 5.
+1 matches: new
+
+Source Sentence and Story Headline Match:
+The first thing you’ll notice about KitKat is we’ve made the experience much more engaging: the book you're reading, the game you're playing, or the movie you're watching—now all of these take center stage with the new immersive mode, which automatically hides everything except what you really want to see.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The first thing you’ll notice about KitKat is we’ve made the experience much more engaging: the book you're reading, the game you're playing, or the movie you're watching—now all of these take center stage with the new immersive mode, which automatically hides everything except what you really want to see.
+Its removal was first reported on April 24.
+1 matches: first
+
+----------------
+
+sent_5:
+5 out of 31 sentences
+3 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Behind the polish on the screen is the power under the hood.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Behind the polish on the screen is the power under the hood.
+Android for all and the new Nexus 5.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Behind the polish on the screen is the power under the hood.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Behind the polish on the screen is the power under the hood.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 matches: screen
+
+----------------
+
+sent_6:
+6 out of 31 sentences
+3 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Take the Phone app, which for most people hasn’t really changed since the days of flip phones.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Take the Phone app, which for most people hasn’t really changed since the days of flip phones.
+Android for all and the new Nexus 5.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Take the Phone app, which for most people hasn’t really changed since the days of flip phones.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_7:
+7 out of 31 sentences
+3 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Now, we’re making calling easier than ever, by helping you search across your contacts, nearby places, or even Google Apps accounts (like your company’s directory), directly from within the app.
+1 default entities: PERSON Google Apps
+1 custom entities: PERSON Google Apps
+
+Source Sentence and Source Headline Match:
+Now, we’re making calling easier than ever, by helping you search across your contacts, nearby places, or even Google Apps accounts (like your company’s directory), directly from within the app.
+Android for all and the new Nexus 5.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Now, we’re making calling easier than ever, by helping you search across your contacts, nearby places, or even Google Apps accounts (like your company’s directory), directly from within the app.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: google
+
+Source Sentence and Best Story Sentence Match:
+Now, we’re making calling easier than ever, by helping you search across your contacts, nearby places, or even Google Apps accounts (like your company’s directory), directly from within the app.
+Rather than creating software in the abstract, we work with hardware partners to build Nexus devices to help push the boundaries of what's possible."
+1 matches: help
+
+----------------
+
+sent_8:
+8 out of 31 sentences
+3 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+And with the new Hangouts app, all of your SMS and MMS messages are together in the same place, alongside your other conversations and video calls, so you’ll never miss a message no matter how your friends send it.
+2 default entities: ORGANIZATION SMS, ORGANIZATION MMS
+2 custom entities: ORGANIZATION SMS, ORGANIZATION MMS
+
+Source Sentence and Source Headline Match:
+And with the new Hangouts app, all of your SMS and MMS messages are together in the same place, alongside your other conversations and video calls, so you’ll never miss a message no matter how your friends send it.
+Android for all and the new Nexus 5.
+1 matches: new
+
+Source Sentence and Story Headline Match:
+And with the new Hangouts app, all of your SMS and MMS messages are together in the same place, alongside your other conversations and video calls, so you’ll never miss a message no matter how your friends send it.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+And with the new Hangouts app, all of your SMS and MMS messages are together in the same place, alongside your other conversations and video calls, so you’ll never miss a message no matter how your friends send it.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 matches: call
+
+----------------
+
+sent_9:
+9 out of 31 sentences
+3 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+This is just a small taste of KitKat—learn more on our site.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+This is just a small taste of KitKat—learn more on our site.
+Android for all and the new Nexus 5.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+This is just a small taste of KitKat—learn more on our site.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+This is just a small taste of KitKat—learn more on our site.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 matches: small
+
+----------------
+
+sent_10:
+10 out of 31 sentences
+4 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Google has always focused on helping users get immediate access to the information they need, and we want to bring this same convenience and power to users on Android.
+2 default entities: GPE Google, PERSON Android
+2 custom entities: GPE Google, PERSON Android
+
+Source Sentence and Source Headline Match:
+Google has always focused on helping users get immediate access to the information they need, and we want to bring this same convenience and power to users on Android.
+Android for all and the new Nexus 5.
+1 matches: android
+
+Source Sentence and Story Headline Match:
+Google has always focused on helping users get immediate access to the information they need, and we want to bring this same convenience and power to users on Android.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: google
+
+Source Sentence and Best Story Sentence Match:
+Google has always focused on helping users get immediate access to the information they need, and we want to bring this same convenience and power to users on Android.
+Google said it stopped selling the Nexus 5 to focus on the Nexus 6.
+2 matches: google, focus
+
+----------------
+
+sent_11:
+11 out of 31 sentences
+4 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+With the new Nexus 5 launcher, Google smarts are deeply integrated into the phone you carry around with you, so getting to the information you need is simple, easy and fast.
+1 default entities: GPE Google
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+With the new Nexus 5 launcher, Google smarts are deeply integrated into the phone you carry around with you, so getting to the information you need is simple, easy and fast.
+Android for all and the new Nexus 5.
+3 matches: new, nexus, 5
+
+Source Sentence and Story Headline Match:
+With the new Nexus 5 launcher, Google smarts are deeply integrated into the phone you carry around with you, so getting to the information you need is simple, easy and fast.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: google, nexus
+
+Source Sentence and Best Story Sentence Match:
+With the new Nexus 5 launcher, Google smarts are deeply integrated into the phone you carry around with you, so getting to the information you need is simple, easy and fast.
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+3 matches: google, nexus, 5
+
+----------------
+
+sent_12:
+12 out of 31 sentences
+4 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Swipe once from the home screen to get Google Now literally at your fingertips.
+2 default entities: GPE Swipe, PERSON Google Now
+2 custom entities: GPE Swipe, PERSON Google Now
+
+Source Sentence and Source Headline Match:
+Swipe once from the home screen to get Google Now literally at your fingertips.
+Android for all and the new Nexus 5.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Swipe once from the home screen to get Google Now literally at your fingertips.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: google
+
+Source Sentence and Best Story Sentence Match:
+Swipe once from the home screen to get Google Now literally at your fingertips.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 matches: screen
+
+----------------
+
+sent_13:
+13 out of 31 sentences
+4 out of 9 paragraphs
+Tagged as a quote
+
+Sentence:
+Put Google to work for you by saying “OK, Google” to launch voice search, send a text, get directions or even play a song you want to hear.
+1 default entities: PERSON Google
+2 custom entities: PERSON Google, ORGANIZATION OK Google
+
+Source Sentence and Source Headline Match:
+Put Google to work for you by saying “OK, Google” to launch voice search, send a text, get directions or even play a song you want to hear.
+Android for all and the new Nexus 5.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Put Google to work for you by saying “OK, Google” to launch voice search, send a text, get directions or even play a song you want to hear.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: google
+
+Source Sentence and Best Story Sentence Match:
+Put Google to work for you by saying “OK, Google” to launch voice search, send a text, get directions or even play a song you want to hear.
+Google said it stopped selling the Nexus 5 to focus on the Nexus 6.
+2 matches: google, say
+
+----------------
+
+sent_14:
+14 out of 31 sentences
+4 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+And in the coming weeks, we’re enhancing Now with important new card types that bring you information about contextual topics that interest you such as updates from a favorite website or blog.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+And in the coming weeks, we’re enhancing Now with important new card types that bring you information about contextual topics that interest you such as updates from a favorite website or blog.
+Android for all and the new Nexus 5.
+1 matches: new
+
+Source Sentence and Story Headline Match:
+And in the coming weeks, we’re enhancing Now with important new card types that bring you information about contextual topics that interest you such as updates from a favorite website or blog.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_15:
+15 out of 31 sentences
+5 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Building a platform that makes mobile phones accessible for everyone has always been at the heart of Android.
+1 default entities: GPE Android
+1 custom entities: PERSON Android
+
+Source Sentence and Source Headline Match:
+Building a platform that makes mobile phones accessible for everyone has always been at the heart of Android.
+Android for all and the new Nexus 5.
+1 matches: android
+
+Source Sentence and Story Headline Match:
+Building a platform that makes mobile phones accessible for everyone has always been at the heart of Android.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Building a platform that makes mobile phones accessible for everyone has always been at the heart of Android.
+That's why we've always introduced Nexus devices alongside our platform releases.
+2 matches: always, platform
+
+----------------
+
+sent_16:
+16 out of 31 sentences
+5 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Until now, some lower-end Android phones couldn't benefit from more recent Android releases due to memory constraints.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Until now, some lower-end Android phones couldn't benefit from more recent Android releases due to memory constraints.
+Android for all and the new Nexus 5.
+1 matches: android
+
+Source Sentence and Story Headline Match:
+Until now, some lower-end Android phones couldn't benefit from more recent Android releases due to memory constraints.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Until now, some lower-end Android phones couldn't benefit from more recent Android releases due to memory constraints.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+2 matches: android, release
+
+----------------
+
+sent_17:
+17 out of 31 sentences
+5 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+With KitKat, we've slimmed down Android’s memory footprint by doing things like removing unnecessary background services and reducing the memory consumption of features that you use all the time.
+2 default entities: ORGANIZATION KitKat, PERSON Android
+1 custom entities: ORGANIZATION KitKat
+
+Source Sentence and Source Headline Match:
+With KitKat, we've slimmed down Android’s memory footprint by doing things like removing unnecessary background services and reducing the memory consumption of features that you use all the time.
+Android for all and the new Nexus 5.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+With KitKat, we've slimmed down Android’s memory footprint by doing things like removing unnecessary background services and reducing the memory consumption of features that you use all the time.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+With KitKat, we've slimmed down Android’s memory footprint by doing things like removing unnecessary background services and reducing the memory consumption of features that you use all the time.
+That's why we've always introduced Nexus devices alongside our platform releases.
+1 matches: we've
+
+----------------
+
+sent_18:
+18 out of 31 sentences
+5 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+We did this not only within Android but across Google services like Chrome and YouTube.
+4 default entities: PERSON Android, GPE Google, PERSON Chrome, ORGANIZATION YouTube
+4 custom entities: PERSON Android, GPE Google, PERSON Chrome, ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+We did this not only within Android but across Google services like Chrome and YouTube.
+Android for all and the new Nexus 5.
+1 matches: android
+
+Source Sentence and Story Headline Match:
+We did this not only within Android but across Google services like Chrome and YouTube.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: google
+
+Source Sentence and Best Story Sentence Match:
+We did this not only within Android but across Google services like Chrome and YouTube.
+Google in Oct. 2014 announced the Nexus 9 and Nexus 6 smartphone.
+1 matches: google
+
+----------------
+
+sent_19:
+19 out of 31 sentences
+5 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+RAM (or memory) is one of the most expensive parts of a phone, and now Android can run comfortably on the 512MB of RAM devices that are popular in much of the world, bringing the latest goodies in Android 4.4 within reach for the next billion smartphone users.
+3 default entities: GPE RAM, PERSON Android, ORGANIZATION RAM
+2 custom entities: PERSON Android, ORGANIZATION RAM
+
+Source Sentence and Source Headline Match:
+RAM (or memory) is one of the most expensive parts of a phone, and now Android can run comfortably on the 512MB of RAM devices that are popular in much of the world, bringing the latest goodies in Android 4.4 within reach for the next billion smartphone users.
+Android for all and the new Nexus 5.
+1 matches: android
+
+Source Sentence and Story Headline Match:
+RAM (or memory) is one of the most expensive parts of a phone, and now Android can run comfortably on the 512MB of RAM devices that are popular in much of the world, bringing the latest goodies in Android 4.4 within reach for the next billion smartphone users.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+RAM (or memory) is one of the most expensive parts of a phone, and now Android can run comfortably on the 512MB of RAM devices that are popular in much of the world, bringing the latest goodies in Android 4.4 within reach for the next billion smartphone users.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+3 matches: android, late, device
+
+----------------
+
+sent_20:
+20 out of 31 sentences
+6 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Along with our sweet naming tradition, we also introduce a new device with each platform release to showcase the latest Android innovations.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Along with our sweet naming tradition, we also introduce a new device with each platform release to showcase the latest Android innovations.
+Android for all and the new Nexus 5.
+2 matches: android, new
+
+Source Sentence and Story Headline Match:
+Along with our sweet naming tradition, we also introduce a new device with each platform release to showcase the latest Android innovations.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Along with our sweet naming tradition, we also introduce a new device with each platform release to showcase the latest Android innovations.
+That's why we've always introduced Nexus devices alongside our platform releases.
+4 matches: device, platform, release, introduce
+
+----------------
+
+sent_21:
+21 out of 31 sentences
+6 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+For KitKat, we partnered with LG to develop Nexus 5 -- the slimmest and fastest Nexus phone ever made.
+2 default entities: ORGANIZATION KitKat, ORGANIZATION LG
+2 custom entities: ORGANIZATION KitKat, ORGANIZATION LG
+
+Source Sentence and Source Headline Match:
+For KitKat, we partnered with LG to develop Nexus 5 -- the slimmest and fastest Nexus phone ever made.
+Android for all and the new Nexus 5.
+2 matches: nexus, 5
+
+Source Sentence and Story Headline Match:
+For KitKat, we partnered with LG to develop Nexus 5 -- the slimmest and fastest Nexus phone ever made.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+For KitKat, we partnered with LG to develop Nexus 5 -- the slimmest and fastest Nexus phone ever made.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 matches: fast, nexus
+
+----------------
+
+sent_22:
+22 out of 31 sentences
+6 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Its design is simple and refined to showcase the 5” Full HD display.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Its design is simple and refined to showcase the 5” Full HD display.
+Android for all and the new Nexus 5.
+1 matches: 5
+
+Source Sentence and Story Headline Match:
+Its design is simple and refined to showcase the 5” Full HD display.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Its design is simple and refined to showcase the 5” Full HD display.
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+1 matches: 5
+
+----------------
+
+sent_23:
+23 out of 31 sentences
+6 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Nexus 5 also keeps you connected at blazing speeds with 4G/LTE and ultra fast wifi.
+
+no default named entity found
+1 custom entities: ORGANIZATION LTE
+
+Source Sentence and Source Headline Match:
+Nexus 5 also keeps you connected at blazing speeds with 4G/LTE and ultra fast wifi.
+Android for all and the new Nexus 5.
+2 matches: nexus, 5
+
+Source Sentence and Story Headline Match:
+Nexus 5 also keeps you connected at blazing speeds with 4G/LTE and ultra fast wifi.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+Nexus 5 also keeps you connected at blazing speeds with 4G/LTE and ultra fast wifi.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 matches: fast, nexus
+
+----------------
+
+sent_24:
+24 out of 31 sentences
+6 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The advanced new lens on Nexus 5 captures more light for brighter night and sharper action shots.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The advanced new lens on Nexus 5 captures more light for brighter night and sharper action shots.
+Android for all and the new Nexus 5.
+3 matches: new, nexus, 5
+
+Source Sentence and Story Headline Match:
+The advanced new lens on Nexus 5 captures more light for brighter night and sharper action shots.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+The advanced new lens on Nexus 5 captures more light for brighter night and sharper action shots.
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+2 matches: nexus, 5
+
+----------------
+
+sent_25:
+25 out of 31 sentences
+6 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+And with optical image stabilization, you no longer have to worry about shaky hands and blurry pictures.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+And with optical image stabilization, you no longer have to worry about shaky hands and blurry pictures.
+Android for all and the new Nexus 5.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+And with optical image stabilization, you no longer have to worry about shaky hands and blurry pictures.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: longer
+
+Source Sentence and Best Story Sentence Match:
+And with optical image stabilization, you no longer have to worry about shaky hands and blurry pictures.
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+2 matches: longer, picture
+
+----------------
+
+sent_26:
+26 out of 31 sentences
+6 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A new HDR+ mode automatically snaps a rapid burst of photos and combines them to give you the best possible single shot.
+
+no default named entity found
+1 custom entities: ORGANIZATION HDR
+
+Source Sentence and Source Headline Match:
+A new HDR+ mode automatically snaps a rapid burst of photos and combines them to give you the best possible single shot.
+Android for all and the new Nexus 5.
+1 matches: new
+
+Source Sentence and Story Headline Match:
+A new HDR+ mode automatically snaps a rapid burst of photos and combines them to give you the best possible single shot.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+A new HDR+ mode automatically snaps a rapid burst of photos and combines them to give you the best possible single shot.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 matches: best
+
+----------------
+
+sent_27:
+27 out of 31 sentences
+6 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Learn more on our site.
+1 default entities: GPE Learn
+1 custom entities: GPE Learn
+
+Source Sentence and Source Headline Match:
+Learn more on our site.
+Android for all and the new Nexus 5.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Learn more on our site.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_28:
+28 out of 31 sentences
+7 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Nexus 5 is available today, unlocked and without a contract, on Google Play in the U.S., Canada, U.K., Australia, France, Germany, Spain, Italy, Japan and Korea (and coming soon to India), starting at $349.
+11 default entities: PERSON Google Play, GPE U.S., GPE Canada, GPE Australia, GPE France, GPE Germany, GPE Spain, GPE Italy, GPE Japan, GPE Korea, GPE India
+5 custom entities: PERSON Google Play, PERSON Canada, PERSON Australia France Germany Spain Italy Japan, GPE Korea, GPE India
+
+Source Sentence and Source Headline Match:
+Nexus 5 is available today, unlocked and without a contract, on Google Play in the U.S., Canada, U.K., Australia, France, Germany, Spain, Italy, Japan and Korea (and coming soon to India), starting at $349.
+Android for all and the new Nexus 5.
+2 matches: nexus, 5
+
+Source Sentence and Story Headline Match:
+Nexus 5 is available today, unlocked and without a contract, on Google Play in the U.S., Canada, U.K., Australia, France, Germany, Spain, Italy, Japan and Korea (and coming soon to India), starting at $349.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: google, nexus
+
+Source Sentence and Best Story Sentence Match:
+Nexus 5 is available today, unlocked and without a contract, on Google Play in the U.S., Canada, U.K., Australia, France, Germany, Spain, Italy, Japan and Korea (and coming soon to India), starting at $349.
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+3 matches: google, nexus, 5
+
+----------------
+
+sent_29:
+29 out of 31 sentences
+7 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Just in the time for the holidays, Nexus 5 will be available soon at the following retailers: Sprint, T-Mobile, Amazon, Best Buy and RadioShack.
+4 default entities: PERSON Sprint, GPE Amazon, PERSON Best Buy, ORGANIZATION RadioShack
+3 custom entities: PERSON Sprint, ORGANIZATION Amazon Best Buy, ORGANIZATION RadioShack
+
+Source Sentence and Source Headline Match:
+Just in the time for the holidays, Nexus 5 will be available soon at the following retailers: Sprint, T-Mobile, Amazon, Best Buy and RadioShack.
+Android for all and the new Nexus 5.
+2 matches: nexus, 5
+
+Source Sentence and Story Headline Match:
+Just in the time for the holidays, Nexus 5 will be available soon at the following retailers: Sprint, T-Mobile, Amazon, Best Buy and RadioShack.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: nexus
+
+Source Sentence and Best Story Sentence Match:
+Just in the time for the holidays, Nexus 5 will be available soon at the following retailers: Sprint, T-Mobile, Amazon, Best Buy and RadioShack.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+3 matches: available, retailer, amazon
+
+----------------
+
+sent_30:
+30 out of 31 sentences
+8 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Android 4.4, KitKat, which comes on Nexus 5, will also soon be available on Nexus 4, 7, 10, the Samsung Galaxy S4 and HTC One Google Play edition devices in the coming weeks.
+3 default entities: ORGANIZATION KitKat, ORGANIZATION Samsung Galaxy S4, ORGANIZATION HTC One Google Play
+2 custom entities: ORGANIZATION Samsung Galaxy S4, ORGANIZATION HTC One Google Play
+
+Source Sentence and Source Headline Match:
+Android 4.4, KitKat, which comes on Nexus 5, will also soon be available on Nexus 4, 7, 10, the Samsung Galaxy S4 and HTC One Google Play edition devices in the coming weeks.
+Android for all and the new Nexus 5.
+3 matches: android, nexus, 5
+
+Source Sentence and Story Headline Match:
+Android 4.4, KitKat, which comes on Nexus 5, will also soon be available on Nexus 4, 7, 10, the Samsung Galaxy S4 and HTC One Google Play edition devices in the coming weeks.
+Nexus 7 tablet no longer for sale from Google.
+3 matches: google, 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+Android 4.4, KitKat, which comes on Nexus 5, will also soon be available on Nexus 4, 7, 10, the Samsung Galaxy S4 and HTC One Google Play edition devices in the coming weeks.
+The Nexus 7 is no longer available from Google's official online store.
+3 matches: 7, available, nexus
+
+----------------
+
+sent_31:
+31 out of 31 sentences
+9 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+How’s that for a treat?
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+How’s that for a treat?
+Android for all and the new Nexus 5.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+How’s that for a treat?
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+

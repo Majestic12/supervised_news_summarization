@@ -1,0 +1,171 @@
+sent_1:
+
+Michael Clarke hit 74 in his last one-day international to lead Australia to their fifth World Cup title with a seven-wicket win over New Zealand in a disappointing final on Sunday.
+Australia won the Cricket World Cup with a victory over New Zealand.
+6 best matches: win, new, world, zealand, cup, australia
+
+----------------
+sent_2:
+
+A record crowd of 93,013 at the Melbourne Cricket Ground saw power-packed Australia bowl out the Black Caps for 183 and then gallop to victory in the 34th over.
+The Melbourne Cricket Ground had a record crowd of 93,013.
+6 best matches: melbourne, crowd, cricket, record, ground, 93,013
+
+----------------
+sent_3:
+
+Clarke, who announced his retirement from the one-day format on the eve of the final, added 112 runs for the third wicket with his likely successor Steve Smith, who returned unbeaten on 56.
+Australia beat India in the semifinals, while New Zealand beat South Africa to make its first appearance in the finals.
+1 best matches: final
+
+----------------
+sent_4:
+
+"I'm sure everybody standing on this stage will say we played this World Cup with 16 players," said Clarke in reference to close friend and former teammate Phillip Hughes who died in November last year after being hit on the head by a bouncer in a first-class match in Sydney.
+The 2015 ICC Cricket World Cup began Feb. 14 and was hosted by Australia and New Zealand.
+2 best matches: cup, world
+
+----------------
+sent_5:
+
+"This victory is dedicated to our little brother Phillip Hughes."
+Australia won the Cricket World Cup with a victory over New Zealand.
+1 best matches: victory
+
+----------------
+sent_6:
+
+The emphatic win was set up by the left-arm fast bowling trio of Mitchell Starc, James Faulkner and Mitchell Johnson who shared eight wickets after the Kiwis elected to bat on a good pitch.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+2 best matches: win, wicket
+
+----------------
+sent_7:
+
+New Zealand messed up their maiden appearance in the title clash of cricket's showpiece event, falling like nine pins against the hostile Australian bowling.
+Australia beat India in the semifinals, while New Zealand beat South Africa to make its first appearance in the finals.
+3 best matches: appearance, new, zealand
+
+----------------
+sent_8:
+
+Inspirational captain Brendon McCullum fell off the fifth ball of the innings for a duck and two other frontline batsmen, Corey Anderson and Luke Ronchi, also failed to score.
+The final score was: Afghanistan 211-9, Scotland 210 (all out).
+1 best matches: score
+
+----------------
+sent_9:
+
+South Africa-born Grant Elliott top-scored with 83, sharing a fourth-wicket stand of 111 with Ross Taylor (40) after New Zealand had been reduced to 39 for three in the 13th over.
+Australia beat India in the semifinals, while New Zealand beat South Africa to make its first appearance in the finals.
+3 best matches: south, new, zealand
+
+----------------
+sent_10:
+
+The massive crowd, which broke the MCG record of 91,112 on the opening day of the Boxing Day Test against England in 2013, saw New Zealand lose their last seven wickets for 33 runs.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+3 best matches: wicket, new, zealand
+
+----------------
+sent_11:
+
+"We played some outstanding cricket in the tournament, but we ran into an outstanding Australia team tonight who continue to set the way in world cricket.
+The 2015 ICC Cricket World Cup began Feb. 14 and was hosted by Australia and New Zealand.
+3 best matches: cricket, world, australia
+
+----------------
+sent_12:
+
+Michael Clarke deserves to bow out as world champion," said McCullum.
+The 2015 ICC Cricket World Cup began Feb. 14 and was hosted by Australia and New Zealand.
+1 best matches: world
+
+----------------
+sent_13:
+
+New Zealand crumbled after going into the final as the only unbeaten team in the 14-nation tournament, their eight wins including a one-wicket success over Australia in a low scoring pool stage thriller.
+Australia won the Cricket World Cup with a victory over New Zealand.
+4 best matches: win, australia, new, zealand
+
+----------------
+sent_14:
+
+Australia's previous titles came in 1987, 1999, 2003 and 2007 with coach Darren Lehmann, a two-time World Cup winner as a player, celebrating another success off the field.
+Australia previously won in 1987, 1999, 2003 and 2007.
+4 best matches: 2003, 2007, 1987, 1999
+
+----------------
+sent_15:
+
+New Zealand raised hopes of repeating their amazing win in the league when they removed Aaron Finch for a duck in the second over, Trent Boult taking an easy return catch as the ball lobbed off the batsman's bat and pad.
+Australia won the Cricket World Cup with a victory over New Zealand.
+3 best matches: win, new, zealand
+
+----------------
+sent_16:
+
+Left-hander David Warner slammed seven boundaries in his 45 off 46 balls, adding 61 for the second wicket with Smith.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+1 best matches: wicket
+
+----------------
+sent_17:
+
+no story sentence best matches found
+
+----------------
+sent_18:
+
+Smith, who scored a century in the semi-final against India in Sydney last Thursday, continued his good form to help Clarke take charge of the match.
+Australia beat India in the semifinals, while New Zealand beat South Africa to make its first appearance in the finals.
+1 best matches: india
+
+----------------
+sent_19:
+
+Clarke was bowled by Henry when just nine runs remained for victory and was given a standing ovation by team-mates and fans as he returned with his bat raised.
+Australia won the Cricket World Cup with a victory over New Zealand.
+1 best matches: victory
+
+----------------
+sent_20:
+
+Smith sealed victory by pulling Henry for a boundary, sparking jubilant scenes in the stands as Clarke and the rest of the team ran on to the field to embrace Smith.
+Australia won the Cricket World Cup with a victory over New Zealand.
+1 best matches: victory
+
+----------------
+sent_21:
+
+Starc's two wickets in the innings took his tally to 22, enabling him to emerge with Boult as the joint highest wicket-takers in the tournament.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+1 best matches: wicket
+
+----------------
+sent_22:
+
+no story sentence best matches found
+
+----------------
+sent_23:
+
+The tall opener, who hit a World Cup record score of 237 not out against the West Indies in the quarter-finals, was bowled trying to cut Glenn Maxwell's second delivery.
+The 2015 ICC Cricket World Cup began Feb. 14 and was hosted by Australia and New Zealand.
+2 best matches: cup, world
+
+----------------
+sent_24:
+
+Taylor and Elliott settled in to build a strong partnership and had taken the total to 150-3 when the batting powerplay began after the 35th over.
+The 2015 ICC Cricket World Cup began Feb. 14 and was hosted by Australia and New Zealand.
+1 best matches: begin
+
+----------------
+sent_25:
+
+Both sides fielded unchanged teams from their semi-final wins where Australia beat India and New Zealand downed South Africa in a penultimate-ball thriller.
+Australia beat India in the semifinals, while New Zealand beat South Africa to make its first appearance in the finals.
+7 best matches: africa, new, zealand, beat, south, australia, india
+
+----------------

@@ -1,0 +1,221 @@
+sent_1:
+1 out of 8 sentences
+1 out of 5 paragraphs
+Tagged as a quote
+
+Sentence:
+Virgin America Inc. (“Virgin America”), the California-based airline known for its upscale service and low fares, today announced that it has filed a registration statement with the Securities and Exchange Commission for a proposed initial public offering of its common stock.
+4 default entities: PERSON Virgin, ORGANIZATION America Inc., ORGANIZATION Securities, ORGANIZATION Exchange Commission
+4 custom entities: PERSON Virgin, ORGANIZATION America Inc Virgin America, ORGANIZATION Securities, ORGANIZATION Exchange Commission
+
+Source Sentence and Source Headline Match:
+Virgin America Inc. (“Virgin America”), the California-based airline known for its upscale service and low fares, today announced that it has filed a registration statement with the Securities and Exchange Commission for a proposed initial public offering of its common stock.
+VIRGIN AMERICA FILES REGISTRATION STATEMENT FOR PROPOSED INITIAL PUBLIC OFFERING.
+8 matches: virgin, initial, file, offering, america, registration, public, statement
+
+Source Sentence and Story Headline Match:
+Virgin America Inc. (“Virgin America”), the California-based airline known for its upscale service and low fares, today announced that it has filed a registration statement with the Securities and Exchange Commission for a proposed initial public offering of its common stock.
+Virgin America withdraws plans for secondary share offering.
+3 matches: virgin, offering, america
+
+Source Sentence and Best Story Sentence Match:
+Virgin America Inc. (“Virgin America”), the California-based airline known for its upscale service and low fares, today announced that it has filed a registration statement with the Securities and Exchange Commission for a proposed initial public offering of its common stock.
+Virgin America went public in Nov. 2014 and is now valued at more than $1.3 billion.
+3 matches: public, virgin, america
+
+----------------
+
+sent_2:
+2 out of 8 sentences
+1 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The number of shares to be offered and the price range for the proposed offering have not yet been determined.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The number of shares to be offered and the price range for the proposed offering have not yet been determined.
+VIRGIN AMERICA FILES REGISTRATION STATEMENT FOR PROPOSED INITIAL PUBLIC OFFERING.
+1 matches: offering
+
+Source Sentence and Story Headline Match:
+The number of shares to be offered and the price range for the proposed offering have not yet been determined.
+Virgin America withdraws plans for secondary share offering.
+2 matches: offering, share
+
+Source Sentence and Best Story Sentence Match:
+The number of shares to be offered and the price range for the proposed offering have not yet been determined.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+2 matches: offering, share
+
+----------------
+
+sent_3:
+3 out of 8 sentences
+2 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Barclays and Deutsche Bank Securities are acting as joint book-running managers and as representatives of the underwriters for the proposed offering.
+1 default entities: ORGANIZATION Deutsche Bank
+1 custom entities: ORGANIZATION Deutsche Bank
+
+Source Sentence and Source Headline Match:
+Barclays and Deutsche Bank Securities are acting as joint book-running managers and as representatives of the underwriters for the proposed offering.
+VIRGIN AMERICA FILES REGISTRATION STATEMENT FOR PROPOSED INITIAL PUBLIC OFFERING.
+1 matches: offering
+
+Source Sentence and Story Headline Match:
+Barclays and Deutsche Bank Securities are acting as joint book-running managers and as representatives of the underwriters for the proposed offering.
+Virgin America withdraws plans for secondary share offering.
+1 matches: offering
+
+Source Sentence and Best Story Sentence Match:
+Barclays and Deutsche Bank Securities are acting as joint book-running managers and as representatives of the underwriters for the proposed offering.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+1 matches: offering
+
+----------------
+
+sent_4:
+4 out of 8 sentences
+3 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A registration statement relating to the offering of Virgin America’s securities has been filed with the Securities and Exchange Commission but has not yet become effective.
+3 default entities: PERSON Virgin America, ORGANIZATION Securities, ORGANIZATION Exchange
+3 custom entities: PERSON Virgin, ORGANIZATION Securities, ORGANIZATION Exchange
+
+Source Sentence and Source Headline Match:
+A registration statement relating to the offering of Virgin America’s securities has been filed with the Securities and Exchange Commission but has not yet become effective.
+VIRGIN AMERICA FILES REGISTRATION STATEMENT FOR PROPOSED INITIAL PUBLIC OFFERING.
+5 matches: virgin, offering, file, registration, statement
+
+Source Sentence and Story Headline Match:
+A registration statement relating to the offering of Virgin America’s securities has been filed with the Securities and Exchange Commission but has not yet become effective.
+Virgin America withdraws plans for secondary share offering.
+2 matches: virgin, offering
+
+Source Sentence and Best Story Sentence Match:
+A registration statement relating to the offering of Virgin America’s securities has been filed with the Securities and Exchange Commission but has not yet become effective.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+2 matches: virgin, offering
+
+----------------
+
+sent_5:
+5 out of 8 sentences
+3 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+These securities may not be sold nor may offers to buy be accepted prior to the time the registration statement becomes effective.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+These securities may not be sold nor may offers to buy be accepted prior to the time the registration statement becomes effective.
+VIRGIN AMERICA FILES REGISTRATION STATEMENT FOR PROPOSED INITIAL PUBLIC OFFERING.
+2 matches: registration, statement
+
+Source Sentence and Story Headline Match:
+These securities may not be sold nor may offers to buy be accepted prior to the time the registration statement becomes effective.
+Virgin America withdraws plans for secondary share offering.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+These securities may not be sold nor may offers to buy be accepted prior to the time the registration statement becomes effective.
+The airline said shareholders had decided "not to proceed with an offering at this time."
+1 matches: time
+
+----------------
+
+sent_6:
+6 out of 8 sentences
+4 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+This press release does not constitute an offer to sell or a solicitation of an offer to buy, nor shall there be any sale of these securities in any state or jurisdiction in which such an offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+This press release does not constitute an offer to sell or a solicitation of an offer to buy, nor shall there be any sale of these securities in any state or jurisdiction in which such an offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction.
+VIRGIN AMERICA FILES REGISTRATION STATEMENT FOR PROPOSED INITIAL PUBLIC OFFERING.
+1 matches: registration
+
+Source Sentence and Story Headline Match:
+This press release does not constitute an offer to sell or a solicitation of an offer to buy, nor shall there be any sale of these securities in any state or jurisdiction in which such an offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction.
+Virgin America withdraws plans for secondary share offering.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_7:
+7 out of 8 sentences
+5 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The offering will be made only by means of a prospectus.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The offering will be made only by means of a prospectus.
+VIRGIN AMERICA FILES REGISTRATION STATEMENT FOR PROPOSED INITIAL PUBLIC OFFERING.
+1 matches: offering
+
+Source Sentence and Story Headline Match:
+The offering will be made only by means of a prospectus.
+Virgin America withdraws plans for secondary share offering.
+1 matches: offering
+
+Source Sentence and Best Story Sentence Match:
+The offering will be made only by means of a prospectus.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+1 matches: offering
+
+----------------
+
+sent_8:
+8 out of 8 sentences
+5 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+When available, copies of the preliminary prospectus related to the offering may be obtained from: Barclays Capital Inc., c/o Broadridge Financial Solutions, 1155 Long Island Avenue, Edgewood, NY 11717,  telephone: 1 (888) 603-5847, or by emailing: Barclaysprospectus@broadridge.com; or Deutsche Bank Securities Inc., Attn: Prospectus Group, 60 Wall Street, New York, NY 10005, by telephone at (800) 503-4611, or by emailing: prospectus.CPDG@db.com.
+8 default entities: PERSON Barclays Capital Inc., GPE Long Island Avenue, GPE Edgewood, PERSON Barclaysprospectus, ORGANIZATION Deutsche Bank Securities Inc., PERSON Attn, FACILITY Wall Street, GPE New York
+7 custom entities: PERSON Barclays Capital Inc, PERSON Broadridge Financial, GPE Long Island, PERSON Avenue Edgewood, PERSON Barclaysprospectus, ORGANIZATION Deutsche Bank, FACILITY Wall Street New York
+
+Source Sentence and Source Headline Match:
+When available, copies of the preliminary prospectus related to the offering may be obtained from: Barclays Capital Inc., c/o Broadridge Financial Solutions, 1155 Long Island Avenue, Edgewood, NY 11717,  telephone: 1 (888) 603-5847, or by emailing: Barclaysprospectus@broadridge.com; or Deutsche Bank Securities Inc., Attn: Prospectus Group, 60 Wall Street, New York, NY 10005, by telephone at (800) 503-4611, or by emailing: prospectus.CPDG@db.com.
+VIRGIN AMERICA FILES REGISTRATION STATEMENT FOR PROPOSED INITIAL PUBLIC OFFERING.
+1 matches: offering
+
+Source Sentence and Story Headline Match:
+When available, copies of the preliminary prospectus related to the offering may be obtained from: Barclays Capital Inc., c/o Broadridge Financial Solutions, 1155 Long Island Avenue, Edgewood, NY 11717,  telephone: 1 (888) 603-5847, or by emailing: Barclaysprospectus@broadridge.com; or Deutsche Bank Securities Inc., Attn: Prospectus Group, 60 Wall Street, New York, NY 10005, by telephone at (800) 503-4611, or by emailing: prospectus.CPDG@db.com.
+Virgin America withdraws plans for secondary share offering.
+1 matches: offering
+
+Source Sentence and Best Story Sentence Match:
+When available, copies of the preliminary prospectus related to the offering may be obtained from: Barclays Capital Inc., c/o Broadridge Financial Solutions, 1155 Long Island Avenue, Edgewood, NY 11717,  telephone: 1 (888) 603-5847, or by emailing: Barclaysprospectus@broadridge.com; or Deutsche Bank Securities Inc., Attn: Prospectus Group, 60 Wall Street, New York, NY 10005, by telephone at (800) 503-4611, or by emailing: prospectus.CPDG@db.com.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+1 matches: offering
+
+----------------
+

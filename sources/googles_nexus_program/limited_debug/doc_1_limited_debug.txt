@@ -1,0 +1,209 @@
+sent_1:
+
+Just in time for Halloween, we have two new treats for Android fans.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+1 best matches: android
+
+----------------
+sent_2:
+
+First, we're excited to unwrap our latest platform release, KitKat, which delivers a smarter, more immersive Android experience to even more people.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+3 best matches: android, release, late
+
+----------------
+sent_3:
+
+And second, we're introducing Nexus 5—a new Nexus phone developed with LG.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 best matches: nexus
+
+----------------
+sent_4:
+
+The first thing you’ll notice about KitKat is we’ve made the experience much more engaging: the book you're reading, the game you're playing, or the movie you're watching—now all of these take center stage with the new immersive mode, which automatically hides everything except what you really want to see.
+Its removal was first reported on April 24.
+1 best matches: first
+
+----------------
+sent_5:
+
+Behind the polish on the screen is the power under the hood.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 best matches: screen
+
+----------------
+sent_6:
+
+no story sentence best matches found
+
+----------------
+sent_7:
+
+Now, we’re making calling easier than ever, by helping you search across your contacts, nearby places, or even Google Apps accounts (like your company’s directory), directly from within the app.
+Rather than creating software in the abstract, we work with hardware partners to build Nexus devices to help push the boundaries of what's possible."
+1 best matches: help
+
+----------------
+sent_8:
+
+And with the new Hangouts app, all of your SMS and MMS messages are together in the same place, alongside your other conversations and video calls, so you’ll never miss a message no matter how your friends send it.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 best matches: call
+
+----------------
+sent_9:
+
+This is just a small taste of KitKat—learn more on our site.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 best matches: small
+
+----------------
+sent_10:
+
+Google has always focused on helping users get immediate access to the information they need, and we want to bring this same convenience and power to users on Android.
+Google said it stopped selling the Nexus 5 to focus on the Nexus 6.
+2 best matches: google, focus
+
+----------------
+sent_11:
+
+With the new Nexus 5 launcher, Google smarts are deeply integrated into the phone you carry around with you, so getting to the information you need is simple, easy and fast.
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+3 best matches: google, nexus, 5
+
+----------------
+sent_12:
+
+Swipe once from the home screen to get Google Now literally at your fingertips.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 best matches: screen
+
+----------------
+sent_13:
+
+Put Google to work for you by saying “OK, Google” to launch voice search, send a text, get directions or even play a song you want to hear.
+Google said it stopped selling the Nexus 5 to focus on the Nexus 6.
+2 best matches: google, say
+
+----------------
+sent_14:
+
+no story sentence best matches found
+
+----------------
+sent_15:
+
+Building a platform that makes mobile phones accessible for everyone has always been at the heart of Android.
+That's why we've always introduced Nexus devices alongside our platform releases.
+2 best matches: always, platform
+
+----------------
+sent_16:
+
+Until now, some lower-end Android phones couldn't benefit from more recent Android releases due to memory constraints.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+2 best matches: android, release
+
+----------------
+sent_17:
+
+With KitKat, we've slimmed down Android’s memory footprint by doing things like removing unnecessary background services and reducing the memory consumption of features that you use all the time.
+That's why we've always introduced Nexus devices alongside our platform releases.
+1 best matches: we've
+
+----------------
+sent_18:
+
+We did this not only within Android but across Google services like Chrome and YouTube.
+Google in Oct. 2014 announced the Nexus 9 and Nexus 6 smartphone.
+1 best matches: google
+
+----------------
+sent_19:
+
+RAM (or memory) is one of the most expensive parts of a phone, and now Android can run comfortably on the 512MB of RAM devices that are popular in much of the world, bringing the latest goodies in Android 4.4 within reach for the next billion smartphone users.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+3 best matches: android, late, device
+
+----------------
+sent_20:
+
+Along with our sweet naming tradition, we also introduce a new device with each platform release to showcase the latest Android innovations.
+That's why we've always introduced Nexus devices alongside our platform releases.
+4 best matches: device, platform, release, introduce
+
+----------------
+sent_21:
+
+For KitKat, we partnered with LG to develop Nexus 5 -- the slimmest and fastest Nexus phone ever made.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: fast, nexus
+
+----------------
+sent_22:
+
+Its design is simple and refined to showcase the 5” Full HD display.
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+1 best matches: 5
+
+----------------
+sent_23:
+
+Nexus 5 also keeps you connected at blazing speeds with 4G/LTE and ultra fast wifi.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: fast, nexus
+
+----------------
+sent_24:
+
+The advanced new lens on Nexus 5 captures more light for brighter night and sharper action shots.
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+2 best matches: nexus, 5
+
+----------------
+sent_25:
+
+And with optical image stabilization, you no longer have to worry about shaky hands and blurry pictures.
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+2 best matches: longer, picture
+
+----------------
+sent_26:
+
+A new HDR+ mode automatically snaps a rapid burst of photos and combines them to give you the best possible single shot.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 best matches: best
+
+----------------
+sent_27:
+
+no story sentence best matches found
+
+----------------
+sent_28:
+
+Nexus 5 is available today, unlocked and without a contract, on Google Play in the U.S., Canada, U.K., Australia, France, Germany, Spain, Italy, Japan and Korea (and coming soon to India), starting at $349.
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+3 best matches: google, nexus, 5
+
+----------------
+sent_29:
+
+Just in the time for the holidays, Nexus 5 will be available soon at the following retailers: Sprint, T-Mobile, Amazon, Best Buy and RadioShack.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+3 best matches: available, retailer, amazon
+
+----------------
+sent_30:
+
+Android 4.4, KitKat, which comes on Nexus 5, will also soon be available on Nexus 4, 7, 10, the Samsung Galaxy S4 and HTC One Google Play edition devices in the coming weeks.
+The Nexus 7 is no longer available from Google's official online store.
+3 best matches: 7, available, nexus
+
+----------------
+sent_31:
+
+no story sentence best matches found
+
+----------------

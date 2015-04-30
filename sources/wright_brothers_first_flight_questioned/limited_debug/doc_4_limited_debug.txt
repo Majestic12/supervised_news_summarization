@@ -1,0 +1,519 @@
+sent_1:
+
+It’s not the first time someone has claimed that Gustave Whitehead flew before the Wright brothers.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+6 best matches: claim, whitehead, brother, gustave, first, wright
+
+----------------
+sent_2:
+
+But solid evidence is still lacking.
+Brown says he has photographic evidence — albeit very blurry — showing Gustave flying the first motorized aircraft in Connecticut in 1901.
+1 best matches: evidence
+
+----------------
+sent_3:
+
+Last week, in his foreword to the 100th edition of Jane’s All the World’s Aircraft — a reference work that those of us in the aviation press have relied on for many years for the facts of airplane production and specifications — editor Paul Jackson refutes the long-held belief that the Wright brothers were the first to pilot a powered, controlled airplane.
+"Two years, four months, and three days before the Wright brothers, somebody else flew first… It's really a radical revision of the history of aviation."
+5 best matches: year, first, brother, aviation, wright
+
+----------------
+sent_4:
+
+Instead, Jackson says, it was Bridgeport, Connecticut-native Gustave Whitehead.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+3 best matches: whitehead, bridgeport, gustave
+
+----------------
+sent_5:
+
+Based largely on a Web site dedicated to Whitehead, hosted by Australian John Brown, and under the dramatic heading “Justice Delayed Is Justice Denied,” Jackson states that the Wright brothers’ 1903 flight took place two years after Whitehead made his breakthrough, concluding “The Wrights were right, but Whitehead was ahead.”
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+8 best matches: whitehead, brother, two, wright, 1903, year, take, flight
+
+----------------
+sent_6:
+
+At the National Air and Space Museum, home of the 1903 Wright Flyer exhibited as the world’s first airplane, Wright biographer and senior aeronautics curator Tom Crouch has heard it all before.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+4 best matches: airplane, first, museum, wright
+
+----------------
+sent_7:
+
+Here is his analysis of the evidence offered by Jackson and Brown:
+Brown says he has photographic evidence — albeit very blurry — showing Gustave flying the first motorized aircraft in Connecticut in 1901.
+2 best matches: brown, evidence
+
+----------------
+sent_8:
+
+John Brown, an Australian researcher living in Germany, has unveiled a web site claiming that Gustave Whitehead (January 1, 1874-October 10, 1927), a native of Leutershausen, Bavaria, who immigrated to the United States, probably in 1894, made a sustained powered flight in a heavier-than-air machine on August  14, 1901, two years before the Wright brothers.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+10 best matches: claim, whitehead, august, brother, gustave, two, wright, year, flight, 1901
+
+----------------
+sent_9:
+
+The standard arguments in favor of Whitehead’s flight claims were first put forward in a book published in 1937, and have been restated many times.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+3 best matches: claim, first, flight
+
+----------------
+sent_10:
+
+With a new wave of interest in the Whitehead claims, the time has come for a fresh look.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+2 best matches: claim, whitehead
+
+----------------
+sent_11:
+
+On August 18, 1901, Richard Howell, a reporter for the Bridgeport Sunday Herald, published an account of the early morning flight of August 14, in which he claimed that Whitehead traveled half a mile through the air at a maximum altitude of fifty feet.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+5 best matches: claim, whitehead, flight, august, 1901
+
+----------------
+sent_12:
+
+no story sentence best matches found
+
+----------------
+sent_13:
+
+In two letters published in the April 1, 1902 issue of American Inventor, Whitehead himself claimed to have made two more flights on January 17, 1902, on the best of which he said that he flew seven miles over Long Island Sound.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+4 best matches: claim, two, whitehead, flight
+
+----------------
+sent_14:
+
+During the months that followed, additional widely circulated stories reported that Whitehead was organizing a company to build airplanes and that he intended to enter one of his machines in the aeronautical competition being planned for the Louisiana Purchase Exposition to be held in St. Louis in 1904.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+2 best matches: whitehead, widely
+
+----------------
+sent_15:
+
+While his company failed and he did not fly at the St. Louis fair, Whitehead did build a number of flying machines for other enthusiasts, several of which were on view at the Morris Park air meet in November 1908.
+"Gimme a break… I have not seen anything that convinced me that Whitehead got off the ground in a powered machine at all."
+2 best matches: machine, whitehead
+
+----------------
+sent_16:
+
+None of the post-1902 Whitehead powered machines ever left the ground, although he did build aeronautical motors that powered aircraft designed and built by other fliers.
+"Gimme a break… I have not seen anything that convinced me that Whitehead got off the ground in a powered machine at all."
+4 best matches: machine, whitehead, ground, power
+
+----------------
+sent_17:
+
+The original Bridgeport Sunday Herald story, supposedly an eyewitness account, sounds impressive.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+1 best matches: bridgeport
+
+----------------
+sent_18:
+
+no story sentence best matches found
+
+----------------
+sent_19:
+
+The article appeared on page five, four days after the event, in a feature story headlined with four witches steering their brooms through the word “Flying.” In the story, Howell notes two witnesses other than himself — James Dickie and Andrew Cellic.
+"Two years, four months, and three days before the Wright brothers, somebody else flew first… It's really a radical revision of the history of aviation."
+3 best matches: two, day, four
+
+----------------
+sent_20:
+
+When an interviewer returned to Bridgeport to research the claims in 1936, he could not find anyone who remembered Cellic.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+2 best matches: claim, bridgeport
+
+----------------
+sent_21:
+
+no story sentence best matches found
+
+----------------
+sent_22:
+
+“I believe the entire story of the Herald was imaginary and grew out of the comments of Whitehead discussing what he hoped to get from his plane,” the supposed witness commented.
+"Gimme a break… I have not seen anything that convinced me that Whitehead got off the ground in a powered machine at all."
+2 best matches: whitehead, get
+
+----------------
+sent_23:
+
+“I was not present and did not witness any airplane flight on August 14, 1901, I do not remember or recall ever hearing of a flight with this particular plane or any other that Whitehead ever built.”
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+4 best matches: whitehead, flight, august, 1901
+
+----------------
+sent_24:
+
+Between 1934 and 1974 researchers supporting Whitehead’s claim interviewed 22 additional persons who said that they had seen him fly at one time or another during the period 1901-1902.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+2 best matches: claim, person
+
+----------------
+sent_25:
+
+These individuals were being interviewed about an event that had occurred over three decades earlier, by researchers who were anxious to prove that Whitehead had flown.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+1 best matches: whitehead
+
+----------------
+sent_26:
+
+In this day and age of DNA testing we have learned that even eyewitness testimony given just after an event occurs can be flawed.
+The bill created a holiday called "Powered Flight Day."
+1 best matches: day
+
+----------------
+sent_27:
+
+Many of the individuals who were most closely associated with Whitehead, or who were funding his efforts, doubted that he had flown.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+1 best matches: whitehead
+
+----------------
+sent_28:
+
+no story sentence best matches found
+
+----------------
+sent_29:
+
+“I do not believe that any of his machines ever left the ground…in spite of the assertions of many people who think they saw them fly.
+"Gimme a break… I have not seen anything that convinced me that Whitehead got off the ground in a powered machine at all."
+2 best matches: machine, ground
+
+----------------
+sent_30:
+
+I think I was in a better position during the nine years that I was giving Whitehead money to develop his ideas, to know what his machines could do than persons who were employed by him for a short period of time or those who remained silent for thirty-five years about what would have been an historic achievement in aviation.”
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+4 best matches: year, whitehead, know, aviation
+
+----------------
+sent_31:
+
+Perhaps the strongest argument against the Whitehead claims is to be found in the fact that not one of the powered machines that he built after 1902 ever left the ground.
+"Gimme a break… I have not seen anything that convinced me that Whitehead got off the ground in a powered machine at all."
+4 best matches: machine, whitehead, ground, power
+
+----------------
+sent_32:
+
+Nor did any of those machines resemble the aircraft that he claimed to have flown in 1901-1902.
+"The Smithsonian… shall [not] publish or permit to be displayed a statement or label… any aircraft model or design of earlier date than the Wright Aeroplane of 1903, claiming in effect that such aircraft was capable of carrying a man under its own power in controlled flight."
+2 best matches: claim, aircraft
+
+----------------
+sent_33:
+
+Why did he not follow up his early success?
+"The Smithsonian… shall [not] publish or permit to be displayed a statement or label… any aircraft model or design of earlier date than the Wright Aeroplane of 1903, claiming in effect that such aircraft was capable of carrying a man under its own power in controlled flight."
+1 best matches: early
+
+----------------
+sent_34:
+
+Why did he depart from a basic design that he claimed had been successful?
+"The Smithsonian… shall [not] publish or permit to be displayed a statement or label… any aircraft model or design of earlier date than the Wright Aeroplane of 1903, claiming in effect that such aircraft was capable of carrying a man under its own power in controlled flight."
+2 best matches: claim, design
+
+----------------
+sent_35:
+
+Are we to assume that he forgot the secret of flight?
+Connecticut lawmakers passed a bill in 2013 stating that a German-born state resident staged the first successful human flight, before the Wright brothers.
+1 best matches: flight
+
+----------------
+sent_36:
+
+no story sentence best matches found
+
+----------------
+sent_37:
+
+In an article describing an indoor New York aeronautical show in 1906, Scientific American noted that: “A single blurred photograph of a large bird-like machine propelled by compressed air, and which was constructed by Whitehead in 1901, was the only other photograph beside Langley’s machines of a motor-driven aeroplane in successful flight.” Another contemporary news article also mentions a photo, displayed in a shop window, of a powered Whitehead machine in the air.
+"The Smithsonian… shall [not] publish or permit to be displayed a statement or label… any aircraft model or design of earlier date than the Wright Aeroplane of 1903, claiming in effect that such aircraft was capable of carrying a man under its own power in controlled flight."
+4 best matches: display, aeroplane, flight, power
+
+----------------
+sent_38:
+
+No such photograph has ever been located, in spite of the best efforts of Whitehead supporters to turn one up over the years.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+2 best matches: turn, whitehead
+
+----------------
+sent_39:
+
+This author has always assumed that the photo in question was actually one of the well-known photos of unpowered Whitehead gliders in the air.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+1 best matches: whitehead
+
+----------------
+sent_40:
+
+Researcher John Brown now claims that he has found the photo.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+1 best matches: claim
+
+----------------
+sent_41:
+
+no story sentence best matches found
+
+----------------
+sent_42:
+
+A display of photos is visible on the far wall in this picture.
+"The Smithsonian… shall [not] publish or permit to be displayed a statement or label… any aircraft model or design of earlier date than the Wright Aeroplane of 1903, claiming in effect that such aircraft was capable of carrying a man under its own power in controlled flight."
+1 best matches: display
+
+----------------
+sent_43:
+
+While the photos on the wall are indistinct and blurry, it has always been apparent that some of them look like well-known photos of Whitehead craft.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+1 best matches: whitehead
+
+----------------
+sent_44:
+
+More than 30 years ago, this author had NASM photographers enlarge the images seen on the wall to the extent possible at that time.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+1 best matches: year
+
+----------------
+sent_45:
+
+Indeed, some of the photos could be identified as known Whitehead images.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+2 best matches: whitehead, know
+
+----------------
+sent_46:
+
+We could not find an image that looked like a machine in flight, however.
+Connecticut lawmakers passed a bill in 2013 stating that a German-born state resident staged the first successful human flight, before the Wright brothers.
+1 best matches: flight
+
+----------------
+sent_47:
+
+John Brown has used modern techniques to search once again for that photo in the photo, and claims to have found it.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+1 best matches: claim
+
+----------------
+sent_48:
+
+no story sentence best matches found
+
+----------------
+sent_49:
+
+From my point of view, it does not look anything like a machine in flight, certainly nothing to compare with the brilliant clarity of the images of the 1903 Wright airplane in the air, images that are among the most famous photos ever taken.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+4 best matches: 1903, take, flight, wright
+
+----------------
+sent_50:
+
+Whatever the anonymous reporter who penned the paragraph on the Whitehead photo at the 1906 exhibit thought, there can be no doubt as to whom the editors of that journal credited with having made the first flight.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+3 best matches: whitehead, first, flight
+
+----------------
+sent_51:
+
+In an editorial in the issue of December 15, 1906, at a time when the Wright brothers had yet to fly in public, and when their claims to having developed a practical powered airplane  between 1903 and 1905 were widely doubted, Scientific American offered one of the first definitive statements recognizing the magnitude of their achievement.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+5 best matches: claim, 1903, brother, widely, wright
+
+----------------
+sent_52:
+
+“In all the history of invention there is probably no parallel to the unostentatious manner in which the Wright brothers of Dayton, Ohio, ushered into the world their epoch-making invention of the first successful aeroplane flying machine.
+Connecticut lawmakers passed a bill in 2013 stating that a German-born state resident staged the first successful human flight, before the Wright brothers.
+4 best matches: successful, first, brother, wright
+
+----------------
+sent_53:
+
+no story sentence best matches found
+
+----------------
+sent_54:
+
+Following a thorough study of the Wright claims, the editors of Scientific American “…completely set to rest all doubts as to what had been accomplished.” Unlike the case of Gustave Whitehead, a careful investigation proved that Wilbur and Orville Wright had accomplished all that they claimed, and more.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+4 best matches: claim, wright, whitehead, gustave
+
+----------------
+sent_55:
+
+When it comes to the case of Gustave Whitehead, the decision must remain: Not proved.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+2 best matches: whitehead, gustave
+
+----------------
+sent_56:
+
+As for Jackson’s reference to “a legally-binding document that ‘the Smithsonian shall any aircraft…earlier than the Wright aeroplane of 1903…was capable of carrying a man under its own power in controlled flight,’ the Museum released the following response from Crouch:
+"The Smithsonian… shall [not] publish or permit to be displayed a statement or label… any aircraft model or design of earlier date than the Wright Aeroplane of 1903, claiming in effect that such aircraft was capable of carrying a man under its own power in controlled flight."
+12 best matches: aircraft, power, smithsonian, man, shall, aeroplane, wright, 1903, controlled, capable, flight, carrying
+
+----------------
+sent_57:
+
+Critics of the National Air and Space Museum’s attitude toward claims for individuals said to have flown before the Wright brothers often point to a 1948 agreement between the Smithsonian and the Estate of Orville Wright.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+5 best matches: smithsonian, estate, 1948, orville, wright
+
+----------------
+sent_58:
+
+Invariably referred to as “the contract,” this agreement was the result of a long feud between Mr. Wright and Smithsonian leaders.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+3 best matches: smithsonian, contract, wright
+
+----------------
+sent_59:
+
+The problem began in 1914, when officials of the Institution began to claim that the 1903 Langley Aerodrome, a flying machine developed by S.P.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+2 best matches: claim, 1903
+
+----------------
+sent_60:
+
+Langley, third Secretary of the Smithsonian, had been “capable of flight” before the Wright brothers’ first powered, controlled flight on December 17, 1903.
+"The Smithsonian… shall [not] publish or permit to be displayed a statement or label… any aircraft model or design of earlier date than the Wright Aeroplane of 1903, claiming in effect that such aircraft was capable of carrying a man under its own power in controlled flight."
+6 best matches: power, smithsonian, wright, 1903, capable, flight
+
+----------------
+sent_61:
+
+The Aerodrome had twice crashed into the Potomac River when tested in October and December, 1903.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+1 best matches: 1903
+
+----------------
+sent_62:
+
+In 1914, Glenn Hammond Curtiss, an aircraft builder who was locked in a patent suit with the Wrights,  borrowed the wreckage of the Langley craft from the Smithsonian, rebuilt and radically altered it, and made some flights from Lake Keuka, Hammondsport, New York.
+"The Smithsonian… shall [not] publish or permit to be displayed a statement or label… any aircraft model or design of earlier date than the Wright Aeroplane of 1903, claiming in effect that such aircraft was capable of carrying a man under its own power in controlled flight."
+4 best matches: smithsonian, aircraft, flight, wright
+
+----------------
+sent_63:
+
+On the basis of those trials with the much altered machine, Smithsonian officials falsely claimed that the 1903 original had been “capable of flight.” Orville Wright was understandably upset.
+"The Smithsonian… shall [not] publish or permit to be displayed a statement or label… any aircraft model or design of earlier date than the Wright Aeroplane of 1903, claiming in effect that such aircraft was capable of carrying a man under its own power in controlled flight."
+6 best matches: claim, smithsonian, wright, 1903, capable, flight
+
+----------------
+sent_64:
+
+In 1928, after repeated attempts to persuade Smithsonian Secretary Charles Walcott to admit that the 1914 test flights had not demonstrated that the 1903 Langley original could have flown, Mr. Wright sent the world’s first airplane into exile to be displayed at London’s Science Museum.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+7 best matches: display, smithsonian, airplane, museum, first, wright, flight
+
+----------------
+sent_65:
+
+In 1942, a new Secretary, Charles Abbot, published an article agreeing with Orville Wright’s position.
+A panel of Ohio state lawmakers unanimously backed a bill April 14 that rejects a position approved by Connecticut state lawmakers declaring Connecticut first in flight.
+1 best matches: position
+
+----------------
+sent_66:
+
+As a result, Mr. Wright agreed that the 1903 Wright Flyer should come to the Smithsonian.
+"The Smithsonian… shall [not] publish or permit to be displayed a statement or label… any aircraft model or design of earlier date than the Wright Aeroplane of 1903, claiming in effect that such aircraft was capable of carrying a man under its own power in controlled flight."
+3 best matches: smithsonian, 1903, wright
+
+----------------
+sent_67:
+
+As a result of the dangers of wartime travel and the request of the Science Museum to keep the 1903 Flyer long enough to create a reproduction for display, the return of the aircraft was delayed until after Mr. Wright’s death early in 1948.
+"The Smithsonian… shall [not] publish or permit to be displayed a statement or label… any aircraft model or design of earlier date than the Wright Aeroplane of 1903, claiming in effect that such aircraft was capable of carrying a man under its own power in controlled flight."
+4 best matches: 1903, aircraft, display, early
+
+----------------
+sent_68:
+
+At that point, the executors of Orville Wright’s estate insisted on a few conditions to ensure that the old feud would not be reopened in the future.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+2 best matches: estate, orville
+
+----------------
+sent_69:
+
+They stipulated the text of the label that would appear with the Flyer, insisted that it remain with the Smithsonian and not be loaned, and, finally, decided that the historic machine would come to the Institution, not as a donation, but as the result of a contract in which Smithsonian leaders would pay one dollar, to guarantee a valid contract, and agree to one more specific condition:
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+3 best matches: smithsonian, contract, text
+
+----------------
+sent_70:
+
+“Neither the Smithsonian Institution nor its successors, nor any museum or other agency, bureau or facilities administered for the United States of America by the Smithsonian Institution or its successors shall publish or permit to be displayed a statement or label in connection with or in respect of any aircraft model or design of earlier date than the Wright Aeroplane of 1903, claiming in effect that such aircraft was capable of carrying a man under its own power in controlled flight.”
+"The Smithsonian… shall [not] publish or permit to be displayed a statement or label… any aircraft model or design of earlier date than the Wright Aeroplane of 1903, claiming in effect that such aircraft was capable of carrying a man under its own power in controlled flight."
+23 best matches: man, label, permit, aircraft, power, date, design, flight, carrying, statement, claim, smithsonian, effect, publish, aeroplane, wright, model, controlled, display, shall, early, 1903, capable
+
+----------------
+sent_71:
+
+According to paragraph four of the contract, failure to observe this condition by the Smithsonian will result in a return of the Flyer to the vendors.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+2 best matches: smithsonian, contract
+
+----------------
+sent_72:
+
+The contract remains in force today, a healthy reminder of a less-than-exemplary moment in Smithsonian history.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+2 best matches: smithsonian, contract
+
+----------------
+sent_73:
+
+Over the years, individuals who argue for other claimants to the honor of having made the first flight have claimed that the contract is secret.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+3 best matches: claim, first, flight
+
+----------------
+sent_74:
+
+no story sentence best matches found
+
+----------------
+sent_75:
+
+no story sentence best matches found
+
+----------------
+sent_76:
+
+Critics have also charged that no Smithsonian staff member would ever be willing to entertain such a possibility and risk losing a national treasure.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+2 best matches: smithsonian, lose
+
+----------------
+sent_77:
+
+I can only hope that, should persuasive evidence for a prior flight be presented, my colleagues and I would have the courage and the honesty to admit the new evidence and risk the loss of the Wright Flyer.
+Connecticut lawmakers passed a bill in 2013 stating that a German-born state resident staged the first successful human flight, before the Wright brothers.
+2 best matches: flight, wright
+
+----------------

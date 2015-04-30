@@ -1,0 +1,129 @@
+sent_1:
+
+Google’s online video service will make a series of films with AwesomenessTV, as well as bagging exclusive rights for new shows by The Fine Brothers and Smosh.
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+4 best matches: fine, awesomenesstv, exclusive, brother
+
+----------------
+sent_2:
+
+YouTube is getting into the movie business, although its films will be getting their premieres online rather than in cinemas.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+2 best matches: film, youtube
+
+----------------
+sent_3:
+
+Google’s online video service has announced a partnership with multi-channel network (MCN) and DreamWorks Animation subsidiary AwesomenessTV to make a series of films featuring YouTube stars.
+YouTube on April 28 announced an original content partnership with AwesomenessTV, a multichannel network owned by Dreamworks.
+6 best matches: awesomenesstv, network, youtube, announce, dreamworks, partnership
+
+----------------
+sent_4:
+
+“Together, we’ll release several feature-length films over the next two years, all driven by YouTube stars and developed and produced by AwesomenessTV’s Brian Robbins,” wrote YouTube Originals boss Alex Carloss in a blog post.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+7 best matches: two, film, together, next, original, youtube, year
+
+----------------
+sent_5:
+
+“The films will all premiere globally on YouTube before they become available elsewhere, setting what we believe will become a new distribution paradigm for years to come.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+3 best matches: film, year, youtube
+
+----------------
+sent_6:
+
+We hope to release our first film this fall, with more details to come soon.”
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+1 best matches: film
+
+----------------
+sent_7:
+
+Robbins had already announced at the recent MIPTV conference that AwesomenessTV is producing six feature films, having topped Apple’s iTunes chart in December 2014 with Expelled, a film featuring online star Cameron Dallas.
+YouTube on April 28 announced an original content partnership with AwesomenessTV, a multichannel network owned by Dreamworks.
+2 best matches: awesomenesstv, announce
+
+----------------
+sent_8:
+
+“This film accomplished in four months what it takes most studios four years to do: create a hit movie that resonates with the audience most important to follow,” said Robbins, whose company was bought by DreamWorks in 2013.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+3 best matches: film, year, create
+
+----------------
+sent_9:
+
+YouTube has also announced deals with four popular creators to launch new shows exclusively on its service, including scripted comedy shows from Smosh and The Fine Brothers; a new series of trickery show Prank vs Prank featuring celebrities; and a “murder mystery reality” series fronted by vlogger Joey Graceffa.
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+8 best matches: deal, prank, also, brother, creator, youtube, fine, announce
+
+----------------
+sent_10:
+
+It’s part of what Carloss described as “an even bolder step to invest in ambitious projects from our top creators” as YouTube faces the prospect of growing competition for its stars from the likes of Yahoo and Facebook as well as Snapchat and Vessel.
+YouTube has taken a number of steps to help attract advertisers to the site, including letting certain high-profile producers use professional studio facilities in cities like London, Los Angeles, and New York.
+3 best matches: like, step, youtube
+
+----------------
+sent_11:
+
+YouTube has also acquired exclusive rights to the first series of Wonder Quest, the new educational show launched by British Minecraft gamer Joseph Garrett (aka Stampy) which made its debut this week.
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+3 best matches: also, exclusive, youtube
+
+----------------
+sent_12:
+
+“ Google saw potential in the show,” Garrett told the Guardian in an interview.
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+1 best matches: google
+
+----------------
+sent_13:
+
+Carloss signified YouTube’s willingness to stump up for exclusive shows in a previous blog post in September 2014.
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+1 best matches: exclusive
+
+----------------
+sent_14:
+
+“We’ve decided to fund new content from some of our top creators, helping them not only fulfill their creative ambitions but also deliver new material to their millions of fans on YouTube,” he wrote then.
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+4 best matches: also, creator, content, youtube
+
+----------------
+sent_15:
+
+“We’ll experiment with new formats and ideas.
+YouTube has taken a number of steps to help attract advertisers to the site, including letting certain high-profile producers use professional studio facilities in cities like London, Los Angeles, and New York.
+1 best matches: new
+
+----------------
+sent_16:
+
+no story sentence best matches found
+
+----------------
+sent_17:
+
+no story sentence best matches found
+
+----------------
+sent_18:
+
+Together, we’ll (hopefully) create some fantastic new content on YouTube.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+3 best matches: together, create, youtube
+
+----------------
+sent_19:
+
+But one thing is certain: there’s no one we’d rather go on this adventure with than our creators.”
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+1 best matches: creator
+
+----------------

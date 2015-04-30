@@ -1,0 +1,273 @@
+sent_1:
+1 out of 10 sentences
+1 out of 8 paragraphs
+Tagged as a quote
+
+Sentence:
+Nearly 90 percent of China's big cities failed to meet air quality standards in 2014, but that was still an improvement on 2013 as the country's "war on pollution" began to take effect, the environment ministry said on Monday.
+1 default entities: GPE China
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Nearly 90 percent of China's big cities failed to meet air quality standards in 2014, but that was still an improvement on 2013 as the country's "war on pollution" began to take effect, the environment ministry said on Monday.
+China says 90 percent of cities failed to meet air standards in 2014.
+9 matches: fail, percent, air, meet, standard, say, 90, city, 2014
+
+Source Sentence and Story Headline Match:
+Nearly 90 percent of China's big cities failed to meet air quality standards in 2014, but that was still an improvement on 2013 as the country's "war on pollution" began to take effect, the environment ministry said on Monday.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+5 matches: quality, 90, city, say, air
+
+Source Sentence and Best Story Sentence Match:
+Nearly 90 percent of China's big cities failed to meet air quality standards in 2014, but that was still an improvement on 2013 as the country's "war on pollution" began to take effect, the environment ministry said on Monday.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+9 matches: fail, air, meet, china's, quality, standard, say, 90, city
+
+----------------
+
+sent_2:
+2 out of 10 sentences
+2 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Ministry of Environmental Protection said on its website (www.mep.gov.cn) that only eight of the 74 cities it monitors managed to meet national standards in 2014 on a series of pollution measures such as PM2.5, which is a reading of particles found in the air, carbon monoxide and ozone.
+2 default entities: ORGANIZATION Ministry, ORGANIZATION Environmental Protection
+2 custom entities: ORGANIZATION Ministry, ORGANIZATION Environmental Protection
+
+Source Sentence and Source Headline Match:
+The Ministry of Environmental Protection said on its website (www.mep.gov.cn) that only eight of the 74 cities it monitors managed to meet national standards in 2014 on a series of pollution measures such as PM2.5, which is a reading of particles found in the air, carbon monoxide and ozone.
+China says 90 percent of cities failed to meet air standards in 2014.
+6 matches: air, meet, standard, say, city, 2014
+
+Source Sentence and Story Headline Match:
+The Ministry of Environmental Protection said on its website (www.mep.gov.cn) that only eight of the 74 cities it monitors managed to meet national standards in 2014 on a series of pollution measures such as PM2.5, which is a reading of particles found in the air, carbon monoxide and ozone.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+3 matches: city, say, air
+
+Source Sentence and Best Story Sentence Match:
+The Ministry of Environmental Protection said on its website (www.mep.gov.cn) that only eight of the 74 cities it monitors managed to meet national standards in 2014 on a series of pollution measures such as PM2.5, which is a reading of particles found in the air, carbon monoxide and ozone.
+China's Ministry of Environmental Protection said Feb. 1 that 66 of 74 cities failed to meet air pollution targets in 2014.
+10 matches: air, ministry, protection, meet, 74, pollution, say, environmental, city, 2014
+
+----------------
+
+sent_3:
+3 out of 10 sentences
+3 out of 8 paragraphs
+Tagged as a quote
+
+Sentence:
+Amid growing public disquiet about smog and other environmental risks, China said last year it would "declare war on pollution" and it has started to eliminate substandard industrial capacity and reduce coal consumption.
+1 default entities: GPE China
+1 custom entities: GPE China
+
+Source Sentence and Source Headline Match:
+Amid growing public disquiet about smog and other environmental risks, China said last year it would "declare war on pollution" and it has started to eliminate substandard industrial capacity and reduce coal consumption.
+China says 90 percent of cities failed to meet air standards in 2014.
+2 matches: say, china
+
+Source Sentence and Story Headline Match:
+Amid growing public disquiet about smog and other environmental risks, China said last year it would "declare war on pollution" and it has started to eliminate substandard industrial capacity and reduce coal consumption.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: say
+
+Source Sentence and Best Story Sentence Match:
+Amid growing public disquiet about smog and other environmental risks, China said last year it would "declare war on pollution" and it has started to eliminate substandard industrial capacity and reduce coal consumption.
+The Beijing government said it would begin collecting fees from construction sites that contribute to dust pollution in the city starting March 1.
+4 matches: would, pollution, say, start
+
+----------------
+
+sent_4:
+4 out of 10 sentences
+4 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In 2013, only three cities - Haikou on the island province of Hainan, the Tibetan capital of Lhasa and the coastal resort city of Zhoushan - met the standards.
+5 default entities: GPE Haikou, GPE Hainan, GPE Tibetan, GPE Lhasa, GPE Zhoushan
+5 custom entities: PERSON Haikou, GPE Hainan, GPE Tibetan, GPE Lhasa, GPE Zhoushan
+
+Source Sentence and Source Headline Match:
+In 2013, only three cities - Haikou on the island province of Hainan, the Tibetan capital of Lhasa and the coastal resort city of Zhoushan - met the standards.
+China says 90 percent of cities failed to meet air standards in 2014.
+2 matches: standard, city
+
+Source Sentence and Story Headline Match:
+In 2013, only three cities - Haikou on the island province of Hainan, the Tibetan capital of Lhasa and the coastal resort city of Zhoushan - met the standards.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: city
+
+Source Sentence and Best Story Sentence Match:
+In 2013, only three cities - Haikou on the island province of Hainan, the Tibetan capital of Lhasa and the coastal resort city of Zhoushan - met the standards.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+2 matches: standard, city
+
+----------------
+
+sent_5:
+5 out of 10 sentences
+5 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+They were joined in 2014 by Shenzhen, Huizhou and Zhuhai in southeast Guangdong province, Fuzhou in neighboring Fujian and Kunming in the southwest.
+6 default entities: ORGANIZATION Shenzhen, PERSON Huizhou, GPE Zhuhai, GPE Guangdong, GPE Fuzhou, GPE Fujian
+4 custom entities: ORGANIZATION Shenzhen Huizhou, GPE Zhuhai, GPE Guangdong, GPE Fujian
+
+Source Sentence and Source Headline Match:
+They were joined in 2014 by Shenzhen, Huizhou and Zhuhai in southeast Guangdong province, Fuzhou in neighboring Fujian and Kunming in the southwest.
+China says 90 percent of cities failed to meet air standards in 2014.
+1 matches: 2014
+
+Source Sentence and Story Headline Match:
+They were joined in 2014 by Shenzhen, Huizhou and Zhuhai in southeast Guangdong province, Fuzhou in neighboring Fujian and Kunming in the southwest.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+They were joined in 2014 by Shenzhen, Huizhou and Zhuhai in southeast Guangdong province, Fuzhou in neighboring Fujian and Kunming in the southwest.
+China's Ministry of Environmental Protection said Feb. 1 that 66 of 74 cities failed to meet air pollution targets in 2014.
+1 matches: 2014
+
+----------------
+
+sent_6:
+6 out of 10 sentences
+6 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Of the 10 worst-performing cities in 2014, seven were located in the heavy industrial province of Hebei, which surrounds the capital, Beijing, the ministry said.
+2 default entities: GPE Hebei, GPE Beijing
+1 custom entities: GPE Hebei
+
+Source Sentence and Source Headline Match:
+Of the 10 worst-performing cities in 2014, seven were located in the heavy industrial province of Hebei, which surrounds the capital, Beijing, the ministry said.
+China says 90 percent of cities failed to meet air standards in 2014.
+3 matches: city, say, 2014
+
+Source Sentence and Story Headline Match:
+Of the 10 worst-performing cities in 2014, seven were located in the heavy industrial province of Hebei, which surrounds the capital, Beijing, the ministry said.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+2 matches: city, say
+
+Source Sentence and Best Story Sentence Match:
+Of the 10 worst-performing cities in 2014, seven were located in the heavy industrial province of Hebei, which surrounds the capital, Beijing, the ministry said.
+Seven of the ten most polluted cities were in Hebei Province, which surrounds the Beijing municipality.
+6 matches: beijing, seven, surround, province, city, hebei
+
+----------------
+
+sent_7:
+7 out of 10 sentences
+6 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The cities of Baoding, Xingtai, Shijiazhuang, Tangshan, Handan and Hengshui, all in Hebei, filled the top six places.
+7 default entities: GPE Baoding, PERSON Xingtai, PERSON Shijiazhuang, PERSON Tangshan, GPE Handan, PERSON Hengshui, GPE Hebei
+3 custom entities: PERSON Baoding Xingtai Shijiazhuang Tangshan Handan, PERSON Hengshui, GPE Hebei
+
+Source Sentence and Source Headline Match:
+The cities of Baoding, Xingtai, Shijiazhuang, Tangshan, Handan and Hengshui, all in Hebei, filled the top six places.
+China says 90 percent of cities failed to meet air standards in 2014.
+1 matches: city
+
+Source Sentence and Story Headline Match:
+The cities of Baoding, Xingtai, Shijiazhuang, Tangshan, Handan and Hengshui, all in Hebei, filled the top six places.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: city
+
+Source Sentence and Best Story Sentence Match:
+The cities of Baoding, Xingtai, Shijiazhuang, Tangshan, Handan and Hengshui, all in Hebei, filled the top six places.
+The most polluted city in China was Baoding, also in Hebei.
+3 matches: hebei, city, baoding
+
+----------------
+
+sent_8:
+8 out of 10 sentences
+7 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The ministry said the average PM2.5 reading in the Beijing-Hebei-Tianjin region stood at 93 micrograms per cubic meter last year.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The ministry said the average PM2.5 reading in the Beijing-Hebei-Tianjin region stood at 93 micrograms per cubic meter last year.
+China says 90 percent of cities failed to meet air standards in 2014.
+1 matches: say
+
+Source Sentence and Story Headline Match:
+The ministry said the average PM2.5 reading in the Beijing-Hebei-Tianjin region stood at 93 micrograms per cubic meter last year.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: say
+
+Source Sentence and Best Story Sentence Match:
+The ministry said the average PM2.5 reading in the Beijing-Hebei-Tianjin region stood at 93 micrograms per cubic meter last year.
+China's Ministry of Environmental Protection said Feb. 1 that 66 of 74 cities failed to meet air pollution targets in 2014.
+2 matches: ministry, say
+
+----------------
+
+sent_9:
+9 out of 10 sentences
+7 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The state standard is 35 micrograms but China does not expect to bring the national average down to that level before 2030.
+1 default entities: GPE China
+1 custom entities: GPE China
+
+Source Sentence and Source Headline Match:
+The state standard is 35 micrograms but China does not expect to bring the national average down to that level before 2030.
+China says 90 percent of cities failed to meet air standards in 2014.
+2 matches: standard, china
+
+Source Sentence and Story Headline Match:
+The state standard is 35 micrograms but China does not expect to bring the national average down to that level before 2030.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The state standard is 35 micrograms but China does not expect to bring the national average down to that level before 2030.
+Persistent pollution continues to be an everyday health threat for many people in China.
+1 matches: china
+
+----------------
+
+sent_10:
+10 out of 10 sentences
+8 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The government has identified Hebei as a top priority when it comes to cutting smog, and it has set targets to slash coal consumption and close polluting industrial capacity, but the province has struggled to find alternative sources of growth.
+1 default entities: PERSON Hebei
+1 custom entities: PERSON Hebei
+
+Source Sentence and Source Headline Match:
+The government has identified Hebei as a top priority when it comes to cutting smog, and it has set targets to slash coal consumption and close polluting industrial capacity, but the province has struggled to find alternative sources of growth.
+China says 90 percent of cities failed to meet air standards in 2014.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The government has identified Hebei as a top priority when it comes to cutting smog, and it has set targets to slash coal consumption and close polluting industrial capacity, but the province has struggled to find alternative sources of growth.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The government has identified Hebei as a top priority when it comes to cutting smog, and it has set targets to slash coal consumption and close polluting industrial capacity, but the province has struggled to find alternative sources of growth.
+Seven of the ten most polluted cities were in Hebei Province, which surrounds the Beijing municipality.
+2 matches: province, hebei
+
+----------------
+

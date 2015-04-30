@@ -1,0 +1,105 @@
+sent_1:
+
+Samsung Electronics Co Ltd (005930.KS) on Wednesday said it expects earnings to rise in the second quarter after posting its highest profit in three quarters in January-March, boosted by strong demand for its new Galaxy S6 flagship smartphones.
+"In the second quarter, the company expects its overall earnings to increase compared to the previous quarter."
+4 best matches: quarter, expect, second, earnings
+
+----------------
+sent_2:
+
+Samsung's renewed focus on design after a period of stagnation in its smartphone range appears to be paying dividends, with researcher Strategy Analytics saying the South Korean giant overtook Apple Inc (AAPL.O) as the world's top smartphone maker in the first quarter.
+Samsung in Q2 2014 was overtaken by Chinese smartphone maker Xioami (pictured) as the top smartphone vendor in China.
+3 best matches: smartphone, maker, top
+
+----------------
+sent_3:
+
+"Galaxy S6 sales have been going as well as expected, while demand for the Galaxy S6 edge have been better than anticipated," Samsung Vice President Park Jin-young said during a conference call.
+However, Samsung said that its chip business will "see demand" moving forward.
+3 best matches: samsung, demand, say
+
+----------------
+sent_4:
+
+The firm reported a January-March operating profit of 6 trillion won ($5.64 billion), in line with the 5.9 trillion won profit it had guided for earlier this month and the highest in three quarters.
+Its operating profit was $5.64 billion, down 29.6% year-on-year, with operating profit from its mobile division down 57%.
+4 best matches: 5.64, operating, billion, profit
+
+----------------
+sent_5:
+
+Earnings for April-June should continue to rise, it said, with the two Galaxy S6 models - featuring new design flourishes like metal bodies - likely to break the company's sales record.
+One analyst said the new division suggests the two companies are getting along better than they had in the past."
+3 best matches: two, say, new
+
+----------------
+sent_6:
+
+Samsung shares have slipped in recent weeks on concerns that the Galaxy S6 phones, on sale since April 10, may not sell as well as first hoped.
+Samsung on April 10 released the Galaxy S6, which the company hopes can help turn around its struggling smartphone division.
+6 best matches: hop, samsung, april, 10, galaxy, s6
+
+----------------
+sent_7:
+
+But executives on Wednesday sought to reassure investors that sales were healthy so far and that supply problems associated with the curved-screen S6 edge should be resolved in the current quarter.
+"In the second quarter, the company expects its overall earnings to increase compared to the previous quarter."
+1 best matches: quarter
+
+----------------
+sent_8:
+
+"I don't see any devices within the current Android camp that could stand as an alternative to Samsung's high-end smartphones," Daewoo Securities analyst Jonathan Hwang said.
+However, Samsung said that its chip business will "see demand" moving forward.
+2 best matches: say, see
+
+----------------
+sent_9:
+
+Samsung's mobile division's January-March operating profit improved to a three-quarter high of 2.74 trillion won.
+Its operating profit was $5.64 billion, down 29.6% year-on-year, with operating profit from its mobile division down 57%.
+3 best matches: operating, mobile, profit
+
+----------------
+sent_10:
+
+But the chips business remained the top earner at 2.93 trillion won, thanks in part to surging orders from smartphone makers including Samsung itself.
+Samsung in Q2 2014 was overtaken by Chinese smartphone maker Xioami (pictured) as the top smartphone vendor in China.
+4 best matches: samsung, smartphone, maker, top
+
+----------------
+sent_11:
+
+The company said it expected robust chip sales to continue in the April-June period.
+"In the second quarter, the company expects its overall earnings to increase compared to the previous quarter."
+2 best matches: expect, company
+
+----------------
+sent_12:
+
+Even so, few expect Samsung to return to the record profits of 2014 given intensifying competition in the global smartphone market.
+Samsung has been increasing its reliance on its display and semiconductor divisions in the face of increased smartphone competition.
+3 best matches: samsung, smartphone, competition
+
+----------------
+sent_13:
+
+Apple topped Wall Street's profit forecasts on Monday as it sold more iPhones in China than the United States for the first time.
+Apple, boosted by strong sales of the iPhone 6 and 6 Plus, has since overtaken both companies as the top smartphone vendor in China.
+3 best matches: apple, top, china
+
+----------------
+sent_14:
+
+Samsung also warned that the typical industry pattern of a stronger second half may not be as pronounced this year due to risks like the weaker euro and emerging market currencies.
+Samsung on Jan. 29 posted its first annual loss in three years following a weak Q4 2014.
+2 best matches: samsung, year
+
+----------------
+sent_15:
+
+The median forecast from a Thomson Reuters I/B/E/S poll of 49 analysts tips Samsung's 2015 profit at 27.7 trillion won, up 10.8 percent from 25 trillion won in 2014.
+Samsung posted its Q1 2015 results April 29.
+1 best matches: 2015
+
+----------------

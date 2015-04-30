@@ -1,0 +1,609 @@
+sent_1:
+1 out of 22 sentences
+1 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Brazil's state-run oil company, Petrobras has taken a $2bn (£1.3bn) charge for costs related to corruption.
+2 default entities: GPE Brazil, PERSON Petrobras
+1 custom entities: PERSON Petrobras
+
+Source Sentence and Source Headline Match:
+Brazil's state-run oil company, Petrobras has taken a $2bn (£1.3bn) charge for costs related to corruption.
+Petrobras corruption costs hit $2bn.
+4 matches: corruption, petrobras, cost, 2bn
+
+Source Sentence and Story Headline Match:
+Brazil's state-run oil company, Petrobras has taken a $2bn (£1.3bn) charge for costs related to corruption.
+Brazil's Petrobras lost $17 billion in 2014.
+2 matches: brazil's, petrobras
+
+Source Sentence and Best Story Sentence Match:
+Brazil's state-run oil company, Petrobras has taken a $2bn (£1.3bn) charge for costs related to corruption.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+4 matches: company, corruption, petrobras, oil
+
+----------------
+
+sent_2:
+2 out of 22 sentences
+2 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The company has published accounts for last year showing an overall loss of $7.2bn.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The company has published accounts for last year showing an overall loss of $7.2bn.
+Petrobras corruption costs hit $2bn.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The company has published accounts for last year showing an overall loss of $7.2bn.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The company has published accounts for last year showing an overall loss of $7.2bn.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+1 matches: company
+
+----------------
+
+sent_3:
+3 out of 22 sentences
+3 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The company's results also included an impairment charge of $14.8bn reflecting the decreased value of its assets.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The company's results also included an impairment charge of $14.8bn reflecting the decreased value of its assets.
+Petrobras corruption costs hit $2bn.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The company's results also included an impairment charge of $14.8bn reflecting the decreased value of its assets.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The company's results also included an impairment charge of $14.8bn reflecting the decreased value of its assets.
+He was indicted in mid-March on charges including money laundering and accepting kickbacks.
+2 matches: include, charge
+
+----------------
+
+sent_4:
+4 out of 22 sentences
+4 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Petrobras has been embroiled in a massive corruption scandal in which it is alleged that bribes were paid for lucrative contracts with the firm.
+1 default entities: GPE Petrobras
+1 custom entities: GPE Petrobras
+
+Source Sentence and Source Headline Match:
+Petrobras has been embroiled in a massive corruption scandal in which it is alleged that bribes were paid for lucrative contracts with the firm.
+Petrobras corruption costs hit $2bn.
+2 matches: corruption, petrobras
+
+Source Sentence and Story Headline Match:
+Petrobras has been embroiled in a massive corruption scandal in which it is alleged that bribes were paid for lucrative contracts with the firm.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+Petrobras has been embroiled in a massive corruption scandal in which it is alleged that bribes were paid for lucrative contracts with the firm.
+Protesters insist Rousseff must have known about the accusations of corruption and political bribes at Petrobras while she chaired its board.
+3 matches: corruption, bribe, petrobras
+
+----------------
+
+sent_5:
+5 out of 22 sentences
+5 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The scandal has hurt Petrobras and damaged President Dilma Rousseff's government.
+2 default entities: PERSON Petrobras, PERSON Dilma Rousseff
+2 custom entities: PERSON Petrobras, PERSON Dilma
+
+Source Sentence and Source Headline Match:
+The scandal has hurt Petrobras and damaged President Dilma Rousseff's government.
+Petrobras corruption costs hit $2bn.
+1 matches: petrobras
+
+Source Sentence and Story Headline Match:
+The scandal has hurt Petrobras and damaged President Dilma Rousseff's government.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+The scandal has hurt Petrobras and damaged President Dilma Rousseff's government.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+2 matches: petrobras, scandal
+
+----------------
+
+sent_6:
+6 out of 22 sentences
+6 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In March hundreds of thousands of Brazilians protested against President Rousseff, who chaired the board of Petrobras for much of the period when the alleged bribes happened.
+4 default entities: GPE March, ORGANIZATION Brazilians, PERSON Rousseff, GPE Petrobras
+4 custom entities: GPE March, ORGANIZATION Brazilians, PERSON Rousseff, GPE Petrobras
+
+Source Sentence and Source Headline Match:
+In March hundreds of thousands of Brazilians protested against President Rousseff, who chaired the board of Petrobras for much of the period when the alleged bribes happened.
+Petrobras corruption costs hit $2bn.
+1 matches: petrobras
+
+Source Sentence and Story Headline Match:
+In March hundreds of thousands of Brazilians protested against President Rousseff, who chaired the board of Petrobras for much of the period when the alleged bribes happened.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+In March hundreds of thousands of Brazilians protested against President Rousseff, who chaired the board of Petrobras for much of the period when the alleged bribes happened.
+On March 15, almost 1 million Brazilians marched in protests in more than 50 cities calling for the ouster of President Rousseff.
+5 matches: protest, brazilian, president, rousseff, march
+
+----------------
+
+sent_7:
+7 out of 22 sentences
+7 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+However, the president denies involvement and has been exonerated by an investigation by the attorney general.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+However, the president denies involvement and has been exonerated by an investigation by the attorney general.
+Petrobras corruption costs hit $2bn.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+However, the president denies involvement and has been exonerated by an investigation by the attorney general.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+However, the president denies involvement and has been exonerated by an investigation by the attorney general.
+Julio Marcelo de Oliveira, prosecutor for Brazil, asked the country's Federal Audits Court on Feb. 19 to stop "leniency agreements" that allow companies accused of involvement in the Petrobras scandal to continue bidding on federal contracts while still under investigation.
+2 matches: investigation, involvement
+
+----------------
+
+sent_8:
+8 out of 22 sentences
+8 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+More than 40 top politicians - including the presidents of both houses of Congress - are still under investigation, and the treasurer of the country's ruling party has been arrested.
+1 default entities: ORGANIZATION Congress
+1 custom entities: ORGANIZATION Congress
+
+Source Sentence and Source Headline Match:
+More than 40 top politicians - including the presidents of both houses of Congress - are still under investigation, and the treasurer of the country's ruling party has been arrested.
+Petrobras corruption costs hit $2bn.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+More than 40 top politicians - including the presidents of both houses of Congress - are still under investigation, and the treasurer of the country's ruling party has been arrested.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+More than 40 top politicians - including the presidents of both houses of Congress - are still under investigation, and the treasurer of the country's ruling party has been arrested.
+Julio Marcelo de Oliveira, prosecutor for Brazil, asked the country's Federal Audits Court on Feb. 19 to stop "leniency agreements" that allow companies accused of involvement in the Petrobras scandal to continue bidding on federal contracts while still under investigation.
+3 matches: investigation, country's, still
+
+----------------
+
+sent_9:
+9 out of 22 sentences
+9 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Earlier on Thursday a judge convicted a former Petrobras executive of money laundering and racketeering for his role in the case, that involved bribes and illegal donations to political parties.
+1 default entities: ORGANIZATION Petrobras
+1 custom entities: ORGANIZATION Petrobras
+
+Source Sentence and Source Headline Match:
+Earlier on Thursday a judge convicted a former Petrobras executive of money laundering and racketeering for his role in the case, that involved bribes and illegal donations to political parties.
+Petrobras corruption costs hit $2bn.
+1 matches: petrobras
+
+Source Sentence and Story Headline Match:
+Earlier on Thursday a judge convicted a former Petrobras executive of money laundering and racketeering for his role in the case, that involved bribes and illegal donations to political parties.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+Earlier on Thursday a judge convicted a former Petrobras executive of money laundering and racketeering for his role in the case, that involved bribes and illegal donations to political parties.
+Seeking leniency, Costa shed light on $3.7 billion in questionable payments Petrobras made from slush funds to Brazil's Workers' Party and other political parties.
+3 matches: petrobras, party, political
+
+----------------
+
+sent_10:
+10 out of 22 sentences
+10 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Paulo Roberto Costa, who was head of refining and supply, will serve part of his sentence under house arrest.
+2 default entities: PERSON Paulo, PERSON Roberto Costa
+2 custom entities: PERSON Paulo, PERSON Roberto Costa
+
+Source Sentence and Source Headline Match:
+Paulo Roberto Costa, who was head of refining and supply, will serve part of his sentence under house arrest.
+Petrobras corruption costs hit $2bn.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Paulo Roberto Costa, who was head of refining and supply, will serve part of his sentence under house arrest.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Paulo Roberto Costa, who was head of refining and supply, will serve part of his sentence under house arrest.
+A wide-ranging corruption probe launched after the March 2014 arrest of Paulo Roberto Costa, Petrobras' former chief of refining.
+5 matches: roberto, refining, paulo, arrest, costa
+
+----------------
+
+sent_11:
+11 out of 22 sentences
+10 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He can still appeal.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+He can still appeal.
+Petrobras corruption costs hit $2bn.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+He can still appeal.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+He can still appeal.
+Julio Marcelo de Oliveira, prosecutor for Brazil, asked the country's Federal Audits Court on Feb. 19 to stop "leniency agreements" that allow companies accused of involvement in the Petrobras scandal to continue bidding on federal contracts while still under investigation.
+1 matches: still
+
+----------------
+
+sent_12:
+12 out of 22 sentences
+11 out of 20 paragraphs
+Tagged as a quote
+
+Sentence:
+Petrobras was supposed to be Brazil's "lottery ticket" - as it is sitting on top of one of the world's most valuable oil reserves.
+2 default entities: PERSON Petrobras, PERSON Brazil
+1 custom entities: PERSON Petrobras
+
+Source Sentence and Source Headline Match:
+Petrobras was supposed to be Brazil's "lottery ticket" - as it is sitting on top of one of the world's most valuable oil reserves.
+Petrobras corruption costs hit $2bn.
+1 matches: petrobras
+
+Source Sentence and Story Headline Match:
+Petrobras was supposed to be Brazil's "lottery ticket" - as it is sitting on top of one of the world's most valuable oil reserves.
+Brazil's Petrobras lost $17 billion in 2014.
+2 matches: brazil's, petrobras
+
+Source Sentence and Best Story Sentence Match:
+Petrobras was supposed to be Brazil's "lottery ticket" - as it is sitting on top of one of the world's most valuable oil reserves.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+2 matches: petrobras, oil
+
+----------------
+
+sent_13:
+13 out of 22 sentences
+12 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But today it announced losses of $7bn for 2014 - its first loss in decades.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+But today it announced losses of $7bn for 2014 - its first loss in decades.
+Petrobras corruption costs hit $2bn.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+But today it announced losses of $7bn for 2014 - its first loss in decades.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: 2014
+
+Source Sentence and Best Story Sentence Match:
+But today it announced losses of $7bn for 2014 - its first loss in decades.
+In its first audited financial results since Aug. 2014, Petrobras reported on April 22 that it lost $8.8 billion in Q4 2014 due to corruption, oil price pressures, refinery cost overruns, and other factors.
+2 matches: first, 2014
+
+----------------
+
+sent_14:
+14 out of 22 sentences
+13 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+That number is based on witness statements to the police that 3% of each major contract between 2004 and 2012 was paid in kickbacks to politicians and executives.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+That number is based on witness statements to the police that 3% of each major contract between 2004 and 2012 was paid in kickbacks to politicians and executives.
+Petrobras corruption costs hit $2bn.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+That number is based on witness statements to the police that 3% of each major contract between 2004 and 2012 was paid in kickbacks to politicians and executives.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+That number is based on witness statements to the police that 3% of each major contract between 2004 and 2012 was paid in kickbacks to politicians and executives.
+He was indicted in mid-March on charges including money laundering and accepting kickbacks.
+1 matches: kickback
+
+----------------
+
+sent_15:
+15 out of 22 sentences
+14 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Wednesday's announcement was highly anticipated in Brazil and in the markets, because previous figures were discredited.
+1 default entities: GPE Brazil
+1 custom entities: GPE Brazil
+
+Source Sentence and Source Headline Match:
+Wednesday's announcement was highly anticipated in Brazil and in the markets, because previous figures were discredited.
+Petrobras corruption costs hit $2bn.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Wednesday's announcement was highly anticipated in Brazil and in the markets, because previous figures were discredited.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Wednesday's announcement was highly anticipated in Brazil and in the markets, because previous figures were discredited.
+Bern-based federal prosecutors said in a March 18 statement that the frozen assets were identified in more than 300 accounts in 30 banks and were used for bribery in Brazil.
+1 matches: brazil
+
+----------------
+
+sent_16:
+16 out of 22 sentences
+15 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Petrobras executives - all recently appointed to replace people involved in the scandal - hope this will draw a line, and that the company may finally start to move on.
+1 default entities: GPE Petrobras
+1 custom entities: GPE Petrobras
+
+Source Sentence and Source Headline Match:
+Petrobras executives - all recently appointed to replace people involved in the scandal - hope this will draw a line, and that the company may finally start to move on.
+Petrobras corruption costs hit $2bn.
+1 matches: petrobras
+
+Source Sentence and Story Headline Match:
+Petrobras executives - all recently appointed to replace people involved in the scandal - hope this will draw a line, and that the company may finally start to move on.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+Petrobras executives - all recently appointed to replace people involved in the scandal - hope this will draw a line, and that the company may finally start to move on.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+3 matches: involve, company, petrobras
+
+----------------
+
+sent_17:
+17 out of 22 sentences
+16 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Back in November Petrobras's auditors PricewaterhouseCoopers (PwC) declined to certify the company's accounts saying that the corruption scandal made it hard to value the firm's assets.
+4 default entities: GPE Back, PERSON Petrobras, ORGANIZATION PricewaterhouseCoopers, ORGANIZATION PwC
+2 custom entities: GPE Back, ORGANIZATION PricewaterhouseCoopers
+
+Source Sentence and Source Headline Match:
+Back in November Petrobras's auditors PricewaterhouseCoopers (PwC) declined to certify the company's accounts saying that the corruption scandal made it hard to value the firm's assets.
+Petrobras corruption costs hit $2bn.
+1 matches: corruption
+
+Source Sentence and Story Headline Match:
+Back in November Petrobras's auditors PricewaterhouseCoopers (PwC) declined to certify the company's accounts saying that the corruption scandal made it hard to value the firm's assets.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Back in November Petrobras's auditors PricewaterhouseCoopers (PwC) declined to certify the company's accounts saying that the corruption scandal made it hard to value the firm's assets.
+Bern-based federal prosecutors said in a March 18 statement that the frozen assets were identified in more than 300 accounts in 30 banks and were used for bribery in Brazil.
+3 matches: say, asset, account
+
+----------------
+
+sent_18:
+18 out of 22 sentences
+17 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Since then PwC has been able to calculate the impact of corruption and also identified other costs including those related to missed production targets and the lower price of crude oil.
+1 default entities: ORGANIZATION PwC
+1 custom entities: ORGANIZATION PwC
+
+Source Sentence and Source Headline Match:
+Since then PwC has been able to calculate the impact of corruption and also identified other costs including those related to missed production targets and the lower price of crude oil.
+Petrobras corruption costs hit $2bn.
+2 matches: corruption, cost
+
+Source Sentence and Story Headline Match:
+Since then PwC has been able to calculate the impact of corruption and also identified other costs including those related to missed production targets and the lower price of crude oil.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Since then PwC has been able to calculate the impact of corruption and also identified other costs including those related to missed production targets and the lower price of crude oil.
+In its first audited financial results since Aug. 2014, Petrobras reported on April 22 that it lost $8.8 billion in Q4 2014 due to corruption, oil price pressures, refinery cost overruns, and other factors.
+5 matches: price, corruption, since, cost, oil
+
+----------------
+
+sent_19:
+19 out of 22 sentences
+18 out of 20 paragraphs
+Tagged as a quote
+
+Sentence:
+Publishing the results "is a fundamental step toward fully salvaging the company's credibility," said Aldemir Bendine, the firm's new chief executive.
+1 default entities: PERSON Aldemir Bendine
+1 custom entities: PERSON Aldemir Bendine
+
+Source Sentence and Source Headline Match:
+Publishing the results "is a fundamental step toward fully salvaging the company's credibility," said Aldemir Bendine, the firm's new chief executive.
+Petrobras corruption costs hit $2bn.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Publishing the results "is a fundamental step toward fully salvaging the company's credibility," said Aldemir Bendine, the firm's new chief executive.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Publishing the results "is a fundamental step toward fully salvaging the company's credibility," said Aldemir Bendine, the firm's new chief executive.
+Petrobras lost over $17 billion in 2014 from graft and overvalued assets, according to CEO Aldemir Bendine on April 22.
+2 matches: aldemir, bendine
+
+----------------
+
+sent_20:
+20 out of 22 sentences
+19 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But analysts say that the company will have to work hard to regain the trust of the financial markets.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+But analysts say that the company will have to work hard to regain the trust of the financial markets.
+Petrobras corruption costs hit $2bn.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+But analysts say that the company will have to work hard to regain the trust of the financial markets.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+But analysts say that the company will have to work hard to regain the trust of the financial markets.
+If companies fully cooperate with authorities in the Petrobras investigation, exceptions could be made, de Oliveira said.
+2 matches: company, say
+
+----------------
+
+sent_21:
+21 out of 22 sentences
+20 out of 20 paragraphs
+Tagged as a quote
+
+Sentence:
+"Petrobras's problem isn't about oil or finance, it's about trust.
+1 default entities: ORGANIZATION Petrobras
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"Petrobras's problem isn't about oil or finance, it's about trust.
+Petrobras corruption costs hit $2bn.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"Petrobras's problem isn't about oil or finance, it's about trust.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"Petrobras's problem isn't about oil or finance, it's about trust.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+1 matches: oil
+
+----------------
+
+sent_22:
+22 out of 22 sentences
+20 out of 20 paragraphs
+Tagged as a quote
+
+Sentence:
+The first thing the company needs to do is recover its credibility, because today the market doesn't believe it," said Daniel Marques, chief analyst at consulting firm Gradual Investimentos.
+2 default entities: PERSON Daniel Marques, PERSON Gradual Investimentos
+2 custom entities: PERSON Daniel Marques, PERSON Gradual Investimentos
+
+Source Sentence and Source Headline Match:
+The first thing the company needs to do is recover its credibility, because today the market doesn't believe it," said Daniel Marques, chief analyst at consulting firm Gradual Investimentos.
+Petrobras corruption costs hit $2bn.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The first thing the company needs to do is recover its credibility, because today the market doesn't believe it," said Daniel Marques, chief analyst at consulting firm Gradual Investimentos.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The first thing the company needs to do is recover its credibility, because today the market doesn't believe it," said Daniel Marques, chief analyst at consulting firm Gradual Investimentos.
+If companies fully cooperate with authorities in the Petrobras investigation, exceptions could be made, de Oliveira said.
+2 matches: company, say
+
+----------------
+

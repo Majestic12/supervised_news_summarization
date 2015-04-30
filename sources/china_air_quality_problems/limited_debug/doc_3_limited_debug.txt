@@ -1,0 +1,56 @@
+sent_1:
+
+China plans to launch a 50 billion yuan ($8.13 billion) environmental protection fund in stepped-up efforts to reduce widespread pollution, the official China Securities Journal reported on Wednesday.
+China will launch a 50 billion yuan ($8.13 billion) fund to combat pollution, according to the official China Securities Journal in Dec. 2014.
+11 best matches: billion, china, launch, official, 8.13, 50, pollution, yuan, fund, security, journal
+
+----------------
+sent_2:
+
+The fund would receive investment from the National Development and Reform Commission (NDRC) and the Ministry of Finance, the paper said, and would attempt to beef up investment in critical sectors through low or no-interest loans.
+China's Ministry of Environmental Protection said Feb. 1 that 66 of 74 cities failed to meet air pollution targets in 2014.
+2 best matches: ministry, say
+
+----------------
+sent_3:
+
+Beijing has struggled to incentivize local governments and Chinese companies to step up their pollution-fighting efforts.
+The fund will incentivize industry and local authorities to tackle pollution in a meaningful way.
+2 best matches: incentivize, local
+
+----------------
+sent_4:
+
+The rapid industrialization of the world's second-biggest economy has been accompanied by rampant pollution of its air and water supplies, prompting the World Health Organization to warn of the rising health hazard.
+Persistent pollution continues to be an everyday health threat for many people in China.
+2 best matches: health, pollution
+
+----------------
+sent_5:
+
+China now emits about twice as much carbon as the United States, the world's second-biggest greenhouse gas polluter.
+Persistent pollution continues to be an everyday health threat for many people in China.
+1 best matches: china
+
+----------------
+sent_6:
+
+And without major policy changes, China is set to double its greenhouse gas emissions by 2040, according to U.S. Energy Information Administration.
+China will launch a 50 billion yuan ($8.13 billion) fund to combat pollution, according to the official China Securities Journal in Dec. 2014.
+2 best matches: accord, china
+
+----------------
+sent_7:
+
+The drive to reduce pollution has boosted share values for companies expected to benefit from increased government spending in recent months, in particular water treatment companies.
+The Beijing government said it would begin collecting fees from construction sites that contribute to dust pollution in the city starting March 1.
+2 best matches: pollution, government
+
+----------------
+sent_8:
+
+Official guidance for the fund expected to be published in December, the Journal report said.
+China will launch a 50 billion yuan ($8.13 billion) fund to combat pollution, according to the official China Securities Journal in Dec. 2014.
+3 best matches: official, fund, journal
+
+----------------

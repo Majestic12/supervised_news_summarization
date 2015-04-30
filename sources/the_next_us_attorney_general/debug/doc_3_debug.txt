@@ -1,0 +1,1164 @@
+sent_1:
+1 out of 43 sentences
+1 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+President Barack Obama has formally announced his decision to nominate Brooklyn U.S. Attorney Loretta Lynch as the next U.S. attorney general.
+4 default entities: PERSON Barack Obama, PERSON Brooklyn U.S., PERSON Loretta Lynch, GPE U.S.
+3 custom entities: PERSON Barack Obama, PERSON Brooklyn U.S, PERSON Loretta Lynch
+
+Source Sentence and Source Headline Match:
+President Barack Obama has formally announced his decision to nominate Brooklyn U.S. Attorney Loretta Lynch as the next U.S. attorney general.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+6 matches: loretta, general, brooklyn, attorney, lynch, u.s
+
+Source Sentence and Story Headline Match:
+President Barack Obama has formally announced his decision to nominate Brooklyn U.S. Attorney Loretta Lynch as the next U.S. attorney general.
+Senate approves Loretta Lynch to be next US attorney general.
+5 matches: lynch, loretta, attorney, next, general
+
+Source Sentence and Best Story Sentence Match:
+President Barack Obama has formally announced his decision to nominate Brooklyn U.S. Attorney Loretta Lynch as the next U.S. attorney general.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+8 matches: obama, loretta, president, attorney, nominate, lynch, announce, u.s
+
+----------------
+
+sent_2:
+2 out of 43 sentences
+2 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+President Obama said Lynch has a “fierce commitment to equal justice” and a solid record as a tough, fair federal prosecutor.
+2 default entities: PERSON Obama, PERSON Lynch
+2 custom entities: PERSON Obama, PERSON Lynch
+
+Source Sentence and Source Headline Match:
+President Obama said Lynch has a “fierce commitment to equal justice” and a solid record as a tough, fair federal prosecutor.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+1 matches: lynch
+
+Source Sentence and Story Headline Match:
+President Obama said Lynch has a “fierce commitment to equal justice” and a solid record as a tough, fair federal prosecutor.
+Senate approves Loretta Lynch to be next US attorney general.
+1 matches: lynch
+
+Source Sentence and Best Story Sentence Match:
+President Obama said Lynch has a “fierce commitment to equal justice” and a solid record as a tough, fair federal prosecutor.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+3 matches: lynch, obama, president
+
+----------------
+
+sent_3:
+3 out of 43 sentences
+3 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The president made the announcement at a White House event on Saturday.
+1 default entities: FACILITY White House
+1 custom entities: FACILITY White House
+
+Source Sentence and Source Headline Match:
+The president made the announcement at a White House event on Saturday.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The president made the announcement at a White House event on Saturday.
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The president made the announcement at a White House event on Saturday.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+1 matches: president
+
+----------------
+
+sent_4:
+4 out of 43 sentences
+3 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Plans to announce the nomination were hastily put together after reports of Lynch’s selection began to surface on Friday.
+1 default entities: GPE Lynch
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Plans to announce the nomination were hastily put together after reports of Lynch’s selection began to surface on Friday.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Plans to announce the nomination were hastily put together after reports of Lynch’s selection began to surface on Friday.
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Plans to announce the nomination were hastily put together after reports of Lynch’s selection began to surface on Friday.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+1 matches: announce
+
+----------------
+
+sent_5:
+5 out of 43 sentences
+4 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+“Loretta might be the only lawyer in America who battles mobsters and drug lords and terrorists, and still has the reputation for being a charming people person,” Obama said
+2 default entities: GPE America, PERSON Obama
+3 custom entities: GPE Loretta, GPE America, PERSON Obama
+
+Source Sentence and Source Headline Match:
+“Loretta might be the only lawyer in America who battles mobsters and drug lords and terrorists, and still has the reputation for being a charming people person,” Obama said
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+1 matches: loretta
+
+Source Sentence and Story Headline Match:
+“Loretta might be the only lawyer in America who battles mobsters and drug lords and terrorists, and still has the reputation for being a charming people person,” Obama said
+Senate approves Loretta Lynch to be next US attorney general.
+1 matches: loretta
+
+Source Sentence and Best Story Sentence Match:
+“Loretta might be the only lawyer in America who battles mobsters and drug lords and terrorists, and still has the reputation for being a charming people person,” Obama said
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+2 matches: obama, loretta
+
+----------------
+
+sent_6:
+6 out of 43 sentences
+5 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+Obama added that it’s “pretty hard to be more qualified” for the job of attorney general than Lynch.
+2 default entities: PERSON Obama, GPE Lynch
+2 custom entities: PERSON Obama, PERSON Lynch
+
+Source Sentence and Source Headline Match:
+Obama added that it’s “pretty hard to be more qualified” for the job of attorney general than Lynch.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+3 matches: lynch, attorney, general
+
+Source Sentence and Story Headline Match:
+Obama added that it’s “pretty hard to be more qualified” for the job of attorney general than Lynch.
+Senate approves Loretta Lynch to be next US attorney general.
+3 matches: lynch, attorney, general
+
+Source Sentence and Best Story Sentence Match:
+Obama added that it’s “pretty hard to be more qualified” for the job of attorney general than Lynch.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+3 matches: lynch, obama, attorney
+
+----------------
+
+sent_7:
+7 out of 43 sentences
+6 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The 55-year-old is the top federal prosecutor for New York’s Eastern District, which includes Brooklyn, Queens, Staten Island and Long Island.
+6 default entities: GPE New York, LOCATION Eastern District, GPE Brooklyn, GPE Queens, PERSON Staten Island, GPE Long Island
+4 custom entities: GPE New, PERSON Eastern District, PERSON Brooklyn Queens Staten Island, GPE Long Island
+
+Source Sentence and Source Headline Match:
+The 55-year-old is the top federal prosecutor for New York’s Eastern District, which includes Brooklyn, Queens, Staten Island and Long Island.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+1 matches: brooklyn
+
+Source Sentence and Story Headline Match:
+The 55-year-old is the top federal prosecutor for New York’s Eastern District, which includes Brooklyn, Queens, Staten Island and Long Island.
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The 55-year-old is the top federal prosecutor for New York’s Eastern District, which includes Brooklyn, Queens, Staten Island and Long Island.
+Lynch, 55, currently serves as U.S. Attorney for Eastern New York, which encompasses Brooklyn, Queens, State Island and Long Island.
+6 matches: new, queen, island, eastern, brooklyn, long
+
+----------------
+
+sent_8:
+8 out of 43 sentences
+6 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+She also held the position under President Bill Clinton.
+1 default entities: PERSON Bill Clinton
+1 custom entities: PERSON Bill Clinton
+
+Source Sentence and Source Headline Match:
+She also held the position under President Bill Clinton.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+She also held the position under President Bill Clinton.
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+She also held the position under President Bill Clinton.
+When she is sworn in by President Obama, Lynch will become the first African-American woman to hold the post.
+2 matches: hold, president
+
+----------------
+
+sent_9:
+9 out of 43 sentences
+7 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+If confirmed by the Senate, Lynch would be the first African-American woman to hold the position.
+2 default entities: ORGANIZATION Senate, PERSON Lynch
+1 custom entities: ORGANIZATION Senate Lynch
+
+Source Sentence and Source Headline Match:
+If confirmed by the Senate, Lynch would be the first African-American woman to hold the position.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+1 matches: lynch
+
+Source Sentence and Story Headline Match:
+If confirmed by the Senate, Lynch would be the first African-American woman to hold the position.
+Senate approves Loretta Lynch to be next US attorney general.
+2 matches: lynch, senate
+
+Source Sentence and Best Story Sentence Match:
+If confirmed by the Senate, Lynch would be the first African-American woman to hold the position.
+When she is sworn in by President Obama, Lynch will become the first African-American woman to hold the post.
+5 matches: lynch, woman, hold, first, african-american
+
+----------------
+
+sent_10:
+10 out of 43 sentences
+7 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+She would replace outgoing Attorney General Eric Holder, who also was at Saturday’s announcement and was the first black head of the Justice Department.
+2 default entities: PERSON Eric Holder, ORGANIZATION Justice Department
+2 custom entities: PERSON Eric Holder, ORGANIZATION Justice Department
+
+Source Sentence and Source Headline Match:
+She would replace outgoing Attorney General Eric Holder, who also was at Saturday’s announcement and was the first black head of the Justice Department.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+2 matches: attorney, general
+
+Source Sentence and Story Headline Match:
+She would replace outgoing Attorney General Eric Holder, who also was at Saturday’s announcement and was the first black head of the Justice Department.
+Senate approves Loretta Lynch to be next US attorney general.
+2 matches: attorney, general
+
+Source Sentence and Best Story Sentence Match:
+She would replace outgoing Attorney General Eric Holder, who also was at Saturday’s announcement and was the first black head of the Justice Department.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+5 matches: would, replace, attorney, eric, holder
+
+----------------
+
+sent_11:
+11 out of 43 sentences
+8 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+“If I have the honor of being confirmed by the Senate, I will wake up every morning with the protection of the American people my first thought,” she said.
+2 default entities: ORGANIZATION Senate, GPE American
+2 custom entities: ORGANIZATION Senate, GPE American
+
+Source Sentence and Source Headline Match:
+“If I have the honor of being confirmed by the Senate, I will wake up every morning with the protection of the American people my first thought,” she said.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“If I have the honor of being confirmed by the Senate, I will wake up every morning with the protection of the American people my first thought,” she said.
+Senate approves Loretta Lynch to be next US attorney general.
+1 matches: senate
+
+Source Sentence and Best Story Sentence Match:
+“If I have the honor of being confirmed by the Senate, I will wake up every morning with the protection of the American people my first thought,” she said.
+The Senate confirmed Lynch to be the next attorney general April 23 in a 56-43 vote.
+2 matches: senate, confirm
+
+----------------
+
+sent_12:
+12 out of 43 sentences
+8 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+“And I will work every day to safeguard our citizens, our liberties, our rights, and this great nation which has given so much to me and my family.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“And I will work every day to safeguard our citizens, our liberties, our rights, and this great nation which has given so much to me and my family.”
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“And I will work every day to safeguard our citizens, our liberties, our rights, and this great nation which has given so much to me and my family.”
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“And I will work every day to safeguard our citizens, our liberties, our rights, and this great nation which has given so much to me and my family.”
+During his tenure he has pushed for civil rights, by refusing to defend the law that barred same-sex marriage, and by investigating the shooting deaths of Travyon Martin and Michael Brown.
+1 matches: right
+
+----------------
+
+sent_13:
+13 out of 43 sentences
+9 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+White House officials said they would leave it up to Senate leaders to work out the timeline for her confirmation, but it is expected that Republicans will oversee her confirmation with the next Congress in 2015.
+4 default entities: FACILITY White, ORGANIZATION House, ORGANIZATION Senate, ORGANIZATION Congress
+4 custom entities: FACILITY White, ORGANIZATION House, ORGANIZATION Senate, ORGANIZATION Congress
+
+Source Sentence and Source Headline Match:
+White House officials said they would leave it up to Senate leaders to work out the timeline for her confirmation, but it is expected that Republicans will oversee her confirmation with the next Congress in 2015.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+White House officials said they would leave it up to Senate leaders to work out the timeline for her confirmation, but it is expected that Republicans will oversee her confirmation with the next Congress in 2015.
+Senate approves Loretta Lynch to be next US attorney general.
+2 matches: senate, next
+
+Source Sentence and Best Story Sentence Match:
+White House officials said they would leave it up to Senate leaders to work out the timeline for her confirmation, but it is expected that Republicans will oversee her confirmation with the next Congress in 2015.
+Her confirmation was delayed over an unrelated Senate bill.
+2 matches: confirmation, senate
+
+----------------
+
+sent_14:
+14 out of 43 sentences
+10 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Lynch grew up in Greensboro, North Carolina and began her career as a federal prosecutor in 1990.
+3 default entities: GPE Lynch, GPE Greensboro, GPE North Carolina
+2 custom entities: GPE Lynch, GPE Greensboro North Carolina
+
+Source Sentence and Source Headline Match:
+Lynch grew up in Greensboro, North Carolina and began her career as a federal prosecutor in 1990.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+1 matches: lynch
+
+Source Sentence and Story Headline Match:
+Lynch grew up in Greensboro, North Carolina and began her career as a federal prosecutor in 1990.
+Senate approves Loretta Lynch to be next US attorney general.
+1 matches: lynch
+
+Source Sentence and Best Story Sentence Match:
+Lynch grew up in Greensboro, North Carolina and began her career as a federal prosecutor in 1990.
+"Ms. Lynch is a strong, independent prosecutor who has twice led one of the most important U.S. Attorney's Offices in the country."
+2 matches: lynch, prosecutor
+
+----------------
+
+sent_15:
+15 out of 43 sentences
+10 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+While a chief assistant U.S. attorney, she was on the trial team in one of the most sensational police brutality cases in city history, the broomstick torture of Haitian immigrant Abner Louima in a precinct bathroom.
+3 default entities: GPE U.S., GPE Haitian, PERSON Abner Louima
+2 custom entities: GPE Haitian, PERSON Abner Louima
+
+Source Sentence and Source Headline Match:
+While a chief assistant U.S. attorney, she was on the trial team in one of the most sensational police brutality cases in city history, the broomstick torture of Haitian immigrant Abner Louima in a precinct bathroom.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+2 matches: attorney, u.s
+
+Source Sentence and Story Headline Match:
+While a chief assistant U.S. attorney, she was on the trial team in one of the most sensational police brutality cases in city history, the broomstick torture of Haitian immigrant Abner Louima in a precinct bathroom.
+Senate approves Loretta Lynch to be next US attorney general.
+1 matches: attorney
+
+Source Sentence and Best Story Sentence Match:
+While a chief assistant U.S. attorney, she was on the trial team in one of the most sensational police brutality cases in city history, the broomstick torture of Haitian immigrant Abner Louima in a precinct bathroom.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+2 matches: attorney, u.s
+
+----------------
+
+sent_16:
+16 out of 43 sentences
+11 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+She originally served as U.S. attorney in Brooklyn from 1999 to 2001 before entering private practice.
+2 default entities: GPE U.S., GPE Brooklyn
+2 custom entities: GPE U.S, GPE Brooklyn
+
+Source Sentence and Source Headline Match:
+She originally served as U.S. attorney in Brooklyn from 1999 to 2001 before entering private practice.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+3 matches: brooklyn, attorney, u.s
+
+Source Sentence and Story Headline Match:
+She originally served as U.S. attorney in Brooklyn from 1999 to 2001 before entering private practice.
+Senate approves Loretta Lynch to be next US attorney general.
+1 matches: attorney
+
+Source Sentence and Best Story Sentence Match:
+She originally served as U.S. attorney in Brooklyn from 1999 to 2001 before entering private practice.
+Lynch, 55, currently serves as U.S. Attorney for Eastern New York, which encompasses Brooklyn, Queens, State Island and Long Island.
+4 matches: brooklyn, serve, attorney, u.s
+
+----------------
+
+sent_17:
+17 out of 43 sentences
+11 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+She returned to the position in 2010 and was appointed to the Attorney General’s Advisory Committee, a position that required her to spend more time in Washington and drew her closer to Holder.
+3 default entities: ORGANIZATION Advisory Committee, GPE Washington, GPE Holder
+2 custom entities: GPE Washington, GPE Holder
+
+Source Sentence and Source Headline Match:
+She returned to the position in 2010 and was appointed to the Attorney General’s Advisory Committee, a position that required her to spend more time in Washington and drew her closer to Holder.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+1 matches: attorney
+
+Source Sentence and Story Headline Match:
+She returned to the position in 2010 and was appointed to the Attorney General’s Advisory Committee, a position that required her to spend more time in Washington and drew her closer to Holder.
+Senate approves Loretta Lynch to be next US attorney general.
+1 matches: attorney
+
+Source Sentence and Best Story Sentence Match:
+She returned to the position in 2010 and was appointed to the Attorney General’s Advisory Committee, a position that required her to spend more time in Washington and drew her closer to Holder.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+2 matches: attorney, holder
+
+----------------
+
+sent_18:
+18 out of 43 sentences
+12 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+During her second tenure at one of the country’s busiest federal districts, Lynch’s office has won convictions in a thwarted, al Qaeda sanctioned plot to attack New York City subways, and charged the head of a Mexican drug cartel with 12 murders.
+4 default entities: PERSON Lynch, PERSON Qaeda, GPE New York City, GPE Mexican
+3 custom entities: PERSON Qaeda, GPE New York City, GPE Mexican
+
+Source Sentence and Source Headline Match:
+During her second tenure at one of the country’s busiest federal districts, Lynch’s office has won convictions in a thwarted, al Qaeda sanctioned plot to attack New York City subways, and charged the head of a Mexican drug cartel with 12 murders.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+During her second tenure at one of the country’s busiest federal districts, Lynch’s office has won convictions in a thwarted, al Qaeda sanctioned plot to attack New York City subways, and charged the head of a Mexican drug cartel with 12 murders.
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+During her second tenure at one of the country’s busiest federal districts, Lynch’s office has won convictions in a thwarted, al Qaeda sanctioned plot to attack New York City subways, and charged the head of a Mexican drug cartel with 12 murders.
+"Ms. Lynch is a strong, independent prosecutor who has twice led one of the most important U.S. Attorney's Offices in the country."
+2 matches: office, one
+
+----------------
+
+sent_19:
+19 out of 43 sentences
+12 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+More recently, her office brought tax evasion charges against Republican Congressman Michael Grimm that’s scheduled to go to trial next year.
+2 default entities: ORGANIZATION Republican, PERSON Michael Grimm
+2 custom entities: ORGANIZATION Republican, PERSON Michael Grimm
+
+Source Sentence and Source Headline Match:
+More recently, her office brought tax evasion charges against Republican Congressman Michael Grimm that’s scheduled to go to trial next year.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+More recently, her office brought tax evasion charges against Republican Congressman Michael Grimm that’s scheduled to go to trial next year.
+Senate approves Loretta Lynch to be next US attorney general.
+1 matches: next
+
+Source Sentence and Best Story Sentence Match:
+More recently, her office brought tax evasion charges against Republican Congressman Michael Grimm that’s scheduled to go to trial next year.
+The Senate confirmed Lynch to be the next attorney general April 23 in a 56-43 vote.
+1 matches: next
+
+----------------
+
+sent_20:
+20 out of 43 sentences
+13 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+She’s also overseen bank fraud and other public corruption cases and charged reputed mobster Vincent Asaro and his associates for the 36-year-old heist of $6 million in cash and jewelry from a Lufthansa Airlines vault at Kennedy Airport, dramatized in the blockbuster movie “Goodfellas.”
+3 default entities: PERSON Vincent Asaro, ORGANIZATION Lufthansa Airlines, FACILITY Kennedy Airport
+4 custom entities: PERSON Vincent Asaro, ORGANIZATION Lufthansa Airlines, FACILITY Kennedy Airport, ORGANIZATION Goodfellas
+
+Source Sentence and Source Headline Match:
+She’s also overseen bank fraud and other public corruption cases and charged reputed mobster Vincent Asaro and his associates for the 36-year-old heist of $6 million in cash and jewelry from a Lufthansa Airlines vault at Kennedy Airport, dramatized in the blockbuster movie “Goodfellas.”
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+She’s also overseen bank fraud and other public corruption cases and charged reputed mobster Vincent Asaro and his associates for the 36-year-old heist of $6 million in cash and jewelry from a Lufthansa Airlines vault at Kennedy Airport, dramatized in the blockbuster movie “Goodfellas.”
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+She’s also overseen bank fraud and other public corruption cases and charged reputed mobster Vincent Asaro and his associates for the 36-year-old heist of $6 million in cash and jewelry from a Lufthansa Airlines vault at Kennedy Airport, dramatized in the blockbuster movie “Goodfellas.”
+She has supervised several public corruption cases.
+3 matches: public, corruption, case
+
+----------------
+
+sent_21:
+21 out of 43 sentences
+14 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+“I’m not surprised.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“I’m not surprised.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“I’m not surprised.
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_22:
+22 out of 43 sentences
+14 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+Those people familiar with federal law know she has been an outstanding legal expert and has gained the support of anyone that has a love and understanding of the law and I think the Senate has on more than one occassion agreed with that,” U.S. Representative for New York’s 13th congressional district Charles Rangel told WCBS 880.
+5 default entities: ORGANIZATION Senate, GPE U.S., GPE New York, PERSON Charles Rangel, ORGANIZATION WCBS
+4 custom entities: ORGANIZATION Senate, GPE New, PERSON Charles Rangel, ORGANIZATION WCBS
+
+Source Sentence and Source Headline Match:
+Those people familiar with federal law know she has been an outstanding legal expert and has gained the support of anyone that has a love and understanding of the law and I think the Senate has on more than one occassion agreed with that,” U.S. Representative for New York’s 13th congressional district Charles Rangel told WCBS 880.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+1 matches: u.s
+
+Source Sentence and Story Headline Match:
+Those people familiar with federal law know she has been an outstanding legal expert and has gained the support of anyone that has a love and understanding of the law and I think the Senate has on more than one occassion agreed with that,” U.S. Representative for New York’s 13th congressional district Charles Rangel told WCBS 880.
+Senate approves Loretta Lynch to be next US attorney general.
+1 matches: senate
+
+Source Sentence and Best Story Sentence Match:
+Those people familiar with federal law know she has been an outstanding legal expert and has gained the support of anyone that has a love and understanding of the law and I think the Senate has on more than one occassion agreed with that,” U.S. Representative for New York’s 13th congressional district Charles Rangel told WCBS 880.
+"Ms. Lynch is a strong, independent prosecutor who has twice led one of the most important U.S. Attorney's Offices in the country."
+2 matches: one, u.s
+
+----------------
+
+sent_23:
+23 out of 43 sentences
+15 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Lynch is seen as having little baggage or controversy as Republicans are promising tough scrutiny after years of battles with the long-serving Holder.
+1 default entities: GPE Lynch
+1 custom entities: GPE Lynch
+
+Source Sentence and Source Headline Match:
+Lynch is seen as having little baggage or controversy as Republicans are promising tough scrutiny after years of battles with the long-serving Holder.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+1 matches: lynch
+
+Source Sentence and Story Headline Match:
+Lynch is seen as having little baggage or controversy as Republicans are promising tough scrutiny after years of battles with the long-serving Holder.
+Senate approves Loretta Lynch to be next US attorney general.
+1 matches: lynch
+
+Source Sentence and Best Story Sentence Match:
+Lynch is seen as having little baggage or controversy as Republicans are promising tough scrutiny after years of battles with the long-serving Holder.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+2 matches: lynch, holder
+
+----------------
+
+sent_24:
+24 out of 43 sentences
+16 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+“Loretta doesn’t look to make headlines, she looks to make a difference,” Obama said, offering an explanation why she’s largely unknown in Washington outside legal circles.
+2 default entities: PERSON Obama, GPE Washington
+3 custom entities: GPE Loretta, PERSON Obama, GPE Washington
+
+Source Sentence and Source Headline Match:
+“Loretta doesn’t look to make headlines, she looks to make a difference,” Obama said, offering an explanation why she’s largely unknown in Washington outside legal circles.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+1 matches: loretta
+
+Source Sentence and Story Headline Match:
+“Loretta doesn’t look to make headlines, she looks to make a difference,” Obama said, offering an explanation why she’s largely unknown in Washington outside legal circles.
+Senate approves Loretta Lynch to be next US attorney general.
+1 matches: loretta
+
+Source Sentence and Best Story Sentence Match:
+“Loretta doesn’t look to make headlines, she looks to make a difference,” Obama said, offering an explanation why she’s largely unknown in Washington outside legal circles.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+2 matches: obama, loretta
+
+----------------
+
+sent_25:
+25 out of 43 sentences
+16 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+“She’s not about splash, she is about substance.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“She’s not about splash, she is about substance.”
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“She’s not about splash, she is about substance.”
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_26:
+26 out of 43 sentences
+17 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Mayor Bill de Blasio praised Obama’s expected choice in a statement on Friday.
+3 default entities: PERSON Bill, PERSON Blasio, PERSON Obama
+2 custom entities: PERSON Bill, PERSON Blasio
+
+Source Sentence and Source Headline Match:
+Mayor Bill de Blasio praised Obama’s expected choice in a statement on Friday.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Mayor Bill de Blasio praised Obama’s expected choice in a statement on Friday.
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Mayor Bill de Blasio praised Obama’s expected choice in a statement on Friday.
+Her confirmation was delayed over an unrelated Senate bill.
+1 matches: bill
+
+----------------
+
+sent_27:
+27 out of 43 sentences
+18 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+“President Obama has chosen a great New Yorker as the country’s highest-ranking law enforcement official.
+1 default entities: PERSON Obama
+1 custom entities: PERSON Obama
+
+Source Sentence and Source Headline Match:
+“President Obama has chosen a great New Yorker as the country’s highest-ranking law enforcement official.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“President Obama has chosen a great New Yorker as the country’s highest-ranking law enforcement official.
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“President Obama has chosen a great New Yorker as the country’s highest-ranking law enforcement official.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+2 matches: obama, president
+
+----------------
+
+sent_28:
+28 out of 43 sentences
+18 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+The nation is about to meet Loretta Lynch for the first time—but in the five boroughs, she is already known for her character, toughness and uncompromising sense of justice.
+1 default entities: PERSON Loretta Lynch
+1 custom entities: PERSON Loretta Lynch
+
+Source Sentence and Source Headline Match:
+The nation is about to meet Loretta Lynch for the first time—but in the five boroughs, she is already known for her character, toughness and uncompromising sense of justice.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+2 matches: lynch, loretta
+
+Source Sentence and Story Headline Match:
+The nation is about to meet Loretta Lynch for the first time—but in the five boroughs, she is already known for her character, toughness and uncompromising sense of justice.
+Senate approves Loretta Lynch to be next US attorney general.
+2 matches: lynch, loretta
+
+Source Sentence and Best Story Sentence Match:
+The nation is about to meet Loretta Lynch for the first time—but in the five boroughs, she is already known for her character, toughness and uncompromising sense of justice.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+2 matches: lynch, loretta
+
+----------------
+
+sent_29:
+29 out of 43 sentences
+18 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+She has never been afraid to hold those in power accountable under the law, or to fight for those facing inequity,” de Blasio said in the statement.
+1 default entities: PERSON Blasio
+1 custom entities: PERSON Blasio
+
+Source Sentence and Source Headline Match:
+She has never been afraid to hold those in power accountable under the law, or to fight for those facing inequity,” de Blasio said in the statement.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+She has never been afraid to hold those in power accountable under the law, or to fight for those facing inequity,” de Blasio said in the statement.
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+She has never been afraid to hold those in power accountable under the law, or to fight for those facing inequity,” de Blasio said in the statement.
+When she is sworn in by President Obama, Lynch will become the first African-American woman to hold the post.
+1 matches: hold
+
+----------------
+
+sent_30:
+30 out of 43 sentences
+18 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+“I urge the Senate to recognize Loretta as the accomplished and respected leader she is, and confirm her as Attorney General.”
+3 default entities: ORGANIZATION Senate, PERSON Loretta, PERSON Attorney
+2 custom entities: ORGANIZATION Senate, PERSON Loretta
+
+Source Sentence and Source Headline Match:
+“I urge the Senate to recognize Loretta as the accomplished and respected leader she is, and confirm her as Attorney General.”
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+3 matches: loretta, attorney, general
+
+Source Sentence and Story Headline Match:
+“I urge the Senate to recognize Loretta as the accomplished and respected leader she is, and confirm her as Attorney General.”
+Senate approves Loretta Lynch to be next US attorney general.
+4 matches: senate, loretta, attorney, general
+
+Source Sentence and Best Story Sentence Match:
+“I urge the Senate to recognize Loretta as the accomplished and respected leader she is, and confirm her as Attorney General.”
+The Senate confirmed Lynch to be the next attorney general April 23 in a 56-43 vote.
+4 matches: senate, attorney, confirm, general
+
+----------------
+
+sent_31:
+31 out of 43 sentences
+19 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Gov.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Gov.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Gov.
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_32:
+32 out of 43 sentences
+19 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Andrew Cuomo also lauded Lynch as the anticipated choice.
+3 default entities: PERSON Andrew, PERSON Cuomo, PERSON Lynch
+3 custom entities: PERSON Andrew, PERSON Cuomo, PERSON Lynch
+
+Source Sentence and Source Headline Match:
+Andrew Cuomo also lauded Lynch as the anticipated choice.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+1 matches: lynch
+
+Source Sentence and Story Headline Match:
+Andrew Cuomo also lauded Lynch as the anticipated choice.
+Senate approves Loretta Lynch to be next US attorney general.
+1 matches: lynch
+
+Source Sentence and Best Story Sentence Match:
+Andrew Cuomo also lauded Lynch as the anticipated choice.
+Lynch also addressed topics ranging from terrorism to marijuana.
+2 matches: lynch, also
+
+----------------
+
+sent_33:
+33 out of 43 sentences
+20 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+“U.S.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“U.S.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+1 matches: u.s
+
+Source Sentence and Story Headline Match:
+“U.S.
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“U.S.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+1 matches: u.s
+
+----------------
+
+sent_34:
+34 out of 43 sentences
+20 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+Attorney Lynch is a trailblazer who has served the public with distinction in her current role under two presidents.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Attorney Lynch is a trailblazer who has served the public with distinction in her current role under two presidents.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+2 matches: lynch, attorney
+
+Source Sentence and Story Headline Match:
+Attorney Lynch is a trailblazer who has served the public with distinction in her current role under two presidents.
+Senate approves Loretta Lynch to be next US attorney general.
+2 matches: lynch, attorney
+
+Source Sentence and Best Story Sentence Match:
+Attorney Lynch is a trailblazer who has served the public with distinction in her current role under two presidents.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+3 matches: lynch, attorney, president
+
+----------------
+
+sent_35:
+35 out of 43 sentences
+20 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+She has earned a well-deserved reputation as an aggressive but fair prosecutor, who has used her office to seek justice through both criminal and civil proceedings,” Cuomo said in the statement.
+1 default entities: PERSON Cuomo
+1 custom entities: PERSON Cuomo
+
+Source Sentence and Source Headline Match:
+She has earned a well-deserved reputation as an aggressive but fair prosecutor, who has used her office to seek justice through both criminal and civil proceedings,” Cuomo said in the statement.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+She has earned a well-deserved reputation as an aggressive but fair prosecutor, who has used her office to seek justice through both criminal and civil proceedings,” Cuomo said in the statement.
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+She has earned a well-deserved reputation as an aggressive but fair prosecutor, who has used her office to seek justice through both criminal and civil proceedings,” Cuomo said in the statement.
+She said the executive action is "reasonable," as it prioritizes the deportation of criminals.
+2 matches: criminal, say
+
+----------------
+
+sent_36:
+36 out of 43 sentences
+20 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+“I am confident that U.S. Attorney Lynch will bring those same qualities to her new position as our country’s top law enforcement official.”
+1 default entities: GPE U.S.
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“I am confident that U.S. Attorney Lynch will bring those same qualities to her new position as our country’s top law enforcement official.”
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+3 matches: lynch, attorney, u.s
+
+Source Sentence and Story Headline Match:
+“I am confident that U.S. Attorney Lynch will bring those same qualities to her new position as our country’s top law enforcement official.”
+Senate approves Loretta Lynch to be next US attorney general.
+2 matches: lynch, attorney
+
+Source Sentence and Best Story Sentence Match:
+“I am confident that U.S. Attorney Lynch will bring those same qualities to her new position as our country’s top law enforcement official.”
+Lynch, 55, currently serves as U.S. Attorney for Eastern New York, which encompasses Brooklyn, Queens, State Island and Long Island.
+4 matches: lynch, attorney, new, u.s
+
+----------------
+
+sent_37:
+37 out of 43 sentences
+21 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+On Saturday, NYPD Commissioner Bill Bratton released a statement applauding the president’s pick.
+2 default entities: ORGANIZATION NYPD Commissioner, PERSON Bill Bratton
+1 custom entities: PERSON Bill Bratton
+
+Source Sentence and Source Headline Match:
+On Saturday, NYPD Commissioner Bill Bratton released a statement applauding the president’s pick.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+On Saturday, NYPD Commissioner Bill Bratton released a statement applauding the president’s pick.
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+On Saturday, NYPD Commissioner Bill Bratton released a statement applauding the president’s pick.
+Her confirmation was delayed over an unrelated Senate bill.
+1 matches: bill
+
+----------------
+
+sent_38:
+38 out of 43 sentences
+22 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+“Loretta Lynch is a remarkable prosecutor with a clear sense of justice without fear or favor.
+1 default entities: PERSON Lynch
+2 custom entities: PERSON Loretta, ORGANIZATION Lynch
+
+Source Sentence and Source Headline Match:
+“Loretta Lynch is a remarkable prosecutor with a clear sense of justice without fear or favor.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+2 matches: lynch, loretta
+
+Source Sentence and Story Headline Match:
+“Loretta Lynch is a remarkable prosecutor with a clear sense of justice without fear or favor.
+Senate approves Loretta Lynch to be next US attorney general.
+2 matches: lynch, loretta
+
+Source Sentence and Best Story Sentence Match:
+“Loretta Lynch is a remarkable prosecutor with a clear sense of justice without fear or favor.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+2 matches: lynch, loretta
+
+----------------
+
+sent_39:
+39 out of 43 sentences
+22 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+She has prosecuted the most serious terrorist plots against New York City since 9-11.
+1 default entities: GPE New York City
+1 custom entities: GPE New York City
+
+Source Sentence and Source Headline Match:
+She has prosecuted the most serious terrorist plots against New York City since 9-11.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+She has prosecuted the most serious terrorist plots against New York City since 9-11.
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+She has prosecuted the most serious terrorist plots against New York City since 9-11.
+Lynch, 55, currently serves as U.S. Attorney for Eastern New York, which encompasses Brooklyn, Queens, State Island and Long Island.
+2 matches: new, york
+
+----------------
+
+sent_40:
+40 out of 43 sentences
+22 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+She has led the investigations into violent street gangs, as well as complex, and multi-million dollar cyber crews.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+She has led the investigations into violent street gangs, as well as complex, and multi-million dollar cyber crews.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+She has led the investigations into violent street gangs, as well as complex, and multi-million dollar cyber crews.
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+She has led the investigations into violent street gangs, as well as complex, and multi-million dollar cyber crews.
+"Ms. Lynch is a strong, independent prosecutor who has twice led one of the most important U.S. Attorney's Offices in the country."
+1 matches: lead
+
+----------------
+
+sent_41:
+41 out of 43 sentences
+22 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+Loretta has jailed the top leaders of organized crime and corrupt public officials.
+1 default entities: GPE Loretta
+1 custom entities: GPE Loretta
+
+Source Sentence and Source Headline Match:
+Loretta has jailed the top leaders of organized crime and corrupt public officials.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+1 matches: loretta
+
+Source Sentence and Story Headline Match:
+Loretta has jailed the top leaders of organized crime and corrupt public officials.
+Senate approves Loretta Lynch to be next US attorney general.
+1 matches: loretta
+
+Source Sentence and Best Story Sentence Match:
+Loretta has jailed the top leaders of organized crime and corrupt public officials.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+1 matches: loretta
+
+----------------
+
+sent_42:
+42 out of 43 sentences
+22 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+She has been a steady hand in New York’s battles against crime, corruption, and terrorism.
+1 default entities: GPE New York
+1 custom entities: GPE New
+
+Source Sentence and Source Headline Match:
+She has been a steady hand in New York’s battles against crime, corruption, and terrorism.
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+She has been a steady hand in New York’s battles against crime, corruption, and terrorism.
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+She has been a steady hand in New York’s battles against crime, corruption, and terrorism.
+Lynch also addressed topics ranging from terrorism to marijuana.
+1 matches: terrorism
+
+----------------
+
+sent_43:
+43 out of 43 sentences
+22 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+She has been a great partner for the NYPD and great friend to me.”
+1 default entities: ORGANIZATION NYPD
+1 custom entities: ORGANIZATION NYPD
+
+Source Sentence and Source Headline Match:
+She has been a great partner for the NYPD and great friend to me.”
+Brooklyn U.S. Attorney Loretta Lynch Picked As Attorney General Nominee.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+She has been a great partner for the NYPD and great friend to me.”
+Senate approves Loretta Lynch to be next US attorney general.
+no story heading matches found
+
+no story sentence matches found
+
+----------------

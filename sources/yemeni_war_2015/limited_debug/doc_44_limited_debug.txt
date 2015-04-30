@@ -1,0 +1,126 @@
+sent_1:
+
+An air strike on a Scud missile base in the Houthi-controlled Yemeni capital Sanaa triggered a big explosion that killed 25 people and wounded almost 400 on Monday, state news agency Saba said.
+An April 20 Saudi airstrike on a hillside tore through the Yemeni capital, killing at least 25 people and wounding nearly 400 people, according to witnesses and medics.
+7 best matches: wound, people, kill, 400, capital, 25, yemeni
+
+----------------
+sent_2:
+
+Saudi Arabia has led an alliance of Sunni Arab countries in air strikes against the Iran-allied Shi'ite Houthi group and army units loyal to ex-president Ali Abdullah Saleh.
+Ex-president and Houthi ally Ali Abdullah Saleh praised the announcement and called for dialogue.
+5 best matches: houthi, ali, saleh, abdullah, ex-president
+
+----------------
+sent_3:
+
+"Twenty-five citizens were killed and more than 398 were wounded, mostly women and children, according to a preliminary figure after the Saudi aggression's bombing today," said the agency, which is run by the Houthis.
+An April 20 Saudi airstrike on a hillside tore through the Yemeni capital, killing at least 25 people and wounding nearly 400 people, according to witnesses and medics.
+4 best matches: wound, kill, saudi, accord
+
+----------------
+sent_4:
+
+The number could not be immediately verified, but medical sources told Reuters at least 15 people had been killed and scores wounded.
+An April 20 Saudi airstrike on a hillside tore through the Yemeni capital, killing at least 25 people and wounding nearly 400 people, according to witnesses and medics.
+4 best matches: wound, people, kill, least
+
+----------------
+sent_5:
+
+The blast hit the base on Faj Attan mountain beside the Hadda district, home to the presidential palace and many embassies, blowing out the windows of homes for kilometers around and sending a tall mushroom cloud into the air.
+Many people cannot reach health facilities due to conflict.
+1 best matches: many
+
+----------------
+sent_6:
+
+Resident Adel Mansour said it was the largest explosion in more than three weeks of bombing by the Saudi-led coalition.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+4 best matches: coalition, saudi-led, say, resident
+
+----------------
+sent_7:
+
+"For the first time since the start of the bombing the windows of my house smashed," Mansour said.
+At least 944 people were killed, including 77 children, and 3,487 injured since the start of airstrikes as of April 17, the UN said April 21.
+3 best matches: since, say, start
+
+----------------
+sent_8:
+
+"My children are terrified and one of my relatives fainted because of the force of the blast."
+"[Children] are being killed, maimed and forced to flee their homes, their health threatened and their education interrupted."
+2 best matches: child, force
+
+----------------
+sent_9:
+
+The campaign has repeatedly targeted the Faj Attan facility along with other military bases and airports in Sanaa and throughout the country.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 best matches: campaign, military
+
+----------------
+sent_10:
+
+Iran summoned Saudi Arabia's envoy to Tehran on Monday over the explosion near its embassy in Sanaa, Iranian state TV said.
+Yemeni President Mansour Hadi fled to Saudi Arabia, Saudi state TV reported March 26.
+3 best matches: tv, state, saudi
+
+----------------
+sent_11:
+
+The Shi'ite Islamic Republic has repeatedly summoned the Sunni-ruled kingdom's envoy over disputes arising from a conflict seen as a struggle for influence between the two regional powers.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 best matches: conflict, power
+
+----------------
+sent_12:
+
+Indonesia's foreign minister Retno Marsudi told reporters in Jakarta his country condemned the air strike after two of the country's diplomatic staff were wounded and its embassy was damaged.
+Following the announcement, Saudi Arabia's King Salman ordered the country's National Guard to reinforce the border with Yemen.
+1 best matches: country's
+
+----------------
+sent_13:
+
+The explosion also killed three workers at the headquarters of a television station, Yemen Today, owned by ex-president Saleh, employees told Reuters.
+Ex-president and Houthi ally Ali Abdullah Saleh praised the announcement and called for dialogue.
+2 best matches: saleh, ex-president
+
+----------------
+sent_14:
+
+Brigadier General Ahmed Asseri, Saudi spokesman for the campaign, told state news outlet SPA the operation had entered a "new phase".
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 best matches: campaign, saudi
+
+----------------
+sent_15:
+
+"The next phase will focus on the movements of militias, protection of civilians, and support the evacuation and relief," he added, in an announcement that suggested over three weeks of pounding military bases across the country had run its course.
+"The coalition will continue to prevent the movement of Houthi militias from moving or undertaking any operations inside Yemen."
+2 best matches: movement, militia
+
+----------------
+sent_16:
+
+A Saudi border guard was killed and two troops wounded by  gun and mortar fire from Yemen on Sunday evening, the kingdom's interior ministry said.
+Following the announcement, Saudi Arabia's King Salman ordered the country's National Guard to reinforce the border with Yemen.
+4 best matches: guard, border, saudi, yemen
+
+----------------
+sent_17:
+
+Several members of Saudi Arabia's forces have been killed in the campaign against the Houthis.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 best matches: campaign, saudi
+
+----------------
+sent_18:
+
+The movement's leader Abdel-Malek al-Houthi said in a televised speech on Sunday that the group believed its northern neighbor sought to invade and occupy Yemen, but that his people had the right to resist "by any means".
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 best matches: yemen, group
+
+----------------

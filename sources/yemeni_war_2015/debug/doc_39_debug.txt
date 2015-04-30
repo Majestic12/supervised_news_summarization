@@ -1,0 +1,489 @@
+sent_1:
+1 out of 18 sentences
+1 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Iranian President Hassan Rouhani harshly criticized Saudi Arabia Saturday, warning that the Saudi royal family in Riyadh will harvest the hatred it is sowing in Yemen through its airstrike campaign.
+7 default entities: GPE Iranian, PERSON Hassan Rouhani, GPE Saudi, PERSON Arabia, GPE Saudi, GPE Riyadh, GPE Yemen
+7 custom entities: GPE Iranian, PERSON Hassan Rouhani, GPE Saudi, PERSON Arabia, GPE Saudi, GPE Riyadh, GPE Yemen
+
+Source Sentence and Source Headline Match:
+Iranian President Hassan Rouhani harshly criticized Saudi Arabia Saturday, warning that the Saudi royal family in Riyadh will harvest the hatred it is sowing in Yemen through its airstrike campaign.
+Rouhani says Saudis will harvest hatred in Yemen.
+5 matches: rouhani, hatred, yemen, saudi, harvest
+
+Source Sentence and Story Headline Match:
+Iranian President Hassan Rouhani harshly criticized Saudi Arabia Saturday, warning that the Saudi royal family in Riyadh will harvest the hatred it is sowing in Yemen through its airstrike campaign.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+3 matches: arabia, airstrike, saudi
+
+Source Sentence and Best Story Sentence Match:
+Iranian President Hassan Rouhani harshly criticized Saudi Arabia Saturday, warning that the Saudi royal family in Riyadh will harvest the hatred it is sowing in Yemen through its airstrike campaign.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+4 matches: arabia, campaign, saudi, yemen
+
+----------------
+
+sent_2:
+2 out of 18 sentences
+2 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Since March 26, the Saudi-led coalition has been attacking Shiite rebels known as Houthis and allied fighters loyal to Yemen's ousted President Ali Abdullah Saleh.
+4 default entities: ORGANIZATION Shiite, ORGANIZATION Houthis, GPE Yemen, PERSON Ali Abdullah Saleh
+3 custom entities: ORGANIZATION Shiite, ORGANIZATION Houthis, PERSON Ali Abdullah Saleh
+
+Source Sentence and Source Headline Match:
+Since March 26, the Saudi-led coalition has been attacking Shiite rebels known as Houthis and allied fighters loyal to Yemen's ousted President Ali Abdullah Saleh.
+Rouhani says Saudis will harvest hatred in Yemen.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Since March 26, the Saudi-led coalition has been attacking Shiite rebels known as Houthis and allied fighters loyal to Yemen's ousted President Ali Abdullah Saleh.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Since March 26, the Saudi-led coalition has been attacking Shiite rebels known as Houthis and allied fighters loyal to Yemen's ousted President Ali Abdullah Saleh.
+The UN Security Council voted April 14 to impose an arms embargo on Houthis, as well as former president Ali Abdullah Saleh.
+5 matches: ali, saleh, houthis, president, abdullah
+
+----------------
+
+sent_3:
+3 out of 18 sentences
+2 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Iran supports the rebels but denies providing any military support.
+1 default entities: GPE Iran
+1 custom entities: GPE Iran
+
+Source Sentence and Source Headline Match:
+Iran supports the rebels but denies providing any military support.
+Rouhani says Saudis will harvest hatred in Yemen.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Iran supports the rebels but denies providing any military support.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Iran supports the rebels but denies providing any military support.
+Yemeni officials requested foreign military support days earlier.
+2 matches: support, military
+
+----------------
+
+sent_4:
+4 out of 18 sentences
+3 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Addressing an army parade in Tehran, in a speech broadcast live on state TV Saturday, Rouhani said killing civilians in Yemen will bring neither power nor pride for Saudi Arabia.
+4 default entities: GPE Tehran, PERSON Rouhani, GPE Yemen, GPE Saudi Arabia
+4 custom entities: GPE Tehran, PERSON Rouhani, GPE Yemen, GPE Saudi Arabia
+
+Source Sentence and Source Headline Match:
+Addressing an army parade in Tehran, in a speech broadcast live on state TV Saturday, Rouhani said killing civilians in Yemen will bring neither power nor pride for Saudi Arabia.
+Rouhani says Saudis will harvest hatred in Yemen.
+4 matches: rouhani, yemen, say, saudi
+
+Source Sentence and Story Headline Match:
+Addressing an army parade in Tehran, in a speech broadcast live on state TV Saturday, Rouhani said killing civilians in Yemen will bring neither power nor pride for Saudi Arabia.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+2 matches: arabia, saudi
+
+Source Sentence and Best Story Sentence Match:
+Addressing an army parade in Tehran, in a speech broadcast live on state TV Saturday, Rouhani said killing civilians in Yemen will bring neither power nor pride for Saudi Arabia.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+4 matches: arabia, yemen, saudi, power
+
+----------------
+
+sent_5:
+5 out of 18 sentences
+4 out of 11 paragraphs
+Tagged as a quote
+
+Sentence:
+"What does bombing the innocent ... Yemeni people mean?
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"What does bombing the innocent ... Yemeni people mean?
+Rouhani says Saudis will harvest hatred in Yemen.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"What does bombing the innocent ... Yemeni people mean?
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+2 matches: bomb, yemeni
+
+Source Sentence and Best Story Sentence Match:
+"What does bombing the innocent ... Yemeni people mean?
+An April 20 Saudi airstrike on a hillside tore through the Yemeni capital, killing at least 25 people and wounding nearly 400 people, according to witnesses and medics.
+2 matches: people, yemeni
+
+----------------
+
+sent_6:
+6 out of 18 sentences
+4 out of 11 paragraphs
+Tagged as a quote
+
+Sentence:
+What goals are you pursuing?
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+What goals are you pursuing?
+Rouhani says Saudis will harvest hatred in Yemen.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+What goals are you pursuing?
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_7:
+7 out of 18 sentences
+4 out of 11 paragraphs
+Tagged as a quote
+
+Sentence:
+Will killing children bring power to you?
+1 default entities: PERSON Will
+1 custom entities: PERSON Will
+
+Source Sentence and Source Headline Match:
+Will killing children bring power to you?
+Rouhani says Saudis will harvest hatred in Yemen.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Will killing children bring power to you?
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Will killing children bring power to you?
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 matches: power
+
+----------------
+
+sent_8:
+8 out of 18 sentences
+4 out of 11 paragraphs
+Tagged as a quote
+
+Sentence:
+You planted the seeds of hatred in this region and you will see the response sooner or later," Rouhani said.
+1 default entities: PERSON Rouhani
+1 custom entities: PERSON Rouhani
+
+Source Sentence and Source Headline Match:
+You planted the seeds of hatred in this region and you will see the response sooner or later," Rouhani said.
+Rouhani says Saudis will harvest hatred in Yemen.
+3 matches: rouhani, hatred, say
+
+Source Sentence and Story Headline Match:
+You planted the seeds of hatred in this region and you will see the response sooner or later," Rouhani said.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+You planted the seeds of hatred in this region and you will see the response sooner or later," Rouhani said.
+One of Yemen's largest electricity plants stopped working, as much of the country was already facing extended power cuts, local reports said.
+2 matches: plant, say
+
+----------------
+
+sent_9:
+9 out of 18 sentences
+4 out of 11 paragraphs
+Tagged as a quote
+
+Sentence:
+"Don't bomb children, elderly men and women in Yemen.
+1 default entities: GPE Yemen
+1 custom entities: GPE Yemen
+
+Source Sentence and Source Headline Match:
+"Don't bomb children, elderly men and women in Yemen.
+Rouhani says Saudis will harvest hatred in Yemen.
+1 matches: yemen
+
+Source Sentence and Story Headline Match:
+"Don't bomb children, elderly men and women in Yemen.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: bomb
+
+Source Sentence and Best Story Sentence Match:
+"Don't bomb children, elderly men and women in Yemen.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 matches: yemen
+
+----------------
+
+sent_10:
+10 out of 18 sentences
+4 out of 11 paragraphs
+Tagged as a quote
+
+Sentence:
+Attacking the oppressed will bring disgrace ... for the aggressors."
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Attacking the oppressed will bring disgrace ... for the aggressors."
+Rouhani says Saudis will harvest hatred in Yemen.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Attacking the oppressed will bring disgrace ... for the aggressors."
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Attacking the oppressed will bring disgrace ... for the aggressors."
+Although the attack appeared to target a military site, debris flew through the city and reverberations caused significant destruction.
+1 matches: attack
+
+----------------
+
+sent_11:
+11 out of 18 sentences
+5 out of 11 paragraphs
+Tagged as a quote
+
+Sentence:
+Iran's Supreme Leader Ayatollah Ali Khamenei has already called the Saudi-led airstrikes in Yemen "genocide" and a "major crime."
+4 default entities: GPE Iran, ORGANIZATION Supreme, PERSON Ayatollah Ali Khamenei, GPE Yemen
+2 custom entities: PERSON Supreme Leader Ayatollah Ali Khamenei, GPE Yemen
+
+Source Sentence and Source Headline Match:
+Iran's Supreme Leader Ayatollah Ali Khamenei has already called the Saudi-led airstrikes in Yemen "genocide" and a "major crime."
+Rouhani says Saudis will harvest hatred in Yemen.
+1 matches: yemen
+
+Source Sentence and Story Headline Match:
+Iran's Supreme Leader Ayatollah Ali Khamenei has already called the Saudi-led airstrikes in Yemen "genocide" and a "major crime."
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Iran's Supreme Leader Ayatollah Ali Khamenei has already called the Saudi-led airstrikes in Yemen "genocide" and a "major crime."
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+3 matches: saudi-led, yemen, airstrikes
+
+----------------
+
+sent_12:
+12 out of 18 sentences
+6 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Iran has presented a four-point plan to end the conflict that includes humanitarian aid, dialogue and the formation of a broad-based Yemeni unity government after a proposed cease-fire was already rejected by Saudi Arabia.
+3 default entities: GPE Iran, GPE Yemeni, GPE Saudi Arabia
+3 custom entities: GPE Iran, GPE Yemeni, GPE Saudi Arabia
+
+Source Sentence and Source Headline Match:
+Iran has presented a four-point plan to end the conflict that includes humanitarian aid, dialogue and the formation of a broad-based Yemeni unity government after a proposed cease-fire was already rejected by Saudi Arabia.
+Rouhani says Saudis will harvest hatred in Yemen.
+1 matches: saudi
+
+Source Sentence and Story Headline Match:
+Iran has presented a four-point plan to end the conflict that includes humanitarian aid, dialogue and the formation of a broad-based Yemeni unity government after a proposed cease-fire was already rejected by Saudi Arabia.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+4 matches: arabia, end, saudi, yemeni
+
+Source Sentence and Best Story Sentence Match:
+Iran has presented a four-point plan to end the conflict that includes humanitarian aid, dialogue and the formation of a broad-based Yemeni unity government after a proposed cease-fire was already rejected by Saudi Arabia.
+The Iranian plan calls for a ceasefire, humanitarian aid, resuming a national dialogue and "an inclusive national unity government."
+6 matches: plan, aid, unity, government, dialogue, humanitarian
+
+----------------
+
+sent_13:
+13 out of 18 sentences
+7 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Rouhani also accused Saudi Arabia of providing weapons and funding to terrorist groups in the Middle East.
+3 default entities: PERSON Rouhani, GPE Saudi Arabia, GPE Middle East
+3 custom entities: PERSON Rouhani, GPE Saudi Arabia, GPE Middle East
+
+Source Sentence and Source Headline Match:
+Rouhani also accused Saudi Arabia of providing weapons and funding to terrorist groups in the Middle East.
+Rouhani says Saudis will harvest hatred in Yemen.
+2 matches: rouhani, saudi
+
+Source Sentence and Story Headline Match:
+Rouhani also accused Saudi Arabia of providing weapons and funding to terrorist groups in the Middle East.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+2 matches: arabia, saudi
+
+Source Sentence and Best Story Sentence Match:
+Rouhani also accused Saudi Arabia of providing weapons and funding to terrorist groups in the Middle East.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+3 matches: arabia, saudi, group
+
+----------------
+
+sent_14:
+14 out of 18 sentences
+8 out of 11 paragraphs
+Tagged as a quote
+
+Sentence:
+"What does providing financial assistance and weapons to terrorists in Syria, Lebanon and Iraq mean," he asked.
+3 default entities: GSP Syria, GPE Lebanon, GPE Iraq
+2 custom entities: GSP Syria, GPE Iraq
+
+Source Sentence and Source Headline Match:
+"What does providing financial assistance and weapons to terrorists in Syria, Lebanon and Iraq mean," he asked.
+Rouhani says Saudis will harvest hatred in Yemen.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"What does providing financial assistance and weapons to terrorists in Syria, Lebanon and Iraq mean," he asked.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"What does providing financial assistance and weapons to terrorists in Syria, Lebanon and Iraq mean," he asked.
+Benomar was the UN's envoy to Yemen, but stepped down April 15 and asked for a reassignment.
+1 matches: ask
+
+----------------
+
+sent_15:
+15 out of 18 sentences
+9 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Iran is supporting both Syrian President Bashar Assad and the Iraqi government in its fight against Sunni Muslim extremists, including the Islamic State group.
+6 default entities: GPE Iran, GPE Syrian, PERSON Bashar Assad, GPE Iraqi, PERSON Sunni Muslim, ORGANIZATION Islamic
+6 custom entities: GPE Iran, GPE Syrian, PERSON Bashar Assad, GPE Iraqi, PERSON Sunni Muslim, ORGANIZATION Islamic
+
+Source Sentence and Source Headline Match:
+Iran is supporting both Syrian President Bashar Assad and the Iraqi government in its fight against Sunni Muslim extremists, including the Islamic State group.
+Rouhani says Saudis will harvest hatred in Yemen.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Iran is supporting both Syrian President Bashar Assad and the Iraqi government in its fight against Sunni Muslim extremists, including the Islamic State group.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Iran is supporting both Syrian President Bashar Assad and the Iraqi government in its fight against Sunni Muslim extremists, including the Islamic State group.
+Yemeni President Mansour Hadi fled to Saudi Arabia, Saudi state TV reported March 26.
+2 matches: state, president
+
+----------------
+
+sent_16:
+16 out of 18 sentences
+9 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Tehran says Saudi Arabia and several other Middle East governments support the Islamic State group.
+4 default entities: GPE Tehran, GPE Saudi Arabia, GPE Middle East, ORGANIZATION Islamic
+4 custom entities: GPE Tehran, GPE Saudi Arabia, GPE Middle East, ORGANIZATION Islamic
+
+Source Sentence and Source Headline Match:
+Tehran says Saudi Arabia and several other Middle East governments support the Islamic State group.
+Rouhani says Saudis will harvest hatred in Yemen.
+2 matches: say, saudi
+
+Source Sentence and Story Headline Match:
+Tehran says Saudi Arabia and several other Middle East governments support the Islamic State group.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+2 matches: arabia, saudi
+
+Source Sentence and Best Story Sentence Match:
+Tehran says Saudi Arabia and several other Middle East governments support the Islamic State group.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+3 matches: arabia, saudi, group
+
+----------------
+
+sent_17:
+17 out of 18 sentences
+10 out of 11 paragraphs
+Tagged as a quote
+
+Sentence:
+Prominent lawmaker Alaeddin Boroujerdi, who heads the parliamentary national security and foreign policy committees, predicted that Saudi Arabia will find itself trapped in the Yemeni "quagmire."
+3 default entities: PERSON Alaeddin Boroujerdi, GPE Saudi Arabia, ORGANIZATION Yemeni
+3 custom entities: PERSON Alaeddin Boroujerdi, GPE Saudi Arabia, GPE Yemeni
+
+Source Sentence and Source Headline Match:
+Prominent lawmaker Alaeddin Boroujerdi, who heads the parliamentary national security and foreign policy committees, predicted that Saudi Arabia will find itself trapped in the Yemeni "quagmire."
+Rouhani says Saudis will harvest hatred in Yemen.
+1 matches: saudi
+
+Source Sentence and Story Headline Match:
+Prominent lawmaker Alaeddin Boroujerdi, who heads the parliamentary national security and foreign policy committees, predicted that Saudi Arabia will find itself trapped in the Yemeni "quagmire."
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+3 matches: arabia, saudi, yemeni
+
+Source Sentence and Best Story Sentence Match:
+Prominent lawmaker Alaeddin Boroujerdi, who heads the parliamentary national security and foreign policy committees, predicted that Saudi Arabia will find itself trapped in the Yemeni "quagmire."
+Yemeni President Mansour Hadi fled to Saudi Arabia, Saudi state TV reported March 26.
+3 matches: arabia, saudi, yemeni
+
+----------------
+
+sent_18:
+18 out of 18 sentences
+11 out of 11 paragraphs
+Tagged as a quote
+
+Sentence:
+"We are so sorry that today Saudi Arabia and (its allies) have placed themselves in a quagmire and leaving it will definitely not be an easy task," he told reporters Saturday.
+1 default entities: GPE Saudi Arabia
+1 custom entities: GPE Saudi Arabia
+
+Source Sentence and Source Headline Match:
+"We are so sorry that today Saudi Arabia and (its allies) have placed themselves in a quagmire and leaving it will definitely not be an easy task," he told reporters Saturday.
+Rouhani says Saudis will harvest hatred in Yemen.
+1 matches: saudi
+
+Source Sentence and Story Headline Match:
+"We are so sorry that today Saudi Arabia and (its allies) have placed themselves in a quagmire and leaving it will definitely not be an easy task," he told reporters Saturday.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+2 matches: arabia, saudi
+
+Source Sentence and Best Story Sentence Match:
+"We are so sorry that today Saudi Arabia and (its allies) have placed themselves in a quagmire and leaving it will definitely not be an easy task," he told reporters Saturday.
+Saudi Arabia launched military operations including airstrikes against the Houthis and their allies in Yemen on March 25.
+3 matches: arabia, saudi, ally
+
+----------------
+

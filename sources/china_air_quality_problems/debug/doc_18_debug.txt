@@ -1,0 +1,521 @@
+sent_1:
+1 out of 19 sentences
+1 out of 14 paragraphs
+Tagged as a quote
+
+Sentence:
+If Beijing is successful in its bid for the 2022 Winter Olympics then foreigners who attend will get uncensored Internet access, but this isn't an issue for Chinese who "don't like" sites like Facebook and Twitter, an official said on Wednesday.
+4 default entities: GPE Beijing, GSP Chinese, ORGANIZATION Facebook, PERSON Twitter
+3 custom entities: GPE Beijing, GSP Chinese, ORGANIZATION Facebook
+
+Source Sentence and Source Headline Match:
+If Beijing is successful in its bid for the 2022 Winter Olympics then foreigners who attend will get uncensored Internet access, but this isn't an issue for Chinese who "don't like" sites like Facebook and Twitter, an official said on Wednesday.
+Olympics-Beijing official says Chinese have no need for blocked websites.
+3 matches: official, say, chinese
+
+Source Sentence and Story Headline Match:
+If Beijing is successful in its bid for the 2022 Winter Olympics then foreigners who attend will get uncensored Internet access, but this isn't an issue for Chinese who "don't like" sites like Facebook and Twitter, an official said on Wednesday.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+2 matches: say, chinese
+
+Source Sentence and Best Story Sentence Match:
+If Beijing is successful in its bid for the 2022 Winter Olympics then foreigners who attend will get uncensored Internet access, but this isn't an issue for Chinese who "don't like" sites like Facebook and Twitter, an official said on Wednesday.
+On March 24, IOC officials began a 5-day tour of Beijing, which is bidding for the 2022 Winter Games.
+5 matches: bid, official, beijing, 2022, winter
+
+----------------
+
+sent_2:
+2 out of 19 sentences
+2 out of 14 paragraphs
+Tagged as not being a quote
+
+Sentence:
+China keeps a tight rein on its Internet.
+1 default entities: GPE China
+1 custom entities: GPE China
+
+Source Sentence and Source Headline Match:
+China keeps a tight rein on its Internet.
+Olympics-Beijing official says Chinese have no need for blocked websites.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+China keeps a tight rein on its Internet.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+China keeps a tight rein on its Internet.
+Persistent pollution continues to be an everyday health threat for many people in China.
+1 matches: china
+
+----------------
+
+sent_3:
+3 out of 19 sentences
+2 out of 14 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The government has warned that social media, particularly foreign services, could be a destabilising force for Chinese society or even affect the country's security.
+1 default entities: GPE Chinese
+1 custom entities: GPE Chinese
+
+Source Sentence and Source Headline Match:
+The government has warned that social media, particularly foreign services, could be a destabilising force for Chinese society or even affect the country's security.
+Olympics-Beijing official says Chinese have no need for blocked websites.
+1 matches: chinese
+
+Source Sentence and Story Headline Match:
+The government has warned that social media, particularly foreign services, could be a destabilising force for Chinese society or even affect the country's security.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: chinese
+
+Source Sentence and Best Story Sentence Match:
+The government has warned that social media, particularly foreign services, could be a destabilising force for Chinese society or even affect the country's security.
+However, discussion of the film, which had received tens of millions of more views since March 2 when it passed 100 million views, is reportedly still being allowed on social media sites.
+2 matches: medium, social
+
+----------------
+
+sent_4:
+4 out of 19 sentences
+3 out of 14 paragraphs
+Tagged as a quote
+
+Sentence:
+Popular foreign social media sites like Twitter, YouTube, Instagram and Facebook as well as Google Inc's main search engine and Gmail service are all inaccessible in China without specialised software to vault what is known as the "Great Firewall".
+9 default entities: GPE Popular, PERSON Twitter, ORGANIZATION YouTube, PERSON Instagram, PERSON Facebook, PERSON Google Inc, PERSON Gmail, GPE China, PERSON Great Firewall
+7 custom entities: GPE Popular, PERSON Twitter YouTube Instagram, PERSON Facebook, PERSON Google, PERSON Gmail, GPE China, ORGANIZATION Great
+
+Source Sentence and Source Headline Match:
+Popular foreign social media sites like Twitter, YouTube, Instagram and Facebook as well as Google Inc's main search engine and Gmail service are all inaccessible in China without specialised software to vault what is known as the "Great Firewall".
+Olympics-Beijing official says Chinese have no need for blocked websites.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Popular foreign social media sites like Twitter, YouTube, Instagram and Facebook as well as Google Inc's main search engine and Gmail service are all inaccessible in China without specialised software to vault what is known as the "Great Firewall".
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Popular foreign social media sites like Twitter, YouTube, Instagram and Facebook as well as Google Inc's main search engine and Gmail service are all inaccessible in China without specialised software to vault what is known as the "Great Firewall".
+However, discussion of the film, which had received tens of millions of more views since March 2 when it passed 100 million views, is reportedly still being allowed on social media sites.
+3 matches: medium, sit, social
+
+----------------
+
+sent_5:
+5 out of 19 sentences
+4 out of 14 paragraphs
+Tagged as not being a quote
+
+Sentence:
+China had committed to providing media with the same freedom to report on the 2008 Beijing summer Olympics as they enjoyed at previous Games.
+2 default entities: GPE China, GPE Beijing
+2 custom entities: GPE China, GPE Beijing
+
+Source Sentence and Source Headline Match:
+China had committed to providing media with the same freedom to report on the 2008 Beijing summer Olympics as they enjoyed at previous Games.
+Olympics-Beijing official says Chinese have no need for blocked websites.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+China had committed to providing media with the same freedom to report on the 2008 Beijing summer Olympics as they enjoyed at previous Games.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+China had committed to providing media with the same freedom to report on the 2008 Beijing summer Olympics as they enjoyed at previous Games.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+2 matches: report, previous
+
+----------------
+
+sent_6:
+6 out of 19 sentences
+5 out of 14 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But when the main press centre opened, journalists complained of finding access to sites deemed sensitive to China's communist leadership blocked.
+1 default entities: GPE China
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+But when the main press centre opened, journalists complained of finding access to sites deemed sensitive to China's communist leadership blocked.
+Olympics-Beijing official says Chinese have no need for blocked websites.
+1 matches: block
+
+Source Sentence and Story Headline Match:
+But when the main press centre opened, journalists complained of finding access to sites deemed sensitive to China's communist leadership blocked.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+But when the main press centre opened, journalists complained of finding access to sites deemed sensitive to China's communist leadership blocked.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+1 matches: china's
+
+----------------
+
+sent_7:
+7 out of 19 sentences
+5 out of 14 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A senior International Olympic Committee (IOC) official later admitted that some IOC officials cut a deal to let China block sensitive websites.
+4 default entities: ORGANIZATION International, ORGANIZATION IOC, ORGANIZATION IOC, GPE China
+3 custom entities: ORGANIZATION International, ORGANIZATION IOC, GPE China
+
+Source Sentence and Source Headline Match:
+A senior International Olympic Committee (IOC) official later admitted that some IOC officials cut a deal to let China block sensitive websites.
+Olympics-Beijing official says Chinese have no need for blocked websites.
+2 matches: official, block
+
+Source Sentence and Story Headline Match:
+A senior International Olympic Committee (IOC) official later admitted that some IOC officials cut a deal to let China block sensitive websites.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+A senior International Olympic Committee (IOC) official later admitted that some IOC officials cut a deal to let China block sensitive websites.
+China will launch a 50 billion yuan ($8.13 billion) fund to combat pollution, according to the official China Securities Journal in Dec. 2014.
+2 matches: official, china
+
+----------------
+
+sent_8:
+8 out of 19 sentences
+6 out of 14 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Wang Hui, spokeswoman for the Beijing 2022 Olympic Winter Games Bid Committee, told a news briefing that China was an open country committed to having an open Internet.
+2 default entities: PERSON Wang Hui, GPE China
+3 custom entities: PERSON Wang, ORGANIZATION Hui, GPE China
+
+Source Sentence and Source Headline Match:
+Wang Hui, spokeswoman for the Beijing 2022 Olympic Winter Games Bid Committee, told a news briefing that China was an open country committed to having an open Internet.
+Olympics-Beijing official says Chinese have no need for blocked websites.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Wang Hui, spokeswoman for the Beijing 2022 Olympic Winter Games Bid Committee, told a news briefing that China was an open country committed to having an open Internet.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Wang Hui, spokeswoman for the Beijing 2022 Olympic Winter Games Bid Committee, told a news briefing that China was an open country committed to having an open Internet.
+On March 24, IOC officials began a 5-day tour of Beijing, which is bidding for the 2022 Winter Games.
+5 matches: bid, beijing, 2022, winter, game
+
+----------------
+
+sent_9:
+9 out of 19 sentences
+7 out of 14 paragraphs
+Tagged as a quote
+
+Sentence:
+"Everyone always brings up Facebook and Twitter, but people around me don't like to use it," Wang said, when asked whether foreign visitors would access uncensored Internet access if the city won the 2022 Games.
+3 default entities: ORGANIZATION Facebook, PERSON Twitter, PERSON Wang
+2 custom entities: ORGANIZATION Facebook, PERSON Wang
+
+Source Sentence and Source Headline Match:
+"Everyone always brings up Facebook and Twitter, but people around me don't like to use it," Wang said, when asked whether foreign visitors would access uncensored Internet access if the city won the 2022 Games.
+Olympics-Beijing official says Chinese have no need for blocked websites.
+1 matches: say
+
+Source Sentence and Story Headline Match:
+"Everyone always brings up Facebook and Twitter, but people around me don't like to use it," Wang said, when asked whether foreign visitors would access uncensored Internet access if the city won the 2022 Games.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+2 matches: city, say
+
+Source Sentence and Best Story Sentence Match:
+"Everyone always brings up Facebook and Twitter, but people around me don't like to use it," Wang said, when asked whether foreign visitors would access uncensored Internet access if the city won the 2022 Games.
+The Beijing government said it would begin collecting fees from construction sites that contribute to dust pollution in the city starting March 1.
+3 matches: would, city, say
+
+----------------
+
+sent_10:
+10 out of 19 sentences
+8 out of 14 paragraphs
+Tagged as a quote
+
+Sentence:
+"With our Weibo and WeChat, China's 650 million (web users) can freely use these tools to exchange and receive information," she said, referring to wildly popular Chinese social media tools which are subject to often quite strict government censorship.
+3 default entities: ORGANIZATION WeChat, GPE China, GPE Chinese
+2 custom entities: ORGANIZATION WeChat, GPE Chinese
+
+Source Sentence and Source Headline Match:
+"With our Weibo and WeChat, China's 650 million (web users) can freely use these tools to exchange and receive information," she said, referring to wildly popular Chinese social media tools which are subject to often quite strict government censorship.
+Olympics-Beijing official says Chinese have no need for blocked websites.
+2 matches: say, chinese
+
+Source Sentence and Story Headline Match:
+"With our Weibo and WeChat, China's 650 million (web users) can freely use these tools to exchange and receive information," she said, referring to wildly popular Chinese social media tools which are subject to often quite strict government censorship.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+2 matches: say, chinese
+
+Source Sentence and Best Story Sentence Match:
+"With our Weibo and WeChat, China's 650 million (web users) can freely use these tools to exchange and receive information," she said, referring to wildly popular Chinese social media tools which are subject to often quite strict government censorship.
+However, discussion of the film, which had received tens of millions of more views since March 2 when it passed 100 million views, is reportedly still being allowed on social media sites.
+4 matches: medium, receive, million, social
+
+----------------
+
+sent_11:
+11 out of 19 sentences
+9 out of 14 paragraphs
+Tagged as a quote
+
+Sentence:
+"If you gave these (Facebook and Twitter) to me, I would not use them.
+1 default entities: PERSON Twitter
+1 custom entities: PERSON Twitter
+
+Source Sentence and Source Headline Match:
+"If you gave these (Facebook and Twitter) to me, I would not use them.
+Olympics-Beijing official says Chinese have no need for blocked websites.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"If you gave these (Facebook and Twitter) to me, I would not use them.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"If you gave these (Facebook and Twitter) to me, I would not use them.
+The report, however, gives China credit for "unprecedented transparency" in sharing data and for some improvements in air quality.
+1 matches: give
+
+----------------
+
+sent_12:
+12 out of 19 sentences
+9 out of 14 paragraphs
+Tagged as a quote
+
+Sentence:
+I like using Weibo and WeChat."
+2 default entities: PERSON Weibo, ORGANIZATION WeChat
+2 custom entities: PERSON Weibo, ORGANIZATION WeChat
+
+Source Sentence and Source Headline Match:
+I like using Weibo and WeChat."
+Olympics-Beijing official says Chinese have no need for blocked websites.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+I like using Weibo and WeChat."
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+I like using Weibo and WeChat."
+"Despite modest improvements in high profile cities like Beijing, the figures paint a grim picture overall."
+1 matches: like
+
+----------------
+
+sent_13:
+13 out of 19 sentences
+10 out of 14 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Foreign visitors, including the press, spectators or athletes, would get open Internet access in 2022, Wang added, without explaining how exactly this would work.
+1 default entities: PERSON Wang
+1 custom entities: PERSON Wang
+
+Source Sentence and Source Headline Match:
+Foreign visitors, including the press, spectators or athletes, would get open Internet access in 2022, Wang added, without explaining how exactly this would work.
+Olympics-Beijing official says Chinese have no need for blocked websites.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Foreign visitors, including the press, spectators or athletes, would get open Internet access in 2022, Wang added, without explaining how exactly this would work.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Foreign visitors, including the press, spectators or athletes, would get open Internet access in 2022, Wang added, without explaining how exactly this would work.
+The Beijing government said it would begin collecting fees from construction sites that contribute to dust pollution in the city starting March 1.
+1 matches: would
+
+----------------
+
+sent_14:
+14 out of 19 sentences
+11 out of 14 paragraphs
+Tagged as a quote
+
+Sentence:
+"Without a doubt, 2022 will be even more open than 2008."
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"Without a doubt, 2022 will be even more open than 2008."
+Olympics-Beijing official says Chinese have no need for blocked websites.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"Without a doubt, 2022 will be even more open than 2008."
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"Without a doubt, 2022 will be even more open than 2008."
+On March 24, IOC officials began a 5-day tour of Beijing, which is bidding for the 2022 Winter Games.
+1 matches: 2022
+
+----------------
+
+sent_15:
+15 out of 19 sentences
+12 out of 14 paragraphs
+Tagged as not being a quote
+
+Sentence:
+An IOC evaluation team is in China this week, and the final decision on who gets the Games will be made in July.
+2 default entities: ORGANIZATION IOC, GPE China
+2 custom entities: ORGANIZATION IOC, GPE China
+
+Source Sentence and Source Headline Match:
+An IOC evaluation team is in China this week, and the final decision on who gets the Games will be made in July.
+Olympics-Beijing official says Chinese have no need for blocked websites.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+An IOC evaluation team is in China this week, and the final decision on who gets the Games will be made in July.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+An IOC evaluation team is in China this week, and the final decision on who gets the Games will be made in July.
+On March 24, IOC officials began a 5-day tour of Beijing, which is bidding for the 2022 Winter Games.
+2 matches: ioc, game
+
+----------------
+
+sent_16:
+16 out of 19 sentences
+12 out of 14 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The only other city bidding is Kazakhstan's Almaty.
+1 default entities: GPE Kazakhstan
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The only other city bidding is Kazakhstan's Almaty.
+Olympics-Beijing official says Chinese have no need for blocked websites.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The only other city bidding is Kazakhstan's Almaty.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: city
+
+Source Sentence and Best Story Sentence Match:
+The only other city bidding is Kazakhstan's Almaty.
+"Despite modest improvements in high profile cities like Beijing, the figures paint a grim picture overall."
+1 matches: city
+
+----------------
+
+sent_17:
+17 out of 19 sentences
+13 out of 14 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Despite being blocked in China, Beijing 2022 organisers have set up official Facebook pages and Twitter accounts, aimed at a foreign audience, though to little apparent effect.
+3 default entities: GPE China, GPE Beijing, ORGANIZATION Twitter
+2 custom entities: GPE China, ORGANIZATION Twitter
+
+Source Sentence and Source Headline Match:
+Despite being blocked in China, Beijing 2022 organisers have set up official Facebook pages and Twitter accounts, aimed at a foreign audience, though to little apparent effect.
+Olympics-Beijing official says Chinese have no need for blocked websites.
+2 matches: official, block
+
+Source Sentence and Story Headline Match:
+Despite being blocked in China, Beijing 2022 organisers have set up official Facebook pages and Twitter accounts, aimed at a foreign audience, though to little apparent effect.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Despite being blocked in China, Beijing 2022 organisers have set up official Facebook pages and Twitter accounts, aimed at a foreign audience, though to little apparent effect.
+On March 24, IOC officials began a 5-day tour of Beijing, which is bidding for the 2022 Winter Games.
+3 matches: official, beijing, 2022
+
+----------------
+
+sent_18:
+18 out of 19 sentences
+14 out of 14 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Beijing 2022 Twitter account, which sent its first tweet in early November, is only followed by some 550 people.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The Beijing 2022 Twitter account, which sent its first tweet in early November, is only followed by some 550 people.
+Olympics-Beijing official says Chinese have no need for blocked websites.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Beijing 2022 Twitter account, which sent its first tweet in early November, is only followed by some 550 people.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The Beijing 2022 Twitter account, which sent its first tweet in early November, is only followed by some 550 people.
+The Beijing Municipal Research Institute of Environmental Protection said dust accounts for approximately 14% of PM 2.5 in Beijing.
+2 matches: beijing, account
+
+----------------
+
+sent_19:
+19 out of 19 sentences
+14 out of 14 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Its official Facebook page has attracted just over 400 likes since it was sent up at about the same time.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Its official Facebook page has attracted just over 400 likes since it was sent up at about the same time.
+Olympics-Beijing official says Chinese have no need for blocked websites.
+1 matches: official
+
+Source Sentence and Story Headline Match:
+Its official Facebook page has attracted just over 400 likes since it was sent up at about the same time.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Its official Facebook page has attracted just over 400 likes since it was sent up at about the same time.
+"Despite modest improvements in high profile cities like Beijing, the figures paint a grim picture overall."
+1 matches: like
+
+----------------
+

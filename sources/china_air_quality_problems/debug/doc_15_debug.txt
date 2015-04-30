@@ -1,0 +1,386 @@
+sent_1:
+1 out of 14 sentences
+1 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Chinese authorities have announced plans to boost the number of electric, hybrid and other alternative fuel-powered vehicles used for public transportation, while sales of such cars for private use have spiked in recent months.
+1 default entities: GPE Chinese
+1 custom entities: GPE Chinese
+
+Source Sentence and Source Headline Match:
+Chinese authorities have announced plans to boost the number of electric, hybrid and other alternative fuel-powered vehicles used for public transportation, while sales of such cars for private use have spiked in recent months.
+China Boosts Fleet of Electric, Hybrid Vehicles.
+4 matches: boost, vehicle, electric, hybrid
+
+Source Sentence and Story Headline Match:
+Chinese authorities have announced plans to boost the number of electric, hybrid and other alternative fuel-powered vehicles used for public transportation, while sales of such cars for private use have spiked in recent months.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: chinese
+
+Source Sentence and Best Story Sentence Match:
+Chinese authorities have announced plans to boost the number of electric, hybrid and other alternative fuel-powered vehicles used for public transportation, while sales of such cars for private use have spiked in recent months.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+2 matches: month, chinese
+
+----------------
+
+sent_2:
+2 out of 14 sentences
+2 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Transport Ministry announced Wednesday that officials aimed to add 200,000 buses and 100,000 taxis powered by alternative fuels by 2020.
+1 default entities: ORGANIZATION Transport Ministry
+1 custom entities: ORGANIZATION Transport Ministry
+
+Source Sentence and Source Headline Match:
+The Transport Ministry announced Wednesday that officials aimed to add 200,000 buses and 100,000 taxis powered by alternative fuels by 2020.
+China Boosts Fleet of Electric, Hybrid Vehicles.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Transport Ministry announced Wednesday that officials aimed to add 200,000 buses and 100,000 taxis powered by alternative fuels by 2020.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The Transport Ministry announced Wednesday that officials aimed to add 200,000 buses and 100,000 taxis powered by alternative fuels by 2020.
+China will add 200,000 alternative fuel public buses and 100,000 alternative fuel taxis by 2020, China's Transport Ministry said March 18, according to the AP.
+9 matches: bus, add, fuel, 200,000, 100,000, transport, ministry, alternative, 2020
+
+----------------
+
+sent_3:
+3 out of 14 sentences
+2 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Last year, the country added 15,000 alternative fuel-powered buses to its roads.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Last year, the country added 15,000 alternative fuel-powered buses to its roads.
+China Boosts Fleet of Electric, Hybrid Vehicles.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Last year, the country added 15,000 alternative fuel-powered buses to its roads.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Last year, the country added 15,000 alternative fuel-powered buses to its roads.
+China will add 200,000 alternative fuel public buses and 100,000 alternative fuel taxis by 2020, China's Transport Ministry said March 18, according to the AP.
+3 matches: alternative, bus, add
+
+----------------
+
+sent_4:
+4 out of 14 sentences
+3 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Sales of alternative-fuel vehicles have spiked in recent months as China offers tax breaks and other incentives to encourage purchases of electric vehicles and plug-in hybrids, amid a larger anti-pollution fight.
+1 default entities: GPE China
+1 custom entities: GPE China
+
+Source Sentence and Source Headline Match:
+Sales of alternative-fuel vehicles have spiked in recent months as China offers tax breaks and other incentives to encourage purchases of electric vehicles and plug-in hybrids, amid a larger anti-pollution fight.
+China Boosts Fleet of Electric, Hybrid Vehicles.
+4 matches: hybrid, vehicle, electric, china
+
+Source Sentence and Story Headline Match:
+Sales of alternative-fuel vehicles have spiked in recent months as China offers tax breaks and other incentives to encourage purchases of electric vehicles and plug-in hybrids, amid a larger anti-pollution fight.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Sales of alternative-fuel vehicles have spiked in recent months as China offers tax breaks and other incentives to encourage purchases of electric vehicles and plug-in hybrids, amid a larger anti-pollution fight.
+Persistent pollution continues to be an everyday health threat for many people in China.
+1 matches: china
+
+----------------
+
+sent_5:
+5 out of 14 sentences
+3 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Government data show vehicle exhaust make up 30 percent of pollution in smoggy Beijing.
+1 default entities: GPE Beijing
+1 custom entities: GPE Beijing
+
+Source Sentence and Source Headline Match:
+Government data show vehicle exhaust make up 30 percent of pollution in smoggy Beijing.
+China Boosts Fleet of Electric, Hybrid Vehicles.
+1 matches: vehicle
+
+Source Sentence and Story Headline Match:
+Government data show vehicle exhaust make up 30 percent of pollution in smoggy Beijing.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Government data show vehicle exhaust make up 30 percent of pollution in smoggy Beijing.
+The Beijing government said it would begin collecting fees from construction sites that contribute to dust pollution in the city starting March 1.
+3 matches: beijing, government, pollution
+
+----------------
+
+sent_6:
+6 out of 14 sentences
+4 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The China Association of Automobile Manufacturers reported that 5,996 electric vehicles were sold in January and February of this year, 4.2 times the number sold during the same period last year.
+2 default entities: GPE China, ORGANIZATION Automobile Manufacturers
+2 custom entities: GPE China, ORGANIZATION Automobile Manufacturers
+
+Source Sentence and Source Headline Match:
+The China Association of Automobile Manufacturers reported that 5,996 electric vehicles were sold in January and February of this year, 4.2 times the number sold during the same period last year.
+China Boosts Fleet of Electric, Hybrid Vehicles.
+3 matches: vehicle, electric, china
+
+Source Sentence and Story Headline Match:
+The China Association of Automobile Manufacturers reported that 5,996 electric vehicles were sold in January and February of this year, 4.2 times the number sold during the same period last year.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The China Association of Automobile Manufacturers reported that 5,996 electric vehicles were sold in January and February of this year, 4.2 times the number sold during the same period last year.
+The report, however, gives China credit for "unprecedented transparency" in sharing data and for some improvements in air quality.
+2 matches: report, china
+
+----------------
+
+sent_7:
+7 out of 14 sentences
+4 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Another 6,444 hybrid vehicles were sold during those two months, 2.2 times more than the same period last year.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Another 6,444 hybrid vehicles were sold during those two months, 2.2 times more than the same period last year.
+China Boosts Fleet of Electric, Hybrid Vehicles.
+2 matches: vehicle, hybrid
+
+Source Sentence and Story Headline Match:
+Another 6,444 hybrid vehicles were sold during those two months, 2.2 times more than the same period last year.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Another 6,444 hybrid vehicles were sold during those two months, 2.2 times more than the same period last year.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+1 matches: month
+
+----------------
+
+sent_8:
+8 out of 14 sentences
+5 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Yale Zhang, the managing director of Shanghai-based research group Automotive Foresight, said sales of privately owned electric and plug-in hybrid vehicles will likely stay hot at least until the government subsidies begin lowering from 2016 through 2020.
+3 default entities: PERSON Yale, PERSON Zhang, PERSON Automotive Foresight
+2 custom entities: PERSON Yale, PERSON Automotive Foresight
+
+Source Sentence and Source Headline Match:
+Yale Zhang, the managing director of Shanghai-based research group Automotive Foresight, said sales of privately owned electric and plug-in hybrid vehicles will likely stay hot at least until the government subsidies begin lowering from 2016 through 2020.
+China Boosts Fleet of Electric, Hybrid Vehicles.
+3 matches: vehicle, electric, hybrid
+
+Source Sentence and Story Headline Match:
+Yale Zhang, the managing director of Shanghai-based research group Automotive Foresight, said sales of privately owned electric and plug-in hybrid vehicles will likely stay hot at least until the government subsidies begin lowering from 2016 through 2020.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: say
+
+Source Sentence and Best Story Sentence Match:
+Yale Zhang, the managing director of Shanghai-based research group Automotive Foresight, said sales of privately owned electric and plug-in hybrid vehicles will likely stay hot at least until the government subsidies begin lowering from 2016 through 2020.
+The Beijing government said it would begin collecting fees from construction sites that contribute to dust pollution in the city starting March 1.
+3 matches: government, begin, say
+
+----------------
+
+sent_9:
+9 out of 14 sentences
+5 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In cities such as Beijing, owners of electric vehicles also enjoy a much better chance at winning a license plate in a highly competitive lottery system.
+1 default entities: GPE Beijing
+1 custom entities: GPE Beijing
+
+Source Sentence and Source Headline Match:
+In cities such as Beijing, owners of electric vehicles also enjoy a much better chance at winning a license plate in a highly competitive lottery system.
+China Boosts Fleet of Electric, Hybrid Vehicles.
+2 matches: vehicle, electric
+
+Source Sentence and Story Headline Match:
+In cities such as Beijing, owners of electric vehicles also enjoy a much better chance at winning a license plate in a highly competitive lottery system.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: city
+
+Source Sentence and Best Story Sentence Match:
+In cities such as Beijing, owners of electric vehicles also enjoy a much better chance at winning a license plate in a highly competitive lottery system.
+"Despite modest improvements in high profile cities like Beijing, the figures paint a grim picture overall."
+2 matches: beijing, city
+
+----------------
+
+sent_10:
+10 out of 14 sentences
+6 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+With the subsidy, a low-end electric vehicle still costs twice that of a comparable petroleum-fueled model.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+With the subsidy, a low-end electric vehicle still costs twice that of a comparable petroleum-fueled model.
+China Boosts Fleet of Electric, Hybrid Vehicles.
+2 matches: vehicle, electric
+
+Source Sentence and Story Headline Match:
+With the subsidy, a low-end electric vehicle still costs twice that of a comparable petroleum-fueled model.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+With the subsidy, a low-end electric vehicle still costs twice that of a comparable petroleum-fueled model.
+Chinese cities often have unsafe levels of PM2.5 particles, which come mostly from vehicles and power plants burning fuels.
+1 matches: vehicle
+
+----------------
+
+sent_11:
+11 out of 14 sentences
+6 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The lack of charging stations and other infrastructure serving electric vehicles also holds back growth in their use in China.
+1 default entities: GPE China
+1 custom entities: GPE China
+
+Source Sentence and Source Headline Match:
+The lack of charging stations and other infrastructure serving electric vehicles also holds back growth in their use in China.
+China Boosts Fleet of Electric, Hybrid Vehicles.
+3 matches: vehicle, electric, china
+
+Source Sentence and Story Headline Match:
+The lack of charging stations and other infrastructure serving electric vehicles also holds back growth in their use in China.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The lack of charging stations and other infrastructure serving electric vehicles also holds back growth in their use in China.
+The most polluted city in China was Baoding, also in Hebei.
+2 matches: also, china
+
+----------------
+
+sent_12:
+12 out of 14 sentences
+7 out of 8 paragraphs
+Tagged as a quote
+
+Sentence:
+"This is not an easy issue," Zhang said.
+1 default entities: PERSON Zhang
+1 custom entities: PERSON Zhang
+
+Source Sentence and Source Headline Match:
+"This is not an easy issue," Zhang said.
+China Boosts Fleet of Electric, Hybrid Vehicles.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"This is not an easy issue," Zhang said.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: say
+
+Source Sentence and Best Story Sentence Match:
+"This is not an easy issue," Zhang said.
+Zhang Jiandong, vice-chair of Beijing's bid committee said that the city has "the confidence" that it can reduce pollution before the Games.
+2 matches: zhang, say
+
+----------------
+
+sent_13:
+13 out of 14 sentences
+7 out of 8 paragraphs
+Tagged as a quote
+
+Sentence:
+"It's all under construction, but very slowly."
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"It's all under construction, but very slowly."
+China Boosts Fleet of Electric, Hybrid Vehicles.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"It's all under construction, but very slowly."
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"It's all under construction, but very slowly."
+The Beijing government said it would begin collecting fees from construction sites that contribute to dust pollution in the city starting March 1.
+1 matches: construction
+
+----------------
+
+sent_14:
+14 out of 14 sentences
+8 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+International automakers are eager to build their alternative fuel vehicle presence in China, the world's biggest auto market, but some companies such as U.S.-based high-end manufacturer Tesla have struggled so far.
+2 default entities: GPE China, GPE U.S.-based
+2 custom entities: GPE China, GPE U.S.-based
+
+Source Sentence and Source Headline Match:
+International automakers are eager to build their alternative fuel vehicle presence in China, the world's biggest auto market, but some companies such as U.S.-based high-end manufacturer Tesla have struggled so far.
+China Boosts Fleet of Electric, Hybrid Vehicles.
+2 matches: vehicle, china
+
+Source Sentence and Story Headline Match:
+International automakers are eager to build their alternative fuel vehicle presence in China, the world's biggest auto market, but some companies such as U.S.-based high-end manufacturer Tesla have struggled so far.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+International automakers are eager to build their alternative fuel vehicle presence in China, the world's biggest auto market, but some companies such as U.S.-based high-end manufacturer Tesla have struggled so far.
+China will add 200,000 alternative fuel public buses and 100,000 alternative fuel taxis by 2020, China's Transport Ministry said March 18, according to the AP.
+3 matches: alternative, fuel, china
+
+----------------
+

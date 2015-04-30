@@ -1,0 +1,250 @@
+sent_1:
+
+One Friday more than two years ago, an air-quality monitoring device atop the United States Embassy in Beijing recorded data so horrifying that someone in the embassy called the level of pollution “Crazy Bad” in an infamous Twitter post.
+Beijing's air pollution went "beyond index" on Jan. 15, meaning it exceeded the scale's highest reading of 500, according to the U.S. Embassy in Beijing.
+3 best matches: pollution, beijing, embassy
+
+----------------
+sent_2:
+
+That day the Air Quality Index, which uses standards set by the United States Environmental Protection Agency, had crept above 500, which was supposed to be the top of the scale.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+3 best matches: quality, standard, air
+
+----------------
+sent_3:
+
+So what phrase is appropriate to describe Saturday’s jaw-dropping reading of 755 at 8 p.m., when all of Beijing looked like an airport smokers’ lounge?
+"Despite modest improvements in high profile cities like Beijing, the figures paint a grim picture overall."
+2 best matches: like, beijing
+
+----------------
+sent_4:
+
+Though an embassy spokesman said he did not immediately have comparative data, Beijing residents who follow the Twitter feed said the Saturday numbers appeared to be the highest recorded since the embassy began its monitoring system in 2008.
+The Beijing government said it would begin collecting fees from construction sites that contribute to dust pollution in the city starting March 1.
+4 best matches: beijing, begin, say, fee
+
+----------------
+sent_5:
+
+The embassy’s @BeijingAir Twitter feed said the level of toxicity in the air was “Beyond Index,” the terminology for levels above 500; the “Crazy Bad” label was used just once, in November 2010, before it was quickly deleted by the embassy from the Twitter feed.
+Beijing's air pollution went "beyond index" on Jan. 15, meaning it exceeded the scale's highest reading of 500, according to the U.S. Embassy in Beijing.
+5 best matches: index, beyond, 500, embassy, air
+
+----------------
+sent_6:
+
+According to the Environmental Protection Agency, levels between 301 and 500 are “Hazardous,” meaning people should avoid all outdoor activity.
+China's Ministry of Environmental Protection said Feb. 1 that 66 of 74 cities failed to meet air pollution targets in 2014.
+2 best matches: environmental, protection
+
+----------------
+sent_7:
+
+The World Health Organization has standards that judge a score above 500 to be more than 20 times the level of particulate matter in the air deemed safe.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+2 best matches: standard, air
+
+----------------
+sent_8:
+
+In online conversations, Beijing residents tried to make sense of the latest readings.
+"Despite modest improvements in high profile cities like Beijing, the figures paint a grim picture overall."
+1 best matches: beijing
+
+----------------
+sent_9:
+
+“This is a historic record for Beijing,” Zhao Jing, a prominent Internet commentator who uses the pen name Michael Anti, wrote on Twitter.
+"Despite modest improvements in high profile cities like Beijing, the figures paint a grim picture overall."
+1 best matches: beijing
+
+----------------
+sent_10:
+
+“I’ve closed the doors and windows; the air purifiers are all running automatically at full power.”
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+1 best matches: air
+
+----------------
+sent_11:
+
+Other Beijing residents online described the air as “postapocalyptic,” “terrifying” and “beyond belief.”
+Beijing's air pollution went "beyond index" on Jan. 15, meaning it exceeded the scale's highest reading of 500, according to the U.S. Embassy in Beijing.
+3 best matches: beyond, beijing, air
+
+----------------
+sent_12:
+
+The municipal government reported levels as high as 500 on Saturday evening from some monitoring stations.
+Beijing's air pollution went "beyond index" on Jan. 15, meaning it exceeded the scale's highest reading of 500, according to the U.S. Embassy in Beijing.
+2 best matches: 500, high
+
+----------------
+sent_13:
+
+The Chinese system does not report numbers beyond 500.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+2 best matches: report, chinese
+
+----------------
+sent_14:
+
+Nevertheless, readings in central Beijing throughout the day were at the extreme end of what is considered hazardous according to the United States Environmental Protection Agency standards.
+The Beijing Municipal Research Institute of Environmental Protection said dust accounts for approximately 14% of PM 2.5 in Beijing.
+3 best matches: beijing, environmental, protection
+
+----------------
+sent_15:
+
+(By comparison, the air quality index in New York City, using the same standard, was 19 at 6 a.m. on Saturday.)
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+4 best matches: quality, standard, city, air
+
+----------------
+sent_16:
+
+Pollution levels in Beijing had been creeping up for days, and readings were regularly surging above 300 by midweek.
+Beijing's air pollution went "beyond index" on Jan. 15, meaning it exceeded the scale's highest reading of 500, according to the U.S. Embassy in Beijing.
+2 best matches: pollution, beijing
+
+----------------
+sent_17:
+
+The interior of the gleaming Terminal 3 of the Beijing Capital International Airport was filled with a thick haze on Thursday.
+"Despite modest improvements in high profile cities like Beijing, the figures paint a grim picture overall."
+1 best matches: beijing
+
+----------------
+sent_18:
+
+The next day, people working in office towers in downtown Beijing found it impossible to make out skyscrapers just a few blocks away.
+Persistent pollution continues to be an everyday health threat for many people in China.
+1 best matches: people
+
+----------------
+sent_19:
+
+Some city residents scoured stores in search of masks and air filters.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+2 best matches: city, air
+
+----------------
+sent_20:
+
+Still, there was little warning that the United States Embassy reading would jump above 700 on Saturday.
+Beijing's air pollution went "beyond index" on Jan. 15, meaning it exceeded the scale's highest reading of 500, according to the U.S. Embassy in Beijing.
+1 best matches: embassy
+
+----------------
+sent_21:
+
+Some people speculated that the monitoring system, which measures fine particles called PM 2.5 because they are 2.5 microns in diameter or smaller, might have malfunctioned once it got beyond 500.
+The particles, which measure about 1/30th the average width of a human hair, can penetrate deep into people's lungs.
+2 best matches: measure, particle
+
+----------------
+sent_22:
+
+But Nolan Barkhouse, an embassy spokesman, said the monitor was operating correctly.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+1 best matches: say
+
+----------------
+sent_23:
+
+It was unclear exactly what was responsible for the rise in levels of particulate matter, beyond the factors that regularly sully the air here.
+Beijing's air pollution went "beyond index" on Jan. 15, meaning it exceeded the scale's highest reading of 500, according to the U.S. Embassy in Beijing.
+2 best matches: beyond, air
+
+----------------
+sent_24:
+
+Factories operating in neighboring Hebei Province ring this city of more than 20 million.
+Seven of the ten most polluted cities were in Hebei Province, which surrounds the Beijing municipality.
+3 best matches: province, city, hebei
+
+----------------
+sent_25:
+
+no story sentence best matches found
+
+----------------
+sent_26:
+
+And Beijing sits on a plain flanked by hills and escarpments that can trap pollution on days with little wind.
+Beijing's air pollution went "beyond index" on Jan. 15, meaning it exceeded the scale's highest reading of 500, according to the U.S. Embassy in Beijing.
+2 best matches: pollution, beijing
+
+----------------
+sent_27:
+
+Meanwhile, one person hiking at the Great Wall in the hills at Mutianyu, north of Beijing, took photographs of crisp blue skies there.
+"Despite modest improvements in high profile cities like Beijing, the figures paint a grim picture overall."
+1 best matches: beijing
+
+----------------
+sent_28:
+
+Xinhua, the state news agency, reported on Dec. 31 that Beijing’s air quality had improved for 14 years straight, and the level of major pollutants had decreased.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+3 best matches: report, quality, air
+
+----------------
+sent_29:
+
+A municipal government spokesman told Xinhua that the annual average concentration of PM 10, or particles 10 microns in diameter or smaller, had dropped by 4 percent in 2012, compared with one year earlier.
+The particles, which measure about 1/30th the average width of a human hair, can penetrate deep into people's lungs.
+2 best matches: average, particle
+
+----------------
+sent_30:
+
+Chinese officials prefer to publicly release air pollution measurements that give only levels of PM 10, although foreign health and environmental experts say PM 2.5 can be deadlier and more important to track.
+China's Ministry of Environmental Protection said Feb. 1 that 66 of 74 cities failed to meet air pollution targets in 2014.
+4 best matches: pollution, environmental, say, air
+
+----------------
+sent_31:
+
+There has been a growing outcry among Chinese for municipal governments to release fuller air quality data, in part because of the United States Embassy Twitter feed.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+3 best matches: air, quality, chinese
+
+----------------
+sent_32:
+
+As a result, Beijing began announcing PM 2.5 numbers last January.
+The Beijing Municipal Research Institute of Environmental Protection said dust accounts for approximately 14% of PM 2.5 in Beijing.
+3 best matches: 2.5, pm, beijing
+
+----------------
+sent_33:
+
+Major Chinese cities have had the equipment to track those levels, but had refused for a long time to release the data.
+Chinese cities often have unsafe levels of PM2.5 particles, which come mostly from vehicles and power plants burning fuels.
+3 best matches: city, level, chinese
+
+----------------
+sent_34:
+
+The existence of the embassy’s machine and the @BeijingAir Twitter feed have been a diplomatic sore point for Chinese officials.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+1 best matches: chinese
+
+----------------
+sent_35:
+
+In July 2009, a Chinese Foreign Ministry official, Wang Shu’ai, told American diplomats to halt the Twitter feed, saying that the data “is not only confusing but also insulting,” according to a State Department cable obtained by WikiLeaks.
+China will add 200,000 alternative fuel public buses and 100,000 alternative fuel taxis by 2020, China's Transport Ministry said March 18, according to the AP.
+3 best matches: ministry, say, accord
+
+----------------
+sent_36:
+
+Mr. Wang said the embassy’s data could lead to “social consequences.”
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+1 best matches: say
+
+----------------

@@ -1,0 +1,70 @@
+sent_1:
+
+Nearly 90 percent of China's big cities failed to meet air quality standards in 2014, but that was still an improvement on 2013 as the country's "war on pollution" began to take effect, the environment ministry said on Monday.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+9 best matches: fail, air, meet, china's, quality, standard, say, 90, city
+
+----------------
+sent_2:
+
+The Ministry of Environmental Protection said on its website (www.mep.gov.cn) that only eight of the 74 cities it monitors managed to meet national standards in 2014 on a series of pollution measures such as PM2.5, which is a reading of particles found in the air, carbon monoxide and ozone.
+China's Ministry of Environmental Protection said Feb. 1 that 66 of 74 cities failed to meet air pollution targets in 2014.
+10 best matches: air, ministry, protection, meet, 74, pollution, say, environmental, city, 2014
+
+----------------
+sent_3:
+
+Amid growing public disquiet about smog and other environmental risks, China said last year it would "declare war on pollution" and it has started to eliminate substandard industrial capacity and reduce coal consumption.
+The Beijing government said it would begin collecting fees from construction sites that contribute to dust pollution in the city starting March 1.
+4 best matches: would, pollution, say, start
+
+----------------
+sent_4:
+
+In 2013, only three cities - Haikou on the island province of Hainan, the Tibetan capital of Lhasa and the coastal resort city of Zhoushan - met the standards.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+2 best matches: standard, city
+
+----------------
+sent_5:
+
+They were joined in 2014 by Shenzhen, Huizhou and Zhuhai in southeast Guangdong province, Fuzhou in neighboring Fujian and Kunming in the southwest.
+China's Ministry of Environmental Protection said Feb. 1 that 66 of 74 cities failed to meet air pollution targets in 2014.
+1 best matches: 2014
+
+----------------
+sent_6:
+
+Of the 10 worst-performing cities in 2014, seven were located in the heavy industrial province of Hebei, which surrounds the capital, Beijing, the ministry said.
+Seven of the ten most polluted cities were in Hebei Province, which surrounds the Beijing municipality.
+6 best matches: beijing, seven, surround, province, city, hebei
+
+----------------
+sent_7:
+
+The cities of Baoding, Xingtai, Shijiazhuang, Tangshan, Handan and Hengshui, all in Hebei, filled the top six places.
+The most polluted city in China was Baoding, also in Hebei.
+3 best matches: hebei, city, baoding
+
+----------------
+sent_8:
+
+The ministry said the average PM2.5 reading in the Beijing-Hebei-Tianjin region stood at 93 micrograms per cubic meter last year.
+China's Ministry of Environmental Protection said Feb. 1 that 66 of 74 cities failed to meet air pollution targets in 2014.
+2 best matches: ministry, say
+
+----------------
+sent_9:
+
+The state standard is 35 micrograms but China does not expect to bring the national average down to that level before 2030.
+Persistent pollution continues to be an everyday health threat for many people in China.
+1 best matches: china
+
+----------------
+sent_10:
+
+The government has identified Hebei as a top priority when it comes to cutting smog, and it has set targets to slash coal consumption and close polluting industrial capacity, but the province has struggled to find alternative sources of growth.
+Seven of the ten most polluted cities were in Hebei Province, which surrounds the Beijing municipality.
+2 best matches: province, hebei
+
+----------------

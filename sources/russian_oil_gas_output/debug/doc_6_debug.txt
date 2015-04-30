@@ -1,0 +1,432 @@
+sent_1:
+1 out of 16 sentences
+1 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Russia's Gazprom said on Wednesday it is unable to meet rising gas demand from Europe while it builds up stockpiles ahead of winter, undermining the ability of Europe to supply Ukraine with gas.
+5 default entities: GPE Russia, PERSON Gazprom, GPE Europe, GPE Europe, PERSON Ukraine
+4 custom entities: PERSON Gazprom, GPE Europe, GPE Europe, PERSON Ukraine
+
+Source Sentence and Source Headline Match:
+Russia's Gazprom said on Wednesday it is unable to meet rising gas demand from Europe while it builds up stockpiles ahead of winter, undermining the ability of Europe to supply Ukraine with gas.
+Gazprom says unable to meet rising gas demand from Europe for now.
+8 matches: unable, meet, rise, gazprom, say, europe, gas, demand
+
+Source Sentence and Story Headline Match:
+Russia's Gazprom said on Wednesday it is unable to meet rising gas demand from Europe while it builds up stockpiles ahead of winter, undermining the ability of Europe to supply Ukraine with gas.
+EU files antitrust charges against Russian energy giant Gazprom.
+1 matches: gazprom
+
+Source Sentence and Best Story Sentence Match:
+Russia's Gazprom said on Wednesday it is unable to meet rising gas demand from Europe while it builds up stockpiles ahead of winter, undermining the ability of Europe to supply Ukraine with gas.
+Gazprom CEO Alexei Miller told the Russian government that Gazprom was meeting its contractual obligations with Europe, but was unable to meet extra volumes asked for.
+4 matches: europe, gazprom, unable, meet
+
+----------------
+
+sent_2:
+2 out of 16 sentences
+2 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Slovakia, Poland, Romania and Austria have all reported slight falls in shipments in recent days from Russia, which is embroiled in a row with the European Union over the crisis in Ukraine.
+7 default entities: GPE Slovakia, GPE Poland, GPE Romania, GSP Austria, GPE Russia, ORGANIZATION European Union, GPE Ukraine
+6 custom entities: PERSON Slovakia, ORGANIZATION Poland Romania, GSP Austria, GPE Russia, ORGANIZATION European Union, GPE Ukraine
+
+Source Sentence and Source Headline Match:
+Slovakia, Poland, Romania and Austria have all reported slight falls in shipments in recent days from Russia, which is embroiled in a row with the European Union over the crisis in Ukraine.
+Gazprom says unable to meet rising gas demand from Europe for now.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Slovakia, Poland, Romania and Austria have all reported slight falls in shipments in recent days from Russia, which is embroiled in a row with the European Union over the crisis in Ukraine.
+EU files antitrust charges against Russian energy giant Gazprom.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Slovakia, Poland, Romania and Austria have all reported slight falls in shipments in recent days from Russia, which is embroiled in a row with the European Union over the crisis in Ukraine.
+One-third of the European Union's natural gas is supplied by Russia.
+2 matches: russia, european
+
+----------------
+
+sent_3:
+3 out of 16 sentences
+3 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Some countries in eastern Europe send gas to Ukraine, to which Russia stopped gas flows in June over a pricing dispute.
+3 default entities: GPE Europe, GPE Ukraine, GPE Russia
+3 custom entities: GPE Europe, GPE Ukraine, GPE Russia
+
+Source Sentence and Source Headline Match:
+Some countries in eastern Europe send gas to Ukraine, to which Russia stopped gas flows in June over a pricing dispute.
+Gazprom says unable to meet rising gas demand from Europe for now.
+2 matches: europe, gas
+
+Source Sentence and Story Headline Match:
+Some countries in eastern Europe send gas to Ukraine, to which Russia stopped gas flows in June over a pricing dispute.
+EU files antitrust charges against Russian energy giant Gazprom.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Some countries in eastern Europe send gas to Ukraine, to which Russia stopped gas flows in June over a pricing dispute.
+Russian oil producer Gazprom recorded an annual output fall of 9% amid the ongoing natural gas pricing dispute with neighboring Ukraine.
+4 matches: gas, pricing, dispute, ukraine
+
+----------------
+
+sent_4:
+4 out of 16 sentences
+4 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Gazprom's Chief Executive Officer Alexei Miller told Russian President Vladimir Putin that the company is pumping gas in accordance with contracts with European consumers, but was not supplying extra volumes asked for.
+4 default entities: PERSON Alexei Miller, GPE Russian, PERSON Vladimir Putin, GPE European
+4 custom entities: PERSON Alexei Miller, GPE Russian, PERSON Vladimir Putin, GPE European
+
+Source Sentence and Source Headline Match:
+Gazprom's Chief Executive Officer Alexei Miller told Russian President Vladimir Putin that the company is pumping gas in accordance with contracts with European consumers, but was not supplying extra volumes asked for.
+Gazprom says unable to meet rising gas demand from Europe for now.
+1 matches: gas
+
+Source Sentence and Story Headline Match:
+Gazprom's Chief Executive Officer Alexei Miller told Russian President Vladimir Putin that the company is pumping gas in accordance with contracts with European consumers, but was not supplying extra volumes asked for.
+EU files antitrust charges against Russian energy giant Gazprom.
+1 matches: russian
+
+Source Sentence and Best Story Sentence Match:
+Gazprom's Chief Executive Officer Alexei Miller told Russian President Vladimir Putin that the company is pumping gas in accordance with contracts with European consumers, but was not supplying extra volumes asked for.
+Gazprom CEO Alexei Miller told the Russian government that Gazprom was meeting its contractual obligations with Europe, but was unable to meet extra volumes asked for.
+7 matches: tell, ask, volume, russian, miller, extra, alexei
+
+----------------
+
+sent_5:
+5 out of 16 sentences
+5 out of 15 paragraphs
+Tagged as a quote
+
+Sentence:
+"Gazprom is carrying out stable daily supplies to European consumers.
+1 default entities: GPE European
+1 custom entities: GPE European
+
+Source Sentence and Source Headline Match:
+"Gazprom is carrying out stable daily supplies to European consumers.
+Gazprom says unable to meet rising gas demand from Europe for now.
+1 matches: gazprom
+
+Source Sentence and Story Headline Match:
+"Gazprom is carrying out stable daily supplies to European consumers.
+EU files antitrust charges against Russian energy giant Gazprom.
+1 matches: gazprom
+
+Source Sentence and Best Story Sentence Match:
+"Gazprom is carrying out stable daily supplies to European consumers.
+The European Commission (EC) filed antitrust charges against Russian energy giant Gazprom on April 22, claiming the world's largest producer of gas has gouged prices and is abusing its power.
+2 matches: gazprom, european
+
+----------------
+
+sent_6:
+6 out of 16 sentences
+5 out of 15 paragraphs
+Tagged as a quote
+
+Sentence:
+We fully adhere to our contractual obligations," Miller said in a meeting at the Kremlin attended by reporters.
+2 default entities: PERSON Miller, FACILITY Kremlin
+2 custom entities: PERSON Miller, FACILITY Kremlin
+
+Source Sentence and Source Headline Match:
+We fully adhere to our contractual obligations," Miller said in a meeting at the Kremlin attended by reporters.
+Gazprom says unable to meet rising gas demand from Europe for now.
+1 matches: say
+
+Source Sentence and Story Headline Match:
+We fully adhere to our contractual obligations," Miller said in a meeting at the Kremlin attended by reporters.
+EU files antitrust charges against Russian energy giant Gazprom.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+We fully adhere to our contractual obligations," Miller said in a meeting at the Kremlin attended by reporters.
+Gazprom CEO Alexei Miller told the Russian government that Gazprom was meeting its contractual obligations with Europe, but was unable to meet extra volumes asked for.
+3 matches: obligation, contractual, miller
+
+----------------
+
+sent_7:
+7 out of 16 sentences
+6 out of 15 paragraphs
+Tagged as a quote
+
+Sentence:
+"Once gas is collected in our underground storage, then we will be able to satisfy the (extra) demand of our European consumers," he said.
+1 default entities: GPE European
+1 custom entities: GPE European
+
+Source Sentence and Source Headline Match:
+"Once gas is collected in our underground storage, then we will be able to satisfy the (extra) demand of our European consumers," he said.
+Gazprom says unable to meet rising gas demand from Europe for now.
+3 matches: gas, demand, say
+
+Source Sentence and Story Headline Match:
+"Once gas is collected in our underground storage, then we will be able to satisfy the (extra) demand of our European consumers," he said.
+EU files antitrust charges against Russian energy giant Gazprom.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"Once gas is collected in our underground storage, then we will be able to satisfy the (extra) demand of our European consumers," he said.
+The European Commission (EC) filed antitrust charges against Russian energy giant Gazprom on April 22, claiming the world's largest producer of gas has gouged prices and is abusing its power.
+2 matches: gas, european
+
+----------------
+
+sent_8:
+8 out of 16 sentences
+7 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+EU industry experts and European Commission officials held the latest in a series of meetings on Tuesday to assess the security of the EU's energy supplies.
+3 default entities: GPE EU, ORGANIZATION European Commission, GPE EU
+2 custom entities: GPE EU, ORGANIZATION European Commission
+
+Source Sentence and Source Headline Match:
+EU industry experts and European Commission officials held the latest in a series of meetings on Tuesday to assess the security of the EU's energy supplies.
+Gazprom says unable to meet rising gas demand from Europe for now.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+EU industry experts and European Commission officials held the latest in a series of meetings on Tuesday to assess the security of the EU's energy supplies.
+EU files antitrust charges against Russian energy giant Gazprom.
+2 matches: eu, energy
+
+Source Sentence and Best Story Sentence Match:
+EU industry experts and European Commission officials held the latest in a series of meetings on Tuesday to assess the security of the EU's energy supplies.
+The European Commission (EC) filed antitrust charges against Russian energy giant Gazprom on April 22, claiming the world's largest producer of gas has gouged prices and is abusing its power.
+3 matches: commission, energy, european
+
+----------------
+
+sent_9:
+9 out of 16 sentences
+8 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+EU sources, speaking on condition of anonymity, said the issue of how much gas Gazprom was supplying to the European Union had been raised and that EU officials had said Gazprom had been adjusting volumes but within contractual limits.
+5 default entities: GPE EU, PERSON Gazprom, ORGANIZATION European Union, GPE EU, PERSON Gazprom
+5 custom entities: GPE EU, PERSON Gazprom, ORGANIZATION European Union, GPE EU, PERSON Gazprom
+
+Source Sentence and Source Headline Match:
+EU sources, speaking on condition of anonymity, said the issue of how much gas Gazprom was supplying to the European Union had been raised and that EU officials had said Gazprom had been adjusting volumes but within contractual limits.
+Gazprom says unable to meet rising gas demand from Europe for now.
+3 matches: gazprom, gas, say
+
+Source Sentence and Story Headline Match:
+EU sources, speaking on condition of anonymity, said the issue of how much gas Gazprom was supplying to the European Union had been raised and that EU officials had said Gazprom had been adjusting volumes but within contractual limits.
+EU files antitrust charges against Russian energy giant Gazprom.
+2 matches: gazprom, eu
+
+Source Sentence and Best Story Sentence Match:
+EU sources, speaking on condition of anonymity, said the issue of how much gas Gazprom was supplying to the European Union had been raised and that EU officials had said Gazprom had been adjusting volumes but within contractual limits.
+The European Commission (EC) filed antitrust charges against Russian energy giant Gazprom on April 22, claiming the world's largest producer of gas has gouged prices and is abusing its power.
+3 matches: gazprom, gas, european
+
+----------------
+
+sent_10:
+10 out of 16 sentences
+9 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The European Commission has repeatedly said that storage levels are comfortable for now, but they are concerned about the longer term.
+1 default entities: ORGANIZATION European Commission
+1 custom entities: ORGANIZATION European Commission
+
+Source Sentence and Source Headline Match:
+The European Commission has repeatedly said that storage levels are comfortable for now, but they are concerned about the longer term.
+Gazprom says unable to meet rising gas demand from Europe for now.
+1 matches: say
+
+Source Sentence and Story Headline Match:
+The European Commission has repeatedly said that storage levels are comfortable for now, but they are concerned about the longer term.
+EU files antitrust charges against Russian energy giant Gazprom.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The European Commission has repeatedly said that storage levels are comfortable for now, but they are concerned about the longer term.
+The European Commission said its reserves are adequate, but has voiced concerns about the long term.
+5 matches: term, commission, say, concern, european
+
+----------------
+
+sent_11:
+11 out of 16 sentences
+10 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Miller said Gazprom will produce 463 billion cubic metres (bcm) of gas this year, which is down from a previous estimate of 496.4 bcm published in May and 487.4 bcm pumped in 2013.
+2 default entities: PERSON Miller, PERSON Gazprom
+2 custom entities: PERSON Miller, PERSON Gazprom
+
+Source Sentence and Source Headline Match:
+Miller said Gazprom will produce 463 billion cubic metres (bcm) of gas this year, which is down from a previous estimate of 496.4 bcm published in May and 487.4 bcm pumped in 2013.
+Gazprom says unable to meet rising gas demand from Europe for now.
+3 matches: gazprom, gas, say
+
+Source Sentence and Story Headline Match:
+Miller said Gazprom will produce 463 billion cubic metres (bcm) of gas this year, which is down from a previous estimate of 496.4 bcm published in May and 487.4 bcm pumped in 2013.
+EU files antitrust charges against Russian energy giant Gazprom.
+1 matches: gazprom
+
+Source Sentence and Best Story Sentence Match:
+Miller said Gazprom will produce 463 billion cubic metres (bcm) of gas this year, which is down from a previous estimate of 496.4 bcm published in May and 487.4 bcm pumped in 2013.
+In September 2014, Gazprom cut its 2014 production forecast from 496.4 billion cubic meters (bcm) to 463 bcm.
+6 matches: billion, cubic, gazprom, 463, bcm, 496.4
+
+----------------
+
+sent_12:
+12 out of 16 sentences
+11 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He also reiterated that Gazprom had been in talks with China on supplying gas on top of the previously agreed 38 bcm per year after 2019 via a so-called Western route.
+3 default entities: PERSON Gazprom, GPE China, LOCATION Western
+3 custom entities: PERSON Gazprom, GPE China, LOCATION Western
+
+Source Sentence and Source Headline Match:
+He also reiterated that Gazprom had been in talks with China on supplying gas on top of the previously agreed 38 bcm per year after 2019 via a so-called Western route.
+Gazprom says unable to meet rising gas demand from Europe for now.
+2 matches: gazprom, gas
+
+Source Sentence and Story Headline Match:
+He also reiterated that Gazprom had been in talks with China on supplying gas on top of the previously agreed 38 bcm per year after 2019 via a so-called Western route.
+EU files antitrust charges against Russian energy giant Gazprom.
+1 matches: gazprom
+
+Source Sentence and Best Story Sentence Match:
+He also reiterated that Gazprom had been in talks with China on supplying gas on top of the previously agreed 38 bcm per year after 2019 via a so-called Western route.
+It also delayed filing the charges in Sept. 2014 so as not to disturb the first Minsk ceasefire deal or negotiations with Russia regarding Ukraine's winter gas supply.
+3 matches: supply, gas, also
+
+----------------
+
+sent_13:
+13 out of 16 sentences
+12 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Russia set its sights on energy-hungry Asian markets a decade ago and struck a landmark deal with China in May to supply it with gas from Russia's east Siberian fields.
+5 default entities: GPE Russia, GPE Asian, GPE China, GPE Russia, GPE Siberian
+5 custom entities: GPE Russia, GPE Asian, GPE China, GPE Russia's, GPE Siberian
+
+Source Sentence and Source Headline Match:
+Russia set its sights on energy-hungry Asian markets a decade ago and struck a landmark deal with China in May to supply it with gas from Russia's east Siberian fields.
+Gazprom says unable to meet rising gas demand from Europe for now.
+1 matches: gas
+
+Source Sentence and Story Headline Match:
+Russia set its sights on energy-hungry Asian markets a decade ago and struck a landmark deal with China in May to supply it with gas from Russia's east Siberian fields.
+EU files antitrust charges against Russian energy giant Gazprom.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Russia set its sights on energy-hungry Asian markets a decade ago and struck a landmark deal with China in May to supply it with gas from Russia's east Siberian fields.
+It also delayed filing the charges in Sept. 2014 so as not to disturb the first Minsk ceasefire deal or negotiations with Russia regarding Ukraine's winter gas supply.
+4 matches: deal, russia, gas, supply
+
+----------------
+
+sent_14:
+14 out of 16 sentences
+13 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Gazprom's previous discussions on delivering additional gas to China via the Western route have met with a lukewarm response from Beijing.
+3 default entities: GPE China, LOCATION Western, GPE Beijing
+3 custom entities: GPE China, LOCATION Western, GPE Beijing
+
+Source Sentence and Source Headline Match:
+Gazprom's previous discussions on delivering additional gas to China via the Western route have met with a lukewarm response from Beijing.
+Gazprom says unable to meet rising gas demand from Europe for now.
+2 matches: gas, meet
+
+Source Sentence and Story Headline Match:
+Gazprom's previous discussions on delivering additional gas to China via the Western route have met with a lukewarm response from Beijing.
+EU files antitrust charges against Russian energy giant Gazprom.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Gazprom's previous discussions on delivering additional gas to China via the Western route have met with a lukewarm response from Beijing.
+The EC began its investigation in 2012, looking into Gazprom's alleged anti-competitive practices, including restricting the free flow of gas to EU member nations, manipulating prices and trying to maintain market control by preventing diversification.
+2 matches: gazprom's, gas
+
+----------------
+
+sent_15:
+15 out of 16 sentences
+14 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Miller told Putin that Gazprom and China have been discussing an increase in supply volumes via the route by up to 100 bcm per year, an ambitious task given a decline in the company's production levels and China's tough stance in the negotiation process.
+5 default entities: PERSON Miller, PERSON Putin, PERSON Gazprom, GPE China, GPE China
+4 custom entities: PERSON Miller, PERSON Putin, PERSON Gazprom, GPE China
+
+Source Sentence and Source Headline Match:
+Miller told Putin that Gazprom and China have been discussing an increase in supply volumes via the route by up to 100 bcm per year, an ambitious task given a decline in the company's production levels and China's tough stance in the negotiation process.
+Gazprom says unable to meet rising gas demand from Europe for now.
+1 matches: gazprom
+
+Source Sentence and Story Headline Match:
+Miller told Putin that Gazprom and China have been discussing an increase in supply volumes via the route by up to 100 bcm per year, an ambitious task given a decline in the company's production levels and China's tough stance in the negotiation process.
+EU files antitrust charges against Russian energy giant Gazprom.
+1 matches: gazprom
+
+Source Sentence and Best Story Sentence Match:
+Miller told Putin that Gazprom and China have been discussing an increase in supply volumes via the route by up to 100 bcm per year, an ambitious task given a decline in the company's production levels and China's tough stance in the negotiation process.
+Gazprom CEO Alexei Miller told the Russian government that Gazprom was meeting its contractual obligations with Europe, but was unable to meet extra volumes asked for.
+4 matches: gazprom, tell, miller, volume
+
+----------------
+
+sent_16:
+16 out of 16 sentences
+15 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Gazprom's chief added that the company would be able to satisfy gas demand both in Asia and in Europe.
+2 default entities: GPE Asia, GPE Europe
+2 custom entities: GPE Asia, GPE Europe
+
+Source Sentence and Source Headline Match:
+Gazprom's chief added that the company would be able to satisfy gas demand both in Asia and in Europe.
+Gazprom says unable to meet rising gas demand from Europe for now.
+3 matches: europe, gas, demand
+
+Source Sentence and Story Headline Match:
+Gazprom's chief added that the company would be able to satisfy gas demand both in Asia and in Europe.
+EU files antitrust charges against Russian energy giant Gazprom.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Gazprom's chief added that the company would be able to satisfy gas demand both in Asia and in Europe.
+The EC began its investigation in 2012, looking into Gazprom's alleged anti-competitive practices, including restricting the free flow of gas to EU member nations, manipulating prices and trying to maintain market control by preventing diversification.
+2 matches: gazprom's, gas
+
+----------------
+

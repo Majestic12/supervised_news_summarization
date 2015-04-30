@@ -1,0 +1,520 @@
+sent_1:
+1 out of 19 sentences
+1 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Dish Network Chairman Charlie Ergen has asked federal regulators to kill Comcast’s $45 billion deal to buy Time Warner Cable, saying the combined company would have too much power over Internet and pay-TV distribution.
+5 default entities: GPE Dish, ORGANIZATION Network, PERSON Charlie Ergen, ORGANIZATION Comcast, ORGANIZATION Time Warner Cable
+4 custom entities: GPE Dish, ORGANIZATION Network, PERSON Charlie Ergen, ORGANIZATION Time Warner
+
+Source Sentence and Source Headline Match:
+Dish Network Chairman Charlie Ergen has asked federal regulators to kill Comcast’s $45 billion deal to buy Time Warner Cable, saying the combined company would have too much power over Internet and pay-TV distribution.
+Why Dish Wants the FCC to Kill the Comcast-Time Warner Cable Deal.
+5 matches: warner, cable, deal, kill, dish
+
+Source Sentence and Story Headline Match:
+Dish Network Chairman Charlie Ergen has asked federal regulators to kill Comcast’s $45 billion deal to buy Time Warner Cable, saying the combined company would have too much power over Internet and pay-TV distribution.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Dish Network Chairman Charlie Ergen has asked federal regulators to kill Comcast’s $45 billion deal to buy Time Warner Cable, saying the combined company would have too much power over Internet and pay-TV distribution.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+6 matches: company, billion, warner, time, cable, would
+
+----------------
+
+sent_2:
+2 out of 19 sentences
+2 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Ergen met with FCC Chairman Tom Wheeler and the other four FCC commissioners Monday, according to a company disclosure.
+4 default entities: PERSON Ergen, ORGANIZATION FCC, PERSON Tom Wheeler, ORGANIZATION FCC
+4 custom entities: PERSON Ergen, ORGANIZATION FCC, PERSON Tom Wheeler, ORGANIZATION FCC
+
+Source Sentence and Source Headline Match:
+Ergen met with FCC Chairman Tom Wheeler and the other four FCC commissioners Monday, according to a company disclosure.
+Why Dish Wants the FCC to Kill the Comcast-Time Warner Cable Deal.
+1 matches: fcc
+
+Source Sentence and Story Headline Match:
+Ergen met with FCC Chairman Tom Wheeler and the other four FCC commissioners Monday, according to a company disclosure.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: fcc
+
+Source Sentence and Best Story Sentence Match:
+Ergen met with FCC Chairman Tom Wheeler and the other four FCC commissioners Monday, according to a company disclosure.
+Comcast met with FCC and DOJ officials on April 22 to assuage concerns they have about the merger.
+2 matches: meet, fcc
+
+----------------
+
+sent_3:
+3 out of 19 sentences
+3 out of 11 paragraphs
+Tagged as a quote
+
+Sentence:
+“The pending Comcast/Time Warner Cable (“TWC”) merger presents serious competitive concerns for the broadband and video marketplaces and therefore should be denied,” Ergen and other Dish executives said in the meeting, adding that they didn’t think there were “any conditions that would remedy the harms that would result from the merger.”
+2 default entities: PERSON Warner Cable, GPE Dish
+3 custom entities: ORGANIZATION Comcast Time Warner Cable, PERSON Ergen, GPE Dish
+
+Source Sentence and Source Headline Match:
+“The pending Comcast/Time Warner Cable (“TWC”) merger presents serious competitive concerns for the broadband and video marketplaces and therefore should be denied,” Ergen and other Dish executives said in the meeting, adding that they didn’t think there were “any conditions that would remedy the harms that would result from the merger.”
+Why Dish Wants the FCC to Kill the Comcast-Time Warner Cable Deal.
+3 matches: warner, cable, dish
+
+Source Sentence and Story Headline Match:
+“The pending Comcast/Time Warner Cable (“TWC”) merger presents serious competitive concerns for the broadband and video marketplaces and therefore should be denied,” Ergen and other Dish executives said in the meeting, adding that they didn’t think there were “any conditions that would remedy the harms that would result from the merger.”
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: merger
+
+Source Sentence and Best Story Sentence Match:
+“The pending Comcast/Time Warner Cable (“TWC”) merger presents serious competitive concerns for the broadband and video marketplaces and therefore should be denied,” Ergen and other Dish executives said in the meeting, adding that they didn’t think there were “any conditions that would remedy the harms that would result from the merger.”
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+6 matches: warner, time, cable, would, comcast, merger
+
+----------------
+
+sent_4:
+4 out of 19 sentences
+4 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Dish is trying to build an over-the-top Internet video streaming service, which could launch later this year.
+1 default entities: GPE Dish
+1 custom entities: GPE Dish
+
+Source Sentence and Source Headline Match:
+Dish is trying to build an over-the-top Internet video streaming service, which could launch later this year.
+Why Dish Wants the FCC to Kill the Comcast-Time Warner Cable Deal.
+1 matches: dish
+
+Source Sentence and Story Headline Match:
+Dish is trying to build an over-the-top Internet video streaming service, which could launch later this year.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Dish is trying to build an over-the-top Internet video streaming service, which could launch later this year.
+Several companies, including Discovery Communications, Dish Network and Netflix, have also publicly opposed the proposed merger, with Dish Network also claiming a combined Comcast-TWC could use its large size to win better terms.
+2 matches: could, dish
+
+----------------
+
+sent_5:
+5 out of 19 sentences
+4 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+During meetings with the FCC commissioners, Ergen and Co. raised concerns that Comcast might try to kill Internet video services like his that are aimed at cord cutters tired of ever-increasing cable bills.
+3 default entities: ORGANIZATION FCC, PERSON Ergen, ORGANIZATION Comcast
+4 custom entities: ORGANIZATION FCC, PERSON Ergen, PERSON Co, ORGANIZATION Comcast
+
+Source Sentence and Source Headline Match:
+During meetings with the FCC commissioners, Ergen and Co. raised concerns that Comcast might try to kill Internet video services like his that are aimed at cord cutters tired of ever-increasing cable bills.
+Why Dish Wants the FCC to Kill the Comcast-Time Warner Cable Deal.
+3 matches: cable, kill, fcc
+
+Source Sentence and Story Headline Match:
+During meetings with the FCC commissioners, Ergen and Co. raised concerns that Comcast might try to kill Internet video services like his that are aimed at cord cutters tired of ever-increasing cable bills.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: fcc
+
+Source Sentence and Best Story Sentence Match:
+During meetings with the FCC commissioners, Ergen and Co. raised concerns that Comcast might try to kill Internet video services like his that are aimed at cord cutters tired of ever-increasing cable bills.
+Comcast met with FCC and DOJ officials on April 22 to assuage concerns they have about the merger.
+3 matches: concern, fcc, comcast
+
+----------------
+
+sent_6:
+6 out of 19 sentences
+5 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Why does Dish hate the Comcast* deal?
+1 default entities: GPE Dish
+2 custom entities: GPE Dish, ORGANIZATION Comcast
+
+Source Sentence and Source Headline Match:
+Why does Dish hate the Comcast* deal?
+Why Dish Wants the FCC to Kill the Comcast-Time Warner Cable Deal.
+2 matches: deal, dish
+
+Source Sentence and Story Headline Match:
+Why does Dish hate the Comcast* deal?
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Why does Dish hate the Comcast* deal?
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+1 matches: comcast
+
+----------------
+
+sent_7:
+7 out of 19 sentences
+5 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In the company’s own words:
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+In the company’s own words:
+Why Dish Wants the FCC to Kill the Comcast-Time Warner Cable Deal.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+In the company’s own words:
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_8:
+8 out of 19 sentences
+6 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Too much control over Internet connections: “High-capacity cable broadband connections are the lifeblood of over-the-top (“OTT”) video services.
+
+no default named entity found
+1 custom entities: ORGANIZATION OTT
+
+Source Sentence and Source Headline Match:
+Too much control over Internet connections: “High-capacity cable broadband connections are the lifeblood of over-the-top (“OTT”) video services.
+Why Dish Wants the FCC to Kill the Comcast-Time Warner Cable Deal.
+1 matches: cable
+
+Source Sentence and Story Headline Match:
+Too much control over Internet connections: “High-capacity cable broadband connections are the lifeblood of over-the-top (“OTT”) video services.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Too much control over Internet connections: “High-capacity cable broadband connections are the lifeblood of over-the-top (“OTT”) video services.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+1 matches: cable
+
+----------------
+
+sent_9:
+9 out of 19 sentences
+6 out of 11 paragraphs
+Tagged as a quote
+
+Sentence:
+Among other things, the combined company would have an increased incentive and ability to leverage its control over the broadband pipe to undermine these services.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Among other things, the combined company would have an increased incentive and ability to leverage its control over the broadband pipe to undermine these services.”
+Why Dish Wants the FCC to Kill the Comcast-Time Warner Cable Deal.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Among other things, the combined company would have an increased incentive and ability to leverage its control over the broadband pipe to undermine these services.”
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Among other things, the combined company would have an increased incentive and ability to leverage its control over the broadband pipe to undermine these services.”
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 matches: would, combine, company
+
+----------------
+
+sent_10:
+10 out of 19 sentences
+7 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It’s not just about last-mile connections to subscribers’ homes: “Comcast/TWC will have at least three ‘choke points’ in the broadband pipe where it can harm competing video services: the last mile ‘public Internet’ channel to the consumer; the interconnection point; and any managed or specialized service channels, which can act as high speed lanes and squeeze the capacity of the public Internet portion of the pipe.
+
+no default named entity found
+1 custom entities: ORGANIZATION Comcast
+
+Source Sentence and Source Headline Match:
+It’s not just about last-mile connections to subscribers’ homes: “Comcast/TWC will have at least three ‘choke points’ in the broadband pipe where it can harm competing video services: the last mile ‘public Internet’ channel to the consumer; the interconnection point; and any managed or specialized service channels, which can act as high speed lanes and squeeze the capacity of the public Internet portion of the pipe.
+Why Dish Wants the FCC to Kill the Comcast-Time Warner Cable Deal.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It’s not just about last-mile connections to subscribers’ homes: “Comcast/TWC will have at least three ‘choke points’ in the broadband pipe where it can harm competing video services: the last mile ‘public Internet’ channel to the consumer; the interconnection point; and any managed or specialized service channels, which can act as high speed lanes and squeeze the capacity of the public Internet portion of the pipe.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+It’s not just about last-mile connections to subscribers’ homes: “Comcast/TWC will have at least three ‘choke points’ in the broadband pipe where it can harm competing video services: the last mile ‘public Internet’ channel to the consumer; the interconnection point; and any managed or specialized service channels, which can act as high speed lanes and squeeze the capacity of the public Internet portion of the pipe.
+The proposed merger has come under severe criticism from those who say it would create a monopoly that will ultimately harm consumers.
+2 matches: harm, consumer
+
+----------------
+
+sent_11:
+11 out of 19 sentences
+7 out of 11 paragraphs
+Tagged as a quote
+
+Sentence:
+Each choke point provides the ability for the combined company to foreclose the online video offerings of its competitors.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Each choke point provides the ability for the combined company to foreclose the online video offerings of its competitors.”
+Why Dish Wants the FCC to Kill the Comcast-Time Warner Cable Deal.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Each choke point provides the ability for the combined company to foreclose the online video offerings of its competitors.”
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Each choke point provides the ability for the combined company to foreclose the online video offerings of its competitors.”
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 matches: combine, company
+
+----------------
+
+sent_12:
+12 out of 19 sentences
+8 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Programming cost leverage: “It will be able to extract lower prices from programmers, which, in turn, will force programmers to extract even higher rates from smaller pay-TV providers like Dish in order to compensate the programmers for lost revenue.
+1 default entities: GPE Dish
+1 custom entities: GPE Dish
+
+Source Sentence and Source Headline Match:
+Programming cost leverage: “It will be able to extract lower prices from programmers, which, in turn, will force programmers to extract even higher rates from smaller pay-TV providers like Dish in order to compensate the programmers for lost revenue.
+Why Dish Wants the FCC to Kill the Comcast-Time Warner Cable Deal.
+1 matches: dish
+
+Source Sentence and Story Headline Match:
+Programming cost leverage: “It will be able to extract lower prices from programmers, which, in turn, will force programmers to extract even higher rates from smaller pay-TV providers like Dish in order to compensate the programmers for lost revenue.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Programming cost leverage: “It will be able to extract lower prices from programmers, which, in turn, will force programmers to extract even higher rates from smaller pay-TV providers like Dish in order to compensate the programmers for lost revenue.
+Comcast has repeatedly claimed it faces broadband competition from gigabit providers like Google and AT&T and from wireless providers like T-Mobile and Verizon.
+2 matches: like, provider
+
+----------------
+
+sent_13:
+13 out of 19 sentences
+8 out of 11 paragraphs
+Tagged as a quote
+
+Sentence:
+And a combined Comcast/TWC will have the incentive and ability to restrict programmers’ ability to grant digital rights to competing pay-TV and OTT video providers.”
+1 default entities: ORGANIZATION OTT
+2 custom entities: ORGANIZATION Comcast, ORGANIZATION OTT
+
+Source Sentence and Source Headline Match:
+And a combined Comcast/TWC will have the incentive and ability to restrict programmers’ ability to grant digital rights to competing pay-TV and OTT video providers.”
+Why Dish Wants the FCC to Kill the Comcast-Time Warner Cable Deal.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+And a combined Comcast/TWC will have the incentive and ability to restrict programmers’ ability to grant digital rights to competing pay-TV and OTT video providers.”
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+And a combined Comcast/TWC will have the incentive and ability to restrict programmers’ ability to grant digital rights to competing pay-TV and OTT video providers.”
+The FCC paused its informal "shot clock" reviewing the merger on March 13 pending the outcome of a lawsuit between Comcast and programming providers.
+2 matches: provider, comcast
+
+----------------
+
+sent_14:
+14 out of 19 sentences
+9 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In a statement, Comcast responded that “Dish has long been one of our most vigorous competitors, and unlike us has a national footprint available in tens of millions of more homes than a combined Comcast–Time Warner Cable.
+2 default entities: ORGANIZATION Comcast, PERSON Warner Cable
+3 custom entities: ORGANIZATION Comcast, GPE Dish, PERSON Warner Cable
+
+Source Sentence and Source Headline Match:
+In a statement, Comcast responded that “Dish has long been one of our most vigorous competitors, and unlike us has a national footprint available in tens of millions of more homes than a combined Comcast–Time Warner Cable.
+Why Dish Wants the FCC to Kill the Comcast-Time Warner Cable Deal.
+3 matches: warner, cable, dish
+
+Source Sentence and Story Headline Match:
+In a statement, Comcast responded that “Dish has long been one of our most vigorous competitors, and unlike us has a national footprint available in tens of millions of more homes than a combined Comcast–Time Warner Cable.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+In a statement, Comcast responded that “Dish has long been one of our most vigorous competitors, and unlike us has a national footprint available in tens of millions of more homes than a combined Comcast–Time Warner Cable.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 matches: warner, cable, comcast
+
+----------------
+
+sent_15:
+15 out of 19 sentences
+9 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Dish not wanting stronger competitors isn’t surprising and it isn’t new.
+1 default entities: GPE Dish
+1 custom entities: GPE Dish
+
+Source Sentence and Source Headline Match:
+Dish not wanting stronger competitors isn’t surprising and it isn’t new.
+Why Dish Wants the FCC to Kill the Comcast-Time Warner Cable Deal.
+2 matches: want, dish
+
+Source Sentence and Story Headline Match:
+Dish not wanting stronger competitors isn’t surprising and it isn’t new.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Dish not wanting stronger competitors isn’t surprising and it isn’t new.
+"[Once merged] we can compete more effectively with our mostly larger national and global competitors, including the Bells, DirecTV, Dish, Apple, and Google, to name a few… Putting any emotion aside, this transaction must be viewed by reference to the facts, sound economic theory, and the law."
+2 matches: competitor, dish
+
+----------------
+
+sent_16:
+16 out of 19 sentences
+9 out of 11 paragraphs
+Tagged as a quote
+
+Sentence:
+Any issues regarding NBCUniversal programming and other video services, whether they be traditional or over the top, are already amply covered by pre-existing FCC rules and deal conditions.”
+2 default entities: ORGANIZATION NBCUniversal, ORGANIZATION FCC
+2 custom entities: ORGANIZATION NBCUniversal, ORGANIZATION FCC
+
+Source Sentence and Source Headline Match:
+Any issues regarding NBCUniversal programming and other video services, whether they be traditional or over the top, are already amply covered by pre-existing FCC rules and deal conditions.”
+Why Dish Wants the FCC to Kill the Comcast-Time Warner Cable Deal.
+2 matches: deal, fcc
+
+Source Sentence and Story Headline Match:
+Any issues regarding NBCUniversal programming and other video services, whether they be traditional or over the top, are already amply covered by pre-existing FCC rules and deal conditions.”
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: fcc
+
+Source Sentence and Best Story Sentence Match:
+Any issues regarding NBCUniversal programming and other video services, whether they be traditional or over the top, are already amply covered by pre-existing FCC rules and deal conditions.”
+"Citing unnamed sources, the Wall Street Journal reported April 22 that the FCC is now considering issuing a "hearing designation order" for Comcast's proposed merger with Time Warner Cable.
+2 matches: fcc, issue
+
+----------------
+
+sent_17:
+17 out of 19 sentences
+10 out of 11 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Interestingly, Ergen had slightly less negative comments about rival DirecTV’s deal to be acquired by AT&T, according to the filing.
+3 default entities: PERSON Ergen, ORGANIZATION DirecTV, ORGANIZATION AT
+2 custom entities: PERSON Ergen, ORGANIZATION AT&T
+
+Source Sentence and Source Headline Match:
+Interestingly, Ergen had slightly less negative comments about rival DirecTV’s deal to be acquired by AT&T, according to the filing.
+Why Dish Wants the FCC to Kill the Comcast-Time Warner Cable Deal.
+1 matches: deal
+
+Source Sentence and Story Headline Match:
+Interestingly, Ergen had slightly less negative comments about rival DirecTV’s deal to be acquired by AT&T, according to the filing.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Interestingly, Ergen had slightly less negative comments about rival DirecTV’s deal to be acquired by AT&T, according to the filing.
+Comcast has repeatedly claimed it faces broadband competition from gigabit providers like Google and AT&T and from wireless providers like T-Mobile and Verizon.
+1 matches: at&t
+
+----------------
+
+sent_18:
+18 out of 19 sentences
+10 out of 11 paragraphs
+Tagged as a quote
+
+Sentence:
+He didn’t suggest the agency reject the deal, although he did say that it “presents competitive concerns.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+He didn’t suggest the agency reject the deal, although he did say that it “presents competitive concerns.”
+Why Dish Wants the FCC to Kill the Comcast-Time Warner Cable Deal.
+1 matches: deal
+
+Source Sentence and Story Headline Match:
+He didn’t suggest the agency reject the deal, although he did say that it “presents competitive concerns.”
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+He didn’t suggest the agency reject the deal, although he did say that it “presents competitive concerns.”
+This procedural move suggests the agency does not view the merger as being in the public interest, leaving approval in the hands of an administrative law judge."
+2 matches: suggest, agency
+
+----------------
+
+sent_19:
+19 out of 19 sentences
+11 out of 11 paragraphs
+Tagged as a quote
+
+Sentence:
+“Among other things, AT&T and DirecTV will also be able to combine their market power to leverage programming content, to the potential detriment of consumers,” Dish told senior FCC officials.
+3 default entities: ORGANIZATION DirecTV, GPE Dish, ORGANIZATION FCC
+4 custom entities: ORGANIZATION AT&T, ORGANIZATION DirecTV, GPE Dish, ORGANIZATION FCC
+
+Source Sentence and Source Headline Match:
+“Among other things, AT&T and DirecTV will also be able to combine their market power to leverage programming content, to the potential detriment of consumers,” Dish told senior FCC officials.
+Why Dish Wants the FCC to Kill the Comcast-Time Warner Cable Deal.
+2 matches: fcc, dish
+
+Source Sentence and Story Headline Match:
+“Among other things, AT&T and DirecTV will also be able to combine their market power to leverage programming content, to the potential detriment of consumers,” Dish told senior FCC officials.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: fcc
+
+Source Sentence and Best Story Sentence Match:
+“Among other things, AT&T and DirecTV will also be able to combine their market power to leverage programming content, to the potential detriment of consumers,” Dish told senior FCC officials.
+Comcast met with FCC and DOJ officials on April 22 to assuage concerns they have about the merger.
+2 matches: official, fcc
+
+----------------
+

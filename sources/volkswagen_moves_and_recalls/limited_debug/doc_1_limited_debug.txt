@@ -1,0 +1,154 @@
+sent_1:
+
+Volkswagen’s efforts to break into the world’s second largest car market continue to fail.
+Piech, 78, was with Volkswagen for more than two decades and is one of the company's largest shareholders.
+1 best matches: large
+
+----------------
+sent_2:
+
+Its sales in the United States dropped 22% in June to 28,827.
+Issues around product quality not solely related to the company's Jetta and Beetle brands have had a negative effect on the company's earnings in the United States.
+2 best matches: state, united
+
+----------------
+sent_3:
+
+As its market share eroded, sales of almost all its major models declined.
+Volkswagen's US sales declined 13.4% reaching only 244,900 at the end of August, 2014.
+2 best matches: sale, decline
+
+----------------
+sent_4:
+
+The numbers were worst that its year-to-date figures — a decline of 13.4% to 179,144.
+Volkswagen's US sales declined 13.4% reaching only 244,900 at the end of August, 2014.
+2 best matches: 13.4, decline
+
+----------------
+sent_5:
+
+VW’s management tried to put a spin on its troubles, but it could say nothing of substance:
+Volkswagen said Berthold Huber will temporarily assume leadership of the supervisory board.
+1 best matches: say
+
+----------------
+sent_6:
+
+“Our core models, the Passat and Jetta, continue to show strong demand in the market, particularly for our TDI clean diesel powertrains,” said Mark McNabb, chief operating officer, Volkswagen of America.
+Volkswagen said Berthold Huber will temporarily assume leadership of the supervisory board.
+2 best matches: volkswagen, say
+
+----------------
+sent_7:
+
+“With the launch of the much-anticipated 2015 Golf GTI, as well as the upcoming introduction of the all-new 2015 Golf TSI and even more fuel efficient diesel engines, we are confident Volkswagen will be back on the shopping list for more customers.”
+Volkswagen announced on April 25 that Chairman Ferdinand Piech had resigned.
+1 best matches: volkswagen
+
+----------------
+sent_8:
+
+VW’s best-selling vehicle, its Jetta Sedan, posted crippled results, falling 22.1% in June to 10,102.
+Issues around product quality not solely related to the company's Jetta and Beetle brands have had a negative effect on the company's earnings in the United States.
+1 best matches: jetta
+
+----------------
+sent_9:
+
+Passat sales dropped 33.6% to 7,222.
+Volkswagen's US sales declined 13.4% reaching only 244,900 at the end of August, 2014.
+1 best matches: sale
+
+----------------
+sent_10:
+
+The single bright spot was sales of the GTI, which were up 64.8% to 1,927.
+Volkswagen's US sales declined 13.4% reaching only 244,900 at the end of August, 2014.
+1 best matches: sale
+
+----------------
+sent_11:
+
+VW executives continue to hope new models will lift sales, but the number of new vehicles will be small, and the Volkswagen brand cannot bring enough customers to its dealerships to take advantage of them.
+Volkswagen announced on April 25 that Chairman Ferdinand Piech had resigned.
+1 best matches: volkswagen
+
+----------------
+sent_12:
+
+Among VW’s problems are issues with its product quality.
+Issues around product quality not solely related to the company's Jetta and Beetle brands have had a negative effect on the company's earnings in the United States.
+3 best matches: quality, product, issue
+
+----------------
+sent_13:
+
+no story sentence best matches found
+
+----------------
+sent_14:
+
+Power 2014 U.S.
+The resignation follows a power struggle with the company's CEO Martin Winterkorn.
+1 best matches: power
+
+----------------
+sent_15:
+
+Initial Quality Study, VW ranked well below average, with 128 problems per vehicle against an industry average of 116.
+Issues around product quality not solely related to the company's Jetta and Beetle brands have had a negative effect on the company's earnings in the United States.
+1 best matches: quality
+
+----------------
+sent_16:
+
+no story sentence best matches found
+
+----------------
+sent_17:
+
+no story sentence best matches found
+
+----------------
+sent_18:
+
+no story sentence best matches found
+
+----------------
+sent_19:
+
+VW also has to contend with a small army of competitors, even outside the largest car companies in the United States based on sales — General Motors Co. (NYSE: GM) Ford Motor Co. (NYSE: F) and Toyota Motor Corp. (NYSE: TM).
+Issues around product quality not solely related to the company's Jetta and Beetle brands have had a negative effect on the company's earnings in the United States.
+2 best matches: state, united
+
+----------------
+sent_20:
+
+no story sentence best matches found
+
+----------------
+sent_21:
+
+VW’s stated goal is to become the number one car manufacturer in the world.
+Piech, 78, was with Volkswagen for more than two decades and is one of the company's largest shareholders.
+1 best matches: one
+
+----------------
+sent_22:
+
+no story sentence best matches found
+
+----------------
+sent_23:
+
+And VW has the largest market share of all auto companies in Europe.
+Piech, 78, was with Volkswagen for more than two decades and is one of the company's largest shareholders.
+1 best matches: large
+
+----------------
+sent_24:
+
+no story sentence best matches found
+
+----------------

@@ -1,0 +1,300 @@
+sent_1:
+1 out of 11 sentences
+1 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Candace Cameron Bure would reprise the role of D.J.
+2 default entities: GPE Candace, PERSON Cameron Bure
+2 custom entities: GPE Candace, PERSON Cameron Bure
+
+Source Sentence and Source Headline Match:
+Candace Cameron Bure would reprise the role of D.J.
+‘Full House’ Spinoff Nearing Series Order at Netflix.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Candace Cameron Bure would reprise the role of D.J.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Candace Cameron Bure would reprise the role of D.J.
+It will star Candace Cameron-Bure playing the role of D.J.
+3 matches: d.j, role, candace
+
+----------------
+
+sent_2:
+2 out of 11 sentences
+1 out of 8 paragraphs
+Tagged as a quote
+
+Sentence:
+for “Fuller House”.
+
+no default named entity found
+1 custom entities: PERSON Fuller House
+
+Source Sentence and Source Headline Match:
+for “Fuller House”.
+‘Full House’ Spinoff Nearing Series Order at Netflix.
+1 matches: house
+
+Source Sentence and Story Headline Match:
+for “Fuller House”.
+Netflix confirms reboot of "Full House"
+1 matches: house
+
+Source Sentence and Best Story Sentence Match:
+for “Fuller House”.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+2 matches: fuller, house
+
+----------------
+
+sent_3:
+3 out of 11 sentences
+2 out of 8 paragraphs
+Tagged as a quote
+
+Sentence:
+A “Full House” spinoff is in consideration for a 13-episode series order at Netflix, individuals with knowledge of the deal told TheWrap Thursday.
+2 default entities: ORGANIZATION Netflix, ORGANIZATION TheWrap
+3 custom entities: ORGANIZATION House, ORGANIZATION Netflix, ORGANIZATION TheWrap
+
+Source Sentence and Source Headline Match:
+A “Full House” spinoff is in consideration for a 13-episode series order at Netflix, individuals with knowledge of the deal told TheWrap Thursday.
+‘Full House’ Spinoff Nearing Series Order at Netflix.
+6 matches: series, spinoff, netflix, order, house, full
+
+Source Sentence and Story Headline Match:
+A “Full House” spinoff is in consideration for a 13-episode series order at Netflix, individuals with knowledge of the deal told TheWrap Thursday.
+Netflix confirms reboot of "Full House"
+3 matches: full, netflix, house
+
+Source Sentence and Best Story Sentence Match:
+A “Full House” spinoff is in consideration for a 13-episode series order at Netflix, individuals with knowledge of the deal told TheWrap Thursday.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+5 matches: 13-episode, full, order, netflix, house
+
+----------------
+
+sent_4:
+4 out of 11 sentences
+3 out of 8 paragraphs
+Tagged as a quote
+
+Sentence:
+Titled “Fuller House,” the multi-camera project would include Candace Cameron Bure reprising the role of D.J.
+3 default entities: PERSON Titled, ORGANIZATION House, PERSON Candace Cameron Bure
+3 custom entities: PERSON Titled, PERSON Fuller House, PERSON Candace Cameron Bure
+
+Source Sentence and Source Headline Match:
+Titled “Fuller House,” the multi-camera project would include Candace Cameron Bure reprising the role of D.J.
+‘Full House’ Spinoff Nearing Series Order at Netflix.
+1 matches: house
+
+Source Sentence and Story Headline Match:
+Titled “Fuller House,” the multi-camera project would include Candace Cameron Bure reprising the role of D.J.
+Netflix confirms reboot of "Full House"
+1 matches: house
+
+Source Sentence and Best Story Sentence Match:
+Titled “Fuller House,” the multi-camera project would include Candace Cameron Bure reprising the role of D.J.
+It will star Candace Cameron-Bure playing the role of D.J.
+3 matches: d.j, role, candace
+
+----------------
+
+sent_5:
+5 out of 11 sentences
+3 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+20 years after the original ABC series ended in 1995.
+1 default entities: ORGANIZATION ABC
+1 custom entities: ORGANIZATION ABC
+
+Source Sentence and Source Headline Match:
+20 years after the original ABC series ended in 1995.
+‘Full House’ Spinoff Nearing Series Order at Netflix.
+1 matches: series
+
+Source Sentence and Story Headline Match:
+20 years after the original ABC series ended in 1995.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+20 years after the original ABC series ended in 1995.
+"Full House" ended its original run in 1995.
+3 matches: end, original, 1995
+
+----------------
+
+sent_6:
+6 out of 11 sentences
+4 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Andrea Barber would also return to the role of D.J.’s best friend and Tanner Family annoyance, Kimmy, with TV uncles John Stamos as Jesse, Dave Coulier as Joey and Bob Saget as father Danny returning as guest stars.
+9 default entities: PERSON Andrea, PERSON Tanner Family, PERSON Kimmy, PERSON John Stamos, PERSON Jesse, PERSON Dave Coulier, PERSON Joey, PERSON Bob Saget, PERSON Danny
+8 custom entities: PERSON Andrea, PERSON Tanner Family, PERSON Kimmy, PERSON John Stamos, PERSON Jesse Dave Coulier, PERSON Joey, PERSON Bob Saget, PERSON Danny
+
+Source Sentence and Source Headline Match:
+Andrea Barber would also return to the role of D.J.’s best friend and Tanner Family annoyance, Kimmy, with TV uncles John Stamos as Jesse, Dave Coulier as Joey and Bob Saget as father Danny returning as guest stars.
+‘Full House’ Spinoff Nearing Series Order at Netflix.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Andrea Barber would also return to the role of D.J.’s best friend and Tanner Family annoyance, Kimmy, with TV uncles John Stamos as Jesse, Dave Coulier as Joey and Bob Saget as father Danny returning as guest stars.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Andrea Barber would also return to the role of D.J.’s best friend and Tanner Family annoyance, Kimmy, with TV uncles John Stamos as Jesse, Dave Coulier as Joey and Bob Saget as father Danny returning as guest stars.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+2 matches: star, guest
+
+----------------
+
+sent_7:
+7 out of 11 sentences
+5 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Full House” creator Jeff Franklin returns to executive produce with original EPs Thomas L. Miller and Robert L. Boyett.
+5 default entities: PERSON Full, PERSON Jeff Franklin, ORGANIZATION EPs Thomas, PERSON Miller, PERSON Robert L. Boyett
+6 custom entities: PERSON Full, ORGANIZATION House, PERSON Jeff Franklin, ORGANIZATION EPs Thomas, PERSON Miller, PERSON Robert L Boyett
+
+Source Sentence and Source Headline Match:
+Full House” creator Jeff Franklin returns to executive produce with original EPs Thomas L. Miller and Robert L. Boyett.
+‘Full House’ Spinoff Nearing Series Order at Netflix.
+2 matches: full, house
+
+Source Sentence and Story Headline Match:
+Full House” creator Jeff Franklin returns to executive produce with original EPs Thomas L. Miller and Robert L. Boyett.
+Netflix confirms reboot of "Full House"
+2 matches: full, house
+
+Source Sentence and Best Story Sentence Match:
+Full House” creator Jeff Franklin returns to executive produce with original EPs Thomas L. Miller and Robert L. Boyett.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+3 matches: full, original, house
+
+----------------
+
+sent_8:
+8 out of 11 sentences
+5 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Stamos would also serve as an EP.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Stamos would also serve as an EP.
+‘Full House’ Spinoff Nearing Series Order at Netflix.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Stamos would also serve as an EP.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Stamos would also serve as an EP.
+A one-hour "making of" special will also be released.
+1 matches: also
+
+----------------
+
+sent_9:
+9 out of 11 sentences
+6 out of 8 paragraphs
+Tagged as a quote
+
+Sentence:
+“Full House,” which followed a single dad (Saget), his three daughters (Bure, Jodie Sweetin and twins Mary-Kate and Ashley Olsen in a shared role) and the two bachelors (Stamos, Coulier) who were helping to raise them, ran for eight seasons.
+7 default entities: ORGANIZATION House, GPE Saget, GPE Bure, PERSON Jodie Sweetin, PERSON Ashley Olsen, PERSON Stamos, PERSON Coulier
+5 custom entities: PERSON Full, ORGANIZATION House, PERSON Bure Jodie Sweetin, PERSON Ashley Olsen, PERSON Stamos Coulier
+
+Source Sentence and Source Headline Match:
+“Full House,” which followed a single dad (Saget), his three daughters (Bure, Jodie Sweetin and twins Mary-Kate and Ashley Olsen in a shared role) and the two bachelors (Stamos, Coulier) who were helping to raise them, ran for eight seasons.
+‘Full House’ Spinoff Nearing Series Order at Netflix.
+2 matches: full, house
+
+Source Sentence and Story Headline Match:
+“Full House,” which followed a single dad (Saget), his three daughters (Bure, Jodie Sweetin and twins Mary-Kate and Ashley Olsen in a shared role) and the two bachelors (Stamos, Coulier) who were helping to raise them, ran for eight seasons.
+Netflix confirms reboot of "Full House"
+2 matches: full, house
+
+Source Sentence and Best Story Sentence Match:
+“Full House,” which followed a single dad (Saget), his three daughters (Bure, Jodie Sweetin and twins Mary-Kate and Ashley Olsen in a shared role) and the two bachelors (Stamos, Coulier) who were helping to raise them, ran for eight seasons.
+"Full House" ended its original run in 1995.
+3 matches: full, run, house
+
+----------------
+
+sent_10:
+10 out of 11 sentences
+7 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Netflix and WBTV representatives declined to comment.
+2 default entities: GPE Netflix, ORGANIZATION WBTV
+2 custom entities: GPE Netflix, ORGANIZATION WBTV
+
+Source Sentence and Source Headline Match:
+Netflix and WBTV representatives declined to comment.
+‘Full House’ Spinoff Nearing Series Order at Netflix.
+1 matches: netflix
+
+Source Sentence and Story Headline Match:
+Netflix and WBTV representatives declined to comment.
+Netflix confirms reboot of "Full House"
+1 matches: netflix
+
+Source Sentence and Best Story Sentence Match:
+Netflix and WBTV representatives declined to comment.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+1 matches: netflix
+
+----------------
+
+sent_11:
+11 out of 11 sentences
+8 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+TVLine first reported the possible reunion series deal at Netflix.
+2 default entities: GPE TVLine, ORGANIZATION Netflix
+2 custom entities: GPE TVLine, ORGANIZATION Netflix
+
+Source Sentence and Source Headline Match:
+TVLine first reported the possible reunion series deal at Netflix.
+‘Full House’ Spinoff Nearing Series Order at Netflix.
+2 matches: series, netflix
+
+Source Sentence and Story Headline Match:
+TVLine first reported the possible reunion series deal at Netflix.
+Netflix confirms reboot of "Full House"
+1 matches: netflix
+
+Source Sentence and Best Story Sentence Match:
+TVLine first reported the possible reunion series deal at Netflix.
+"Daredevil" is the first of five Marvel series in development for Netflix, with others including "AKA Jessica Jones" and "Iron Fist."
+3 matches: series, first, netflix
+
+----------------
+

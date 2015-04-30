@@ -1,0 +1,980 @@
+sent_1:
+1 out of 36 sentences
+1 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+China defended a plan to place limits on democracy in Hong Kong, calling on opposition lawmakers to get behind its ruling or risk losing the chance to elect the city’s next leader by popular vote.
+2 default entities: GPE China, GPE Hong Kong
+2 custom entities: GPE China, GPE Hong Kong
+
+Source Sentence and Source Headline Match:
+China defended a plan to place limits on democracy in Hong Kong, calling on opposition lawmakers to get behind its ruling or risk losing the chance to elect the city’s next leader by popular vote.
+China Says Hong Kong Democracy Protests Risk Election.
+5 matches: democracy, risk, kong, hong, china
+
+Source Sentence and Story Headline Match:
+China defended a plan to place limits on democracy in Hong Kong, calling on opposition lawmakers to get behind its ruling or risk losing the chance to elect the city’s next leader by popular vote.
+Hong Kong releases controversial election plan.
+3 matches: plan, kong, hong
+
+Source Sentence and Best Story Sentence Match:
+China defended a plan to place limits on democracy in Hong Kong, calling on opposition lawmakers to get behind its ruling or risk losing the chance to elect the city’s next leader by popular vote.
+The elections will allow five million eligible Hong Kong voters to directly vote for their next chief executive.
+4 matches: kong, vote, hong, next
+
+----------------
+
+sent_2:
+2 out of 36 sentences
+2 out of 19 paragraphs
+Tagged as a quote
+
+Sentence:
+Activists should overcome their “prejudices” and see that China’s proposal is the most concrete step toward implementing the election, Li Fei, deputy secretary-general of the National People’s Congress, said in Hong Kong yesterday.
+5 default entities: GPE China, PERSON Li Fei, ORGANIZATION National People, ORGANIZATION Congress, GPE Hong Kong
+4 custom entities: PERSON Li Fei, ORGANIZATION National, ORGANIZATION Congress, GPE Hong Kong
+
+Source Sentence and Source Headline Match:
+Activists should overcome their “prejudices” and see that China’s proposal is the most concrete step toward implementing the election, Li Fei, deputy secretary-general of the National People’s Congress, said in Hong Kong yesterday.
+China Says Hong Kong Democracy Protests Risk Election.
+4 matches: election, kong, say, hong
+
+Source Sentence and Story Headline Match:
+Activists should overcome their “prejudices” and see that China’s proposal is the most concrete step toward implementing the election, Li Fei, deputy secretary-general of the National People’s Congress, said in Hong Kong yesterday.
+Hong Kong releases controversial election plan.
+3 matches: election, kong, hong
+
+Source Sentence and Best Story Sentence Match:
+Activists should overcome their “prejudices” and see that China’s proposal is the most concrete step toward implementing the election, Li Fei, deputy secretary-general of the National People’s Congress, said in Hong Kong yesterday.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+3 matches: election, kong, hong
+
+----------------
+
+sent_3:
+3 out of 36 sentences
+2 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Earlier, police used pepper spray to repel protesters who sought to break through barricades as Li presented the plan to a gathering of lawmakers and business leaders.
+1 default entities: PERSON Li
+1 custom entities: PERSON Li
+
+Source Sentence and Source Headline Match:
+Earlier, police used pepper spray to repel protesters who sought to break through barricades as Li presented the plan to a gathering of lawmakers and business leaders.
+China Says Hong Kong Democracy Protests Risk Election.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Earlier, police used pepper spray to repel protesters who sought to break through barricades as Li presented the plan to a gathering of lawmakers and business leaders.
+Hong Kong releases controversial election plan.
+1 matches: plan
+
+Source Sentence and Best Story Sentence Match:
+Earlier, police used pepper spray to repel protesters who sought to break through barricades as Li presented the plan to a gathering of lawmakers and business leaders.
+Police used pepper spray and tear gas on protesters Sept. 28, 2014, prompting organizers to hand out umbrellas and plastic wrap as protection.
+5 matches: spray, protester, police, pepper, use
+
+----------------
+
+sent_4:
+4 out of 36 sentences
+3 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+China’s demand to vet candidates for the 2017 election angered pro-democracy lawmakers and activist group Occupy Central With Love and Peace, which said it will organize protests culminating in the mass occupation of Hong Kong’s central business district.
+4 default entities: GPE China, PERSON Occupy Central With Love, PERSON Peace, GPE Hong Kong
+3 custom entities: PERSON Occupy Central With Love, PERSON Peace, GPE Hong
+
+Source Sentence and Source Headline Match:
+China’s demand to vet candidates for the 2017 election angered pro-democracy lawmakers and activist group Occupy Central With Love and Peace, which said it will organize protests culminating in the mass occupation of Hong Kong’s central business district.
+China Says Hong Kong Democracy Protests Risk Election.
+4 matches: election, say, hong, protest
+
+Source Sentence and Story Headline Match:
+China’s demand to vet candidates for the 2017 election angered pro-democracy lawmakers and activist group Occupy Central With Love and Peace, which said it will organize protests culminating in the mass occupation of Hong Kong’s central business district.
+Hong Kong releases controversial election plan.
+2 matches: election, hong
+
+Source Sentence and Best Story Sentence Match:
+China’s demand to vet candidates for the 2017 election angered pro-democracy lawmakers and activist group Occupy Central With Love and Peace, which said it will organize protests culminating in the mass occupation of Hong Kong’s central business district.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+6 matches: 2017, hong, candidate, election, vet, lawmaker
+
+----------------
+
+sent_5:
+5 out of 36 sentences
+3 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+While calling such activities illegal, Li also sought to pacify dissenters by saying that the electoral rules can be amended in the future.
+1 default entities: PERSON Li
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+While calling such activities illegal, Li also sought to pacify dissenters by saying that the electoral rules can be amended in the future.
+China Says Hong Kong Democracy Protests Risk Election.
+1 matches: say
+
+Source Sentence and Story Headline Match:
+While calling such activities illegal, Li also sought to pacify dissenters by saying that the electoral rules can be amended in the future.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+While calling such activities illegal, Li also sought to pacify dissenters by saying that the electoral rules can be amended in the future.
+If it does not get a two-thirds majority, the 2017 election will be based on current rules, which are also considered to give de facto control of the choice of the city's leader to Beijing.
+2 matches: rule, also
+
+----------------
+
+sent_6:
+6 out of 36 sentences
+4 out of 19 paragraphs
+Tagged as a quote
+
+Sentence:
+“China has the biggest sincerity in reaching a consensus,” Li told reporters at a briefing yesterday.
+2 default entities: GPE “China, PERSON Li
+2 custom entities: GPE China, PERSON Li
+
+Source Sentence and Source Headline Match:
+“China has the biggest sincerity in reaching a consensus,” Li told reporters at a briefing yesterday.
+China Says Hong Kong Democracy Protests Risk Election.
+1 matches: china
+
+Source Sentence and Story Headline Match:
+“China has the biggest sincerity in reaching a consensus,” Li told reporters at a briefing yesterday.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“China has the biggest sincerity in reaching a consensus,” Li told reporters at a briefing yesterday.
+A report by a UK parliament committee on March 6 expressed concern that Hong Kong's "high degree of autonomy is coming under pressure" from mainland China.
+1 matches: china
+
+----------------
+
+sent_7:
+7 out of 36 sentences
+4 out of 19 paragraphs
+Tagged as a quote
+
+Sentence:
+“The door for dialogue is always open.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“The door for dialogue is always open.”
+China Says Hong Kong Democracy Protests Risk Election.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“The door for dialogue is always open.”
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“The door for dialogue is always open.”
+The decision to rule out open nominations set the stage for renewed protests.
+1 matches: open
+
+----------------
+
+sent_8:
+8 out of 36 sentences
+5 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Li has met with a mixed reception in Hong Kong, with opposition lawmakers heckling him before they were escorted out of the hall where he was speaking.
+2 default entities: GPE Li, GPE Hong Kong
+2 custom entities: GPE Li, GPE Hong Kong
+
+Source Sentence and Source Headline Match:
+Li has met with a mixed reception in Hong Kong, with opposition lawmakers heckling him before they were escorted out of the hall where he was speaking.
+China Says Hong Kong Democracy Protests Risk Election.
+2 matches: kong, hong
+
+Source Sentence and Story Headline Match:
+Li has met with a mixed reception in Hong Kong, with opposition lawmakers heckling him before they were escorted out of the hall where he was speaking.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+Li has met with a mixed reception in Hong Kong, with opposition lawmakers heckling him before they were escorted out of the hall where he was speaking.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+2 matches: lawmaker, hong
+
+----------------
+
+sent_9:
+9 out of 36 sentences
+6 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In a sign of heightened tensions, police patrolled the streets of the business district yesterday and barricades were erected outside buildings including the Cheung Kong Center, owned by Asia’s richest man, Li Ka-shing.
+3 default entities: ORGANIZATION Cheung Kong Center, GPE Asia, PERSON Li
+2 custom entities: ORGANIZATION Cheung Kong Center, PERSON Li
+
+Source Sentence and Source Headline Match:
+In a sign of heightened tensions, police patrolled the streets of the business district yesterday and barricades were erected outside buildings including the Cheung Kong Center, owned by Asia’s richest man, Li Ka-shing.
+China Says Hong Kong Democracy Protests Risk Election.
+1 matches: kong
+
+Source Sentence and Story Headline Match:
+In a sign of heightened tensions, police patrolled the streets of the business district yesterday and barricades were erected outside buildings including the Cheung Kong Center, owned by Asia’s richest man, Li Ka-shing.
+Hong Kong releases controversial election plan.
+1 matches: kong
+
+Source Sentence and Best Story Sentence Match:
+In a sign of heightened tensions, police patrolled the streets of the business district yesterday and barricades were erected outside buildings including the Cheung Kong Center, owned by Asia’s richest man, Li Ka-shing.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+1 matches: kong
+
+----------------
+
+sent_10:
+10 out of 36 sentences
+6 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Scaffolding was erected in the space beneath HSBC Holdings Plc’s Asian headquarters, with a sign explaining that an open air heritage space was being constructed to celebrate the bank’s 150th anniversary next year.
+2 default entities: ORGANIZATION HSBC Holdings Plc, GPE Asian
+2 custom entities: ORGANIZATION HSBC Holdings, GPE Asian
+
+Source Sentence and Source Headline Match:
+Scaffolding was erected in the space beneath HSBC Holdings Plc’s Asian headquarters, with a sign explaining that an open air heritage space was being constructed to celebrate the bank’s 150th anniversary next year.
+China Says Hong Kong Democracy Protests Risk Election.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Scaffolding was erected in the space beneath HSBC Holdings Plc’s Asian headquarters, with a sign explaining that an open air heritage space was being constructed to celebrate the bank’s 150th anniversary next year.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Scaffolding was erected in the space beneath HSBC Holdings Plc’s Asian headquarters, with a sign explaining that an open air heritage space was being constructed to celebrate the bank’s 150th anniversary next year.
+If this proposal is vetoed, it could be several years before the next opportunity."
+2 matches: year, next
+
+----------------
+
+sent_11:
+11 out of 36 sentences
+7 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+So far, the unrest hasn’t affected confidence in the city’s stock market.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+So far, the unrest hasn’t affected confidence in the city’s stock market.
+China Says Hong Kong Democracy Protests Risk Election.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+So far, the unrest hasn’t affected confidence in the city’s stock market.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_12:
+12 out of 36 sentences
+7 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Hong Kong’s benchmark Hang Seng Index was little changed yesterday, and has gained 6.2 percent this year.
+2 default entities: GPE Hong Kong, PERSON Hang Seng Index
+2 custom entities: GPE Hong, PERSON Hang Seng Index
+
+Source Sentence and Source Headline Match:
+Hong Kong’s benchmark Hang Seng Index was little changed yesterday, and has gained 6.2 percent this year.
+China Says Hong Kong Democracy Protests Risk Election.
+1 matches: hong
+
+Source Sentence and Story Headline Match:
+Hong Kong’s benchmark Hang Seng Index was little changed yesterday, and has gained 6.2 percent this year.
+Hong Kong releases controversial election plan.
+1 matches: hong
+
+Source Sentence and Best Story Sentence Match:
+Hong Kong’s benchmark Hang Seng Index was little changed yesterday, and has gained 6.2 percent this year.
+China responded that the UK, which ran Hong Kong for nearly 150 years, has "no right to interfere" in what China considers a domestic issue.
+2 matches: year, hong
+
+----------------
+
+sent_13:
+13 out of 36 sentences
+8 out of 19 paragraphs
+Tagged as a quote
+
+Sentence:
+The 2017 election will be the first to be decided by universal suffrage in Hong Kong, a former British colony that returned to Chinese sovereignty in 1997 with the promise of a high degree of autonomy under a “one country, two systems” formula championed by former Chinese leader Deng Xiaoping.
+5 default entities: GPE Hong Kong, GPE British, GPE Chinese, GPE Chinese, PERSON Deng Xiaoping
+5 custom entities: GPE Hong Kong, GPE British, GPE Chinese, GPE Chinese, PERSON Deng Xiaoping
+
+Source Sentence and Source Headline Match:
+The 2017 election will be the first to be decided by universal suffrage in Hong Kong, a former British colony that returned to Chinese sovereignty in 1997 with the promise of a high degree of autonomy under a “one country, two systems” formula championed by former Chinese leader Deng Xiaoping.
+China Says Hong Kong Democracy Protests Risk Election.
+3 matches: election, kong, hong
+
+Source Sentence and Story Headline Match:
+The 2017 election will be the first to be decided by universal suffrage in Hong Kong, a former British colony that returned to Chinese sovereignty in 1997 with the promise of a high degree of autonomy under a “one country, two systems” formula championed by former Chinese leader Deng Xiaoping.
+Hong Kong releases controversial election plan.
+3 matches: election, kong, hong
+
+Source Sentence and Best Story Sentence Match:
+The 2017 election will be the first to be decided by universal suffrage in Hong Kong, a former British colony that returned to Chinese sovereignty in 1997 with the promise of a high degree of autonomy under a “one country, two systems” formula championed by former Chinese leader Deng Xiaoping.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+5 matches: decide, 2017, election, hong, chinese
+
+----------------
+
+sent_14:
+14 out of 36 sentences
+9 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+China ruled Aug. 31 that candidates for the poll must be approved by a majority of a 1,200-member committee, which opposition lawmakers have criticized as dominated by a pro-Beijing business and political elite.
+1 default entities: GPE China
+1 custom entities: GPE China
+
+Source Sentence and Source Headline Match:
+China ruled Aug. 31 that candidates for the poll must be approved by a majority of a 1,200-member committee, which opposition lawmakers have criticized as dominated by a pro-Beijing business and political elite.
+China Says Hong Kong Democracy Protests Risk Election.
+1 matches: china
+
+Source Sentence and Story Headline Match:
+China ruled Aug. 31 that candidates for the poll must be approved by a majority of a 1,200-member committee, which opposition lawmakers have criticized as dominated by a pro-Beijing business and political elite.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+China ruled Aug. 31 that candidates for the poll must be approved by a majority of a 1,200-member committee, which opposition lawmakers have criticized as dominated by a pro-Beijing business and political elite.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+5 matches: committee, lawmaker, 31, aug, must
+
+----------------
+
+sent_15:
+15 out of 36 sentences
+9 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The number of contenders will be limited to two or three.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The number of contenders will be limited to two or three.
+China Says Hong Kong Democracy Protests Risk Election.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The number of contenders will be limited to two or three.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The number of contenders will be limited to two or three.
+Although the central government cited overwhelming numbers of tourists as the reason for the limit, many so-called "parallel traders" come from Shenzhen.
+2 matches: limit, number
+
+----------------
+
+sent_16:
+16 out of 36 sentences
+10 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+NPC official Li’s offer isn’t meaningful, according to Emily Lau, the chairman of the Democratic Party of Hong Kong, which has vowed to take part in Occupy Central.
+6 default entities: ORGANIZATION NPC, PERSON Li, PERSON Emily Lau, ORGANIZATION Democratic Party, GPE Hong Kong, GPE Occupy
+5 custom entities: ORGANIZATION NPC, PERSON Emily Lau, ORGANIZATION Democratic Party, GPE Hong Kong, GPE Occupy
+
+Source Sentence and Source Headline Match:
+NPC official Li’s offer isn’t meaningful, according to Emily Lau, the chairman of the Democratic Party of Hong Kong, which has vowed to take part in Occupy Central.
+China Says Hong Kong Democracy Protests Risk Election.
+2 matches: kong, hong
+
+Source Sentence and Story Headline Match:
+NPC official Li’s offer isn’t meaningful, according to Emily Lau, the chairman of the Democratic Party of Hong Kong, which has vowed to take part in Occupy Central.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+NPC official Li’s offer isn’t meaningful, according to Emily Lau, the chairman of the Democratic Party of Hong Kong, which has vowed to take part in Occupy Central.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+2 matches: kong, hong
+
+----------------
+
+sent_17:
+17 out of 36 sentences
+11 out of 19 paragraphs
+Tagged as a quote
+
+Sentence:
+“What’s the point of dialogue if it’s only one way?” Lau said.
+1 default entities: PERSON Lau
+1 custom entities: PERSON Lau
+
+Source Sentence and Source Headline Match:
+“What’s the point of dialogue if it’s only one way?” Lau said.
+China Says Hong Kong Democracy Protests Risk Election.
+1 matches: say
+
+Source Sentence and Story Headline Match:
+“What’s the point of dialogue if it’s only one way?” Lau said.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“What’s the point of dialogue if it’s only one way?” Lau said.
+Activists say Beijing promised direct elections in 2017.
+1 matches: say
+
+----------------
+
+sent_18:
+18 out of 36 sentences
+11 out of 19 paragraphs
+Tagged as a quote
+
+Sentence:
+“China has decided everything.”
+1 default entities: GPE “China
+1 custom entities: GPE China
+
+Source Sentence and Source Headline Match:
+“China has decided everything.”
+China Says Hong Kong Democracy Protests Risk Election.
+1 matches: china
+
+Source Sentence and Story Headline Match:
+“China has decided everything.”
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“China has decided everything.”
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+1 matches: decide
+
+----------------
+
+sent_19:
+19 out of 36 sentences
+12 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Occupy Central said it will organize protests that will involve at least 10,000 people.
+2 default entities: PERSON Occupy, PERSON Central
+2 custom entities: PERSON Occupy, PERSON Central
+
+Source Sentence and Source Headline Match:
+Occupy Central said it will organize protests that will involve at least 10,000 people.
+China Says Hong Kong Democracy Protests Risk Election.
+2 matches: say, protest
+
+Source Sentence and Story Headline Match:
+Occupy Central said it will organize protests that will involve at least 10,000 people.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Occupy Central said it will organize protests that will involve at least 10,000 people.
+The proposal comes after months of protests in 2014 over a Beijing-back election plan.
+1 matches: protest
+
+----------------
+
+sent_20:
+20 out of 36 sentences
+12 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Students will skip school from mid-September in protest, said Alex Chow, a spokesman for the Hong Kong Federation of Students.
+2 default entities: PERSON Alex Chow, GPE Hong Kong
+2 custom entities: PERSON Alex Chow, GPE Hong Kong
+
+Source Sentence and Source Headline Match:
+Students will skip school from mid-September in protest, said Alex Chow, a spokesman for the Hong Kong Federation of Students.
+China Says Hong Kong Democracy Protests Risk Election.
+4 matches: kong, say, hong, protest
+
+Source Sentence and Story Headline Match:
+Students will skip school from mid-September in protest, said Alex Chow, a spokesman for the Hong Kong Federation of Students.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+Students will skip school from mid-September in protest, said Alex Chow, a spokesman for the Hong Kong Federation of Students.
+China said April 13 that it changed visa allowances for Shenzhen residents to visit Hong Kong from unlimited multiple-entry to once per week.
+3 matches: kong, say, hong
+
+----------------
+
+sent_21:
+21 out of 36 sentences
+13 out of 19 paragraphs
+Tagged as a quote
+
+Sentence:
+“I believe most of the people in Hong Kong oppose Occupy Central,” Feng Wei, deputy director of the Hong Kong and Macau Affairs Office of the State Council, China’s cabinet, said yesterday at the same press conference.
+7 default entities: GPE Hong Kong, PERSON Occupy Central, PERSON Feng Wei, GPE Hong Kong, PERSON Macau Affairs, ORGANIZATION State Council, GPE China
+5 custom entities: GPE Hong Kong, PERSON Occupy Central Feng Wei, GPE Hong Kong, PERSON Macau Affairs, ORGANIZATION State Council
+
+Source Sentence and Source Headline Match:
+“I believe most of the people in Hong Kong oppose Occupy Central,” Feng Wei, deputy director of the Hong Kong and Macau Affairs Office of the State Council, China’s cabinet, said yesterday at the same press conference.
+China Says Hong Kong Democracy Protests Risk Election.
+3 matches: kong, say, hong
+
+Source Sentence and Story Headline Match:
+“I believe most of the people in Hong Kong oppose Occupy Central,” Feng Wei, deputy director of the Hong Kong and Macau Affairs Office of the State Council, China’s cabinet, said yesterday at the same press conference.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+“I believe most of the people in Hong Kong oppose Occupy Central,” Feng Wei, deputy director of the Hong Kong and Macau Affairs Office of the State Council, China’s cabinet, said yesterday at the same press conference.
+"Hong Kong people are right to feel betrayed.
+3 matches: people, kong, hong
+
+----------------
+
+sent_22:
+22 out of 36 sentences
+13 out of 19 paragraphs
+Tagged as a quote
+
+Sentence:
+“Hong Kong is a free economy based on the flow of funds, human resources and information.
+1 default entities: GPE Kong
+1 custom entities: GPE Hong Kong
+
+Source Sentence and Source Headline Match:
+“Hong Kong is a free economy based on the flow of funds, human resources and information.
+China Says Hong Kong Democracy Protests Risk Election.
+2 matches: kong, hong
+
+Source Sentence and Story Headline Match:
+“Hong Kong is a free economy based on the flow of funds, human resources and information.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+“Hong Kong is a free economy based on the flow of funds, human resources and information.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+2 matches: kong, hong
+
+----------------
+
+sent_23:
+23 out of 36 sentences
+13 out of 19 paragraphs
+Tagged as a quote
+
+Sentence:
+The key to these flows is to ensure stability and order in society.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The key to these flows is to ensure stability and order in society.”
+China Says Hong Kong Democracy Protests Risk Election.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The key to these flows is to ensure stability and order in society.”
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The key to these flows is to ensure stability and order in society.”
+The plan came after reviewing comments from a wide range of Hong Kong society.
+1 matches: society
+
+----------------
+
+sent_24:
+24 out of 36 sentences
+14 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Occupy Central has divided the city with tycoons, business groups and officials warning protests could turn violent and tarnish the city’s reputation as a global financial center.
+2 default entities: PERSON Occupy, ORGANIZATION Central
+2 custom entities: PERSON Occupy, ORGANIZATION Central
+
+Source Sentence and Source Headline Match:
+Occupy Central has divided the city with tycoons, business groups and officials warning protests could turn violent and tarnish the city’s reputation as a global financial center.
+China Says Hong Kong Democracy Protests Risk Election.
+1 matches: protest
+
+Source Sentence and Story Headline Match:
+Occupy Central has divided the city with tycoons, business groups and officials warning protests could turn violent and tarnish the city’s reputation as a global financial center.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Occupy Central has divided the city with tycoons, business groups and officials warning protests could turn violent and tarnish the city’s reputation as a global financial center.
+The proposal comes after months of protests in 2014 over a Beijing-back election plan.
+1 matches: protest
+
+----------------
+
+sent_25:
+25 out of 36 sentences
+14 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A July 1 pro-democracy rally drew as many as 172,000, while an anti-Occupy Central march on Aug. 17 attracted about 88,000, according to estimates by the University of Hong Kong.
+3 default entities: ORGANIZATION Central, ORGANIZATION University, GPE Hong Kong
+3 custom entities: ORGANIZATION Central, ORGANIZATION University, GPE Hong Kong
+
+Source Sentence and Source Headline Match:
+A July 1 pro-democracy rally drew as many as 172,000, while an anti-Occupy Central march on Aug. 17 attracted about 88,000, according to estimates by the University of Hong Kong.
+China Says Hong Kong Democracy Protests Risk Election.
+2 matches: kong, hong
+
+Source Sentence and Story Headline Match:
+A July 1 pro-democracy rally drew as many as 172,000, while an anti-Occupy Central march on Aug. 17 attracted about 88,000, according to estimates by the University of Hong Kong.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+A July 1 pro-democracy rally drew as many as 172,000, while an anti-Occupy Central march on Aug. 17 attracted about 88,000, according to estimates by the University of Hong Kong.
+Hong Kong pro-democracy leaders applauded the UK report.
+3 matches: kong, hong, pro-democracy
+
+----------------
+
+sent_26:
+26 out of 36 sentences
+15 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Pro-Beijing groups also rallied yesterday, with about 200 people marching outside the Hong Kong government headquarters in support of the China ruling.
+2 default entities: GPE Hong Kong, GPE China
+2 custom entities: GPE Hong Kong, GPE China
+
+Source Sentence and Source Headline Match:
+Pro-Beijing groups also rallied yesterday, with about 200 people marching outside the Hong Kong government headquarters in support of the China ruling.
+China Says Hong Kong Democracy Protests Risk Election.
+3 matches: kong, hong, china
+
+Source Sentence and Story Headline Match:
+Pro-Beijing groups also rallied yesterday, with about 200 people marching outside the Hong Kong government headquarters in support of the China ruling.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+Pro-Beijing groups also rallied yesterday, with about 200 people marching outside the Hong Kong government headquarters in support of the China ruling.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+3 matches: kong, government, hong
+
+----------------
+
+sent_27:
+27 out of 36 sentences
+16 out of 19 paragraphs
+Tagged as a quote
+
+Sentence:
+“Young people don’t know Hong Kong’s history,” Leung Chi Kong, 60, community worker, said at the rally.
+2 default entities: GPE Hong Kong, PERSON Leung Chi Kong
+3 custom entities: GPE Young, PERSON Hong, PERSON Leung Chi
+
+Source Sentence and Source Headline Match:
+“Young people don’t know Hong Kong’s history,” Leung Chi Kong, 60, community worker, said at the rally.
+China Says Hong Kong Democracy Protests Risk Election.
+3 matches: kong, say, hong
+
+Source Sentence and Story Headline Match:
+“Young people don’t know Hong Kong’s history,” Leung Chi Kong, 60, community worker, said at the rally.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+“Young people don’t know Hong Kong’s history,” Leung Chi Kong, 60, community worker, said at the rally.
+"Hong Kong people are right to feel betrayed.
+3 matches: people, kong, hong
+
+----------------
+
+sent_28:
+28 out of 36 sentences
+16 out of 19 paragraphs
+Tagged as a quote
+
+Sentence:
+“The prosperity of Hong Kong is the result of our struggles in the 1980s and 1990s.
+1 default entities: GPE Hong Kong
+1 custom entities: GPE Hong Kong
+
+Source Sentence and Source Headline Match:
+“The prosperity of Hong Kong is the result of our struggles in the 1980s and 1990s.
+China Says Hong Kong Democracy Protests Risk Election.
+2 matches: kong, hong
+
+Source Sentence and Story Headline Match:
+“The prosperity of Hong Kong is the result of our struggles in the 1980s and 1990s.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+“The prosperity of Hong Kong is the result of our struggles in the 1980s and 1990s.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+2 matches: kong, hong
+
+----------------
+
+sent_29:
+29 out of 36 sentences
+16 out of 19 paragraphs
+Tagged as a quote
+
+Sentence:
+Occupy Central will ruin Hong Kong’s economy.”
+3 default entities: PERSON Occupy, ORGANIZATION Central, GPE Hong Kong
+3 custom entities: PERSON Occupy, ORGANIZATION Central, GPE Hong
+
+Source Sentence and Source Headline Match:
+Occupy Central will ruin Hong Kong’s economy.”
+China Says Hong Kong Democracy Protests Risk Election.
+1 matches: hong
+
+Source Sentence and Story Headline Match:
+Occupy Central will ruin Hong Kong’s economy.”
+Hong Kong releases controversial election plan.
+1 matches: hong
+
+Source Sentence and Best Story Sentence Match:
+Occupy Central will ruin Hong Kong’s economy.”
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+1 matches: hong
+
+----------------
+
+sent_30:
+30 out of 36 sentences
+17 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Hong Kong Chief Executive Leung Chun-ying will hold a second public consultation before introducing a bill on the electoral reforms to the city’s legislature early next year.
+3 default entities: GPE Hong, ORGANIZATION Kong, PERSON Leung
+3 custom entities: GPE Hong, ORGANIZATION Kong, PERSON Leung
+
+Source Sentence and Source Headline Match:
+Hong Kong Chief Executive Leung Chun-ying will hold a second public consultation before introducing a bill on the electoral reforms to the city’s legislature early next year.
+China Says Hong Kong Democracy Protests Risk Election.
+2 matches: kong, hong
+
+Source Sentence and Story Headline Match:
+Hong Kong Chief Executive Leung Chun-ying will hold a second public consultation before introducing a bill on the electoral reforms to the city’s legislature early next year.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+Hong Kong Chief Executive Leung Chun-ying will hold a second public consultation before introducing a bill on the electoral reforms to the city’s legislature early next year.
+The elections will allow five million eligible Hong Kong voters to directly vote for their next chief executive.
+5 matches: chief, executive, kong, hong, next
+
+----------------
+
+sent_31:
+31 out of 36 sentences
+18 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He needs two-thirds of the 70-member legislature, of which 27 belong to opposition parties, to pass the bill.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+He needs two-thirds of the 70-member legislature, of which 27 belong to opposition parties, to pass the bill.
+China Says Hong Kong Democracy Protests Risk Election.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+He needs two-thirds of the 70-member legislature, of which 27 belong to opposition parties, to pass the bill.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+He needs two-thirds of the 70-member legislature, of which 27 belong to opposition parties, to pass the bill.
+Opposition candidates are unlikely to be approved.
+1 matches: opposition
+
+----------------
+
+sent_32:
+32 out of 36 sentences
+18 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+If the proposal is rejected, China has said it will scrap the 2017 election and Hong Kong will continue to have its leader picked by a 1,200-member election committee.
+2 default entities: GPE China, GPE Hong Kong
+2 custom entities: GPE China, GPE Hong Kong
+
+Source Sentence and Source Headline Match:
+If the proposal is rejected, China has said it will scrap the 2017 election and Hong Kong will continue to have its leader picked by a 1,200-member election committee.
+China Says Hong Kong Democracy Protests Risk Election.
+5 matches: election, kong, say, hong, china
+
+Source Sentence and Story Headline Match:
+If the proposal is rejected, China has said it will scrap the 2017 election and Hong Kong will continue to have its leader picked by a 1,200-member election committee.
+Hong Kong releases controversial election plan.
+3 matches: election, kong, hong
+
+Source Sentence and Best Story Sentence Match:
+If the proposal is rejected, China has said it will scrap the 2017 election and Hong Kong will continue to have its leader picked by a 1,200-member election committee.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+4 matches: 2017, election, committee, hong
+
+----------------
+
+sent_33:
+33 out of 36 sentences
+19 out of 19 paragraphs
+Tagged as a quote
+
+Sentence:
+“I fear Hong Kong people will just view that they have to take extreme action,” Anson Chan, the city’s former No.
+2 default entities: GPE Hong Kong, PERSON Anson Chan
+3 custom entities: GPE Hong Kong, PERSON Anson, ORGANIZATION No
+
+Source Sentence and Source Headline Match:
+“I fear Hong Kong people will just view that they have to take extreme action,” Anson Chan, the city’s former No.
+China Says Hong Kong Democracy Protests Risk Election.
+2 matches: kong, hong
+
+Source Sentence and Story Headline Match:
+“I fear Hong Kong people will just view that they have to take extreme action,” Anson Chan, the city’s former No.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+“I fear Hong Kong people will just view that they have to take extreme action,” Anson Chan, the city’s former No.
+"Hong Kong people are right to feel betrayed.
+3 matches: people, kong, hong
+
+----------------
+
+sent_34:
+34 out of 36 sentences
+19 out of 19 paragraphs
+Tagged as not being a quote
+
+Sentence:
+2 official said.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+2 official said.
+China Says Hong Kong Democracy Protests Risk Election.
+1 matches: say
+
+Source Sentence and Story Headline Match:
+2 official said.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+2 official said.
+Activists say Beijing promised direct elections in 2017.
+1 matches: say
+
+----------------
+
+sent_35:
+35 out of 36 sentences
+19 out of 19 paragraphs
+Tagged as a quote
+
+Sentence:
+“Too much is at stake.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“Too much is at stake.
+China Says Hong Kong Democracy Protests Risk Election.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“Too much is at stake.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_36:
+36 out of 36 sentences
+19 out of 19 paragraphs
+Tagged as a quote
+
+Sentence:
+We are fighting for our children’s future.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+We are fighting for our children’s future.”
+China Says Hong Kong Democracy Protests Risk Election.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+We are fighting for our children’s future.”
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+

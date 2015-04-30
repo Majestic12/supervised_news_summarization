@@ -1,0 +1,609 @@
+sent_1:
+1 out of 22 sentences
+1 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The treasurer of Brazil's ruling Workers' Party, Joao Vaccari, has stepped down, after being arrested over corruption at oil giant Petrobras.
+5 default entities: GPE Brazil, ORGANIZATION Workers, PERSON Party, PERSON Joao Vaccari, PERSON Petrobras
+2 custom entities: ORGANIZATION Workers Party Joao Vaccari, PERSON Petrobras
+
+Source Sentence and Source Headline Match:
+The treasurer of Brazil's ruling Workers' Party, Joao Vaccari, has stepped down, after being arrested over corruption at oil giant Petrobras.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+6 matches: step, petrobras, party, treasurer, vaccari, worker
+
+Source Sentence and Story Headline Match:
+The treasurer of Brazil's ruling Workers' Party, Joao Vaccari, has stepped down, after being arrested over corruption at oil giant Petrobras.
+Brazil's Petrobras lost $17 billion in 2014.
+2 matches: brazil's, petrobras
+
+Source Sentence and Best Story Sentence Match:
+The treasurer of Brazil's ruling Workers' Party, Joao Vaccari, has stepped down, after being arrested over corruption at oil giant Petrobras.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+6 matches: joao, petrobras, arrest, party, vaccari, worker
+
+----------------
+
+sent_2:
+2 out of 22 sentences
+2 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Mr Vaccari is charged over an alleged scheme in which the party received dirty money from inflated deals between oil executives and construction firms.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Mr Vaccari is charged over an alleged scheme in which the party received dirty money from inflated deals between oil executives and construction firms.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+2 matches: party, vaccari
+
+Source Sentence and Story Headline Match:
+Mr Vaccari is charged over an alleged scheme in which the party received dirty money from inflated deals between oil executives and construction firms.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Mr Vaccari is charged over an alleged scheme in which the party received dirty money from inflated deals between oil executives and construction firms.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+2 matches: party, vaccari
+
+----------------
+
+sent_3:
+3 out of 22 sentences
+3 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Party president Rui Falcao said he still had confidence in Mr Vaccari.
+2 default entities: GPE Party, PERSON Rui Falcao
+2 custom entities: GPE Party, PERSON Rui Falcao
+
+Source Sentence and Source Headline Match:
+Party president Rui Falcao said he still had confidence in Mr Vaccari.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+2 matches: party, vaccari
+
+Source Sentence and Story Headline Match:
+Party president Rui Falcao said he still had confidence in Mr Vaccari.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Party president Rui Falcao said he still had confidence in Mr Vaccari.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+2 matches: party, vaccari
+
+----------------
+
+sent_4:
+4 out of 22 sentences
+4 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He is the closest ally of President Dilma Rousseff to have been arrested in the broadening scandal.
+1 default entities: PERSON Dilma Rousseff
+1 custom entities: PERSON Dilma Rousseff
+
+Source Sentence and Source Headline Match:
+He is the closest ally of President Dilma Rousseff to have been arrested in the broadening scandal.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+1 matches: scandal
+
+Source Sentence and Story Headline Match:
+He is the closest ally of President Dilma Rousseff to have been arrested in the broadening scandal.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+He is the closest ally of President Dilma Rousseff to have been arrested in the broadening scandal.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+2 matches: arrest, scandal
+
+----------------
+
+sent_5:
+5 out of 22 sentences
+5 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The arrest places further pressure on the president, who has faced street protests, impeachment calls and plummeting opinion ratings since her re-election four months ago.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The arrest places further pressure on the president, who has faced street protests, impeachment calls and plummeting opinion ratings since her re-election four months ago.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The arrest places further pressure on the president, who has faced street protests, impeachment calls and plummeting opinion ratings since her re-election four months ago.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The arrest places further pressure on the president, who has faced street protests, impeachment calls and plummeting opinion ratings since her re-election four months ago.
+On March 15, almost 1 million Brazilians marched in protests in more than 50 cities calling for the ouster of President Rousseff.
+3 matches: call, president, protest
+
+----------------
+
+sent_6:
+6 out of 22 sentences
+6 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Ms Rousseff served as the head of Petrobras for much of the period when the corruption took place, but she has not been implicated in the scandal.
+2 default entities: PERSON Rousseff, GPE Petrobras
+2 custom entities: PERSON Rousseff, GPE Petrobras
+
+Source Sentence and Source Headline Match:
+Ms Rousseff served as the head of Petrobras for much of the period when the corruption took place, but she has not been implicated in the scandal.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+2 matches: petrobras, scandal
+
+Source Sentence and Story Headline Match:
+Ms Rousseff served as the head of Petrobras for much of the period when the corruption took place, but she has not been implicated in the scandal.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+Ms Rousseff served as the head of Petrobras for much of the period when the corruption took place, but she has not been implicated in the scandal.
+Protesters insist Rousseff must have known about the accusations of corruption and political bribes at Petrobras while she chaired its board.
+3 matches: corruption, petrobras, rousseff
+
+----------------
+
+sent_7:
+7 out of 22 sentences
+7 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+More than 40 politicians, including the heads of both houses of congress, are being investigated over the affair.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+More than 40 politicians, including the heads of both houses of congress, are being investigated over the affair.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+More than 40 politicians, including the heads of both houses of congress, are being investigated over the affair.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+More than 40 politicians, including the heads of both houses of congress, are being investigated over the affair.
+He was indicted in mid-March on charges including money laundering and accepting kickbacks.
+1 matches: include
+
+----------------
+
+sent_8:
+8 out of 22 sentences
+8 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Prosecutors say Mr Vaccari served as the Workers' Party's liaison in a scheme where oil officials colluded with construction firms to artificially inflate billions of dollars worth of contracts.
+3 default entities: PERSON Vaccari, ORGANIZATION Workers, PERSON Party
+2 custom entities: PERSON Vaccari, ORGANIZATION Workers
+
+Source Sentence and Source Headline Match:
+Prosecutors say Mr Vaccari served as the Workers' Party's liaison in a scheme where oil officials colluded with construction firms to artificially inflate billions of dollars worth of contracts.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+2 matches: vaccari, worker
+
+Source Sentence and Story Headline Match:
+Prosecutors say Mr Vaccari served as the Workers' Party's liaison in a scheme where oil officials colluded with construction firms to artificially inflate billions of dollars worth of contracts.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: billion
+
+Source Sentence and Best Story Sentence Match:
+Prosecutors say Mr Vaccari served as the Workers' Party's liaison in a scheme where oil officials colluded with construction firms to artificially inflate billions of dollars worth of contracts.
+Brazil's federal prosecutors said Feb. 19 that they will seek about $1.55 billion in compensation from six construction and engineering companies accused of paying bribes to Petrobras.
+4 matches: prosecutor, say, billion, construction
+
+----------------
+
+sent_9:
+9 out of 22 sentences
+9 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+According to oil officials who are testifying for the prosecution, some of the cash skimmed from the deals was diverted to the party and its allies.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+According to oil officials who are testifying for the prosecution, some of the cash skimmed from the deals was diverted to the party and its allies.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+1 matches: party
+
+Source Sentence and Story Headline Match:
+According to oil officials who are testifying for the prosecution, some of the cash skimmed from the deals was diverted to the party and its allies.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+According to oil officials who are testifying for the prosecution, some of the cash skimmed from the deals was diverted to the party and its allies.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+1 matches: oil
+
+----------------
+
+sent_10:
+10 out of 22 sentences
+10 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+The party says it remains sure of Mr Vaccari's innocence, "not only because of his conduct, but because in a democratic state everyone has the fundamental right to be considered innocent until proven guilty".
+1 default entities: PERSON Vaccari
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The party says it remains sure of Mr Vaccari's innocence, "not only because of his conduct, but because in a democratic state everyone has the fundamental right to be considered innocent until proven guilty".
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+1 matches: party
+
+Source Sentence and Story Headline Match:
+The party says it remains sure of Mr Vaccari's innocence, "not only because of his conduct, but because in a democratic state everyone has the fundamental right to be considered innocent until proven guilty".
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The party says it remains sure of Mr Vaccari's innocence, "not only because of his conduct, but because in a democratic state everyone has the fundamental right to be considered innocent until proven guilty".
+Although the Workers' Party said he was innocent, he resigned after his arrest.
+3 matches: innocent, party, say
+
+----------------
+
+sent_11:
+11 out of 22 sentences
+11 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+When he was first questioned in February Mr Vaccari said in a statement that the Workers' Party only receives legal contributions and that he would co-operate with investigators.
+3 default entities: PERSON Vaccari, ORGANIZATION Workers, PERSON Party
+2 custom entities: PERSON Vaccari, ORGANIZATION Workers Party
+
+Source Sentence and Source Headline Match:
+When he was first questioned in February Mr Vaccari said in a statement that the Workers' Party only receives legal contributions and that he would co-operate with investigators.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+3 matches: party, vaccari, worker
+
+Source Sentence and Story Headline Match:
+When he was first questioned in February Mr Vaccari said in a statement that the Workers' Party only receives legal contributions and that he would co-operate with investigators.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+When he was first questioned in February Mr Vaccari said in a statement that the Workers' Party only receives legal contributions and that he would co-operate with investigators.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+3 matches: party, vaccari, worker
+
+----------------
+
+sent_12:
+12 out of 22 sentences
+12 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+He said he answered their questions "with transparency".
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+He said he answered their questions "with transparency".
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+He said he answered their questions "with transparency".
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+He said he answered their questions "with transparency".
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+1 matches: say
+
+----------------
+
+sent_13:
+13 out of 22 sentences
+13 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Mr Vaccari was charged last month, becoming one of the most powerful political figures to have been named in the scandal.
+1 default entities: PERSON Vaccari
+1 custom entities: PERSON Vaccari
+
+Source Sentence and Source Headline Match:
+Mr Vaccari was charged last month, becoming one of the most powerful political figures to have been named in the scandal.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+2 matches: scandal, vaccari
+
+Source Sentence and Story Headline Match:
+Mr Vaccari was charged last month, becoming one of the most powerful political figures to have been named in the scandal.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Mr Vaccari was charged last month, becoming one of the most powerful political figures to have been named in the scandal.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+2 matches: vaccari, scandal
+
+----------------
+
+sent_14:
+14 out of 22 sentences
+14 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+His arrest was reportedly ordered because of concerns that he may influence the investigation or flee the country.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+His arrest was reportedly ordered because of concerns that he may influence the investigation or flee the country.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+His arrest was reportedly ordered because of concerns that he may influence the investigation or flee the country.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+His arrest was reportedly ordered because of concerns that he may influence the investigation or flee the country.
+A wide-ranging corruption probe launched after the March 2014 arrest of Paulo Roberto Costa, Petrobras' former chief of refining.
+1 matches: arrest
+
+----------------
+
+sent_15:
+15 out of 22 sentences
+15 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+"Anyone responsible for such severe crimes, including using the position of treasurer of a political party to raise criminal funds and corrupt the political system, is a risk to public order," a judge handling the case, Sergio Moro, said in a court order.
+1 default entities: PERSON Sergio Moro
+2 custom entities: GPE Anyone, PERSON Sergio Moro
+
+Source Sentence and Source Headline Match:
+"Anyone responsible for such severe crimes, including using the position of treasurer of a political party to raise criminal funds and corrupt the political system, is a risk to public order," a judge handling the case, Sergio Moro, said in a court order.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+2 matches: treasurer, party
+
+Source Sentence and Story Headline Match:
+"Anyone responsible for such severe crimes, including using the position of treasurer of a political party to raise criminal funds and corrupt the political system, is a risk to public order," a judge handling the case, Sergio Moro, said in a court order.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"Anyone responsible for such severe crimes, including using the position of treasurer of a political party to raise criminal funds and corrupt the political system, is a risk to public order," a judge handling the case, Sergio Moro, said in a court order.
+Seeking leniency, Costa shed light on $3.7 billion in questionable payments Petrobras made from slush funds to Brazil's Workers' Party and other political parties.
+3 matches: party, fund, political
+
+----------------
+
+sent_16:
+16 out of 22 sentences
+16 out of 22 paragraphs
+Tagged as a quote
+
+Sentence:
+Prosecutors say they have "ample proof" that Joao Vaccari, acting as the Workers' Party treasurer, asked for donations from former Petrobras services division chief Renato Duque and executives at companies who won Petrobras contracts.
+6 default entities: PERSON Joao Vaccari, ORGANIZATION Workers, PERSON Party, ORGANIZATION Petrobras, PERSON Renato Duque, PERSON Petrobras
+5 custom entities: PERSON Joao Vaccari, ORGANIZATION Workers Party, ORGANIZATION Petrobras, PERSON Renato Duque, PERSON Petrobras
+
+Source Sentence and Source Headline Match:
+Prosecutors say they have "ample proof" that Joao Vaccari, acting as the Workers' Party treasurer, asked for donations from former Petrobras services division chief Renato Duque and executives at companies who won Petrobras contracts.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+5 matches: treasurer, vaccari, petrobras, party, worker
+
+Source Sentence and Story Headline Match:
+Prosecutors say they have "ample proof" that Joao Vaccari, acting as the Workers' Party treasurer, asked for donations from former Petrobras services division chief Renato Duque and executives at companies who won Petrobras contracts.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+Prosecutors say they have "ample proof" that Joao Vaccari, acting as the Workers' Party treasurer, asked for donations from former Petrobras services division chief Renato Duque and executives at companies who won Petrobras contracts.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+5 matches: petrobras, joao, party, vaccari, worker
+
+----------------
+
+sent_17:
+17 out of 22 sentences
+17 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Police have also questioned Mr Vaccari's wife, Giselda Rousie Lima, and have a warrant for his sister-in-law Marice Correia Lima in connection with the scandal.
+3 default entities: PERSON Vaccari, PERSON Giselda Rousie Lima, PERSON Marice Correia Lima
+2 custom entities: PERSON Giselda Rousie Lima, PERSON Marice Correia Lima
+
+Source Sentence and Source Headline Match:
+Police have also questioned Mr Vaccari's wife, Giselda Rousie Lima, and have a warrant for his sister-in-law Marice Correia Lima in connection with the scandal.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+1 matches: scandal
+
+Source Sentence and Story Headline Match:
+Police have also questioned Mr Vaccari's wife, Giselda Rousie Lima, and have a warrant for his sister-in-law Marice Correia Lima in connection with the scandal.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Police have also questioned Mr Vaccari's wife, Giselda Rousie Lima, and have a warrant for his sister-in-law Marice Correia Lima in connection with the scandal.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+2 matches: connection, scandal
+
+----------------
+
+sent_18:
+18 out of 22 sentences
+18 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+During the wide-ranging investigation into Petrobras, dozens of executives from six of Brazil's largest engineering companies and two former Petrobras managers have been indicted for money laundering, bribery and of funnelling money from the company to politicians.
+3 default entities: GPE Petrobras, GPE Brazil, ORGANIZATION Petrobras
+2 custom entities: GPE Petrobras, ORGANIZATION Petrobras
+
+Source Sentence and Source Headline Match:
+During the wide-ranging investigation into Petrobras, dozens of executives from six of Brazil's largest engineering companies and two former Petrobras managers have been indicted for money laundering, bribery and of funnelling money from the company to politicians.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+1 matches: petrobras
+
+Source Sentence and Story Headline Match:
+During the wide-ranging investigation into Petrobras, dozens of executives from six of Brazil's largest engineering companies and two former Petrobras managers have been indicted for money laundering, bribery and of funnelling money from the company to politicians.
+Brazil's Petrobras lost $17 billion in 2014.
+2 matches: brazil's, petrobras
+
+Source Sentence and Best Story Sentence Match:
+During the wide-ranging investigation into Petrobras, dozens of executives from six of Brazil's largest engineering companies and two former Petrobras managers have been indicted for money laundering, bribery and of funnelling money from the company to politicians.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+5 matches: wide-ranging, company, dozen, petrobras, indict
+
+----------------
+
+sent_19:
+19 out of 22 sentences
+19 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Prosecutors have asked the Supreme Court to investigate dozens of legislators including the speakers of both houses of Congress for allegedly receiving the bribes.
+2 default entities: ORGANIZATION Supreme Court, ORGANIZATION Congress
+2 custom entities: ORGANIZATION Supreme Court, ORGANIZATION Congress
+
+Source Sentence and Source Headline Match:
+Prosecutors have asked the Supreme Court to investigate dozens of legislators including the speakers of both houses of Congress for allegedly receiving the bribes.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Prosecutors have asked the Supreme Court to investigate dozens of legislators including the speakers of both houses of Congress for allegedly receiving the bribes.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Prosecutors have asked the Supreme Court to investigate dozens of legislators including the speakers of both houses of Congress for allegedly receiving the bribes.
+Julio Marcelo de Oliveira, prosecutor for Brazil, asked the country's Federal Audits Court on Feb. 19 to stop "leniency agreements" that allow companies accused of involvement in the Petrobras scandal to continue bidding on federal contracts while still under investigation.
+3 matches: prosecutor, court, ask
+
+----------------
+
+sent_20:
+20 out of 22 sentences
+20 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+President Rousseff's opponents have argued that she must have known about the bribery scheme because she served as chairwoman on Petrobras's board at a time when it was taking place.
+2 default entities: PERSON Rousseff, PERSON Petrobras
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+President Rousseff's opponents have argued that she must have known about the bribery scheme because she served as chairwoman on Petrobras's board at a time when it was taking place.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+President Rousseff's opponents have argued that she must have known about the bribery scheme because she served as chairwoman on Petrobras's board at a time when it was taking place.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+President Rousseff's opponents have argued that she must have known about the bribery scheme because she served as chairwoman on Petrobras's board at a time when it was taking place.
+Protesters insist Rousseff must have known about the accusations of corruption and political bribes at Petrobras while she chaired its board.
+3 matches: know, board, must
+
+----------------
+
+sent_21:
+21 out of 22 sentences
+21 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The scandal has meant Petrobras, one of the largest oil businesses in the world, has lost much of its market value since September.
+1 default entities: PERSON Petrobras
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The scandal has meant Petrobras, one of the largest oil businesses in the world, has lost much of its market value since September.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+2 matches: petrobras, scandal
+
+Source Sentence and Story Headline Match:
+The scandal has meant Petrobras, one of the largest oil businesses in the world, has lost much of its market value since September.
+Brazil's Petrobras lost $17 billion in 2014.
+2 matches: lose, petrobras
+
+Source Sentence and Best Story Sentence Match:
+The scandal has meant Petrobras, one of the largest oil businesses in the world, has lost much of its market value since September.
+In its first audited financial results since Aug. 2014, Petrobras reported on April 22 that it lost $8.8 billion in Q4 2014 due to corruption, oil price pressures, refinery cost overruns, and other factors.
+4 matches: lose, since, petrobras, oil
+
+----------------
+
+sent_22:
+22 out of 22 sentences
+22 out of 22 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Petrobras describes itself as the main driver behind the oil and natural gas sector contributing to 13% of Brazil's GDP.
+3 default entities: GPE Petrobras, GPE Brazil, ORGANIZATION GDP
+2 custom entities: GPE Petrobras, ORGANIZATION GDP
+
+Source Sentence and Source Headline Match:
+Petrobras describes itself as the main driver behind the oil and natural gas sector contributing to 13% of Brazil's GDP.
+Brazil Petrobras scandal: Workers' Party treasurer Vaccari steps down.
+1 matches: petrobras
+
+Source Sentence and Story Headline Match:
+Petrobras describes itself as the main driver behind the oil and natural gas sector contributing to 13% of Brazil's GDP.
+Brazil's Petrobras lost $17 billion in 2014.
+2 matches: brazil's, petrobras
+
+Source Sentence and Best Story Sentence Match:
+Petrobras describes itself as the main driver behind the oil and natural gas sector contributing to 13% of Brazil's GDP.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+2 matches: petrobras, oil
+
+----------------
+

@@ -1,0 +1,284 @@
+sent_1:
+
+Virgin America has announced tentative plans to create its first base outside California, saying it would like to add 18 daily departures to five destinations at Dallas' capacity-controlled Love Field.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+3 best matches: virgin, america, say
+
+----------------
+sent_2:
+
+The carrier announced on Wednesday morning what its flight schedule would look like if it is successful in winning control of two gates at the close-to-downtown Dallas airport.
+The company began flights in 2007 and has long discussed going public.
+1 best matches: flight
+
+----------------
+sent_3:
+
+The gates are currently owned by American, but that carrier must give them up as part of a settlement with the Department of Justice (DOJ) that cleared the way for its merger with US Airways.
+agreement with US Airways and American Airlines in their merger.
+4 best matches: american, merger, u, airway
+
+----------------
+sent_4:
+
+If it gains access to the gates, Virgin America would add service from Love Field to five major business destinations: New York LaGuardia, Washington Reagan National (DCA), Chicago O'Hare, San Francisco and Los Angeles.
+Virgin America went public in Nov. 2014 and is now valued at more than $1.3 billion.
+2 best matches: virgin, america
+
+----------------
+sent_5:
+
+Not coincidentally, the flight rights that Virgin America would use for the LaGuardia and DCA flights also came from American as part of the divestiture agreement with Justice.
+Virgin America went public in Nov. 2014 and is now valued at more than $1.3 billion.
+2 best matches: virgin, america
+
+----------------
+sent_6:
+
+Virgin America announced it successfully bid for slots at those capacity-controlled airports earlier this year.
+Virgin America went public in Nov. 2014 and is now valued at more than $1.3 billion.
+2 best matches: virgin, america
+
+----------------
+sent_7:
+
+As for Love Field, Virgin America has not been confirmed as the recipient for the divestiture, despite announcing its intentions for the gates.
+Virgin America went public in Nov. 2014 and is now valued at more than $1.3 billion.
+2 best matches: virgin, america
+
+----------------
+sent_8:
+
+"The reason that we're making the announcement is that we think that the next action DOJ is going to take in enforcing the consent order with American is on the gates," Virgin America CEO David Cush says to Today in the Sky.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+4 best matches: go, virgin, america, say
+
+----------------
+sent_9:
+
+"So we think the time is right for making this announcement."
+The airline said shareholders had decided "not to proceed with an offering at this time."
+1 best matches: time
+
+----------------
+sent_10:
+
+Virgin America's proactive schedule announcement follows a similar, more-aggressive move made by Delta.
+Virgin America went public in Nov. 2014 and is now valued at more than $1.3 billion.
+1 best matches: virgin
+
+----------------
+sent_11:
+
+That carrier, which currently is leasing the gates that American must give up, announced an ambitious expansion plan for Love Field.
+"Circa earlier today erroneously reported that Virgin America had withdrawn its plans for an IPO.
+1 best matches: plan
+
+----------------
+sent_12:
+
+Delta has even put those planned flights up for sale through its booking system.
+"Circa earlier today erroneously reported that Virgin America had withdrawn its plans for an IPO.
+1 best matches: plan
+
+----------------
+sent_13:
+
+However, Delta's ability to add those flights hinges on maintaining access to those gates.
+The company began flights in 2007 and has long discussed going public.
+1 best matches: flight
+
+----------------
+sent_14:
+
+The proactive schedule announcements from both Virgin America and Delta appear to be aimed at putting pressure on the Justice Department to award the gates.
+Virgin America went public in Nov. 2014 and is now valued at more than $1.3 billion.
+2 best matches: virgin, america
+
+----------------
+sent_15:
+
+"We think in all honesty our case is overwhelmingly compelling," Cush says to Today in the Sky.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+1 best matches: say
+
+----------------
+sent_16:
+
+"It appears that the DOJ is prepared to move on the gate divestitures," Cush says when asked why the carrier chose to make this morning's announcement.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+1 best matches: say
+
+----------------
+sent_17:
+
+no story sentence best matches found
+
+----------------
+sent_18:
+
+no story sentence best matches found
+
+----------------
+sent_19:
+
+no story sentence best matches found
+
+----------------
+sent_20:
+
+He says the Justice Department's consent order regarding the gates "is very clear that all assets divested by American need to go to low-cost carriers.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+2 best matches: go, say
+
+----------------
+sent_21:
+
+no story sentence best matches found
+
+----------------
+sent_22:
+
+"I think the sooner we get this wrapped up the better," Cush adds, saying that would allow Delta to "reaccommodate the passengers they've sold on these schedules" it has announced from Love Field.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+1 best matches: say
+
+----------------
+sent_23:
+
+Virgin America's Love Field proposal would have it start flights to LaGuardia, Washington National, Los Angeles and San Francisco in October 2014.
+Virgin America went public in Nov. 2014 and is now valued at more than $1.3 billion.
+2 best matches: virgin, 2014
+
+----------------
+sent_24:
+
+That's when the Wright Amendment that currently imposes distance restrictions on Love Field flights is set to expire.
+The company began flights in 2007 and has long discussed going public.
+1 best matches: flight
+
+----------------
+sent_25:
+
+Virgin America also would add flights to Chicago O'Hare in "early 2015."
+"Circa earlier today erroneously reported that Virgin America had withdrawn its plans for an IPO.
+3 best matches: virgin, america, early
+
+----------------
+sent_26:
+
+The carrier says it would start with three or four daily round-trip flights to each city before going to four daily flights on all Love Field routes — except Chicago — in 2015.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+2 best matches: go, say
+
+----------------
+sent_27:
+
+Virgin America would fly two daily round-trip flights to Chicago.
+Virgin America went public in Nov. 2014 and is now valued at more than $1.3 billion.
+2 best matches: virgin, america
+
+----------------
+sent_28:
+
+Virgin America already flies from Dallas/Fort Worth (DFW), offering service to its main bases in San Francisco and Los Angeles.
+It is based in San Francisco and flies to about two dozen cities.
+4 best matches: fly, francisco, base, san
+
+----------------
+sent_29:
+
+But the airline says it would shift those flights to Love Field if it's successful in securing space there.
+The airline said shareholders had decided "not to proceed with an offering at this time."
+2 best matches: airline, say
+
+----------------
+sent_30:
+
+Cush is "happy with the performance of our service at DFW from San Francisco and Los Angeles," but says Virgin America would face "structural disadvantages" in competing with American on other routes from DFW, where American is by far the dominant carrier.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+3 best matches: virgin, america, say
+
+----------------
+sent_31:
+
+He acknowledges the Love Field plan would mark an important evolution for Virgin America, which so far has stuck almost exclusively to routes to or from its two main bases in San Francisco and Los Angeles.
+It is based in San Francisco and flies to about two dozen cities.
+4 best matches: two, francisco, base, san
+
+----------------
+sent_32:
+
+"We always knew that at some point we going to have to branch beyond what our current network structure is," Cush says.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+2 best matches: go, say
+
+----------------
+sent_33:
+
+"There are only so many long-haul, trans-con markets that can be supported with nonstop service in San Francisco and Los Angeles.
+It is based in San Francisco and flies to about two dozen cities.
+2 best matches: francisco, san
+
+----------------
+sent_34:
+
+So this is just a very logical way to go in and take the next step in our network development."
+Virgin America went public in Nov. 2014 and is now valued at more than $1.3 billion.
+1 best matches: go
+
+----------------
+sent_35:
+
+He wouldn't speculate on what Virgin America would do if it does not win the gates at Love Field.
+Virgin America went public in Nov. 2014 and is now valued at more than $1.3 billion.
+2 best matches: virgin, america
+
+----------------
+sent_36:
+
+"We're not really focused on that right now," Cush says.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+1 best matches: say
+
+----------------
+sent_37:
+
+"The only thing that we have made clear to people is that we will not operate these (non-California) flights into DFW because we're sure that we would have a difficult time there.
+The airline said shareholders had decided "not to proceed with an offering at this time."
+1 best matches: time
+
+----------------
+sent_38:
+
+no story sentence best matches found
+
+----------------
+sent_39:
+
+All we're saying is that DFW is not an option for those flights."
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+1 best matches: say
+
+----------------
+sent_40:
+
+"That being said, if in the end it's not Love Field, it will be somewhere else," Cush adds.
+Virgin America said April 24 that it was no longer going to pursue a secondary offering of shares.
+1 best matches: say
+
+----------------
+sent_41:
+
+"We're confident we're going to prevail here, because we think it's not only a solution that's in line with that the Department of Justice is looking for — in terms of preserving competition — but we think it's a good solution for the city of Dallas and the citizens of Dallas.
+It is based in San Francisco and flies to about two dozen cities.
+1 best matches: city
+
+----------------
+sent_42:
+
+But in the end … if something doesn't work, we've got plenty of other options to go in and do something like this."
+Virgin America went public in Nov. 2014 and is now valued at more than $1.3 billion.
+1 best matches: go
+
+----------------

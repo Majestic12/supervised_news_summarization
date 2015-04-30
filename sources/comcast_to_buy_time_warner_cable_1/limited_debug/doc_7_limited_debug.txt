@@ -1,0 +1,199 @@
+sent_1:
+
+Several House Republicans expressed concern on Thursday that a merger of Comcast and Time Warner Cable would give the new company undue influence over the potential success of cable channels whose programming might compete with Comcast’s.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+7 best matches: company, warner, time, cable, would, comcast, merger
+
+----------------
+sent_2:
+
+At a four-hour hearing of the House antitrust subcommittee, representatives from a few, mostly Republican states raised questions about Comcast’s decision after its takeover of NBCUniversal to drop RFD-TV from its cable service in Colorado and New Mexico.
+"Citing unnamed sources, the Wall Street Journal reported April 22 that the FCC is now considering issuing a "hearing designation order" for Comcast's proposed merger with Time Warner Cable.
+2 best matches: cable, hearing
+
+----------------
+sent_3:
+
+RFD focuses on largely rural interests like agribusiness, Western sports and music, and rural lifestyle issues.
+"Citing unnamed sources, the Wall Street Journal reported April 22 that the FCC is now considering issuing a "hearing designation order" for Comcast's proposed merger with Time Warner Cable.
+1 best matches: issue
+
+----------------
+sent_4:
+
+Republican and Democratic representatives also raised concerns about Comcast’s post-merger ability to pick winners and losers in the cable and broadband business because of its influence over regional sports networks, several of which it owns, and over Internet video companies whose offerings compete with Comcast’s television programming.
+Several companies, including Discovery Communications, Dish Network and Netflix, have also publicly opposed the proposed merger, with Dish Network also claiming a combined Comcast-TWC could use its large size to win better terms.
+4 best matches: also, company, several, network
+
+----------------
+sent_5:
+
+In the end, however, several members expressed the view that, although Congress has no direct authority over the merger, they expect that not enough documented antitrust problems exist to block the deal.
+Comcast has supplied several local officials throughout the U.S. with pre-written letters of support for its merger with TWC, according to documents obtained by The Verge.
+3 best matches: document, merger, several
+
+----------------
+sent_6:
+
+no story sentence best matches found
+
+----------------
+sent_7:
+
+He told the committee that the decision cost RFD roughly 470,000 viewers, about 40 percent of its Comcast customers, in markets where the station’s viewership ranked in the top 25 percent of all cable networks.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 best matches: cable, comcast
+
+----------------
+sent_8:
+
+Since it was dropped, RFD has not been added to Comcast offerings in any area served by the company, he said.
+Comcast has repeatedly defended the merger, saying it will not reduce competition because the two companies don't serve the same areas.
+5 best matches: area, company, serve, say, comcast
+
+----------------
+sent_9:
+
+“Because there is no clear business reason to understand Comcast’s decision, we can only speculate that RFD-TV has become competitive with Comcast’s affiliated programming,” Mr. Gottsch told members of the House Subcommittee on Regulatory Reform, Commercial and Antitrust Law.
+This procedural move suggests the agency does not view the merger as being in the public interest, leaving approval in the hands of an administrative law judge."
+1 best matches: law
+
+----------------
+sent_10:
+
+David L. Cohen, the Comcast executive vice president who has been the company’s chief public advocate since the merger was announced, denied that charge.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 best matches: merger, announce, comcast
+
+----------------
+sent_11:
+
+He said the decision was made by local cable programmers and noted that Comcast served primarily urban areas, even in Western states.
+Comcast has repeatedly defended the merger, saying it will not reduce competition because the two companies don't serve the same areas.
+4 best matches: area, serve, say, comcast
+
+----------------
+sent_12:
+
+Some 600,000 to 700,000 Comcast customers can still receive the service, Mr. Cohen said, and those who cannot get it on Comcast can switch their cable subscription to one of the satellite companies.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 best matches: cable, company, comcast
+
+----------------
+sent_13:
+
+Comcast’s primary defense against claims that it faces no competition in most markets for multichannel video programing is that the satellite providers Dish and DirecTV are available to more than 90 percent of Americans.
+Comcast has repeatedly claimed it faces broadband competition from gigabit providers like Google and AT&T and from wireless providers like T-Mobile and Verizon.
+4 best matches: claim, competition, provider, face
+
+----------------
+sent_14:
+
+Mr. Cohen again emphasized that after the merger no cable subscribers in the United States would have fewer choices for delivery of cable television than before the deal.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 best matches: cable, would, merger
+
+----------------
+sent_15:
+
+Nevertheless, the Comcast-Time Warner Cable merger has attracted a growing array of corporate opponents in recent weeks.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 best matches: cable, merger, warner
+
+----------------
+sent_16:
+
+Dave Schaeffer, the chief executive of Cogent Communications, a company that provides infrastructure connecting Internet programmers with local broadband providers, told the House panel that “grave anticompetitive and consumer harms” could result from the merger because of Comcast’s capture of broadband customers.
+Several companies, including Discovery Communications, Dish Network and Netflix, have also publicly opposed the proposed merger, with Dish Network also claiming a combined Comcast-TWC could use its large size to win better terms.
+4 best matches: could, communication, company, merger
+
+----------------
+sent_17:
+
+The merged companies will reach 40 percent to 60 percent of wired broadband subscribers in the United States, Mr. Schaeffer said.
+Comcast has repeatedly defended the merger, saying it will not reduce competition because the two companies don't serve the same areas.
+2 best matches: company, say
+
+----------------
+sent_18:
+
+It will dominate high-speed Internet service in 19 of the country’s 20 largest markets.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+1 best matches: large
+
+----------------
+sent_19:
+
+“One entity controlling access to so many of America’s ‘captive eyeballs’ should immediately raise red flags,” he said.
+Comcast said as recently as March that it expected to win regulatory approval for the merger "in the middle" of 2015.
+1 best matches: say
+
+----------------
+sent_20:
+
+Some members of Congress also questioned the assertion that advertisers could have less access to consumers after the merger, because a larger Comcast could control access to roughly 30 percent of cable customers nationwide.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+4 best matches: cable, merger, large, comcast
+
+----------------
+sent_21:
+
+Allen P. Grunes, a partner at GeyerGorey and a former Justice Department antitrust lawyer, said Comcast and Time Warner do compete in the sale of local cable advertising, which takes up two to three minutes of every hour of cable programming.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+5 best matches: warner, cable, two, time, comcast
+
+----------------
+sent_22:
+
+“If the merger is consummated, the merged firm would likely have the power to increase prices in the spot cable advertising market through its control over a large number of subscribers and key market gateways,” Mr. Grunes said.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+4 best matches: cable, would, merger, large
+
+----------------
+sent_23:
+
+Representative Louie Gohmert, a Texas Republican, took the hearing in an unexpected direction when he accused Comcast of keeping Glenn Beck, the conservative television and radio host, off its cable network in favor of Al Jazeera America, which “wanted to get their Sharia law view into us.”
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 best matches: cable, comcast
+
+----------------
+sent_24:
+
+no story sentence best matches found
+
+----------------
+sent_25:
+
+Mr. Gohmert said Mr. Beck was also offering to buy the channel but was thwarted by a conspiracy between Al Jazeera and Comcast.
+Comcast said as recently as March that it expected to win regulatory approval for the merger "in the middle" of 2015.
+2 best matches: say, comcast
+
+----------------
+sent_26:
+
+Mr. Gohmert said Mr. Beck also had sought to buy another failing cable channel that owed money to Comcast; the congressman cited an anonymous email alleging that Comcast was conspiring to keep Mr. Beck off the air until after the 2014 midterm elections.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 best matches: cable, 2014, comcast
+
+----------------
+sent_27:
+
+Mr. Cohen denied the assertions.
+The company denied directly paying any groups for the sole purpose of winning their public support, and said the deal should only be considered from a legal and technical standpoint, and not whether or not the company is well-liked.
+1 best matches: deny
+
+----------------
+sent_28:
+
+Under its contract, he said, the channel at issue was not allowed to include news coverage or political commentary.
+"Citing unnamed sources, the Wall Street Journal reported April 22 that the FCC is now considering issuing a "hearing designation order" for Comcast's proposed merger with Time Warner Cable.
+1 best matches: issue
+
+----------------
+sent_29:
+
+He added that “there is no judgment being made” about carrying Mr. Beck’s program “based upon its political perspective.”
+"Several other stories in recent days, all based on unnamed sources, have suggested that the Dept.
+1 best matches: base
+
+----------------

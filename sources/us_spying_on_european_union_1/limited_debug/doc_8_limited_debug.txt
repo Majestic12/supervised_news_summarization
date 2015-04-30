@@ -1,0 +1,14 @@
+sent_1:
+
+Germany's Foreign Minister has summoned the United States' ambassador to Germany, John B. Emerson, to discuss information obtained by Berlin that the U.S. may have monitored Angela Merkel's mobile phone, a government spokesman said on Thursday.
+Friedrich, Germany's minister responsible for national security said he is keen to speak to Snowden over allegations that the NSA monitored Chancellor Angela Merkel's phone calls.
+7 best matches: phone, germany's, monitor, say, merkel's, minister, angela
+
+----------------
+sent_2:
+
+The move comes a day after Merkel called President Barack Obama to demand immediate clarification and told him if such surveillance had taken place it amounted to a "grave breach of trust".
+Despite outcry from European leaders over the leaks, Snowden told Der Spiegel in 2013 that the NSA is "in bed together with the Germans and most other Western states."
+1 best matches: tell
+
+----------------

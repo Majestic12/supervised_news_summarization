@@ -1,0 +1,537 @@
+sent_1:
+1 out of 20 sentences
+1 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Afghanistan beat Scotland by one wicket with three balls to spare to claim their first World Cup win.
+2 default entities: GPE Afghanistan, GPE Scotland
+2 custom entities: GPE Afghanistan, GPE Scotland
+
+Source Sentence and Source Headline Match:
+Afghanistan beat Scotland by one wicket with three balls to spare to claim their first World Cup win.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+4 matches: cup, afghanistan, world, scotland
+
+Source Sentence and Story Headline Match:
+Afghanistan beat Scotland by one wicket with three balls to spare to claim their first World Cup win.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+3 matches: cup, win, world
+
+Source Sentence and Best Story Sentence Match:
+Afghanistan beat Scotland by one wicket with three balls to spare to claim their first World Cup win.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+7 matches: win, afghanistan, wicket, world, cup, first, scotland
+
+----------------
+
+sent_2:
+2 out of 20 sentences
+2 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Chasing 211 in Dunedin, Afghanistan were reduced to 97-7 but Samiullah Shenwari's 96 gave them hope.
+3 default entities: GPE Dunedin, GPE Afghanistan, PERSON Samiullah Shenwari
+2 custom entities: GPE Dunedin, PERSON Samiullah
+
+Source Sentence and Source Headline Match:
+Chasing 211 in Dunedin, Afghanistan were reduced to 97-7 but Samiullah Shenwari's 96 gave them hope.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+1 matches: afghanistan
+
+Source Sentence and Story Headline Match:
+Chasing 211 in Dunedin, Afghanistan were reduced to 97-7 but Samiullah Shenwari's 96 gave them hope.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Chasing 211 in Dunedin, Afghanistan were reduced to 97-7 but Samiullah Shenwari's 96 gave them hope.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+2 matches: dunedin, afghanistan
+
+----------------
+
+sent_3:
+3 out of 20 sentences
+3 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He was caught on the boundary with 19 still required, but last man Shapoor Zadran hit the third ball of the final over for four to seal victory.
+1 default entities: PERSON Shapoor Zadran
+1 custom entities: PERSON Shapoor Zadran
+
+Source Sentence and Source Headline Match:
+He was caught on the boundary with 19 still required, but last man Shapoor Zadran hit the third ball of the final over for four to seal victory.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+1 matches: final
+
+Source Sentence and Story Headline Match:
+He was caught on the boundary with 19 still required, but last man Shapoor Zadran hit the third ball of the final over for four to seal victory.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+1 matches: victory
+
+Source Sentence and Best Story Sentence Match:
+He was caught on the boundary with 19 still required, but last man Shapoor Zadran hit the third ball of the final over for four to seal victory.
+Australia won the Cricket World Cup with a victory over New Zealand.
+1 matches: victory
+
+----------------
+
+sent_4:
+4 out of 20 sentences
+4 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Scotland had earlier rallied from 144-8 to make 210, but their search for a first World Cup win goes on.
+1 default entities: GPE Scotland
+1 custom entities: GPE Scotland
+
+Source Sentence and Source Headline Match:
+Scotland had earlier rallied from 144-8 to make 210, but their search for a first World Cup win goes on.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+3 matches: cup, world, scotland
+
+Source Sentence and Story Headline Match:
+Scotland had earlier rallied from 144-8 to make 210, but their search for a first World Cup win goes on.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+3 matches: cup, win, world
+
+Source Sentence and Best Story Sentence Match:
+Scotland had earlier rallied from 144-8 to make 210, but their search for a first World Cup win goes on.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+5 matches: cup, win, first, world, scotland
+
+----------------
+
+sent_5:
+5 out of 20 sentences
+5 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+They have now lost all 11 matches they have played in three World Cups, surpassing the Netherlands' previous record of 10 successive defeats from debut.
+1 default entities: ORGANIZATION Netherlands
+1 custom entities: GPE Netherlands
+
+Source Sentence and Source Headline Match:
+They have now lost all 11 matches they have played in three World Cups, surpassing the Netherlands' previous record of 10 successive defeats from debut.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+2 matches: cup, world
+
+Source Sentence and Story Headline Match:
+They have now lost all 11 matches they have played in three World Cups, surpassing the Netherlands' previous record of 10 successive defeats from debut.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+2 matches: cup, world
+
+Source Sentence and Best Story Sentence Match:
+They have now lost all 11 matches they have played in three World Cups, surpassing the Netherlands' previous record of 10 successive defeats from debut.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+3 matches: cup, defeat, world
+
+----------------
+
+sent_6:
+6 out of 20 sentences
+6 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It was the second thrilling match between two non-Test playing sides in as many days following Ireland's two-wicket win over the UAE on Wednesday.
+2 default entities: GPE Ireland, ORGANIZATION UAE
+1 custom entities: ORGANIZATION UAE
+
+Source Sentence and Source Headline Match:
+It was the second thrilling match between two non-Test playing sides in as many days following Ireland's two-wicket win over the UAE on Wednesday.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It was the second thrilling match between two non-Test playing sides in as many days following Ireland's two-wicket win over the UAE on Wednesday.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+1 matches: win
+
+Source Sentence and Best Story Sentence Match:
+It was the second thrilling match between two non-Test playing sides in as many days following Ireland's two-wicket win over the UAE on Wednesday.
+Australia won the Cricket World Cup with a victory over New Zealand.
+1 matches: win
+
+----------------
+
+sent_7:
+7 out of 20 sentences
+7 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Scotland will reflect on a missed opportunity to record their first World Cup win but, in a match of regularly fluctuating fortunes, both teams surrendered positions of strength.
+1 default entities: GPE Scotland
+1 custom entities: GPE Scotland
+
+Source Sentence and Source Headline Match:
+Scotland will reflect on a missed opportunity to record their first World Cup win but, in a match of regularly fluctuating fortunes, both teams surrendered positions of strength.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+3 matches: cup, world, scotland
+
+Source Sentence and Story Headline Match:
+Scotland will reflect on a missed opportunity to record their first World Cup win but, in a match of regularly fluctuating fortunes, both teams surrendered positions of strength.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+3 matches: cup, win, world
+
+Source Sentence and Best Story Sentence Match:
+Scotland will reflect on a missed opportunity to record their first World Cup win but, in a match of regularly fluctuating fortunes, both teams surrendered positions of strength.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+5 matches: cup, win, first, world, scotland
+
+----------------
+
+sent_8:
+8 out of 20 sentences
+8 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Ultimately, it was the efforts of Shenwari and the nerve of last-wicket pair Shapoor and Hamid Hassan that earned a historic win for Afghanistan, a nation that was still competing in the bottom tier of the International Cricket Council's world league in 2008.
+5 default entities: ORGANIZATION Shenwari, PERSON Shapoor, PERSON Hamid Hassan, GPE Afghanistan, ORGANIZATION International Cricket Council
+5 custom entities: ORGANIZATION Shenwari, PERSON Shapoor, PERSON Hamid Hassan, GPE Afghanistan, ORGANIZATION International Cricket
+
+Source Sentence and Source Headline Match:
+Ultimately, it was the efforts of Shenwari and the nerve of last-wicket pair Shapoor and Hamid Hassan that earned a historic win for Afghanistan, a nation that was still competing in the bottom tier of the International Cricket Council's world league in 2008.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+3 matches: afghanistan, cricket, world
+
+Source Sentence and Story Headline Match:
+Ultimately, it was the efforts of Shenwari and the nerve of last-wicket pair Shapoor and Hamid Hassan that earned a historic win for Afghanistan, a nation that was still competing in the bottom tier of the International Cricket Council's world league in 2008.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+3 matches: win, cricket, world
+
+Source Sentence and Best Story Sentence Match:
+Ultimately, it was the efforts of Shenwari and the nerve of last-wicket pair Shapoor and Hamid Hassan that earned a historic win for Afghanistan, a nation that was still competing in the bottom tier of the International Cricket Council's world league in 2008.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+4 matches: win, afghanistan, cricket, world
+
+----------------
+
+sent_9:
+9 out of 20 sentences
+9 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+After the Afghans suffered a middle-order collapse of five wickets for 12 runs, Shenwari painstakingly rebuilt, before opening his shoulders to make an unlikely run-chase seem possible.
+2 default entities: ORGANIZATION Afghans, PERSON Shenwari
+1 custom entities: ORGANIZATION Afghans
+
+Source Sentence and Source Headline Match:
+After the Afghans suffered a middle-order collapse of five wickets for 12 runs, Shenwari painstakingly rebuilt, before opening his shoulders to make an unlikely run-chase seem possible.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+After the Afghans suffered a middle-order collapse of five wickets for 12 runs, Shenwari painstakingly rebuilt, before opening his shoulders to make an unlikely run-chase seem possible.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+After the Afghans suffered a middle-order collapse of five wickets for 12 runs, Shenwari painstakingly rebuilt, before opening his shoulders to make an unlikely run-chase seem possible.
+Australia beat India in the semifinals, while New Zealand beat South Africa to make its first appearance in the finals.
+1 matches: make
+
+----------------
+
+sent_10:
+10 out of 20 sentences
+10 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+With 38 required from the final four overs, Shenwari three times heaved Majid Haq for six over the leg side, only to be caught on the boundary looking for the fourth that would have taken him to a century.
+2 default entities: ORGANIZATION Shenwari, PERSON Majid Haq
+1 custom entities: PERSON Majid Haq
+
+Source Sentence and Source Headline Match:
+With 38 required from the final four overs, Shenwari three times heaved Majid Haq for six over the leg side, only to be caught on the boundary looking for the fourth that would have taken him to a century.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+1 matches: final
+
+Source Sentence and Story Headline Match:
+With 38 required from the final four overs, Shenwari three times heaved Majid Haq for six over the leg side, only to be caught on the boundary looking for the fourth that would have taken him to a century.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+With 38 required from the final four overs, Shenwari three times heaved Majid Haq for six over the leg side, only to be caught on the boundary looking for the fourth that would have taken him to a century.
+Australia beat India in the semifinals, while New Zealand beat South Africa to make its first appearance in the finals.
+1 matches: final
+
+----------------
+
+sent_11:
+11 out of 20 sentences
+11 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+That left Afghanistan still 19 short, but Shapoor and Hassan inched nearer and, when Richie Berrington's final ball of the 49th over was clipped for four, only five were needed from Iain Wardlaw's six deliveries.
+5 default entities: GPE Afghanistan, PERSON Shapoor, PERSON Hassan, PERSON Richie Berrington, GPE Iain Wardlaw
+5 custom entities: GPE Afghanistan, PERSON Shapoor, PERSON Hassan, PERSON Richie, GPE Iain
+
+Source Sentence and Source Headline Match:
+That left Afghanistan still 19 short, but Shapoor and Hassan inched nearer and, when Richie Berrington's final ball of the 49th over was clipped for four, only five were needed from Iain Wardlaw's six deliveries.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+2 matches: afghanistan, final
+
+Source Sentence and Story Headline Match:
+That left Afghanistan still 19 short, but Shapoor and Hassan inched nearer and, when Richie Berrington's final ball of the 49th over was clipped for four, only five were needed from Iain Wardlaw's six deliveries.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+That left Afghanistan still 19 short, but Shapoor and Hassan inched nearer and, when Richie Berrington's final ball of the 49th over was clipped for four, only five were needed from Iain Wardlaw's six deliveries.
+The final score was: Afghanistan 211-9, Scotland 210 (all out).
+2 matches: afghanistan, final
+
+----------------
+
+sent_12:
+12 out of 20 sentences
+12 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Shapoor could have been run out had Matt Machan's throw hit the stumps but, from the next delivery, the left-hander clipped to the square-leg boundary to seal victory.
+2 default entities: PERSON Shapoor, PERSON Matt Machan
+2 custom entities: PERSON Shapoor, PERSON Matt
+
+Source Sentence and Source Headline Match:
+Shapoor could have been run out had Matt Machan's throw hit the stumps but, from the next delivery, the left-hander clipped to the square-leg boundary to seal victory.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Shapoor could have been run out had Matt Machan's throw hit the stumps but, from the next delivery, the left-hander clipped to the square-leg boundary to seal victory.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+1 matches: victory
+
+Source Sentence and Best Story Sentence Match:
+Shapoor could have been run out had Matt Machan's throw hit the stumps but, from the next delivery, the left-hander clipped to the square-leg boundary to seal victory.
+Australia won the Cricket World Cup with a victory over New Zealand.
+1 matches: victory
+
+----------------
+
+sent_13:
+13 out of 20 sentences
+13 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It was a cruel defeat for Scotland, who will rue missed chances, not least Haq's drop of Shenwari at slip when the right-hander was on 20.
+3 default entities: GPE Scotland, PERSON Haq, ORGANIZATION Shenwari
+2 custom entities: GPE Scotland, ORGANIZATION Shenwari
+
+Source Sentence and Source Headline Match:
+It was a cruel defeat for Scotland, who will rue missed chances, not least Haq's drop of Shenwari at slip when the right-hander was on 20.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+1 matches: scotland
+
+Source Sentence and Story Headline Match:
+It was a cruel defeat for Scotland, who will rue missed chances, not least Haq's drop of Shenwari at slip when the right-hander was on 20.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+It was a cruel defeat for Scotland, who will rue missed chances, not least Haq's drop of Shenwari at slip when the right-hander was on 20.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+2 matches: defeat, scotland
+
+----------------
+
+sent_14:
+14 out of 20 sentences
+14 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Haq, though, had already played his part in ensuring that Scotland were not on the end of a heavy defeat, sharing a Scottish record ninth-wicket stand of 62 with Alasdair Evans.
+4 default entities: GPE Haq, GPE Scotland, GPE Scottish, PERSON Alasdair Evans
+3 custom entities: GPE Scotland, GPE Scottish, PERSON Alasdair Evans
+
+Source Sentence and Source Headline Match:
+Haq, though, had already played his part in ensuring that Scotland were not on the end of a heavy defeat, sharing a Scottish record ninth-wicket stand of 62 with Alasdair Evans.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+1 matches: scotland
+
+Source Sentence and Story Headline Match:
+Haq, though, had already played his part in ensuring that Scotland were not on the end of a heavy defeat, sharing a Scottish record ninth-wicket stand of 62 with Alasdair Evans.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Haq, though, had already played his part in ensuring that Scotland were not on the end of a heavy defeat, sharing a Scottish record ninth-wicket stand of 62 with Alasdair Evans.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+2 matches: defeat, scotland
+
+----------------
+
+sent_15:
+15 out of 20 sentences
+15 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Scotland top order had earlier been run through by the impressive Afghan pace trio of Shapoor, Hassan and Dawlat Zadran, who showed consistency of length to exploit the assistance offered in the pitch.
+4 default entities: GPE Scotland, GPE Shapoor, GPE Hassan, PERSON Dawlat Zadran
+3 custom entities: GPE Scotland, PERSON Shapoor Hassan, PERSON Dawlat Zadran
+
+Source Sentence and Source Headline Match:
+The Scotland top order had earlier been run through by the impressive Afghan pace trio of Shapoor, Hassan and Dawlat Zadran, who showed consistency of length to exploit the assistance offered in the pitch.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+1 matches: scotland
+
+Source Sentence and Story Headline Match:
+The Scotland top order had earlier been run through by the impressive Afghan pace trio of Shapoor, Hassan and Dawlat Zadran, who showed consistency of length to exploit the assistance offered in the pitch.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The Scotland top order had earlier been run through by the impressive Afghan pace trio of Shapoor, Hassan and Dawlat Zadran, who showed consistency of length to exploit the assistance offered in the pitch.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+1 matches: scotland
+
+----------------
+
+sent_16:
+16 out of 20 sentences
+16 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Scotland played a part in their own downfall, Machan's horrible swipe at Mohammad Nabi beginning a regular fall of wickets that left them in a seemingly hopeless position.
+3 default entities: GPE Scotland, PERSON Machan, ORGANIZATION Mohammad Nabi
+2 custom entities: GPE Scotland, ORGANIZATION Mohammad Nabi
+
+Source Sentence and Source Headline Match:
+Scotland played a part in their own downfall, Machan's horrible swipe at Mohammad Nabi beginning a regular fall of wickets that left them in a seemingly hopeless position.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+1 matches: scotland
+
+Source Sentence and Story Headline Match:
+Scotland played a part in their own downfall, Machan's horrible swipe at Mohammad Nabi beginning a regular fall of wickets that left them in a seemingly hopeless position.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Scotland played a part in their own downfall, Machan's horrible swipe at Mohammad Nabi beginning a regular fall of wickets that left them in a seemingly hopeless position.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+2 matches: wicket, scotland
+
+----------------
+
+sent_17:
+17 out of 20 sentences
+17 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+However, that was to discount Haq and Evans, who rebuilt first through patient accumulation, then accelerated to take Scotland to their highest World Cup total.
+3 default entities: PERSON Haq, GPE Evans, GPE Scotland
+2 custom entities: PERSON Haq, GPE Scotland
+
+Source Sentence and Source Headline Match:
+However, that was to discount Haq and Evans, who rebuilt first through patient accumulation, then accelerated to take Scotland to their highest World Cup total.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+3 matches: cup, world, scotland
+
+Source Sentence and Story Headline Match:
+However, that was to discount Haq and Evans, who rebuilt first through patient accumulation, then accelerated to take Scotland to their highest World Cup total.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+2 matches: cup, world
+
+Source Sentence and Best Story Sentence Match:
+However, that was to discount Haq and Evans, who rebuilt first through patient accumulation, then accelerated to take Scotland to their highest World Cup total.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+4 matches: cup, first, world, scotland
+
+----------------
+
+sent_18:
+18 out of 20 sentences
+18 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It looked like being enough when Evans and Berrington got to work on the Afgan middle-order, but there was to be another bout of late resistance.
+3 default entities: PERSON Evans, PERSON Berrington, ORGANIZATION Afgan
+3 custom entities: PERSON Evans, PERSON Berrington, ORGANIZATION Afgan
+
+Source Sentence and Source Headline Match:
+It looked like being enough when Evans and Berrington got to work on the Afgan middle-order, but there was to be another bout of late resistance.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It looked like being enough when Evans and Berrington got to work on the Afgan middle-order, but there was to be another bout of late resistance.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_19:
+19 out of 20 sentences
+19 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Shenwari found batting support from all three of Afghanistan's pacers and, ultimately, it was Shapoor who had the final say.
+3 default entities: PERSON Shenwari, GPE Afghanistan, PERSON Shapoor
+2 custom entities: PERSON Shenwari, PERSON Shapoor
+
+Source Sentence and Source Headline Match:
+Shenwari found batting support from all three of Afghanistan's pacers and, ultimately, it was Shapoor who had the final say.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+1 matches: final
+
+Source Sentence and Story Headline Match:
+Shenwari found batting support from all three of Afghanistan's pacers and, ultimately, it was Shapoor who had the final say.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Shenwari found batting support from all three of Afghanistan's pacers and, ultimately, it was Shapoor who had the final say.
+Australia beat India in the semifinals, while New Zealand beat South Africa to make its first appearance in the finals.
+1 matches: final
+
+----------------
+
+sent_20:
+20 out of 20 sentences
+20 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The victory for Afghanistan, England's final group opponents, keeps their hopes of reaching the quarter-finals alive, while Scotland, who next play Bangladesh on 4 March, are on the brink of elimination.
+4 default entities: GPE Afghanistan, GPE England, GPE Scotland, PERSON Bangladesh
+3 custom entities: ORGANIZATION Afghanistan, GPE Scotland, PERSON Bangladesh
+
+Source Sentence and Source Headline Match:
+The victory for Afghanistan, England's final group opponents, keeps their hopes of reaching the quarter-finals alive, while Scotland, who next play Bangladesh on 4 March, are on the brink of elimination.
+Cricket World Cup: Afghanistan shock Scotland in final over.
+3 matches: afghanistan, final, scotland
+
+Source Sentence and Story Headline Match:
+The victory for Afghanistan, England's final group opponents, keeps their hopes of reaching the quarter-finals alive, while Scotland, who next play Bangladesh on 4 March, are on the brink of elimination.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+1 matches: victory
+
+Source Sentence and Best Story Sentence Match:
+The victory for Afghanistan, England's final group opponents, keeps their hopes of reaching the quarter-finals alive, while Scotland, who next play Bangladesh on 4 March, are on the brink of elimination.
+The final score was: Afghanistan 211-9, Scotland 210 (all out).
+3 matches: afghanistan, final, scotland
+
+----------------
+

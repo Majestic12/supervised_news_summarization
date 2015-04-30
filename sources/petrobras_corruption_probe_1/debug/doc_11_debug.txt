@@ -1,0 +1,489 @@
+sent_1:
+1 out of 18 sentences
+1 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Switzerland has frozen $400 million of assets in more than 30 banks as the country’s attorney general probes money laundering related to Petroleo Brasileiro SA’s widening corruption scandal.
+2 default entities: GPE Switzerland, PERSON Petroleo Brasileiro SA
+2 custom entities: GPE Switzerland, PERSON Petroleo Brasileiro
+
+Source Sentence and Source Headline Match:
+Switzerland has frozen $400 million of assets in more than 30 banks as the country’s attorney general probes money laundering related to Petroleo Brasileiro SA’s widening corruption scandal.
+Switzerland Freezes $400 Million Amid Petrobras Laundering Probe.
+5 matches: 400, million, freeze, probe, switzerland
+
+Source Sentence and Story Headline Match:
+Switzerland has frozen $400 million of assets in more than 30 banks as the country’s attorney general probes money laundering related to Petroleo Brasileiro SA’s widening corruption scandal.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Switzerland has frozen $400 million of assets in more than 30 banks as the country’s attorney general probes money laundering related to Petroleo Brasileiro SA’s widening corruption scandal.
+Switzerland froze assets worth $400 million on March 18 as multiple investigations into money laundering widened.
+7 matches: freeze, 400, million, asset, switzerland, money, launder
+
+----------------
+
+sent_2:
+2 out of 18 sentences
+2 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Nine investigations have been opened since last April based on allegations of corruption involving eight Brazilian citizens, the Bern-based Federal Prosecutors’ Office said in an e-mailed statement on Wednesday.
+3 default entities: GPE Brazilian, ORGANIZATION Federal Prosecutors, PERSON Office
+2 custom entities: GPE Brazilian, ORGANIZATION Federal Prosecutors
+
+Source Sentence and Source Headline Match:
+Nine investigations have been opened since last April based on allegations of corruption involving eight Brazilian citizens, the Bern-based Federal Prosecutors’ Office said in an e-mailed statement on Wednesday.
+Switzerland Freezes $400 Million Amid Petrobras Laundering Probe.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Nine investigations have been opened since last April based on allegations of corruption involving eight Brazilian citizens, the Bern-based Federal Prosecutors’ Office said in an e-mailed statement on Wednesday.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Nine investigations have been opened since last April based on allegations of corruption involving eight Brazilian citizens, the Bern-based Federal Prosecutors’ Office said in an e-mailed statement on Wednesday.
+Bern-based federal prosecutors said in a March 18 statement that the frozen assets were identified in more than 300 accounts in 30 banks and were used for bribery in Brazil.
+5 matches: prosecutor, federal, bern-based, say, statement
+
+----------------
+
+sent_3:
+3 out of 18 sentences
+2 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+More than $120 million of those frozen funds were released for repatriation to Brazil, it said.
+1 default entities: GPE Brazil
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+More than $120 million of those frozen funds were released for repatriation to Brazil, it said.
+Switzerland Freezes $400 Million Amid Petrobras Laundering Probe.
+2 matches: million, freeze
+
+Source Sentence and Story Headline Match:
+More than $120 million of those frozen funds were released for repatriation to Brazil, it said.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+More than $120 million of those frozen funds were released for repatriation to Brazil, it said.
+Bern-based federal prosecutors said in a March 18 statement that the frozen assets were identified in more than 300 accounts in 30 banks and were used for bribery in Brazil.
+3 matches: freeze, say, brazil
+
+----------------
+
+sent_4:
+4 out of 18 sentences
+3 out of 10 paragraphs
+Tagged as a quote
+
+Sentence:
+"The Swiss criminal proceedings will continue with the aim of holding the perpetrators accountable and establishing the origin of the remaining frozen assets,” the Federal Prosecutors’ Office said in the statement.
+3 default entities: GPE Swiss, ORGANIZATION Federal Prosecutors, PERSON Office
+2 custom entities: GPE Swiss, ORGANIZATION Federal Prosecutors
+
+Source Sentence and Source Headline Match:
+"The Swiss criminal proceedings will continue with the aim of holding the perpetrators accountable and establishing the origin of the remaining frozen assets,” the Federal Prosecutors’ Office said in the statement.
+Switzerland Freezes $400 Million Amid Petrobras Laundering Probe.
+1 matches: freeze
+
+Source Sentence and Story Headline Match:
+"The Swiss criminal proceedings will continue with the aim of holding the perpetrators accountable and establishing the origin of the remaining frozen assets,” the Federal Prosecutors’ Office said in the statement.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"The Swiss criminal proceedings will continue with the aim of holding the perpetrators accountable and establishing the origin of the remaining frozen assets,” the Federal Prosecutors’ Office said in the statement.
+Bern-based federal prosecutors said in a March 18 statement that the frozen assets were identified in more than 300 accounts in 30 banks and were used for bribery in Brazil.
+6 matches: freeze, federal, say, asset, prosecutor, statement
+
+----------------
+
+sent_5:
+5 out of 18 sentences
+4 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Petrobras is mired in a corruption scandal in which company executives allegedly directed hundreds of millions of dollars from overpriced contracts to politicians.
+1 default entities: GPE Petrobras
+1 custom entities: GPE Petrobras
+
+Source Sentence and Source Headline Match:
+Petrobras is mired in a corruption scandal in which company executives allegedly directed hundreds of millions of dollars from overpriced contracts to politicians.
+Switzerland Freezes $400 Million Amid Petrobras Laundering Probe.
+2 matches: million, petrobras
+
+Source Sentence and Story Headline Match:
+Petrobras is mired in a corruption scandal in which company executives allegedly directed hundreds of millions of dollars from overpriced contracts to politicians.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+Petrobras is mired in a corruption scandal in which company executives allegedly directed hundreds of millions of dollars from overpriced contracts to politicians.
+Julio Marcelo de Oliveira, prosecutor for Brazil, asked the country's Federal Audits Court on Feb. 19 to stop "leniency agreements" that allow companies accused of involvement in the Petrobras scandal to continue bidding on federal contracts while still under investigation.
+4 matches: company, contract, petrobras, scandal
+
+----------------
+
+sent_6:
+6 out of 18 sentences
+4 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Disagreement about the corruption writedown led to the departure of the state-owned company’s Chief Executive Officer Maria das Gracas Foster.
+1 default entities: PERSON Gracas Foster
+1 custom entities: PERSON Gracas Foster
+
+Source Sentence and Source Headline Match:
+Disagreement about the corruption writedown led to the departure of the state-owned company’s Chief Executive Officer Maria das Gracas Foster.
+Switzerland Freezes $400 Million Amid Petrobras Laundering Probe.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Disagreement about the corruption writedown led to the departure of the state-owned company’s Chief Executive Officer Maria das Gracas Foster.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Disagreement about the corruption writedown led to the departure of the state-owned company’s Chief Executive Officer Maria das Gracas Foster.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+2 matches: corruption, state-owned
+
+----------------
+
+sent_7:
+7 out of 18 sentences
+4 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+More than 1 million Brazilians demonstrated on Sunday against corruption and President Dilma Rousseff.
+1 default entities: PERSON Dilma Rousseff
+1 custom entities: PERSON Dilma Rousseff
+
+Source Sentence and Source Headline Match:
+More than 1 million Brazilians demonstrated on Sunday against corruption and President Dilma Rousseff.
+Switzerland Freezes $400 Million Amid Petrobras Laundering Probe.
+1 matches: million
+
+Source Sentence and Story Headline Match:
+More than 1 million Brazilians demonstrated on Sunday against corruption and President Dilma Rousseff.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+More than 1 million Brazilians demonstrated on Sunday against corruption and President Dilma Rousseff.
+On March 15, almost 1 million Brazilians marched in protests in more than 50 cities calling for the ouster of President Rousseff.
+5 matches: million, brazilian, president, 1, rousseff
+
+----------------
+
+sent_8:
+8 out of 18 sentences
+5 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The beneficial owners of more than 300 Swiss bank accounts used to process bribery payments include senior executives at Petrobras, according to the Federal Prosecutors’ Office, which is handling requests for legal assistance from Brazil and The Netherlands.
+5 default entities: GPE Swiss, ORGANIZATION Petrobras, ORGANIZATION Federal Prosecutors, GPE Brazil, GPE Netherlands
+5 custom entities: GPE Swiss, ORGANIZATION Petrobras, ORGANIZATION Federal Prosecutors, GPE Brazil, ORGANIZATION Netherlands
+
+Source Sentence and Source Headline Match:
+The beneficial owners of more than 300 Swiss bank accounts used to process bribery payments include senior executives at Petrobras, according to the Federal Prosecutors’ Office, which is handling requests for legal assistance from Brazil and The Netherlands.
+Switzerland Freezes $400 Million Amid Petrobras Laundering Probe.
+1 matches: petrobras
+
+Source Sentence and Story Headline Match:
+The beneficial owners of more than 300 Swiss bank accounts used to process bribery payments include senior executives at Petrobras, according to the Federal Prosecutors’ Office, which is handling requests for legal assistance from Brazil and The Netherlands.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+The beneficial owners of more than 300 Swiss bank accounts used to process bribery payments include senior executives at Petrobras, according to the Federal Prosecutors’ Office, which is handling requests for legal assistance from Brazil and The Netherlands.
+Bern-based federal prosecutors said in a March 18 statement that the frozen assets were identified in more than 300 accounts in 30 banks and were used for bribery in Brazil.
+8 matches: bribery, bank, brazil, use, account, federal, prosecutor, 300
+
+----------------
+
+sent_9:
+9 out of 18 sentences
+5 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Swiss Attorney General Michael Lauber held talks with his Brazilian counterpart Rodrigo Janot in Brasilia on the prospects of working together to resolve the scandal, according to the statement.
+5 default entities: GPE Swiss, PERSON Michael Lauber, GPE Brazilian, PERSON Rodrigo Janot, GPE Brasilia
+5 custom entities: GPE Swiss, PERSON Michael Lauber, GPE Brazilian, PERSON Rodrigo Janot, GPE Brasilia
+
+Source Sentence and Source Headline Match:
+Swiss Attorney General Michael Lauber held talks with his Brazilian counterpart Rodrigo Janot in Brasilia on the prospects of working together to resolve the scandal, according to the statement.
+Switzerland Freezes $400 Million Amid Petrobras Laundering Probe.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Swiss Attorney General Michael Lauber held talks with his Brazilian counterpart Rodrigo Janot in Brasilia on the prospects of working together to resolve the scandal, according to the statement.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Swiss Attorney General Michael Lauber held talks with his Brazilian counterpart Rodrigo Janot in Brasilia on the prospects of working together to resolve the scandal, according to the statement.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+2 matches: brazilian, scandal
+
+----------------
+
+sent_10:
+10 out of 18 sentences
+6 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Brazil’s prosecutor general has named 48 politicians for investigation in the kickback scheme dubbed Carwash, hailing from parties including the ruling Workers’ Party, or PT, and the allied Brazilian Democratic Movement Party, or PMDB.
+7 default entities: GPE Brazil, PERSON Carwash, ORGANIZATION Workers, PERSON Party, GPE Brazilian, ORGANIZATION Democratic Movement Party, ORGANIZATION PMDB
+6 custom entities: PERSON Carwash, ORGANIZATION Workers Party, ORGANIZATION PT, GPE Brazilian, ORGANIZATION Democratic Movement Party, ORGANIZATION PMDB
+
+Source Sentence and Source Headline Match:
+Brazil’s prosecutor general has named 48 politicians for investigation in the kickback scheme dubbed Carwash, hailing from parties including the ruling Workers’ Party, or PT, and the allied Brazilian Democratic Movement Party, or PMDB.
+Switzerland Freezes $400 Million Amid Petrobras Laundering Probe.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Brazil’s prosecutor general has named 48 politicians for investigation in the kickback scheme dubbed Carwash, hailing from parties including the ruling Workers’ Party, or PT, and the allied Brazilian Democratic Movement Party, or PMDB.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Brazil’s prosecutor general has named 48 politicians for investigation in the kickback scheme dubbed Carwash, hailing from parties including the ruling Workers’ Party, or PT, and the allied Brazilian Democratic Movement Party, or PMDB.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+3 matches: brazilian, party, worker
+
+----------------
+
+sent_11:
+11 out of 18 sentences
+6 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The court has said it doesn’t have the authority to investigate Rousseff, whose approval rating is the lowest of any Brazilian president in 15 years.
+2 default entities: PERSON Rousseff, GPE Brazilian
+2 custom entities: PERSON Rousseff, GPE Brazilian
+
+Source Sentence and Source Headline Match:
+The court has said it doesn’t have the authority to investigate Rousseff, whose approval rating is the lowest of any Brazilian president in 15 years.
+Switzerland Freezes $400 Million Amid Petrobras Laundering Probe.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The court has said it doesn’t have the authority to investigate Rousseff, whose approval rating is the lowest of any Brazilian president in 15 years.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The court has said it doesn’t have the authority to investigate Rousseff, whose approval rating is the lowest of any Brazilian president in 15 years.
+On March 15, almost 1 million Brazilians marched in protests in more than 50 cities calling for the ouster of President Rousseff.
+4 matches: 15, brazilian, president, rousseff
+
+----------------
+
+sent_12:
+12 out of 18 sentences
+7 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Switzerland updated its anti-money laundering legislation at the end of 2014 to reflect international standards.
+1 default entities: GPE Switzerland
+1 custom entities: GPE Switzerland
+
+Source Sentence and Source Headline Match:
+Switzerland updated its anti-money laundering legislation at the end of 2014 to reflect international standards.
+Switzerland Freezes $400 Million Amid Petrobras Laundering Probe.
+1 matches: switzerland
+
+Source Sentence and Story Headline Match:
+Switzerland updated its anti-money laundering legislation at the end of 2014 to reflect international standards.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: 2014
+
+Source Sentence and Best Story Sentence Match:
+Switzerland updated its anti-money laundering legislation at the end of 2014 to reflect international standards.
+Switzerland froze assets worth $400 million on March 18 as multiple investigations into money laundering widened.
+2 matches: launder, switzerland
+
+----------------
+
+sent_13:
+13 out of 18 sentences
+7 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Its Money Laundering Reporting Office is a member of the Egmont Group of nations that share information to combat illicit financial transactions.
+1 default entities: ORGANIZATION Egmont Group
+1 custom entities: ORGANIZATION Egmont Group
+
+Source Sentence and Source Headline Match:
+Its Money Laundering Reporting Office is a member of the Egmont Group of nations that share information to combat illicit financial transactions.
+Switzerland Freezes $400 Million Amid Petrobras Laundering Probe.
+1 matches: laundering
+
+Source Sentence and Story Headline Match:
+Its Money Laundering Reporting Office is a member of the Egmont Group of nations that share information to combat illicit financial transactions.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Its Money Laundering Reporting Office is a member of the Egmont Group of nations that share information to combat illicit financial transactions.
+In its first audited financial results since Aug. 2014, Petrobras reported on April 22 that it lost $8.8 billion in Q4 2014 due to corruption, oil price pressures, refinery cost overruns, and other factors.
+1 matches: financial
+
+----------------
+
+sent_14:
+14 out of 18 sentences
+8 out of 10 paragraphs
+Tagged as a quote
+
+Sentence:
+“The Brazilian bribery scandal affects Switzerland’s financial center and its anti-money-laundering strategy,” the Federal Prosecutors’ Office said.
+4 default entities: GPE Brazilian, GPE Switzerland, ORGANIZATION Federal Prosecutors, PERSON Office
+2 custom entities: GPE Brazilian, ORGANIZATION Federal Prosecutors
+
+Source Sentence and Source Headline Match:
+“The Brazilian bribery scandal affects Switzerland’s financial center and its anti-money-laundering strategy,” the Federal Prosecutors’ Office said.
+Switzerland Freezes $400 Million Amid Petrobras Laundering Probe.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“The Brazilian bribery scandal affects Switzerland’s financial center and its anti-money-laundering strategy,” the Federal Prosecutors’ Office said.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“The Brazilian bribery scandal affects Switzerland’s financial center and its anti-money-laundering strategy,” the Federal Prosecutors’ Office said.
+Bern-based federal prosecutors said in a March 18 statement that the frozen assets were identified in more than 300 accounts in 30 banks and were used for bribery in Brazil.
+4 matches: prosecutor, bribery, federal, say
+
+----------------
+
+sent_15:
+15 out of 18 sentences
+8 out of 10 paragraphs
+Tagged as a quote
+
+Sentence:
+The office “has a close interest in contributing fully to the resolution of the scandal through its own investigations,” it said.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The office “has a close interest in contributing fully to the resolution of the scandal through its own investigations,” it said.
+Switzerland Freezes $400 Million Amid Petrobras Laundering Probe.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The office “has a close interest in contributing fully to the resolution of the scandal through its own investigations,” it said.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The office “has a close interest in contributing fully to the resolution of the scandal through its own investigations,” it said.
+If companies fully cooperate with authorities in the Petrobras investigation, exceptions could be made, de Oliveira said.
+3 matches: investigation, fully, say
+
+----------------
+
+sent_16:
+16 out of 18 sentences
+9 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Swiss Federal Prosecutors’ Office declined to name the individuals, companies and banks involved.
+1 default entities: ORGANIZATION Swiss Federal
+1 custom entities: ORGANIZATION Swiss Federal Prosecutors
+
+Source Sentence and Source Headline Match:
+The Swiss Federal Prosecutors’ Office declined to name the individuals, companies and banks involved.
+Switzerland Freezes $400 Million Amid Petrobras Laundering Probe.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Swiss Federal Prosecutors’ Office declined to name the individuals, companies and banks involved.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The Swiss Federal Prosecutors’ Office declined to name the individuals, companies and banks involved.
+Bern-based federal prosecutors said in a March 18 statement that the frozen assets were identified in more than 300 accounts in 30 banks and were used for bribery in Brazil.
+3 matches: prosecutor, bank, federal
+
+----------------
+
+sent_17:
+17 out of 18 sentences
+10 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Lauber expects an increase in anti-money laundering cases in Switzerland from July 1 when holding untaxed assets in offshore accounts will be treated by Swiss authorities as money laundering, according to an interview last month with L’Hebdo magazine.
+3 default entities: GPE Lauber, GPE Switzerland, GPE Swiss
+3 custom entities: GPE Lauber, GPE Switzerland, GPE Swiss
+
+Source Sentence and Source Headline Match:
+Lauber expects an increase in anti-money laundering cases in Switzerland from July 1 when holding untaxed assets in offshore accounts will be treated by Swiss authorities as money laundering, according to an interview last month with L’Hebdo magazine.
+Switzerland Freezes $400 Million Amid Petrobras Laundering Probe.
+1 matches: switzerland
+
+Source Sentence and Story Headline Match:
+Lauber expects an increase in anti-money laundering cases in Switzerland from July 1 when holding untaxed assets in offshore accounts will be treated by Swiss authorities as money laundering, according to an interview last month with L’Hebdo magazine.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Lauber expects an increase in anti-money laundering cases in Switzerland from July 1 when holding untaxed assets in offshore accounts will be treated by Swiss authorities as money laundering, according to an interview last month with L’Hebdo magazine.
+Switzerland froze assets worth $400 million on March 18 as multiple investigations into money laundering widened.
+4 matches: launder, asset, switzerland, money
+
+----------------
+
+sent_18:
+18 out of 18 sentences
+10 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Lauber has defended seven years of inaction by federal prosecutors after reports showed drug cartels and arms dealers laundered money through HSBC Holdings Plc’s private bank in Geneva.
+3 default entities: GPE Lauber, ORGANIZATION HSBC Holdings Plc, GPE Geneva
+3 custom entities: GPE Lauber, ORGANIZATION HSBC Holdings, GPE Geneva
+
+Source Sentence and Source Headline Match:
+Lauber has defended seven years of inaction by federal prosecutors after reports showed drug cartels and arms dealers laundered money through HSBC Holdings Plc’s private bank in Geneva.
+Switzerland Freezes $400 Million Amid Petrobras Laundering Probe.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Lauber has defended seven years of inaction by federal prosecutors after reports showed drug cartels and arms dealers laundered money through HSBC Holdings Plc’s private bank in Geneva.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Lauber has defended seven years of inaction by federal prosecutors after reports showed drug cartels and arms dealers laundered money through HSBC Holdings Plc’s private bank in Geneva.
+Bern-based federal prosecutors said in a March 18 statement that the frozen assets were identified in more than 300 accounts in 30 banks and were used for bribery in Brazil.
+3 matches: prosecutor, bank, federal
+
+----------------
+

@@ -1,0 +1,1045 @@
+sent_1:
+1 out of 38 sentences
+1 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Staff attorneys at the U.S. Justice Department’s antitrust division are nearing a recommendation to block Comcast Corp.’s bid to buy Time Warner Cable Inc., according to people familiar with the matter.
+4 default entities: GPE U.S., ORGANIZATION Justice Department, ORGANIZATION Comcast Corp., ORGANIZATION Time Warner Cable Inc.
+3 custom entities: ORGANIZATION Justice, ORGANIZATION Comcast, ORGANIZATION Time Warner Cable Inc
+
+Source Sentence and Source Headline Match:
+Staff attorneys at the U.S. Justice Department’s antitrust division are nearing a recommendation to block Comcast Corp.’s bid to buy Time Warner Cable Inc., according to people familiar with the matter.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+3 matches: comcast, u.s, antitrust
+
+Source Sentence and Story Headline Match:
+Staff attorneys at the U.S. Justice Department’s antitrust division are nearing a recommendation to block Comcast Corp.’s bid to buy Time Warner Cable Inc., according to people familiar with the matter.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Staff attorneys at the U.S. Justice Department’s antitrust division are nearing a recommendation to block Comcast Corp.’s bid to buy Time Warner Cable Inc., according to people familiar with the matter.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+5 matches: warner, cable, u.s, time, comcast
+
+----------------
+
+sent_2:
+2 out of 38 sentences
+2 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Attorneys who are investigating Comcast’s $45.2 billion proposal to create a nationwide cable giant are leaning against the merger out of concern that consumers would be harmed and could submit their review as soon as next week, said the people.
+1 default entities: ORGANIZATION Comcast
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Attorneys who are investigating Comcast’s $45.2 billion proposal to create a nationwide cable giant are leaning against the merger out of concern that consumers would be harmed and could submit their review as soon as next week, said the people.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Attorneys who are investigating Comcast’s $45.2 billion proposal to create a nationwide cable giant are leaning against the merger out of concern that consumers would be harmed and could submit their review as soon as next week, said the people.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: merger
+
+Source Sentence and Best Story Sentence Match:
+Attorneys who are investigating Comcast’s $45.2 billion proposal to create a nationwide cable giant are leaning against the merger out of concern that consumers would be harmed and could submit their review as soon as next week, said the people.
+The proposed merger has come under severe criticism from those who say it would create a monopoly that will ultimately harm consumers.
+6 matches: harm, would, say, create, consumer, merger
+
+----------------
+
+sent_3:
+3 out of 38 sentences
+2 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The division’s senior officials will then decide whether to file a federal lawsuit seeking to block the tie-up.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The division’s senior officials will then decide whether to file a federal lawsuit seeking to block the tie-up.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The division’s senior officials will then decide whether to file a federal lawsuit seeking to block the tie-up.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The division’s senior officials will then decide whether to file a federal lawsuit seeking to block the tie-up.
+The letters were sent to federal regulators with only minimal input from the officials, the documents show.
+2 matches: official, federal
+
+----------------
+
+sent_4:
+4 out of 38 sentences
+3 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Comcast shares dropped 2.1 percent to $58.42 in New York, while Time Warner Cable fell 5.4 percent to $149.61.
+3 default entities: GPE Comcast, GPE New York, PERSON Time Warner Cable
+3 custom entities: GPE Comcast, GPE New York, PERSON Time Warner Cable
+
+Source Sentence and Source Headline Match:
+Comcast shares dropped 2.1 percent to $58.42 in New York, while Time Warner Cable fell 5.4 percent to $149.61.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: comcast
+
+Source Sentence and Story Headline Match:
+Comcast shares dropped 2.1 percent to $58.42 in New York, while Time Warner Cable fell 5.4 percent to $149.61.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Comcast shares dropped 2.1 percent to $58.42 in New York, while Time Warner Cable fell 5.4 percent to $149.61.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+4 matches: warner, cable, time, comcast
+
+----------------
+
+sent_5:
+5 out of 38 sentences
+3 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The spread between the current prices and the offer price widened to $18.35 from $13.35 yesterday, indicating investors are more pessimistic about the deal winning regulatory approval.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The spread between the current prices and the offer price widened to $18.35 from $13.35 yesterday, indicating investors are more pessimistic about the deal winning regulatory approval.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: deal
+
+Source Sentence and Story Headline Match:
+The spread between the current prices and the offer price widened to $18.35 from $13.35 yesterday, indicating investors are more pessimistic about the deal winning regulatory approval.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The spread between the current prices and the offer price widened to $18.35 from $13.35 yesterday, indicating investors are more pessimistic about the deal winning regulatory approval.
+Comcast said as recently as March that it expected to win regulatory approval for the merger "in the middle" of 2015.
+3 matches: approval, win, regulatory
+
+----------------
+
+sent_6:
+6 out of 38 sentences
+4 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A rejection of the deal would be a blow to Comcast, which has sought to gain valuable cable assets in major U.S. cities including New York and Los Angeles, where Time Warner Cable is dominant.
+5 default entities: GPE Comcast, GPE U.S., GPE New York, GPE Los Angeles, PERSON Time Warner Cable
+4 custom entities: ORGANIZATION Comcast, GPE New York, GPE Los Angeles, PERSON Time Warner Cable
+
+Source Sentence and Source Headline Match:
+A rejection of the deal would be a blow to Comcast, which has sought to gain valuable cable assets in major U.S. cities including New York and Los Angeles, where Time Warner Cable is dominant.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+3 matches: deal, u.s, comcast
+
+Source Sentence and Story Headline Match:
+A rejection of the deal would be a blow to Comcast, which has sought to gain valuable cable assets in major U.S. cities including New York and Los Angeles, where Time Warner Cable is dominant.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+A rejection of the deal would be a blow to Comcast, which has sought to gain valuable cable assets in major U.S. cities including New York and Los Angeles, where Time Warner Cable is dominant.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+6 matches: warner, time, cable, would, comcast, u.s
+
+----------------
+
+sent_7:
+7 out of 38 sentences
+4 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Expanding Comcast’s broadband Internet and video footprint would help it better compete with satellite, Web and telecommunications competitors that have taken hundreds of thousands of TV subscribers from the Philadelphia-based company in recent years.
+2 default entities: ORGANIZATION Comcast, PERSON Web
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Expanding Comcast’s broadband Internet and video footprint would help it better compete with satellite, Web and telecommunications competitors that have taken hundreds of thousands of TV subscribers from the Philadelphia-based company in recent years.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Expanding Comcast’s broadband Internet and video footprint would help it better compete with satellite, Web and telecommunications competitors that have taken hundreds of thousands of TV subscribers from the Philadelphia-based company in recent years.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Expanding Comcast’s broadband Internet and video footprint would help it better compete with satellite, Web and telecommunications competitors that have taken hundreds of thousands of TV subscribers from the Philadelphia-based company in recent years.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 matches: would, company
+
+----------------
+
+sent_8:
+8 out of 38 sentences
+5 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Renata Hesse, a deputy assistant attorney general for antitrust, will take the analysis and ultimately decide, along with the division’s top officials, whether to bring a case to block the merger, they said.
+2 default entities: PERSON Renata, GPE Hesse
+1 custom entities: PERSON Renata
+
+Source Sentence and Source Headline Match:
+Renata Hesse, a deputy assistant attorney general for antitrust, will take the analysis and ultimately decide, along with the division’s top officials, whether to bring a case to block the merger, they said.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: antitrust
+
+Source Sentence and Story Headline Match:
+Renata Hesse, a deputy assistant attorney general for antitrust, will take the analysis and ultimately decide, along with the division’s top officials, whether to bring a case to block the merger, they said.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: merger
+
+Source Sentence and Best Story Sentence Match:
+Renata Hesse, a deputy assistant attorney general for antitrust, will take the analysis and ultimately decide, along with the division’s top officials, whether to bring a case to block the merger, they said.
+The proposed merger has come under severe criticism from those who say it would create a monopoly that will ultimately harm consumers.
+3 matches: merger, say, ultimately
+
+----------------
+
+sent_9:
+9 out of 38 sentences
+6 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Justice Department lawyers have been contacting outside parties in the last few weeks to shore up evidence to support a potential case against the merger, one of the people said.
+1 default entities: ORGANIZATION Justice Department
+1 custom entities: ORGANIZATION Justice Department
+
+Source Sentence and Source Headline Match:
+The Justice Department lawyers have been contacting outside parties in the last few weeks to shore up evidence to support a potential case against the merger, one of the people said.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: lawyer
+
+Source Sentence and Story Headline Match:
+The Justice Department lawyers have been contacting outside parties in the last few weeks to shore up evidence to support a potential case against the merger, one of the people said.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: merger
+
+Source Sentence and Best Story Sentence Match:
+The Justice Department lawyers have been contacting outside parties in the last few weeks to shore up evidence to support a potential case against the merger, one of the people said.
+of Justice is also leaning against approving the merger.
+2 matches: justice, merger
+
+----------------
+
+sent_10:
+10 out of 38 sentences
+7 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Furthermore, officials at the antitrust division and the Federal Communications Commission, which is also reviewing the deal, aren’t negotiating with Comcast about conditions to the merger that would resolve concerns, such as selling parts of its business or changing practices, said two people familiar with the situation.
+3 default entities: GPE Furthermore, ORGANIZATION Federal Communications Commission, ORGANIZATION Comcast
+3 custom entities: GPE Furthermore, ORGANIZATION Federal Communications Commission, ORGANIZATION Comcast
+
+Source Sentence and Source Headline Match:
+Furthermore, officials at the antitrust division and the Federal Communications Commission, which is also reviewing the deal, aren’t negotiating with Comcast about conditions to the merger that would resolve concerns, such as selling parts of its business or changing practices, said two people familiar with the situation.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+3 matches: comcast, deal, antitrust
+
+Source Sentence and Story Headline Match:
+Furthermore, officials at the antitrust division and the Federal Communications Commission, which is also reviewing the deal, aren’t negotiating with Comcast about conditions to the merger that would resolve concerns, such as selling parts of its business or changing practices, said two people familiar with the situation.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: merger
+
+Source Sentence and Best Story Sentence Match:
+Furthermore, officials at the antitrust division and the Federal Communications Commission, which is also reviewing the deal, aren’t negotiating with Comcast about conditions to the merger that would resolve concerns, such as selling parts of its business or changing practices, said two people familiar with the situation.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+4 matches: would, two, merger, comcast
+
+----------------
+
+sent_11:
+11 out of 38 sentences
+8 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It’s unclear what the FCC’s position is on the deal.
+1 default entities: ORGANIZATION FCC
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It’s unclear what the FCC’s position is on the deal.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: deal
+
+Source Sentence and Story Headline Match:
+It’s unclear what the FCC’s position is on the deal.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+It’s unclear what the FCC’s position is on the deal.
+The company denied directly paying any groups for the sole purpose of winning their public support, and said the deal should only be considered from a legal and technical standpoint, and not whether or not the company is well-liked.
+1 matches: deal
+
+----------------
+
+sent_12:
+12 out of 38 sentences
+8 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The agency may be waiting to discuss possible conditions until a court decision on the extent to which programmers including CBS Corp. must disclose their contracts with Comcast and Time Warner Cable, said Andrew Jay Schwartzman, senior counselor at the Georgetown University Law Center’s Institute for Public Representation in Washington.
+8 default entities: ORGANIZATION CBS Corp., ORGANIZATION Comcast, ORGANIZATION Time Warner Cable, PERSON Andrew Jay Schwartzman, ORGANIZATION Georgetown University Law Center, ORGANIZATION Institute, ORGANIZATION Public, GPE Washington
+7 custom entities: ORGANIZATION CBS Corp, ORGANIZATION Comcast, ORGANIZATION Time Warner Cable, PERSON Andrew Jay Schwartzman, ORGANIZATION Georgetown University Law, ORGANIZATION Public, GPE Washington
+
+Source Sentence and Source Headline Match:
+The agency may be waiting to discuss possible conditions until a court decision on the extent to which programmers including CBS Corp. must disclose their contracts with Comcast and Time Warner Cable, said Andrew Jay Schwartzman, senior counselor at the Georgetown University Law Center’s Institute for Public Representation in Washington.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: comcast
+
+Source Sentence and Story Headline Match:
+The agency may be waiting to discuss possible conditions until a court decision on the extent to which programmers including CBS Corp. must disclose their contracts with Comcast and Time Warner Cable, said Andrew Jay Schwartzman, senior counselor at the Georgetown University Law Center’s Institute for Public Representation in Washington.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The agency may be waiting to discuss possible conditions until a court decision on the extent to which programmers including CBS Corp. must disclose their contracts with Comcast and Time Warner Cable, said Andrew Jay Schwartzman, senior counselor at the Georgetown University Law Center’s Institute for Public Representation in Washington.
+saying that they don't like Comcast or they don't like Time Warner Cable."
+5 matches: warner, cable, say, time, comcast
+
+----------------
+
+sent_13:
+13 out of 38 sentences
+9 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Comcast has been seeking approval for the merger from the Justice Department and the FCC since it was announced last year.
+3 default entities: GPE Comcast, ORGANIZATION Justice Department, ORGANIZATION FCC
+3 custom entities: GPE Comcast, ORGANIZATION Justice Department, ORGANIZATION FCC
+
+Source Sentence and Source Headline Match:
+Comcast has been seeking approval for the merger from the Justice Department and the FCC since it was announced last year.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: comcast
+
+Source Sentence and Story Headline Match:
+Comcast has been seeking approval for the merger from the Justice Department and the FCC since it was announced last year.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+2 matches: merger, fcc
+
+Source Sentence and Best Story Sentence Match:
+Comcast has been seeking approval for the merger from the Justice Department and the FCC since it was announced last year.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 matches: merger, announce, comcast
+
+----------------
+
+sent_14:
+14 out of 38 sentences
+9 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Comcast could still fight any lawsuit in court or attempt to reach a settlement that would let the deal go ahead.
+1 default entities: GPE Comcast
+1 custom entities: GPE Comcast
+
+Source Sentence and Source Headline Match:
+Comcast could still fight any lawsuit in court or attempt to reach a settlement that would let the deal go ahead.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+2 matches: deal, comcast
+
+Source Sentence and Story Headline Match:
+Comcast could still fight any lawsuit in court or attempt to reach a settlement that would let the deal go ahead.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Comcast could still fight any lawsuit in court or attempt to reach a settlement that would let the deal go ahead.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 matches: would, comcast
+
+----------------
+
+sent_15:
+15 out of 38 sentences
+10 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Justice Department antitrust lawyers’ recommendation isn’t yet complete and company officials remain confident.
+1 default entities: ORGANIZATION Justice Department
+1 custom entities: ORGANIZATION Justice Department
+
+Source Sentence and Source Headline Match:
+The Justice Department antitrust lawyers’ recommendation isn’t yet complete and company officials remain confident.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+2 matches: lawyer, antitrust
+
+Source Sentence and Story Headline Match:
+The Justice Department antitrust lawyers’ recommendation isn’t yet complete and company officials remain confident.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The Justice Department antitrust lawyers’ recommendation isn’t yet complete and company officials remain confident.
+Comcast also claimed that, ultimately, it was up to the local officials whether or not they actually sent the letters, and thus the company could not be held responsible for their actions.
+2 matches: official, company
+
+----------------
+
+sent_16:
+16 out of 38 sentences
+11 out of 23 paragraphs
+Tagged as a quote
+
+Sentence:
+“There is no basis for a lawsuit to block the transaction,” said Sena Fitzmaurice, a Comcast spokeswoman.
+2 default entities: PERSON Sena Fitzmaurice, ORGANIZATION Comcast
+2 custom entities: PERSON Sena, ORGANIZATION Comcast
+
+Source Sentence and Source Headline Match:
+“There is no basis for a lawsuit to block the transaction,” said Sena Fitzmaurice, a Comcast spokeswoman.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: comcast
+
+Source Sentence and Story Headline Match:
+“There is no basis for a lawsuit to block the transaction,” said Sena Fitzmaurice, a Comcast spokeswoman.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“There is no basis for a lawsuit to block the transaction,” said Sena Fitzmaurice, a Comcast spokeswoman.
+Comcast said as recently as March that it expected to win regulatory approval for the merger "in the middle" of 2015.
+2 matches: say, comcast
+
+----------------
+
+sent_17:
+17 out of 38 sentences
+11 out of 23 paragraphs
+Tagged as a quote
+
+Sentence:
+The merger “will result in significant consumer benefits -- faster broadband speeds, access to a superior video experience, and more competition in business services resulting in billions of dollars of cost savings.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The merger “will result in significant consumer benefits -- faster broadband speeds, access to a superior video experience, and more competition in business services resulting in billions of dollars of cost savings.”
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The merger “will result in significant consumer benefits -- faster broadband speeds, access to a superior video experience, and more competition in business services resulting in billions of dollars of cost savings.”
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: merger
+
+Source Sentence and Best Story Sentence Match:
+The merger “will result in significant consumer benefits -- faster broadband speeds, access to a superior video experience, and more competition in business services resulting in billions of dollars of cost savings.”
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 matches: merger, billion
+
+----------------
+
+sent_18:
+18 out of 38 sentences
+12 out of 23 paragraphs
+Tagged as a quote
+
+Sentence:
+A Time Warner Cable spokesman, Bobby Amirshahi, said “we have been working productively with both DOJ and FCC and believe that there is no basis for DOJ to block the deal.”
+5 default entities: PERSON Warner Cable, PERSON Bobby Amirshahi, ORGANIZATION DOJ, ORGANIZATION FCC, ORGANIZATION DOJ
+5 custom entities: PERSON Warner Cable, PERSON Bobby Amirshahi, ORGANIZATION DOJ, ORGANIZATION FCC, ORGANIZATION DOJ
+
+Source Sentence and Source Headline Match:
+A Time Warner Cable spokesman, Bobby Amirshahi, said “we have been working productively with both DOJ and FCC and believe that there is no basis for DOJ to block the deal.”
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: deal
+
+Source Sentence and Story Headline Match:
+A Time Warner Cable spokesman, Bobby Amirshahi, said “we have been working productively with both DOJ and FCC and believe that there is no basis for DOJ to block the deal.”
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: fcc
+
+Source Sentence and Best Story Sentence Match:
+A Time Warner Cable spokesman, Bobby Amirshahi, said “we have been working productively with both DOJ and FCC and believe that there is no basis for DOJ to block the deal.”
+"Citing unnamed sources, the Wall Street Journal reported April 22 that the FCC is now considering issuing a "hearing designation order" for Comcast's proposed merger with Time Warner Cable.
+4 matches: cable, fcc, time, warner
+
+----------------
+
+sent_19:
+19 out of 38 sentences
+13 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Peter Carr, a Justice Department spokesman, and Kim Hart, an FCC spokeswoman, declined to comment.
+5 default entities: PERSON Peter, GPE Carr, ORGANIZATION Justice Department, PERSON Kim Hart, ORGANIZATION FCC
+5 custom entities: PERSON Peter, PERSON Carr, ORGANIZATION Justice Department, PERSON Kim Hart, ORGANIZATION FCC
+
+Source Sentence and Source Headline Match:
+Peter Carr, a Justice Department spokesman, and Kim Hart, an FCC spokeswoman, declined to comment.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Peter Carr, a Justice Department spokesman, and Kim Hart, an FCC spokeswoman, declined to comment.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: fcc
+
+Source Sentence and Best Story Sentence Match:
+Peter Carr, a Justice Department spokesman, and Kim Hart, an FCC spokeswoman, declined to comment.
+"Citing unnamed sources, the Wall Street Journal reported April 22 that the FCC is now considering issuing a "hearing designation order" for Comcast's proposed merger with Time Warner Cable.
+1 matches: fcc
+
+----------------
+
+sent_20:
+20 out of 38 sentences
+14 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Hesse is overseeing the review because Bill Baer, the chief of the antitrust division, is recused from the matter.
+2 default entities: GPE Hesse, PERSON Bill Baer
+2 custom entities: GPE Hesse, PERSON Bill Baer
+
+Source Sentence and Source Headline Match:
+Hesse is overseeing the review because Bill Baer, the chief of the antitrust division, is recused from the matter.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: antitrust
+
+Source Sentence and Story Headline Match:
+Hesse is overseeing the review because Bill Baer, the chief of the antitrust division, is recused from the matter.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Hesse is overseeing the review because Bill Baer, the chief of the antitrust division, is recused from the matter.
+The FCC paused its informal "shot clock" reviewing the merger on March 13 pending the outcome of a lawsuit between Comcast and programming providers.
+1 matches: review
+
+----------------
+
+sent_21:
+21 out of 38 sentences
+14 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He previously represented NBCUniversal when Comcast bought the network in 2011.
+2 default entities: ORGANIZATION NBCUniversal, PERSON Comcast
+2 custom entities: ORGANIZATION NBCUniversal, PERSON Comcast
+
+Source Sentence and Source Headline Match:
+He previously represented NBCUniversal when Comcast bought the network in 2011.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: comcast
+
+Source Sentence and Story Headline Match:
+He previously represented NBCUniversal when Comcast bought the network in 2011.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+He previously represented NBCUniversal when Comcast bought the network in 2011.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+1 matches: comcast
+
+----------------
+
+sent_22:
+22 out of 38 sentences
+15 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The antitrust division and the FCC have been studying how the potential tie-up between the nation’s two biggest cable companies could reshape the cable landscape in the U.S.
+1 default entities: ORGANIZATION FCC
+1 custom entities: ORGANIZATION FCC
+
+Source Sentence and Source Headline Match:
+The antitrust division and the FCC have been studying how the potential tie-up between the nation’s two biggest cable companies could reshape the cable landscape in the U.S.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+2 matches: u.s, antitrust
+
+Source Sentence and Story Headline Match:
+The antitrust division and the FCC have been studying how the potential tie-up between the nation’s two biggest cable companies could reshape the cable landscape in the U.S.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: fcc
+
+Source Sentence and Best Story Sentence Match:
+The antitrust division and the FCC have been studying how the potential tie-up between the nation’s two biggest cable companies could reshape the cable landscape in the U.S.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+4 matches: cable, two, company, u.s
+
+----------------
+
+sent_23:
+23 out of 38 sentences
+15 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Such a deal would have implications for the future of the Internet and television, affecting how and where Americans can watch programming that is increasingly being delivered on platforms other than televisions with set-top cable boxes.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Such a deal would have implications for the future of the Internet and television, affecting how and where Americans can watch programming that is increasingly being delivered on platforms other than televisions with set-top cable boxes.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: deal
+
+Source Sentence and Story Headline Match:
+Such a deal would have implications for the future of the Internet and television, affecting how and where Americans can watch programming that is increasingly being delivered on platforms other than televisions with set-top cable boxes.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Such a deal would have implications for the future of the Internet and television, affecting how and where Americans can watch programming that is increasingly being delivered on platforms other than televisions with set-top cable boxes.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 matches: cable, would
+
+----------------
+
+sent_24:
+24 out of 38 sentences
+16 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Among regulators’ concerns is whether such a deal could choke new ways of delivering programming, according to one of the people.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Among regulators’ concerns is whether such a deal could choke new ways of delivering programming, according to one of the people.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: deal
+
+Source Sentence and Story Headline Match:
+Among regulators’ concerns is whether such a deal could choke new ways of delivering programming, according to one of the people.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Among regulators’ concerns is whether such a deal could choke new ways of delivering programming, according to one of the people.
+Comcast also claimed that, ultimately, it was up to the local officials whether or not they actually sent the letters, and thus the company could not be held responsible for their actions.
+2 matches: could, whether
+
+----------------
+
+sent_25:
+25 out of 38 sentences
+16 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+They have been focused on three areas: whether the combined entity would have too much control over nationwide broadband Internet delivery, whether a cable giant could use its financial influence to strike exclusive cable deals that could keep programming off of other platforms and whether it could limit how programming is delivered through video streaming services, the person said.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+They have been focused on three areas: whether the combined entity would have too much control over nationwide broadband Internet delivery, whether a cable giant could use its financial influence to strike exclusive cable deals that could keep programming off of other platforms and whether it could limit how programming is delivered through video streaming services, the person said.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: deal
+
+Source Sentence and Story Headline Match:
+They have been focused on three areas: whether the combined entity would have too much control over nationwide broadband Internet delivery, whether a cable giant could use its financial influence to strike exclusive cable deals that could keep programming off of other platforms and whether it could limit how programming is delivered through video streaming services, the person said.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+They have been focused on three areas: whether the combined entity would have too much control over nationwide broadband Internet delivery, whether a cable giant could use its financial influence to strike exclusive cable deals that could keep programming off of other platforms and whether it could limit how programming is delivered through video streaming services, the person said.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 matches: cable, would, combine
+
+----------------
+
+sent_26:
+26 out of 38 sentences
+17 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Antitrust officials also have been looking at whether Comcast complied with terms under a previous merger deal with NBCUniversal, one of the people said.
+3 default entities: GPE Antitrust, ORGANIZATION Comcast, ORGANIZATION NBCUniversal
+3 custom entities: GPE Antitrust, ORGANIZATION Comcast, ORGANIZATION NBCUniversal
+
+Source Sentence and Source Headline Match:
+Antitrust officials also have been looking at whether Comcast complied with terms under a previous merger deal with NBCUniversal, one of the people said.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+3 matches: comcast, deal, antitrust
+
+Source Sentence and Story Headline Match:
+Antitrust officials also have been looking at whether Comcast complied with terms under a previous merger deal with NBCUniversal, one of the people said.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: merger
+
+Source Sentence and Best Story Sentence Match:
+Antitrust officials also have been looking at whether Comcast complied with terms under a previous merger deal with NBCUniversal, one of the people said.
+Comcast also claimed that, ultimately, it was up to the local officials whether or not they actually sent the letters, and thus the company could not be held responsible for their actions.
+4 matches: also, official, whether, comcast
+
+----------------
+
+sent_27:
+27 out of 38 sentences
+18 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+After the merger, Comcast would serve 56.8 percent of U.S. subscribers with fixed broadband capable of the 25 megabits-per-second speed standard the FCC adopted in January, according to a company filing.
+3 default entities: ORGANIZATION Comcast, GPE U.S., ORGANIZATION FCC
+2 custom entities: ORGANIZATION Comcast, ORGANIZATION FCC
+
+Source Sentence and Source Headline Match:
+After the merger, Comcast would serve 56.8 percent of U.S. subscribers with fixed broadband capable of the 25 megabits-per-second speed standard the FCC adopted in January, according to a company filing.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+2 matches: u.s, comcast
+
+Source Sentence and Story Headline Match:
+After the merger, Comcast would serve 56.8 percent of U.S. subscribers with fixed broadband capable of the 25 megabits-per-second speed standard the FCC adopted in January, according to a company filing.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+2 matches: merger, fcc
+
+Source Sentence and Best Story Sentence Match:
+After the merger, Comcast would serve 56.8 percent of U.S. subscribers with fixed broadband capable of the 25 megabits-per-second speed standard the FCC adopted in January, according to a company filing.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+5 matches: would, company, merger, u.s, comcast
+
+----------------
+
+sent_28:
+28 out of 38 sentences
+18 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Comcast says regulators should consider consumers with slower connections, too.
+1 default entities: GPE Comcast
+1 custom entities: GPE Comcast
+
+Source Sentence and Source Headline Match:
+Comcast says regulators should consider consumers with slower connections, too.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: comcast
+
+Source Sentence and Story Headline Match:
+Comcast says regulators should consider consumers with slower connections, too.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Comcast says regulators should consider consumers with slower connections, too.
+Comcast said as recently as March that it expected to win regulatory approval for the merger "in the middle" of 2015.
+2 matches: say, comcast
+
+----------------
+
+sent_29:
+29 out of 38 sentences
+18 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+That would lower its apparent share of the market.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+That would lower its apparent share of the market.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+That would lower its apparent share of the market.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+That would lower its apparent share of the market.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+1 matches: would
+
+----------------
+
+sent_30:
+30 out of 38 sentences
+19 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The enlarged company would serve about 29 million residential video customers, or about 29 percent of the residential pay-TV market.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The enlarged company would serve about 29 million residential video customers, or about 29 percent of the residential pay-TV market.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The enlarged company would serve about 29 million residential video customers, or about 29 percent of the residential pay-TV market.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The enlarged company would serve about 29 million residential video customers, or about 29 percent of the residential pay-TV market.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 matches: would, company
+
+----------------
+
+sent_31:
+31 out of 38 sentences
+20 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Comcast, the nation’s biggest cable provider, has already offered to sell customers to Charter Communications Inc. in an effort to allay concerns that the merger is anticompetitive.
+2 default entities: GPE Comcast, ORGANIZATION Charter Communications Inc.
+1 custom entities: ORGANIZATION Charter Communications Inc
+
+Source Sentence and Source Headline Match:
+Comcast, the nation’s biggest cable provider, has already offered to sell customers to Charter Communications Inc. in an effort to allay concerns that the merger is anticompetitive.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: comcast
+
+Source Sentence and Story Headline Match:
+Comcast, the nation’s biggest cable provider, has already offered to sell customers to Charter Communications Inc. in an effort to allay concerns that the merger is anticompetitive.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: merger
+
+Source Sentence and Best Story Sentence Match:
+Comcast, the nation’s biggest cable provider, has already offered to sell customers to Charter Communications Inc. in an effort to allay concerns that the merger is anticompetitive.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 matches: cable, merger, comcast
+
+----------------
+
+sent_32:
+32 out of 38 sentences
+21 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The outcome of the Comcast-Time Warner Cable deal will impact other transactions.
+1 default entities: PERSON Warner Cable
+1 custom entities: PERSON Warner Cable
+
+Source Sentence and Source Headline Match:
+The outcome of the Comcast-Time Warner Cable deal will impact other transactions.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: deal
+
+Source Sentence and Story Headline Match:
+The outcome of the Comcast-Time Warner Cable deal will impact other transactions.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The outcome of the Comcast-Time Warner Cable deal will impact other transactions.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 matches: cable, warner
+
+----------------
+
+sent_33:
+33 out of 38 sentences
+21 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+If the deal gets blocked, that could scuttle the agreement with Charter, which lost out to Comcast last year in an effort to buy Time Warner Cable.
+3 default entities: PERSON Charter, ORGANIZATION Comcast, ORGANIZATION Time Warner Cable
+3 custom entities: PERSON Charter, ORGANIZATION Comcast, ORGANIZATION Time Warner
+
+Source Sentence and Source Headline Match:
+If the deal gets blocked, that could scuttle the agreement with Charter, which lost out to Comcast last year in an effort to buy Time Warner Cable.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+2 matches: deal, comcast
+
+Source Sentence and Story Headline Match:
+If the deal gets blocked, that could scuttle the agreement with Charter, which lost out to Comcast last year in an effort to buy Time Warner Cable.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+If the deal gets blocked, that could scuttle the agreement with Charter, which lost out to Comcast last year in an effort to buy Time Warner Cable.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+4 matches: warner, cable, time, comcast
+
+----------------
+
+sent_34:
+34 out of 38 sentences
+21 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Charter’s agreement to take control of 3.9 million Comcast cable-TV customers is contingent on the Comcast-Time Warner Cable deal going through.
+3 default entities: PERSON Charter, ORGANIZATION Comcast, PERSON Warner Cable
+2 custom entities: ORGANIZATION Comcast, PERSON Warner Cable
+
+Source Sentence and Source Headline Match:
+Charter’s agreement to take control of 3.9 million Comcast cable-TV customers is contingent on the Comcast-Time Warner Cable deal going through.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+2 matches: deal, comcast
+
+Source Sentence and Story Headline Match:
+Charter’s agreement to take control of 3.9 million Comcast cable-TV customers is contingent on the Comcast-Time Warner Cable deal going through.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Charter’s agreement to take control of 3.9 million Comcast cable-TV customers is contingent on the Comcast-Time Warner Cable deal going through.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 matches: warner, cable, comcast
+
+----------------
+
+sent_35:
+35 out of 38 sentences
+22 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Billionaire John Malone, the cable-industry pioneer and largest investor in Charter, has said he would try again to buy Time Warner Cable if the deal with Comcast failed.
+4 default entities: PERSON Billionaire, PERSON John Malone, ORGANIZATION Time Warner, ORGANIZATION Comcast
+4 custom entities: PERSON Billionaire, PERSON John Malone, ORGANIZATION Time Warner, ORGANIZATION Comcast
+
+Source Sentence and Source Headline Match:
+Billionaire John Malone, the cable-industry pioneer and largest investor in Charter, has said he would try again to buy Time Warner Cable if the deal with Comcast failed.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+2 matches: deal, comcast
+
+Source Sentence and Story Headline Match:
+Billionaire John Malone, the cable-industry pioneer and largest investor in Charter, has said he would try again to buy Time Warner Cable if the deal with Comcast failed.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Billionaire John Malone, the cable-industry pioneer and largest investor in Charter, has said he would try again to buy Time Warner Cable if the deal with Comcast failed.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+6 matches: large, warner, time, cable, would, comcast
+
+----------------
+
+sent_36:
+36 out of 38 sentences
+23 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Meanwhile, Charter’s recent purchase of Bright House Networks, the sixth-largest U.S. cable company, would be in jeopardy if Comcast’s merger with Time Warner Cable is blocked.
+6 default entities: PERSON Charter, GPE Bright, ORGANIZATION House Networks, GPE U.S., ORGANIZATION Comcast, PERSON Time Warner Cable
+3 custom entities: GPE Bright, ORGANIZATION House Networks, PERSON Time Warner Cable
+
+Source Sentence and Source Headline Match:
+Meanwhile, Charter’s recent purchase of Bright House Networks, the sixth-largest U.S. cable company, would be in jeopardy if Comcast’s merger with Time Warner Cable is blocked.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: u.s
+
+Source Sentence and Story Headline Match:
+Meanwhile, Charter’s recent purchase of Bright House Networks, the sixth-largest U.S. cable company, would be in jeopardy if Comcast’s merger with Time Warner Cable is blocked.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: merger
+
+Source Sentence and Best Story Sentence Match:
+Meanwhile, Charter’s recent purchase of Bright House Networks, the sixth-largest U.S. cable company, would be in jeopardy if Comcast’s merger with Time Warner Cable is blocked.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+7 matches: company, warner, time, cable, would, merger, u.s
+
+----------------
+
+sent_37:
+37 out of 38 sentences
+23 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Time Warner Cable has the right to block Charter’s deal with Bright House as part of its long-time arrangement to negotiate programming and other deals for the smaller cable company.
+3 default entities: PERSON Warner Cable, PERSON Charter, PERSON Bright House
+2 custom entities: PERSON Warner Cable, PERSON Bright House
+
+Source Sentence and Source Headline Match:
+Time Warner Cable has the right to block Charter’s deal with Bright House as part of its long-time arrangement to negotiate programming and other deals for the smaller cable company.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: deal
+
+Source Sentence and Story Headline Match:
+Time Warner Cable has the right to block Charter’s deal with Bright House as part of its long-time arrangement to negotiate programming and other deals for the smaller cable company.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Time Warner Cable has the right to block Charter’s deal with Bright House as part of its long-time arrangement to negotiate programming and other deals for the smaller cable company.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+4 matches: cable, company, time, warner
+
+----------------
+
+sent_38:
+38 out of 38 sentences
+23 out of 23 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Time Warner Cable could buy Bright House under similar deal terms to stave off Charter, according to Amy Yong, an analyst at Macquarie Capital USA Inc.
+4 default entities: PERSON Warner Cable, PERSON Bright House, PERSON Amy Yong, ORGANIZATION Macquarie Capital
+4 custom entities: PERSON Warner Cable, PERSON Bright House, PERSON Amy Yong, ORGANIZATION Macquarie Capital
+
+Source Sentence and Source Headline Match:
+Time Warner Cable could buy Bright House under similar deal terms to stave off Charter, according to Amy Yong, an analyst at Macquarie Capital USA Inc.
+U.S. Antitrust Lawyers Said Leaning Against Comcast Deal.
+1 matches: deal
+
+Source Sentence and Story Headline Match:
+Time Warner Cable could buy Bright House under similar deal terms to stave off Charter, according to Amy Yong, an analyst at Macquarie Capital USA Inc.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Time Warner Cable could buy Bright House under similar deal terms to stave off Charter, according to Amy Yong, an analyst at Macquarie Capital USA Inc.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 matches: cable, time, warner
+
+----------------
+

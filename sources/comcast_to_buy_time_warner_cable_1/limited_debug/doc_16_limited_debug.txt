@@ -1,0 +1,348 @@
+sent_1:
+
+The letters have come from all around the United States — from the Nutmeg Big Brothers and Big Sisters in Connecticut, the Houston Area Urban League and even the Dan Marino Foundation in Fort Lauderdale, Fla. — some praising the Comcast Corporation, others urging the federal government to stand aside and approve Comcast’s proposed takeover of Time Warner Cable.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+4 best matches: warner, cable, time, comcast
+
+----------------
+sent_2:
+
+The argument has been reinforced by a blitz of academic papers from groups like the International Center for Law and Economics in Portland, Ore. More endorsements have come in from elected officials like Gov.
+This procedural move suggests the agency does not view the merger as being in the public interest, leaving approval in the hands of an administrative law judge."
+1 best matches: law
+
+----------------
+sent_3:
+
+no story sentence best matches found
+
+----------------
+sent_4:
+
+“The merger will not hinder competition but will bring better technology to more consumers,” Mr. Bryant said.
+The proposed merger has come under severe criticism from those who say it would create a monopoly that will ultimately harm consumers.
+3 best matches: consumer, merger, say
+
+----------------
+sent_5:
+
+But there is a common element to dozens of these appeals: The senders received money from Comcast in recent years, either as a charitable donation, corporate support or a political contribution, records show.
+Comcast has supplied several local officials throughout the U.S. with pre-written letters of support for its merger with TWC, according to documents obtained by The Verge.
+2 best matches: support, comcast
+
+----------------
+sent_6:
+
+It is a demonstration of how Comcast, the media conglomerate long known for its aggressive lobbying operation, has enlisted a vast network of allies to press federal regulators to approve the $45 billion transaction, much as it did in 2010 as it sought to acquire NBCUniversal.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 best matches: billion, comcast
+
+----------------
+sent_7:
+
+But even while Comcast has been busy working to mobilize this support — it had a huge team of 124 federal lobbyists working for it last year — there is growing chatter in Washington that it has been less successful this time in making the public case for its deal.
+The company denied directly paying any groups for the sole purpose of winning their public support, and said the deal should only be considered from a legal and technical standpoint, and not whether or not the company is well-liked.
+3 best matches: support, public, deal
+
+----------------
+sent_8:
+
+Several hundred thousand comments have been sent directly or through third parties to the Federal Communications Commission opposing the acquisition, representing a vast majority of those submitted, a review of the files shows, and relatively few members of Congress have signed letters endorsing the transaction, compared with the dozens who signed letters during the NBC review.
+The letters were sent to federal regulators with only minimal input from the officials, the documents show.
+4 best matches: send, federal, letter, show
+
+----------------
+sent_9:
+
+“Comcast obviously has a very strong organizational capacity to message,” said Juleanna Glover, a corporate consultant and former lobbyist.
+Comcast said as recently as March that it expected to win regulatory approval for the merger "in the middle" of 2015.
+2 best matches: say, comcast
+
+----------------
+sent_10:
+
+“But they have had an extremely hard time coming up with a simple, clean message that advocates of the deal can understand and carry forth.”
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+1 best matches: time
+
+----------------
+sent_11:
+
+David L. Cohen, Comcast’s executive vice president who oversees the company’s sprawling lobbying and public relations program, said in an interview on Friday that he was proud of the job the company had done in campaigning for the deal, as well as documenting for regulators why it made sense.
+The company denied directly paying any groups for the sole purpose of winning their public support, and said the deal should only be considered from a legal and technical standpoint, and not whether or not the company is well-liked.
+4 best matches: public, deal, company, say
+
+----------------
+sent_12:
+
+He did not dispute that many of the voices supporting the deal received donations from Comcast.
+Comcast has supplied several local officials throughout the U.S. with pre-written letters of support for its merger with TWC, according to documents obtained by The Verge.
+2 best matches: support, comcast
+
+----------------
+sent_13:
+
+But he said he was offended by the suggestion that their endorsements had been made in return for the financial help.
+Comcast said as recently as March that it expected to win regulatory approval for the merger "in the middle" of 2015.
+1 best matches: say
+
+----------------
+sent_14:
+
+“We have never provided financial support to an organization in exchange for support in a transaction,” he said.
+And it does provide a basis for opponents of the transaction to gin up three-sentence, nonsubstantive communications to the F.C.C.
+2 best matches: provide, transaction
+
+----------------
+sent_15:
+
+“Our support is based on the quality of the work they do in the community.”
+"Several other stories in recent days, all based on unnamed sources, have suggested that the Dept.
+1 best matches: base
+
+----------------
+sent_16:
+
+Comcast said recently that it expected the Justice Department and the F.C.C.
+Comcast said as recently as March that it expected to win regulatory approval for the merger "in the middle" of 2015.
+4 best matches: expect, recently, say, comcast
+
+----------------
+sent_17:
+
+to finish their review by the middle of this year, at which time the F.C.C.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+1 best matches: time
+
+----------------
+sent_18:
+
+will vote on the deal.
+The company denied directly paying any groups for the sole purpose of winning their public support, and said the deal should only be considered from a legal and technical standpoint, and not whether or not the company is well-liked.
+1 best matches: deal
+
+----------------
+sent_19:
+
+The analysis by outside policy specialists — in academia, law and technology — is one of the most important parts of the extensive public comment record, because they typically have an intimate understanding of the federal regulations and can raise important points the government must consider.
+This procedural move suggests the agency does not view the merger as being in the public interest, leaving approval in the hands of an administrative law judge."
+2 best matches: public, law
+
+----------------
+sent_20:
+
+So while one man from Tallahassee, Fla., simply wrote in to the F.C.C.
+And it does provide a basis for opponents of the transaction to gin up three-sentence, nonsubstantive communications to the F.C.C.
+1 best matches: f.c.c
+
+----------------
+sent_21:
+
+saying, “This will be a nightmare for consumers!” — obviously in opposition to the deal, Geoffrey A. Manne, executive director of the International Center for Law and Economics, a former law school professor and Microsoft executive, submitted a six-page detailed analysis of the transaction.
+The proposed merger has come under severe criticism from those who say it would create a monopoly that will ultimately harm consumers.
+2 best matches: consumer, say
+
+----------------
+sent_22:
+
+“Increased Concentration Does Not Equal Anticompetitive Effect,” Mr. Manne wrote last August, summarizing his submission.
+Wood's letter, sent to the FCC in August 2014, was pre-written by Comcast, with Wood only adding a closing sentence and his signature.
+1 best matches: august
+
+----------------
+sent_23:
+
+He separately wrote pieces in Wired magazine, extolling the virtues of the deal, and through a separate advocacy organization he helps run, called TechFreedom, wrote a blog post that appeared the same day that the deal was announced early last year.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+1 best matches: announce
+
+----------------
+sent_24:
+
+Each time, he praised the transaction.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+1 best matches: time
+
+----------------
+sent_25:
+
+But nowhere in these statements does Mr. Manne directly disclose that Comcast is among a small group of donors that finances his nonprofit group, a fact that Mr. Manne confirmed in response to a question late last week.
+Other such letters have been found among what Comcast has called an "outpouring of thoughtful and positive comments" from local officials.
+2 best matches: among, comcast
+
+----------------
+sent_26:
+
+“We are no value to our donors or ourselves unless we maintain our independence and academic rigor,” he said, before adding that “maybe there is some subconscious thing there.”
+Comcast said as recently as March that it expected to win regulatory approval for the merger "in the middle" of 2015.
+1 best matches: say
+
+----------------
+sent_27:
+
+Mr. Manne’s group is hardly alone.
+The company denied directly paying any groups for the sole purpose of winning their public support, and said the deal should only be considered from a legal and technical standpoint, and not whether or not the company is well-liked.
+1 best matches: group
+
+----------------
+sent_28:
+
+Letters detailing the benefits of the Comcast deal were submitted to the Federal Communications Commission by staff members from Americans for Tax Reform, the American Enterprise Institute, the Institute for Policy Innovation, Competitive Enterprise Institute, the Free State Foundation and the Center for Individual Freedom, as well as by a professor at a technology program at the University of Pennsylvania, all of which received support from Comcast or its trade association, tax documents and other disclosures reviewed by The New York Times show.
+Comcast has supplied several local officials throughout the U.S. with pre-written letters of support for its merger with TWC, according to documents obtained by The Verge.
+4 best matches: support, document, letter, comcast
+
+----------------
+sent_29:
+
+A similar pattern is evident with charities like the Urban League and more than 80 other community groups that supported the media company and that also accepted collectively millions of dollars in donations from the Comcast Foundation over the last five years, documents reviewed by The Times show.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 best matches: company, time, comcast
+
+----------------
+sent_30:
+
+The Greater Philadelphia Hispanic Chamber of Commerce, for instance, received $95,000 from Comcast over the last three years.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+1 best matches: comcast
+
+----------------
+sent_31:
+
+What is clear is that Comcast has tried to make the most of these endorsements.
+"When Comcast makes a promise to act, it is comforting to know that they will always follow through.
+2 best matches: make, comcast
+
+----------------
+sent_32:
+
+Varsovia Fernandez, the president and chief executive of the Hispanic Chamber of Commerce, wrote a letter to the Federal Communications Commission, as well as a commentary piece in The Philadelphia Daily News, titled, “Comcast Deserves a Fair Shake.”
+Comcast has supplied several local officials throughout the U.S. with pre-written letters of support for its merger with TWC, according to documents obtained by The Verge.
+2 best matches: letter, comcast
+
+----------------
+sent_33:
+
+The company maintains a list on its website of organizations that have sent in endorsements, and at times issues news releases and sends Twitter messages to make sure they are noticed.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 best matches: company, time
+
+----------------
+sent_34:
+
+The list includes dozens of state and local officials, many of whom have received financial support from Comcast.
+Comcast has supplied several local officials throughout the U.S. with pre-written letters of support for its merger with TWC, according to documents obtained by The Verge.
+4 best matches: support, official, local, comcast
+
+----------------
+sent_35:
+
+The company has contributed millions to candidates in state elections in the last four years, including $15,000 to Governor Bryant of Mississippi, whose spokeswoman said his positive words about the company had nothing to do with the donations.
+Comcast has repeatedly defended the merger, saying it will not reduce competition because the two companies don't serve the same areas.
+2 best matches: company, say
+
+----------------
+sent_36:
+
+Representative Tony Cárdenas, a California Democrat who is one of the few lawmakers in Washington to take a definitive stand on the deal — he opposes it — said that the relative silence from members of Congress did not surprise him.
+The company denied directly paying any groups for the sole purpose of winning their public support, and said the deal should only be considered from a legal and technical standpoint, and not whether or not the company is well-liked.
+2 best matches: deal, say
+
+----------------
+sent_37:
+
+He said the deal was bad for the country and would result in a single company with too much control over cable television and the Internet.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 best matches: cable, would, company
+
+----------------
+sent_38:
+
+“Comcast is huge, and they have 130-plus lobbyists running around Washington, who keep reminding you that they are here,” Mr. Cárdenas said.
+Comcast said as recently as March that it expected to win regulatory approval for the merger "in the middle" of 2015.
+2 best matches: say, comcast
+
+----------------
+sent_39:
+
+“But this is not a healthy deal.”
+The company denied directly paying any groups for the sole purpose of winning their public support, and said the deal should only be considered from a legal and technical standpoint, and not whether or not the company is well-liked.
+1 best matches: deal
+
+----------------
+sent_40:
+
+Mr. Cohen rejected any suggestion that the deal did not have widespread support among members of Congress.
+The company denied directly paying any groups for the sole purpose of winning their public support, and said the deal should only be considered from a legal and technical standpoint, and not whether or not the company is well-liked.
+2 best matches: support, deal
+
+----------------
+sent_41:
+
+It is just that fewer are directly affected by it, compared with the NBC deal, and Comcast has not pressed as many to provide letters this time, he said.
+saying that they don't like Comcast or they don't like Time Warner Cable."
+3 best matches: say, time, comcast
+
+----------------
+sent_42:
+
+What matters most, he added, is the legal and technical case that has been made to federal and state regulators.
+The letters were sent to federal regulators with only minimal input from the officials, the documents show.
+2 best matches: federal, regulator
+
+----------------
+sent_43:
+
+He said he was convinced that they would support the transaction based on its merits.
+The proposed merger has come under severe criticism from those who say it would create a monopoly that will ultimately harm consumers.
+2 best matches: would, say
+
+----------------
+sent_44:
+
+“We have done an outstanding job of creating an extremely strong record that this transaction should be approved,” he said.
+The proposed merger has come under severe criticism from those who say it would create a monopoly that will ultimately harm consumers.
+2 best matches: say, create
+
+----------------
+sent_45:
+
+“And that is the record the regulators are going to make the decision on.”
+The letters were sent to federal regulators with only minimal input from the officials, the documents show.
+1 best matches: regulator
+
+----------------
+sent_46:
+
+In the interview, he also conceded that the widespread complaints about Comcast’s customer service, which the company is trying to address, have probably contributed to the number of people writing in opposing the deal — even though, he said, that is not relevant to the decision.
+The company denied directly paying any groups for the sole purpose of winning their public support, and said the deal should only be considered from a legal and technical standpoint, and not whether or not the company is well-liked.
+3 best matches: deal, company, say
+
+----------------
+sent_47:
+
+But he attributed most of it to organized efforts by some of Comcast’s corporate rivals, which are helping to finance coalitions to oppose the deal.
+Several companies, including Discovery Communications, Dish Network and Netflix, have also publicly opposed the proposed merger, with Dish Network also claiming a combined Comcast-TWC could use its large size to win better terms.
+1 best matches: oppose
+
+----------------
+sent_48:
+
+“The atmospherics around our customer service clearly stir some antipathy among some consumers,” Mr. Cohen said.
+"The atmospherics around our customer service clearly stir some antipathy among some consumers.
+9 best matches: atmospherics, stir, among, customer, clearly, around, antipathy, service, consumer
+
+----------------
+sent_49:
+
+“And it does provide a basis for opponents of the transaction to gin up three-sentence, nonsubstantive communications to the F.C.C.
+And it does provide a basis for opponents of the transaction to gin up three-sentence, nonsubstantive communications to the F.C.C.
+9 best matches: three-sentence, nonsubstantive, provide, communication, f.c.c, transaction, gin, basis, opponent
+
+----------------
+sent_50:
+
+saying that they don’t like Comcast or they don’t like Time Warner Cable.”
+saying that they don't like Comcast or they don't like Time Warner Cable."
+6 best matches: warner, time, cable, like, say, comcast
+
+----------------

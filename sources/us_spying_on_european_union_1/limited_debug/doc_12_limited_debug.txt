@@ -1,0 +1,96 @@
+sent_1:
+
+Spain has become the latest European ally of the United States to express outrage at Washington’s clandestine operations after it emerged that the American National Security Agency (NSA) had monitored tens of millions of Spanish phone calls in the space of a single month.
+Friedrich, Germany's minister responsible for national security said he is keen to speak to Snowden over allegations that the NSA monitored Chancellor Angela Merkel's phone calls.
+6 best matches: phone, call, monitor, national, nsa, security
+
+----------------
+sent_2:
+
+El Mundo newspaper reported that a leaked NSA document showed the American agency had tracked 60 million phone calls, texts and emails in Spain between 10 December 2012 and 8 January this year.
+The Spanish newspaper El Mundo reported in Oct. 2013 that the NSA collected more than 60 million phone records in Spain in Dec. 2012.
+10 best matches: phone, mundo, report, million, nsa, el, 60, newspaper, spain, 2012
+
+----------------
+sent_3:
+
+no story sentence best matches found
+
+----------------
+sent_4:
+
+The US’s ambassador to Madrid, James Costos, was summoned to a meeting with the Secretary of State for the European Union, Inigo Méndez de Vigo, on Monday morning by Prime Minister Mariano Rajoy.
+Despite outcry from European leaders over the leaks, Snowden told Der Spiegel in 2013 that the NSA is "in bed together with the Germans and most other Western states."
+2 best matches: state, european
+
+----------------
+sent_5:
+
+A statement from Spain’s foreign ministry said that the alleged eavesdropping – “if true” – was “inappropriate and unacceptable”.
+He said a system was set up to "insulate" European leaders from potential backlash in case details of the partnership emerged.
+1 best matches: say
+
+----------------
+sent_6:
+
+The practices are also, as El Mundo pointed out in an editorial on Monday, illegal in Spain, with unauthorised “violation of the privacy of millions of Spaniards punishable by up to four years in prison”.
+The Spanish newspaper El Mundo reported in Oct. 2013 that the NSA collected more than 60 million phone records in Spain in Dec. 2012.
+4 best matches: million, el, spain, mundo
+
+----------------
+sent_7:
+
+The meeting concluded with Mr Costos leaving with a security escort and making no comments to journalists assembled outside, nor, indeed, to a lone, placard-wielding, protester.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+1 best matches: security
+
+----------------
+sent_8:
+
+El Mundo said its report and a classified graph, entitled “Spain – last 30 days”, of the US’s alleged monitoring were based on documents provided by Brazil-based journalist Glenn Greenwald.
+The Spanish newspaper El Mundo reported in Oct. 2013 that the NSA collected more than 60 million phone records in Spain in Dec. 2012.
+4 best matches: report, el, spain, mundo
+
+----------------
+sent_9:
+
+Mr Greenwald, co-writer of El Mundo’s report, in turn had received the documents from the ex-NSA contractor and whistleblower Edward Snowdon.
+French paper Le Monde reported in Oct. 2013 that documents leaked by Edward Snowden show that from Dec. 10, 2012, to Jan. 7, 2013, the NSA intercepted and collected 70.3 million phone records of French citizens, or about 3 million per day.
+3 best matches: document, report, edward
+
+----------------
+sent_10:
+
+Although actual conversations were not apparently taped, the newspaper claimed the duration and location of the origin and destination of tens of millions calls were recorded, with a peak of 3.5 million calls tracked in a single day on 11 December.
+The NSA did not listen to conversations, but got device serial numbers, phone numbers, locations and call durations.
+4 best matches: duration, location, call, conversation
+
+----------------
+sent_11:
+
+If confirmed, the report will have opened a new chapter of the spying scandals that have seen similar stories emerging from France and Germany – which also summoned respective US ambassadors to meetings to discuss the allegations.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+3 best matches: report, spying, new
+
+----------------
+sent_12:
+
+The stories have also led to calls from Germany that the EU’s 28-member states reach a “no-spy” deal, following reports that the NSA had monitored Chancellor Angela Merkel’s mobile phone.
+Friedrich, Germany's minister responsible for national security said he is keen to speak to Snowden over allegations that the NSA monitored Chancellor Angela Merkel's phone calls.
+6 best matches: phone, call, nsa, chancellor, monitor, angela
+
+----------------
+sent_13:
+
+Among the mounting diplomatic tension, it would also indirectly increase the pressure on Spain to accept Germany’s proposal, which Spain had previously rejected.
+Spiegel also reported in 2013 of BNA-NSA cooperation.
+1 best matches: also
+
+----------------
+sent_14:
+
+Spain’s media later reported that the country’s Foreign Minister, José Manuel García-Margallo – in Poland on an official visit – said that “if confirmed” the US monitoring could lead to a “breakdown in the climate of trust” between Washington and Madrid.
+German officials in Oct. 2014 refused to relinquish intelligence documents that would illuminate the nature of government spy agencies' relationships with the U.S, the AP reported.
+2 best matches: official, report
+
+----------------

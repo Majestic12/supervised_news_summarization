@@ -1,0 +1,87 @@
+sent_1:
+
+If you’re with us and the thousands of video fans at VidCon, you’ll hear about more ways we’re investing in you on YouTube.
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+2 best matches: video, youtube
+
+----------------
+sent_2:
+
+We’re here to help you: from promotion to channel management to content optimization, we have the resources and programs to support you.
+"We're here to help you: from promotion to channel management to content optimization, we have the resources and programs to support you."
+9 best matches: support, help, management, program, promotion, resource, optimization, content, channel
+
+----------------
+sent_3:
+
+That’s why more of you with accounts in good standing will be able to use a bunch of features you’ve been asking for: live streaming, custom thumbnails, external annotations and series playlists.
+YouTube has taken a number of steps to help attract advertisers to the site, including letting certain high-profile producers use professional studio facilities in cities like London, Los Angeles, and New York.
+1 best matches: use
+
+----------------
+sent_4:
+
+Start live streaming if you have 100+ subscribers: All channels in good standing with at least a hundred subscribers will be able to live stream, within the next few weeks.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+1 best matches: next
+
+----------------
+sent_5:
+
+no story sentence best matches found
+
+----------------
+sent_6:
+
+Choose your best thumbnail: Help your video stand out by using a custom thumbnail.
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+1 best matches: video
+
+----------------
+sent_7:
+
+Make sure you only upload images that are representative of what viewers will see, like prominent stills from the video.
+Fullscreen, a large YouTube video production company partly owned by AT&T, released a tool March 25 for its content creators to upload their videos directly to Facebook.
+2 best matches: upload, video
+
+----------------
+sent_8:
+
+Drive traffic to your merch: Want viewers to buy that new t-shirt you’re wearing in your video?
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+2 best matches: buy, video
+
+----------------
+sent_9:
+
+You can now use annotations to link externally to various online stores and your associated websites.
+YouTube has taken a number of steps to help attract advertisers to the site, including letting certain high-profile producers use professional studio facilities in cities like London, Los Angeles, and New York.
+1 best matches: use
+
+----------------
+sent_10:
+
+Program related videos for viewers: Help viewers watch more of your videos by placing them in a series playlist.
+"We're here to help you: from promotion to channel management to content optimization, we have the resources and programs to support you."
+2 best matches: program, help
+
+----------------
+sent_11:
+
+When you group videos that belong together, we’ll show viewers of your videos the next episode from the series and a link to the whole playlist.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+2 best matches: together, next
+
+----------------
+sent_12:
+
+no story sentence best matches found
+
+----------------
+sent_13:
+
+If you want tips on the best ways to use any of these features, learn more from the YouTube Creator Playbook.
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+2 best matches: creator, youtube
+
+----------------

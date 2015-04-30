@@ -1,0 +1,1119 @@
+sent_1:
+1 out of 41 sentences
+1 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Police moved in early Sunday to surround the remnants of a pro-democracy demonstration as it morphed from a student-led protest into one spearheaded by the Occupy Central movement, which took its name and inspiration from the Occupy movement in the United States.
+3 default entities: ORGANIZATION Occupy Central, GPE Occupy, GPE United States
+3 custom entities: ORGANIZATION Occupy Central, GPE Occupy, GPE United States
+
+Source Sentence and Source Headline Match:
+Police moved in early Sunday to surround the remnants of a pro-democracy demonstration as it morphed from a student-led protest into one spearheaded by the Occupy Central movement, which took its name and inspiration from the Occupy movement in the United States.
+Hong Kong police surround stragglers at Occupy Central protest.
+5 matches: occupy, central, protest, police, surround
+
+Source Sentence and Story Headline Match:
+Police moved in early Sunday to surround the remnants of a pro-democracy demonstration as it morphed from a student-led protest into one spearheaded by the Occupy Central movement, which took its name and inspiration from the Occupy movement in the United States.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Police moved in early Sunday to surround the remnants of a pro-democracy demonstration as it morphed from a student-led protest into one spearheaded by the Occupy Central movement, which took its name and inspiration from the Occupy movement in the United States.
+It is almost identical to Beijing's plan in Aug. 2014 that set off pro-democracy protests.
+2 matches: pro-democracy, protest
+
+----------------
+
+sent_2:
+2 out of 41 sentences
+2 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+After the student-led protest drew tens of thousands of people to rally outside Hong Kong’s government offices Saturday night, Occupy Central launched its protest about 2 a.m. Sunday, only to see most of the crowd wither away before police made a show of force about 7 a.m.
+2 default entities: GPE Hong Kong, PERSON Occupy Central
+2 custom entities: GPE Hong, PERSON Occupy Central
+
+Source Sentence and Source Headline Match:
+After the student-led protest drew tens of thousands of people to rally outside Hong Kong’s government offices Saturday night, Occupy Central launched its protest about 2 a.m. Sunday, only to see most of the crowd wither away before police made a show of force about 7 a.m.
+Hong Kong police surround stragglers at Occupy Central protest.
+5 matches: occupy, central, police, hong, protest
+
+Source Sentence and Story Headline Match:
+After the student-led protest drew tens of thousands of people to rally outside Hong Kong’s government offices Saturday night, Occupy Central launched its protest about 2 a.m. Sunday, only to see most of the crowd wither away before police made a show of force about 7 a.m.
+Hong Kong releases controversial election plan.
+1 matches: hong
+
+Source Sentence and Best Story Sentence Match:
+After the student-led protest drew tens of thousands of people to rally outside Hong Kong’s government offices Saturday night, Occupy Central launched its protest about 2 a.m. Sunday, only to see most of the crowd wither away before police made a show of force about 7 a.m.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+2 matches: government, hong
+
+----------------
+
+sent_3:
+3 out of 41 sentences
+3 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+By 8 a.m., officers had encircled the demonstrators but were not making any effort to physically remove them.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+By 8 a.m., officers had encircled the demonstrators but were not making any effort to physically remove them.
+Hong Kong police surround stragglers at Occupy Central protest.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+By 8 a.m., officers had encircled the demonstrators but were not making any effort to physically remove them.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_4:
+4 out of 41 sentences
+4 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Authorities have said the Occupy Central campaign is illegal.
+1 default entities: ORGANIZATION Occupy Central
+1 custom entities: ORGANIZATION Occupy Central
+
+Source Sentence and Source Headline Match:
+Authorities have said the Occupy Central campaign is illegal.
+Hong Kong police surround stragglers at Occupy Central protest.
+2 matches: occupy, central
+
+Source Sentence and Story Headline Match:
+Authorities have said the Occupy Central campaign is illegal.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Authorities have said the Occupy Central campaign is illegal.
+Activists say Beijing promised direct elections in 2017.
+1 matches: say
+
+----------------
+
+sent_5:
+5 out of 41 sentences
+4 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Like the student-led protests, it is fighting new election rules for Hong Kong issued by mainland Chinese authorities.
+2 default entities: GPE Hong Kong, GPE Chinese
+2 custom entities: GPE Hong Kong, GPE Chinese
+
+Source Sentence and Source Headline Match:
+Like the student-led protests, it is fighting new election rules for Hong Kong issued by mainland Chinese authorities.
+Hong Kong police surround stragglers at Occupy Central protest.
+3 matches: kong, hong, protest
+
+Source Sentence and Story Headline Match:
+Like the student-led protests, it is fighting new election rules for Hong Kong issued by mainland Chinese authorities.
+Hong Kong releases controversial election plan.
+3 matches: election, kong, hong
+
+Source Sentence and Best Story Sentence Match:
+Like the student-led protests, it is fighting new election rules for Hong Kong issued by mainland Chinese authorities.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+4 matches: hong, election, mainland, chinese
+
+----------------
+
+sent_6:
+6 out of 41 sentences
+5 out of 25 paragraphs
+Tagged as a quote
+
+Sentence:
+Before the police moved in, Benny Tai, an Occupy Central organizer and Hong Kong University law professor, faced the rapidly shrinking crowd and said, “We’ll still try to defend our position here against any action by the police and then move on to where we want to be, Central,” referring to Hong Kong’s financial district.
+5 default entities: PERSON Benny Tai, PERSON Occupy Central, GPE Hong Kong University, GPE Central, GPE Hong Kong
+5 custom entities: GPE Benny, PERSON Occupy Central, GPE Hong Kong University, ORGANIZATION Central, GPE Hong
+
+Source Sentence and Source Headline Match:
+Before the police moved in, Benny Tai, an Occupy Central organizer and Hong Kong University law professor, faced the rapidly shrinking crowd and said, “We’ll still try to defend our position here against any action by the police and then move on to where we want to be, Central,” referring to Hong Kong’s financial district.
+Hong Kong police surround stragglers at Occupy Central protest.
+5 matches: occupy, central, kong, police, hong
+
+Source Sentence and Story Headline Match:
+Before the police moved in, Benny Tai, an Occupy Central organizer and Hong Kong University law professor, faced the rapidly shrinking crowd and said, “We’ll still try to defend our position here against any action by the police and then move on to where we want to be, Central,” referring to Hong Kong’s financial district.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+Before the police moved in, Benny Tai, an Occupy Central organizer and Hong Kong University law professor, faced the rapidly shrinking crowd and said, “We’ll still try to defend our position here against any action by the police and then move on to where we want to be, Central,” referring to Hong Kong’s financial district.
+China said April 13 that it changed visa allowances for Shenzhen residents to visit Hong Kong from unlimited multiple-entry to once per week.
+3 matches: kong, say, hong
+
+----------------
+
+sent_7:
+7 out of 41 sentences
+6 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Saturday marked the second night of the standoff between Hong Kong police and democracy activists, who occupied a public plaza at the Chinese territory’s main government compound, despite repeated attempts by officers to disperse the growing crowd.
+2 default entities: GPE Hong Kong, GPE Chinese
+2 custom entities: GPE Hong Kong, GPE Chinese
+
+Source Sentence and Source Headline Match:
+Saturday marked the second night of the standoff between Hong Kong police and democracy activists, who occupied a public plaza at the Chinese territory’s main government compound, despite repeated attempts by officers to disperse the growing crowd.
+Hong Kong police surround stragglers at Occupy Central protest.
+4 matches: occupy, kong, police, hong
+
+Source Sentence and Story Headline Match:
+Saturday marked the second night of the standoff between Hong Kong police and democracy activists, who occupied a public plaza at the Chinese territory’s main government compound, despite repeated attempts by officers to disperse the growing crowd.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+Saturday marked the second night of the standoff between Hong Kong police and democracy activists, who occupied a public plaza at the Chinese territory’s main government compound, despite repeated attempts by officers to disperse the growing crowd.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+3 matches: kong, government, hong
+
+----------------
+
+sent_8:
+8 out of 41 sentences
+6 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+More than 70 people, most of them university and high school students, were arrested in the first two days.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+More than 70 people, most of them university and high school students, were arrested in the first two days.
+Hong Kong police surround stragglers at Occupy Central protest.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+More than 70 people, most of them university and high school students, were arrested in the first two days.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+More than 70 people, most of them university and high school students, were arrested in the first two days.
+Ian Holliday, a professor and university vice president, apologized April 20 for suggesting during a dinner with students April 17 that students should be required to do exchanges on mainland China.
+2 matches: student, university
+
+----------------
+
+sent_9:
+9 out of 41 sentences
+7 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+As midnight approached Saturday, thousands were massed in and around the complex.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+As midnight approached Saturday, thousands were massed in and around the complex.
+Hong Kong police surround stragglers at Occupy Central protest.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+As midnight approached Saturday, thousands were massed in and around the complex.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_10:
+10 out of 41 sentences
+7 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The move to occupy the plaza came after thousands of university students skipped classes last week to protest election guidelines issued by mainland Chinese government authorities for Hong Kong’s 2017 elections.
+2 default entities: GPE Chinese, GPE Hong Kong
+2 custom entities: GPE Chinese, GPE Hong
+
+Source Sentence and Source Headline Match:
+The move to occupy the plaza came after thousands of university students skipped classes last week to protest election guidelines issued by mainland Chinese government authorities for Hong Kong’s 2017 elections.
+Hong Kong police surround stragglers at Occupy Central protest.
+3 matches: occupy, hong, protest
+
+Source Sentence and Story Headline Match:
+The move to occupy the plaza came after thousands of university students skipped classes last week to protest election guidelines issued by mainland Chinese government authorities for Hong Kong’s 2017 elections.
+Hong Kong releases controversial election plan.
+2 matches: election, hong
+
+Source Sentence and Best Story Sentence Match:
+The move to occupy the plaza came after thousands of university students skipped classes last week to protest election guidelines issued by mainland Chinese government authorities for Hong Kong’s 2017 elections.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+5 matches: hong, 2017, election, mainland, chinese
+
+----------------
+
+sent_11:
+11 out of 41 sentences
+8 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Demonstrators say the rules will prevent a truly free and fair election for Hong Kong’s chief executive, the highest office in the semiautonomous territory that was a British colony until 1997.
+2 default entities: GPE Hong Kong, GPE British
+2 custom entities: GPE Hong, GPE British
+
+Source Sentence and Source Headline Match:
+Demonstrators say the rules will prevent a truly free and fair election for Hong Kong’s chief executive, the highest office in the semiautonomous territory that was a British colony until 1997.
+Hong Kong police surround stragglers at Occupy Central protest.
+1 matches: hong
+
+Source Sentence and Story Headline Match:
+Demonstrators say the rules will prevent a truly free and fair election for Hong Kong’s chief executive, the highest office in the semiautonomous territory that was a British colony until 1997.
+Hong Kong releases controversial election plan.
+2 matches: election, hong
+
+Source Sentence and Best Story Sentence Match:
+Demonstrators say the rules will prevent a truly free and fair election for Hong Kong’s chief executive, the highest office in the semiautonomous territory that was a British colony until 1997.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+4 matches: executive, election, hong, chief
+
+----------------
+
+sent_12:
+12 out of 41 sentences
+9 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Among those arrested Saturday was a feisty local lawmaker, Leung Kwok-hung, a.k.a.
+1 default entities: PERSON Leung Kwok-hung
+1 custom entities: PERSON Leung Kwok-hung
+
+Source Sentence and Source Headline Match:
+Among those arrested Saturday was a feisty local lawmaker, Leung Kwok-hung, a.k.a.
+Hong Kong police surround stragglers at Occupy Central protest.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Among those arrested Saturday was a feisty local lawmaker, Leung Kwok-hung, a.k.a.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Among those arrested Saturday was a feisty local lawmaker, Leung Kwok-hung, a.k.a.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+1 matches: lawmaker
+
+----------------
+
+sent_13:
+13 out of 41 sentences
+9 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Longhair.
+1 default entities: GPE Longhair
+1 custom entities: GPE Longhair
+
+Source Sentence and Source Headline Match:
+Longhair.
+Hong Kong police surround stragglers at Occupy Central protest.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Longhair.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_14:
+14 out of 41 sentences
+9 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He and dozens of others were detained after 17-year-old protest leader Joshua Wong, the diminutive but passionate head of a high-school activist group, Scholarism, was dragged off by four officers Friday night.
+2 default entities: PERSON Joshua Wong, PERSON Scholarism
+2 custom entities: PERSON Joshua Wong, PERSON Scholarism
+
+Source Sentence and Source Headline Match:
+He and dozens of others were detained after 17-year-old protest leader Joshua Wong, the diminutive but passionate head of a high-school activist group, Scholarism, was dragged off by four officers Friday night.
+Hong Kong police surround stragglers at Occupy Central protest.
+1 matches: protest
+
+Source Sentence and Story Headline Match:
+He and dozens of others were detained after 17-year-old protest leader Joshua Wong, the diminutive but passionate head of a high-school activist group, Scholarism, was dragged off by four officers Friday night.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+He and dozens of others were detained after 17-year-old protest leader Joshua Wong, the diminutive but passionate head of a high-school activist group, Scholarism, was dragged off by four officers Friday night.
+The proposal comes after months of protests in 2014 over a Beijing-back election plan.
+1 matches: protest
+
+----------------
+
+sent_15:
+15 out of 41 sentences
+10 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Joshua was reportedly denied bail and remained in detention while police searched his bedroom in the apartment he shares with his parents, Grace and Roger Wong.
+3 default entities: PERSON Joshua, PERSON Grace, PERSON Roger Wong
+3 custom entities: PERSON Joshua, PERSON Grace, PERSON Roger Wong
+
+Source Sentence and Source Headline Match:
+Joshua was reportedly denied bail and remained in detention while police searched his bedroom in the apartment he shares with his parents, Grace and Roger Wong.
+Hong Kong police surround stragglers at Occupy Central protest.
+1 matches: police
+
+Source Sentence and Story Headline Match:
+Joshua was reportedly denied bail and remained in detention while police searched his bedroom in the apartment he shares with his parents, Grace and Roger Wong.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Joshua was reportedly denied bail and remained in detention while police searched his bedroom in the apartment he shares with his parents, Grace and Roger Wong.
+Police used pepper spray and tear gas on protesters Sept. 28, 2014, prompting organizers to hand out umbrellas and plastic wrap as protection.
+1 matches: police
+
+----------------
+
+sent_16:
+16 out of 41 sentences
+10 out of 25 paragraphs
+Tagged as a quote
+
+Sentence:
+The couple issued a statement saying, “We can therefore only conclude that the decision to continue to detain him is a political one and that this [is] in fact political persecution.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The couple issued a statement saying, “We can therefore only conclude that the decision to continue to detain him is a political one and that this [is] in fact political persecution.”
+Hong Kong police surround stragglers at Occupy Central protest.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The couple issued a statement saying, “We can therefore only conclude that the decision to continue to detain him is a political one and that this [is] in fact political persecution.”
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The couple issued a statement saying, “We can therefore only conclude that the decision to continue to detain him is a political one and that this [is] in fact political persecution.”
+The decision to rule out open nominations set the stage for renewed protests.
+1 matches: decision
+
+----------------
+
+sent_17:
+17 out of 41 sentences
+11 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+When Sunday dawned, many students had left, with their leaders in police detention.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+When Sunday dawned, many students had left, with their leaders in police detention.
+Hong Kong police surround stragglers at Occupy Central protest.
+1 matches: police
+
+Source Sentence and Story Headline Match:
+When Sunday dawned, many students had left, with their leaders in police detention.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+When Sunday dawned, many students had left, with their leaders in police detention.
+If it does not get a two-thirds majority, the 2017 election will be based on current rules, which are also considered to give de facto control of the choice of the city's leader to Beijing.
+1 matches: leader
+
+----------------
+
+sent_18:
+18 out of 41 sentences
+11 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+No more than a couple thousand activists remained.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+No more than a couple thousand activists remained.
+Hong Kong police surround stragglers at Occupy Central protest.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+No more than a couple thousand activists remained.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+No more than a couple thousand activists remained.
+Activists say Beijing promised direct elections in 2017.
+1 matches: activist
+
+----------------
+
+sent_19:
+19 out of 41 sentences
+11 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But Tai said the two student groups, the Hong Kong Federation of Students and Scholarism, had signed on to his campaign.
+4 default entities: PERSON Tai, GPE Hong Kong, ORGANIZATION Students, PERSON Scholarism
+4 custom entities: PERSON Tai, GPE Hong Kong, ORGANIZATION Students, PERSON Scholarism
+
+Source Sentence and Source Headline Match:
+But Tai said the two student groups, the Hong Kong Federation of Students and Scholarism, had signed on to his campaign.
+Hong Kong police surround stragglers at Occupy Central protest.
+2 matches: kong, hong
+
+Source Sentence and Story Headline Match:
+But Tai said the two student groups, the Hong Kong Federation of Students and Scholarism, had signed on to his campaign.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+But Tai said the two student groups, the Hong Kong Federation of Students and Scholarism, had signed on to his campaign.
+China said April 13 that it changed visa allowances for Shenzhen residents to visit Hong Kong from unlimited multiple-entry to once per week.
+3 matches: kong, say, hong
+
+----------------
+
+sent_20:
+20 out of 41 sentences
+12 out of 25 paragraphs
+Tagged as a quote
+
+Sentence:
+Tension over the 2017 vote has been building for months in Hong Kong, which returned to Chinese sovereignty under a framework known as “one country, two systems.” The territory’s 7 million citizens enjoy significantly greater civil liberties than their counterparts in Communist-run mainland China.
+4 default entities: GPE Tension, GPE Hong Kong, GPE Chinese, GPE China
+4 custom entities: GPE Tension, GPE Hong Kong, GPE Chinese, GPE China
+
+Source Sentence and Source Headline Match:
+Tension over the 2017 vote has been building for months in Hong Kong, which returned to Chinese sovereignty under a framework known as “one country, two systems.” The territory’s 7 million citizens enjoy significantly greater civil liberties than their counterparts in Communist-run mainland China.
+Hong Kong police surround stragglers at Occupy Central protest.
+2 matches: kong, hong
+
+Source Sentence and Story Headline Match:
+Tension over the 2017 vote has been building for months in Hong Kong, which returned to Chinese sovereignty under a framework known as “one country, two systems.” The territory’s 7 million citizens enjoy significantly greater civil liberties than their counterparts in Communist-run mainland China.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+Tension over the 2017 vote has been building for months in Hong Kong, which returned to Chinese sovereignty under a framework known as “one country, two systems.” The territory’s 7 million citizens enjoy significantly greater civil liberties than their counterparts in Communist-run mainland China.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+4 matches: hong, 2017, mainland, chinese
+
+----------------
+
+sent_21:
+21 out of 41 sentences
+13 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Local lawmakers must ratify the final 2017 election rules.
+1 default entities: GPE Local
+1 custom entities: GPE Local
+
+Source Sentence and Source Headline Match:
+Local lawmakers must ratify the final 2017 election rules.
+Hong Kong police surround stragglers at Occupy Central protest.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Local lawmakers must ratify the final 2017 election rules.
+Hong Kong releases controversial election plan.
+1 matches: election
+
+Source Sentence and Best Story Sentence Match:
+Local lawmakers must ratify the final 2017 election rules.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+4 matches: 2017, election, lawmaker, must
+
+----------------
+
+sent_22:
+22 out of 41 sentences
+13 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Those protesting this weekend are seeking to encourage legislators to reject the framework put forth by Beijing or somehow modify it.
+1 default entities: GPE Beijing
+1 custom entities: GPE Beijing
+
+Source Sentence and Source Headline Match:
+Those protesting this weekend are seeking to encourage legislators to reject the framework put forth by Beijing or somehow modify it.
+Hong Kong police surround stragglers at Occupy Central protest.
+1 matches: protest
+
+Source Sentence and Story Headline Match:
+Those protesting this weekend are seeking to encourage legislators to reject the framework put forth by Beijing or somehow modify it.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Those protesting this weekend are seeking to encourage legislators to reject the framework put forth by Beijing or somehow modify it.
+The proposal comes after months of protests in 2014 over a Beijing-back election plan.
+1 matches: protest
+
+----------------
+
+sent_23:
+23 out of 41 sentences
+14 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Although Chinese authorities have approved the idea of allowing all Hong Kong citizens to cast ballots for chief executive — rather than just a 1,200 member committee — protesters say limits on who can run will ensure that only candidates Beijing approves of will be allowed in the race.
+3 default entities: GPE Chinese, GPE Hong Kong, GPE Beijing
+3 custom entities: GPE Chinese, GPE Hong Kong, GPE Beijing
+
+Source Sentence and Source Headline Match:
+Although Chinese authorities have approved the idea of allowing all Hong Kong citizens to cast ballots for chief executive — rather than just a 1,200 member committee — protesters say limits on who can run will ensure that only candidates Beijing approves of will be allowed in the race.
+Hong Kong police surround stragglers at Occupy Central protest.
+2 matches: kong, hong
+
+Source Sentence and Story Headline Match:
+Although Chinese authorities have approved the idea of allowing all Hong Kong citizens to cast ballots for chief executive — rather than just a 1,200 member committee — protesters say limits on who can run will ensure that only candidates Beijing approves of will be allowed in the race.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+Although Chinese authorities have approved the idea of allowing all Hong Kong citizens to cast ballots for chief executive — rather than just a 1,200 member committee — protesters say limits on who can run will ensure that only candidates Beijing approves of will be allowed in the race.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+6 matches: beijing, hong, chinese, committee, chief, executive
+
+----------------
+
+sent_24:
+24 out of 41 sentences
+15 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Occupy movement — its full name is Occupy Central With Love and Peace — has been planning a sit-in Wednesday in the city’s financial hub, known as Central.
+4 default entities: GPE Occupy, PERSON Occupy Central With Love, PERSON Peace, ORGANIZATION Central
+4 custom entities: GPE Occupy, PERSON Occupy Central With Love, PERSON Peace, ORGANIZATION Central
+
+Source Sentence and Source Headline Match:
+The Occupy movement — its full name is Occupy Central With Love and Peace — has been planning a sit-in Wednesday in the city’s financial hub, known as Central.
+Hong Kong police surround stragglers at Occupy Central protest.
+2 matches: occupy, central
+
+Source Sentence and Story Headline Match:
+The Occupy movement — its full name is Occupy Central With Love and Peace — has been planning a sit-in Wednesday in the city’s financial hub, known as Central.
+Hong Kong releases controversial election plan.
+1 matches: plan
+
+Source Sentence and Best Story Sentence Match:
+The Occupy movement — its full name is Occupy Central With Love and Peace — has been planning a sit-in Wednesday in the city’s financial hub, known as Central.
+The proposal comes after months of protests in 2014 over a Beijing-back election plan.
+1 matches: plan
+
+----------------
+
+sent_25:
+25 out of 41 sentences
+15 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The date is a national holiday marking the 1949 founding of Communist-led China.
+1 default entities: GPE China
+1 custom entities: GPE China
+
+Source Sentence and Source Headline Match:
+The date is a national holiday marking the 1949 founding of Communist-led China.
+Hong Kong police surround stragglers at Occupy Central protest.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The date is a national holiday marking the 1949 founding of Communist-led China.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The date is a national holiday marking the 1949 founding of Communist-led China.
+A report by a UK parliament committee on March 6 expressed concern that Hong Kong's "high degree of autonomy is coming under pressure" from mainland China.
+1 matches: china
+
+----------------
+
+sent_26:
+26 out of 41 sentences
+16 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Hong Kong has seen much bigger rallies, marches and demonstrations in recent years, some attracting hundreds of thousands of people, but the standoff this weekend was notable for its rancor and the use of force by police.
+1 default entities: GPE Hong Kong
+1 custom entities: GPE Hong Kong
+
+Source Sentence and Source Headline Match:
+Hong Kong has seen much bigger rallies, marches and demonstrations in recent years, some attracting hundreds of thousands of people, but the standoff this weekend was notable for its rancor and the use of force by police.
+Hong Kong police surround stragglers at Occupy Central protest.
+3 matches: kong, police, hong
+
+Source Sentence and Story Headline Match:
+Hong Kong has seen much bigger rallies, marches and demonstrations in recent years, some attracting hundreds of thousands of people, but the standoff this weekend was notable for its rancor and the use of force by police.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+Hong Kong has seen much bigger rallies, marches and demonstrations in recent years, some attracting hundreds of thousands of people, but the standoff this weekend was notable for its rancor and the use of force by police.
+"Hong Kong people are right to feel betrayed.
+3 matches: people, kong, hong
+
+----------------
+
+sent_27:
+27 out of 41 sentences
+16 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In general, Hong Kong protests tend to be disciplined and orderly.
+1 default entities: GPE Hong Kong
+1 custom entities: GPE Hong Kong
+
+Source Sentence and Source Headline Match:
+In general, Hong Kong protests tend to be disciplined and orderly.
+Hong Kong police surround stragglers at Occupy Central protest.
+3 matches: kong, hong, protest
+
+Source Sentence and Story Headline Match:
+In general, Hong Kong protests tend to be disciplined and orderly.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+In general, Hong Kong protests tend to be disciplined and orderly.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+2 matches: kong, hong
+
+----------------
+
+sent_28:
+28 out of 41 sentences
+17 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Between tense episodes of police pressing into protesters with metal barricades, pockets of supporters occasionally broke into chants to voice their demands.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Between tense episodes of police pressing into protesters with metal barricades, pockets of supporters occasionally broke into chants to voice their demands.
+Hong Kong police surround stragglers at Occupy Central protest.
+1 matches: police
+
+Source Sentence and Story Headline Match:
+Between tense episodes of police pressing into protesters with metal barricades, pockets of supporters occasionally broke into chants to voice their demands.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Between tense episodes of police pressing into protesters with metal barricades, pockets of supporters occasionally broke into chants to voice their demands.
+Police used pepper spray and tear gas on protesters Sept. 28, 2014, prompting organizers to hand out umbrellas and plastic wrap as protection.
+2 matches: protester, police
+
+----------------
+
+sent_29:
+29 out of 41 sentences
+18 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The students are innocent.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The students are innocent.
+Hong Kong police surround stragglers at Occupy Central protest.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The students are innocent.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The students are innocent.
+Our students should have international exposure, not confined only to mainland China, and should not be specified to mainland China."
+1 matches: student
+
+----------------
+
+sent_30:
+30 out of 41 sentences
+18 out of 25 paragraphs
+Tagged as a quote
+
+Sentence:
+The students are innocent.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The students are innocent.”
+Hong Kong police surround stragglers at Occupy Central protest.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The students are innocent.”
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The students are innocent.”
+Our students should have international exposure, not confined only to mainland China, and should not be specified to mainland China."
+1 matches: student
+
+----------------
+
+sent_31:
+31 out of 41 sentences
+19 out of 25 paragraphs
+Tagged as a quote
+
+Sentence:
+“Officers, back off!
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“Officers, back off!
+Hong Kong police surround stragglers at Occupy Central protest.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“Officers, back off!
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_32:
+32 out of 41 sentences
+19 out of 25 paragraphs
+Tagged as a quote
+
+Sentence:
+Back off!
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Back off!
+Hong Kong police surround stragglers at Occupy Central protest.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Back off!
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_33:
+33 out of 41 sentences
+19 out of 25 paragraphs
+Tagged as a quote
+
+Sentence:
+Back off!”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Back off!”
+Hong Kong police surround stragglers at Occupy Central protest.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Back off!”
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_34:
+34 out of 41 sentences
+20 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The crowd was largely young, but many older citizens joined in, with some saying they now see the city’s political future in the students’ hands, while bemoaning the lack of a larger turnout.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The crowd was largely young, but many older citizens joined in, with some saying they now see the city’s political future in the students’ hands, while bemoaning the lack of a larger turnout.
+Hong Kong police surround stragglers at Occupy Central protest.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The crowd was largely young, but many older citizens joined in, with some saying they now see the city’s political future in the students’ hands, while bemoaning the lack of a larger turnout.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The crowd was largely young, but many older citizens joined in, with some saying they now see the city’s political future in the students’ hands, while bemoaning the lack of a larger turnout.
+Holliday met with students and explained that he wanted students to be "global citizens with China knowledge."
+2 matches: citizen, student
+
+----------------
+
+sent_35:
+35 out of 41 sentences
+21 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Gary Chan, a 51-year-old investment manager, said he came alone because most of his friends don’t care about elections.
+2 default entities: PERSON Gary, GPE Chan
+1 custom entities: PERSON Gary
+
+Source Sentence and Source Headline Match:
+Gary Chan, a 51-year-old investment manager, said he came alone because most of his friends don’t care about elections.
+Hong Kong police surround stragglers at Occupy Central protest.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Gary Chan, a 51-year-old investment manager, said he came alone because most of his friends don’t care about elections.
+Hong Kong releases controversial election plan.
+1 matches: election
+
+Source Sentence and Best Story Sentence Match:
+Gary Chan, a 51-year-old investment manager, said he came alone because most of his friends don’t care about elections.
+The proposal comes after months of protests in 2014 over a Beijing-back election plan.
+2 matches: come, election
+
+----------------
+
+sent_36:
+36 out of 41 sentences
+21 out of 25 paragraphs
+Tagged as a quote
+
+Sentence:
+“I asked them: ‘Why don’t you care about your own city?’” he said.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“I asked them: ‘Why don’t you care about your own city?’” he said.
+Hong Kong police surround stragglers at Occupy Central protest.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“I asked them: ‘Why don’t you care about your own city?’” he said.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“I asked them: ‘Why don’t you care about your own city?’” he said.
+Activists say Beijing promised direct elections in 2017.
+1 matches: say
+
+----------------
+
+sent_37:
+37 out of 41 sentences
+22 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Yet, scenes of police in riot gear using pepper spray and batons on unarmed students and activists appeared to motivate sympathetic Hong Kongers to turn out at government headquarters Saturday.
+1 default entities: GPE Hong
+1 custom entities: GPE Hong
+
+Source Sentence and Source Headline Match:
+Yet, scenes of police in riot gear using pepper spray and batons on unarmed students and activists appeared to motivate sympathetic Hong Kongers to turn out at government headquarters Saturday.
+Hong Kong police surround stragglers at Occupy Central protest.
+2 matches: police, hong
+
+Source Sentence and Story Headline Match:
+Yet, scenes of police in riot gear using pepper spray and batons on unarmed students and activists appeared to motivate sympathetic Hong Kongers to turn out at government headquarters Saturday.
+Hong Kong releases controversial election plan.
+1 matches: hong
+
+Source Sentence and Best Story Sentence Match:
+Yet, scenes of police in riot gear using pepper spray and batons on unarmed students and activists appeared to motivate sympathetic Hong Kongers to turn out at government headquarters Saturday.
+Police used pepper spray and tear gas on protesters Sept. 28, 2014, prompting organizers to hand out umbrellas and plastic wrap as protection.
+4 matches: spray, police, pepper, use
+
+----------------
+
+sent_38:
+38 out of 41 sentences
+22 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Supporters came bearing food, bottled water and medical equipment, with supplies piling up on the sidewalks.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Supporters came bearing food, bottled water and medical equipment, with supplies piling up on the sidewalks.
+Hong Kong police surround stragglers at Occupy Central protest.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Supporters came bearing food, bottled water and medical equipment, with supplies piling up on the sidewalks.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Supporters came bearing food, bottled water and medical equipment, with supplies piling up on the sidewalks.
+The proposal comes after months of protests in 2014 over a Beijing-back election plan.
+1 matches: come
+
+----------------
+
+sent_39:
+39 out of 41 sentences
+23 out of 25 paragraphs
+Tagged as a quote
+
+Sentence:
+In a statement issued Saturday, the Hong Kong police said officers “respect the public's freedoms of expression, speech and assembly.”
+1 default entities: GPE Hong Kong
+1 custom entities: GPE Hong Kong
+
+Source Sentence and Source Headline Match:
+In a statement issued Saturday, the Hong Kong police said officers “respect the public's freedoms of expression, speech and assembly.”
+Hong Kong police surround stragglers at Occupy Central protest.
+3 matches: kong, police, hong
+
+Source Sentence and Story Headline Match:
+In a statement issued Saturday, the Hong Kong police said officers “respect the public's freedoms of expression, speech and assembly.”
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+In a statement issued Saturday, the Hong Kong police said officers “respect the public's freedoms of expression, speech and assembly.”
+China responded that the UK, which ran Hong Kong for nearly 150 years, has "no right to interfere" in what China considers a domestic issue.
+3 matches: kong, hong, issue
+
+----------------
+
+sent_40:
+40 out of 41 sentences
+24 out of 25 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But three pro-Beijing political parties in Hong Kong issued a joint statement condemning the students’ actions as illegal.
+1 default entities: GPE Hong Kong
+1 custom entities: GPE Hong Kong
+
+Source Sentence and Source Headline Match:
+But three pro-Beijing political parties in Hong Kong issued a joint statement condemning the students’ actions as illegal.
+Hong Kong police surround stragglers at Occupy Central protest.
+2 matches: kong, hong
+
+Source Sentence and Story Headline Match:
+But three pro-Beijing political parties in Hong Kong issued a joint statement condemning the students’ actions as illegal.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+But three pro-Beijing political parties in Hong Kong issued a joint statement condemning the students’ actions as illegal.
+China responded that the UK, which ran Hong Kong for nearly 150 years, has "no right to interfere" in what China considers a domestic issue.
+3 matches: kong, hong, issue
+
+----------------
+
+sent_41:
+41 out of 41 sentences
+25 out of 25 paragraphs
+Tagged as a quote
+
+Sentence:
+Despite all this, Eric Chong, researcher on local student movements at the Hong Kong Institute of Education, predicted the string of mass movements “sure will erode the government’s legitimacy because the public sees it as maintaining its rule by sheer force.”
+3 default entities: PERSON Eric Chong, GPE Hong Kong, GPE Education
+3 custom entities: PERSON Eric Chong, GPE Hong Kong, PERSON Education
+
+Source Sentence and Source Headline Match:
+Despite all this, Eric Chong, researcher on local student movements at the Hong Kong Institute of Education, predicted the string of mass movements “sure will erode the government’s legitimacy because the public sees it as maintaining its rule by sheer force.”
+Hong Kong police surround stragglers at Occupy Central protest.
+2 matches: kong, hong
+
+Source Sentence and Story Headline Match:
+Despite all this, Eric Chong, researcher on local student movements at the Hong Kong Institute of Education, predicted the string of mass movements “sure will erode the government’s legitimacy because the public sees it as maintaining its rule by sheer force.”
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+Despite all this, Eric Chong, researcher on local student movements at the Hong Kong Institute of Education, predicted the string of mass movements “sure will erode the government’s legitimacy because the public sees it as maintaining its rule by sheer force.”
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+2 matches: kong, hong
+
+----------------
+

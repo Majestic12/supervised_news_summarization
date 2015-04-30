@@ -1,0 +1,799 @@
+sent_1:
+1 out of 29 sentences
+1 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Millions of Chinese, riveted and outraged, watched a 104-minute documentary video over the weekend that begins with a slight woman in jeans and a white blouse walking on to a stage dimly lit in blue.
+1 default entities: GPE Chinese
+1 custom entities: GPE Chinese
+
+Source Sentence and Source Headline Match:
+Millions of Chinese, riveted and outraged, watched a 104-minute documentary video over the weekend that begins with a slight woman in jeans and a white blouse walking on to a stage dimly lit in blue.
+Documentary on Air Pollution Grips China.
+1 matches: documentary
+
+Source Sentence and Story Headline Match:
+Millions of Chinese, riveted and outraged, watched a 104-minute documentary video over the weekend that begins with a slight woman in jeans and a white blouse walking on to a stage dimly lit in blue.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: chinese
+
+Source Sentence and Best Story Sentence Match:
+Millions of Chinese, riveted and outraged, watched a 104-minute documentary video over the weekend that begins with a slight woman in jeans and a white blouse walking on to a stage dimly lit in blue.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+1 matches: chinese
+
+----------------
+
+sent_2:
+2 out of 29 sentences
+1 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+As an audience looks on somberly, the woman, Chai Jing, displays a graph of brown-red peaks with occasional troughs.
+1 default entities: PERSON Chai Jing
+1 custom entities: PERSON Chai Jing
+
+Source Sentence and Source Headline Match:
+As an audience looks on somberly, the woman, Chai Jing, displays a graph of brown-red peaks with occasional troughs.
+Documentary on Air Pollution Grips China.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+As an audience looks on somberly, the woman, Chai Jing, displays a graph of brown-red peaks with occasional troughs.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+As an audience looks on somberly, the woman, Chai Jing, displays a graph of brown-red peaks with occasional troughs.
+"Chai Jing's documentary calls for public environmental consciousness from the standpoint of public health.
+1 matches: chai
+
+----------------
+
+sent_3:
+3 out of 29 sentences
+2 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+“This was the PM 2.5 curve for Beijing in January 2013, when there were 25 days of smog in that one month,” explains Ms. Chai, a former Chinese television reporter, referring to a widely used gauge of air pollution.
+2 default entities: GPE Beijing, GPE Chinese
+2 custom entities: GPE Beijing, GPE Chinese
+
+Source Sentence and Source Headline Match:
+“This was the PM 2.5 curve for Beijing in January 2013, when there were 25 days of smog in that one month,” explains Ms. Chai, a former Chinese television reporter, referring to a widely used gauge of air pollution.
+Documentary on Air Pollution Grips China.
+2 matches: pollution, air
+
+Source Sentence and Story Headline Match:
+“This was the PM 2.5 curve for Beijing in January 2013, when there were 25 days of smog in that one month,” explains Ms. Chai, a former Chinese television reporter, referring to a widely used gauge of air pollution.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+2 matches: chinese, air
+
+Source Sentence and Best Story Sentence Match:
+“This was the PM 2.5 curve for Beijing in January 2013, when there were 25 days of smog in that one month,” explains Ms. Chai, a former Chinese television reporter, referring to a widely used gauge of air pollution.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+3 matches: air, month, chinese
+
+----------------
+
+sent_4:
+4 out of 29 sentences
+2 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Back then, she says, she paid little attention to the smog engulfing much of China and affecting 600 million people, even as her work took her to places where the air was acrid with fumes and dust.
+1 default entities: GPE China
+1 custom entities: GPE China
+
+Source Sentence and Source Headline Match:
+Back then, she says, she paid little attention to the smog engulfing much of China and affecting 600 million people, even as her work took her to places where the air was acrid with fumes and dust.
+Documentary on Air Pollution Grips China.
+2 matches: china, air
+
+Source Sentence and Story Headline Match:
+Back then, she says, she paid little attention to the smog engulfing much of China and affecting 600 million people, even as her work took her to places where the air was acrid with fumes and dust.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+2 matches: say, air
+
+Source Sentence and Best Story Sentence Match:
+Back then, she says, she paid little attention to the smog engulfing much of China and affecting 600 million people, even as her work took her to places where the air was acrid with fumes and dust.
+On March 7, the air pollution film "Under the Dome" was taken down from major streaming video websites in China.
+3 matches: china, take, air
+
+----------------
+
+sent_5:
+5 out of 29 sentences
+3 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+“But,” Ms. Chai says with a pause, “when I returned to Beijing, I learned that I was pregnant.”
+1 default entities: GPE Beijing
+1 custom entities: GPE Beijing
+
+Source Sentence and Source Headline Match:
+“But,” Ms. Chai says with a pause, “when I returned to Beijing, I learned that I was pregnant.”
+Documentary on Air Pollution Grips China.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“But,” Ms. Chai says with a pause, “when I returned to Beijing, I learned that I was pregnant.”
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: say
+
+Source Sentence and Best Story Sentence Match:
+“But,” Ms. Chai says with a pause, “when I returned to Beijing, I learned that I was pregnant.”
+The Beijing government said it would begin collecting fees from construction sites that contribute to dust pollution in the city starting March 1.
+2 matches: beijing, say
+
+----------------
+
+sent_6:
+6 out of 29 sentences
+4 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+She has said her concerns about what the filthy air would mean for her infant daughter’s health prompted her to produce the documentary, “Under the Dome.” It was published online Saturday, and swiftly inspired an unusually passionate eruption of public and mass media discussion.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+She has said her concerns about what the filthy air would mean for her infant daughter’s health prompted her to produce the documentary, “Under the Dome.” It was published online Saturday, and swiftly inspired an unusually passionate eruption of public and mass media discussion.
+Documentary on Air Pollution Grips China.
+2 matches: documentary, air
+
+Source Sentence and Story Headline Match:
+She has said her concerns about what the filthy air would mean for her infant daughter’s health prompted her to produce the documentary, “Under the Dome.” It was published online Saturday, and swiftly inspired an unusually passionate eruption of public and mass media discussion.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+2 matches: say, air
+
+Source Sentence and Best Story Sentence Match:
+She has said her concerns about what the filthy air would mean for her infant daughter’s health prompted her to produce the documentary, “Under the Dome.” It was published online Saturday, and swiftly inspired an unusually passionate eruption of public and mass media discussion.
+"Chai Jing's documentary calls for public environmental consciousness from the standpoint of public health.
+3 matches: public, health, documentary
+
+----------------
+
+sent_7:
+7 out of 29 sentences
+4 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+The newly appointed minister of environmental protection even likened the documentary to “Silent Spring,” Rachel Carson’s landmark exposé of chemical pollution.
+1 default entities: PERSON Rachel Carson
+1 custom entities: PERSON Silent Spring Rachel
+
+Source Sentence and Source Headline Match:
+The newly appointed minister of environmental protection even likened the documentary to “Silent Spring,” Rachel Carson’s landmark exposé of chemical pollution.
+Documentary on Air Pollution Grips China.
+2 matches: pollution, documentary
+
+Source Sentence and Story Headline Match:
+The newly appointed minister of environmental protection even likened the documentary to “Silent Spring,” Rachel Carson’s landmark exposé of chemical pollution.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The newly appointed minister of environmental protection even likened the documentary to “Silent Spring,” Rachel Carson’s landmark exposé of chemical pollution.
+China's Ministry of Environmental Protection said Feb. 1 that 66 of 74 cities failed to meet air pollution targets in 2014.
+3 matches: pollution, environmental, protection
+
+----------------
+
+sent_8:
+8 out of 29 sentences
+5 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+“I’d never felt afraid of pollution before, and never wore a mask no matter where,” Ms. Chai, 39, says in the video.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“I’d never felt afraid of pollution before, and never wore a mask no matter where,” Ms. Chai, 39, says in the video.
+Documentary on Air Pollution Grips China.
+1 matches: pollution
+
+Source Sentence and Story Headline Match:
+“I’d never felt afraid of pollution before, and never wore a mask no matter where,” Ms. Chai, 39, says in the video.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: say
+
+Source Sentence and Best Story Sentence Match:
+“I’d never felt afraid of pollution before, and never wore a mask no matter where,” Ms. Chai, 39, says in the video.
+China's Ministry of Environmental Protection said Feb. 1 that 66 of 74 cities failed to meet air pollution targets in 2014.
+2 matches: pollution, say
+
+----------------
+
+sent_9:
+9 out of 29 sentences
+5 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+“But when you carry a life in you, what she breathes, eats and drinks are all your responsibility, and then you feel the fear.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“But when you carry a life in you, what she breathes, eats and drinks are all your responsibility, and then you feel the fear.”
+Documentary on Air Pollution Grips China.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“But when you carry a life in you, what she breathes, eats and drinks are all your responsibility, and then you feel the fear.”
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_10:
+10 out of 29 sentences
+6 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+By early Monday morning, “Under the Dome” had been played more than 20 million times on Youku, a popular video-sharing site, and it was also being viewed widely on other sites.
+1 default entities: GPE Youku
+1 custom entities: ORGANIZATION Dome
+
+Source Sentence and Source Headline Match:
+By early Monday morning, “Under the Dome” had been played more than 20 million times on Youku, a popular video-sharing site, and it was also being viewed widely on other sites.
+Documentary on Air Pollution Grips China.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+By early Monday morning, “Under the Dome” had been played more than 20 million times on Youku, a popular video-sharing site, and it was also being viewed widely on other sites.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+By early Monday morning, “Under the Dome” had been played more than 20 million times on Youku, a popular video-sharing site, and it was also being viewed widely on other sites.
+However, discussion of the film, which had received tens of millions of more views since March 2 when it passed 100 million views, is reportedly still being allowed on social media sites.
+2 matches: view, million
+
+----------------
+
+sent_11:
+11 out of 29 sentences
+7 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Tens of thousands of viewers posted comments about the video, many of them parents who identified with Ms. Chai’s concern for her daughter.
+1 default entities: PERSON Chai
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Tens of thousands of viewers posted comments about the video, many of them parents who identified with Ms. Chai’s concern for her daughter.
+Documentary on Air Pollution Grips China.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Tens of thousands of viewers posted comments about the video, many of them parents who identified with Ms. Chai’s concern for her daughter.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Tens of thousands of viewers posted comments about the video, many of them parents who identified with Ms. Chai’s concern for her daughter.
+Persistent pollution continues to be an everyday health threat for many people in China.
+1 matches: many
+
+----------------
+
+sent_12:
+12 out of 29 sentences
+7 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Some praised her for forthrightly condemning the industrial interests, energy conglomerates and bureaucratic hurdles that she says have obstructed stronger action against pollution.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Some praised her for forthrightly condemning the industrial interests, energy conglomerates and bureaucratic hurdles that she says have obstructed stronger action against pollution.
+Documentary on Air Pollution Grips China.
+1 matches: pollution
+
+Source Sentence and Story Headline Match:
+Some praised her for forthrightly condemning the industrial interests, energy conglomerates and bureaucratic hurdles that she says have obstructed stronger action against pollution.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: say
+
+Source Sentence and Best Story Sentence Match:
+Some praised her for forthrightly condemning the industrial interests, energy conglomerates and bureaucratic hurdles that she says have obstructed stronger action against pollution.
+China's Ministry of Environmental Protection said Feb. 1 that 66 of 74 cities failed to meet air pollution targets in 2014.
+2 matches: pollution, say
+
+----------------
+
+sent_13:
+13 out of 29 sentences
+7 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Others lamented that she was able to do so only after leaving her job with the state-run China Central Television.
+2 default entities: GPE China, ORGANIZATION Central Television
+2 custom entities: GPE China, ORGANIZATION Central Television
+
+Source Sentence and Source Headline Match:
+Others lamented that she was able to do so only after leaving her job with the state-run China Central Television.
+Documentary on Air Pollution Grips China.
+1 matches: china
+
+Source Sentence and Story Headline Match:
+Others lamented that she was able to do so only after leaving her job with the state-run China Central Television.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Others lamented that she was able to do so only after leaving her job with the state-run China Central Television.
+Persistent pollution continues to be an everyday health threat for many people in China.
+1 matches: china
+
+----------------
+
+sent_14:
+14 out of 29 sentences
+8 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+“Support Chai Jing or those like her who stand up like this to speak the truth,” said one of the comments — which exceeded 25,000 by Sunday afternoon — on Youku.
+1 default entities: PERSON Chai Jing
+2 custom entities: PERSON Support, PERSON Chai Jing
+
+Source Sentence and Source Headline Match:
+“Support Chai Jing or those like her who stand up like this to speak the truth,” said one of the comments — which exceeded 25,000 by Sunday afternoon — on Youku.
+Documentary on Air Pollution Grips China.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“Support Chai Jing or those like her who stand up like this to speak the truth,” said one of the comments — which exceeded 25,000 by Sunday afternoon — on Youku.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: say
+
+Source Sentence and Best Story Sentence Match:
+“Support Chai Jing or those like her who stand up like this to speak the truth,” said one of the comments — which exceeded 25,000 by Sunday afternoon — on Youku.
+"Despite modest improvements in high profile cities like Beijing, the figures paint a grim picture overall."
+1 matches: like
+
+----------------
+
+sent_15:
+15 out of 29 sentences
+8 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+“In this messed-up country that’s devoid of law, cold-hearted, numb and arrogant, they’re like an eye-grabbing sign that shocks the soul.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“In this messed-up country that’s devoid of law, cold-hearted, numb and arrogant, they’re like an eye-grabbing sign that shocks the soul.”
+Documentary on Air Pollution Grips China.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“In this messed-up country that’s devoid of law, cold-hearted, numb and arrogant, they’re like an eye-grabbing sign that shocks the soul.”
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“In this messed-up country that’s devoid of law, cold-hearted, numb and arrogant, they’re like an eye-grabbing sign that shocks the soul.”
+"Despite modest improvements in high profile cities like Beijing, the figures paint a grim picture overall."
+1 matches: like
+
+----------------
+
+sent_16:
+16 out of 29 sentences
+9 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The documentary is part science lecture, part investigative exposé and part memoir, and Ms. Chai’s own story has become a focus of praise and criticism.
+1 default entities: PERSON Chai
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The documentary is part science lecture, part investigative exposé and part memoir, and Ms. Chai’s own story has become a focus of praise and criticism.
+Documentary on Air Pollution Grips China.
+1 matches: documentary
+
+Source Sentence and Story Headline Match:
+The documentary is part science lecture, part investigative exposé and part memoir, and Ms. Chai’s own story has become a focus of praise and criticism.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The documentary is part science lecture, part investigative exposé and part memoir, and Ms. Chai’s own story has become a focus of praise and criticism.
+"Chai Jing's documentary calls for public environmental consciousness from the standpoint of public health.
+1 matches: documentary
+
+----------------
+
+sent_17:
+17 out of 29 sentences
+9 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Ms. Chai and her husband were wealthy and privileged enough for her to have given birth in the United States, according to a flurry of news reports last year, and some comments accused her of hypocrisy.
+1 default entities: GPE United States
+2 custom entities: PERSON Chai, GPE United States
+
+Source Sentence and Source Headline Match:
+Ms. Chai and her husband were wealthy and privileged enough for her to have given birth in the United States, according to a flurry of news reports last year, and some comments accused her of hypocrisy.
+Documentary on Air Pollution Grips China.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Ms. Chai and her husband were wealthy and privileged enough for her to have given birth in the United States, according to a flurry of news reports last year, and some comments accused her of hypocrisy.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Ms. Chai and her husband were wealthy and privileged enough for her to have given birth in the United States, according to a flurry of news reports last year, and some comments accused her of hypocrisy.
+The report, however, gives China credit for "unprecedented transparency" in sharing data and for some improvements in air quality.
+2 matches: report, give
+
+----------------
+
+sent_18:
+18 out of 29 sentences
+9 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Her daughter was born with a benign tumor that required surgery; newspapers have quoted scientists who have challenged Ms. Chai’s suggestion in the video that smog was to blame.
+1 default entities: PERSON Chai
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Her daughter was born with a benign tumor that required surgery; newspapers have quoted scientists who have challenged Ms. Chai’s suggestion in the video that smog was to blame.
+Documentary on Air Pollution Grips China.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Her daughter was born with a benign tumor that required surgery; newspapers have quoted scientists who have challenged Ms. Chai’s suggestion in the video that smog was to blame.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Her daughter was born with a benign tumor that required surgery; newspapers have quoted scientists who have challenged Ms. Chai’s suggestion in the video that smog was to blame.
+On March 7, the air pollution film "Under the Dome" was taken down from major streaming video websites in China.
+1 matches: video
+
+----------------
+
+sent_19:
+19 out of 29 sentences
+10 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But most of the reaction welcomed her initiative in producing and posting the documentary with her own money.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+But most of the reaction welcomed her initiative in producing and posting the documentary with her own money.
+Documentary on Air Pollution Grips China.
+1 matches: documentary
+
+Source Sentence and Story Headline Match:
+But most of the reaction welcomed her initiative in producing and posting the documentary with her own money.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+But most of the reaction welcomed her initiative in producing and posting the documentary with her own money.
+"Chai Jing's documentary calls for public environmental consciousness from the standpoint of public health.
+1 matches: documentary
+
+----------------
+
+sent_20:
+20 out of 29 sentences
+10 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Indeed, some have wondered how Ms. Chai got away with it.
+1 default entities: PERSON Chai
+1 custom entities: PERSON Chai
+
+Source Sentence and Source Headline Match:
+Indeed, some have wondered how Ms. Chai got away with it.
+Documentary on Air Pollution Grips China.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Indeed, some have wondered how Ms. Chai got away with it.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Indeed, some have wondered how Ms. Chai got away with it.
+"Chai Jing's documentary calls for public environmental consciousness from the standpoint of public health.
+1 matches: chai
+
+----------------
+
+sent_21:
+21 out of 29 sentences
+11 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+China has been tightening restrictions on the Internet, and the documentary is somewhat critical of the government.
+1 default entities: GPE China
+1 custom entities: GPE China
+
+Source Sentence and Source Headline Match:
+China has been tightening restrictions on the Internet, and the documentary is somewhat critical of the government.
+Documentary on Air Pollution Grips China.
+2 matches: documentary, china
+
+Source Sentence and Story Headline Match:
+China has been tightening restrictions on the Internet, and the documentary is somewhat critical of the government.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+China has been tightening restrictions on the Internet, and the documentary is somewhat critical of the government.
+Persistent pollution continues to be an everyday health threat for many people in China.
+1 matches: china
+
+----------------
+
+sent_22:
+22 out of 29 sentences
+11 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+Access to the video was not blocked, but by Sunday evening popular Chinese websites had removed prominent headlines and links about “Under the Dome” from their front pages, possibly at the behest of nervous propaganda officials.
+2 default entities: GPE Access, GPE Chinese
+2 custom entities: GPE Access, GPE Chinese
+
+Source Sentence and Source Headline Match:
+Access to the video was not blocked, but by Sunday evening popular Chinese websites had removed prominent headlines and links about “Under the Dome” from their front pages, possibly at the behest of nervous propaganda officials.
+Documentary on Air Pollution Grips China.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Access to the video was not blocked, but by Sunday evening popular Chinese websites had removed prominent headlines and links about “Under the Dome” from their front pages, possibly at the behest of nervous propaganda officials.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: chinese
+
+Source Sentence and Best Story Sentence Match:
+Access to the video was not blocked, but by Sunday evening popular Chinese websites had removed prominent headlines and links about “Under the Dome” from their front pages, possibly at the behest of nervous propaganda officials.
+On March 7, the air pollution film "Under the Dome" was taken down from major streaming video websites in China.
+2 matches: dome, video
+
+----------------
+
+sent_23:
+23 out of 29 sentences
+12 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Some officials, however, may even welcome it as an opportunity to build support for anti-smog measures.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Some officials, however, may even welcome it as an opportunity to build support for anti-smog measures.
+Documentary on Air Pollution Grips China.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Some officials, however, may even welcome it as an opportunity to build support for anti-smog measures.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Some officials, however, may even welcome it as an opportunity to build support for anti-smog measures.
+The report, however, gives China credit for "unprecedented transparency" in sharing data and for some improvements in air quality.
+1 matches: however
+
+----------------
+
+sent_24:
+24 out of 29 sentences
+12 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+The website of People’s Daily, the main Communist Party newspaper, was one of the first to post “Under the Dome.” And the new minister of environmental protection, Chen Jining, praised the video.
+4 default entities: GPE People, PERSON Daily, ORGANIZATION Communist Party, PERSON Chen Jining
+4 custom entities: ORGANIZATION People's Daily, ORGANIZATION Communist Party, ORGANIZATION Dome, PERSON Chen Jining
+
+Source Sentence and Source Headline Match:
+The website of People’s Daily, the main Communist Party newspaper, was one of the first to post “Under the Dome.” And the new minister of environmental protection, Chen Jining, praised the video.
+Documentary on Air Pollution Grips China.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The website of People’s Daily, the main Communist Party newspaper, was one of the first to post “Under the Dome.” And the new minister of environmental protection, Chen Jining, praised the video.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The website of People’s Daily, the main Communist Party newspaper, was one of the first to post “Under the Dome.” And the new minister of environmental protection, Chen Jining, praised the video.
+Air quality control has often been an important issue at the meeting, and new environmental minister Chen publicly endorsed the film earlier in the week.
+4 matches: minister, chen, environmental, new
+
+----------------
+
+sent_25:
+25 out of 29 sentences
+13 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+Mr. Chen said at a news conference for Chinese reporters in Beijing on Sunday that the documentary reminded him of Ms. Carson’s “Silent Spring,” which on publication in 1962 inspired a public uproar about excessive use of pesticides, The Beijing Times reported, citing the Xinhua news agency.
+7 default entities: PERSON Mr., PERSON Chen, GPE Chinese, GPE Beijing, PERSON Carson, ORGANIZATION Beijing Times, ORGANIZATION Xinhua
+5 custom entities: PERSON Chen, GPE Chinese, GPE Beijing, ORGANIZATION Beijing Times, ORGANIZATION Xinhua
+
+Source Sentence and Source Headline Match:
+Mr. Chen said at a news conference for Chinese reporters in Beijing on Sunday that the documentary reminded him of Ms. Carson’s “Silent Spring,” which on publication in 1962 inspired a public uproar about excessive use of pesticides, The Beijing Times reported, citing the Xinhua news agency.
+Documentary on Air Pollution Grips China.
+1 matches: documentary
+
+Source Sentence and Story Headline Match:
+Mr. Chen said at a news conference for Chinese reporters in Beijing on Sunday that the documentary reminded him of Ms. Carson’s “Silent Spring,” which on publication in 1962 inspired a public uproar about excessive use of pesticides, The Beijing Times reported, citing the Xinhua news agency.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+2 matches: say, chinese
+
+Source Sentence and Best Story Sentence Match:
+Mr. Chen said at a news conference for Chinese reporters in Beijing on Sunday that the documentary reminded him of Ms. Carson’s “Silent Spring,” which on publication in 1962 inspired a public uproar about excessive use of pesticides, The Beijing Times reported, citing the Xinhua news agency.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+3 matches: report, say, chinese
+
+----------------
+
+sent_26:
+26 out of 29 sentences
+14 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+“I think this work has an important role in promoting public awareness of environmental health issues,” Mr. Chen said, “so I’m particularly pleased about this event.”
+1 default entities: PERSON Mr. Chen
+1 custom entities: PERSON Chen
+
+Source Sentence and Source Headline Match:
+“I think this work has an important role in promoting public awareness of environmental health issues,” Mr. Chen said, “so I’m particularly pleased about this event.”
+Documentary on Air Pollution Grips China.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“I think this work has an important role in promoting public awareness of environmental health issues,” Mr. Chen said, “so I’m particularly pleased about this event.”
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: say
+
+Source Sentence and Best Story Sentence Match:
+“I think this work has an important role in promoting public awareness of environmental health issues,” Mr. Chen said, “so I’m particularly pleased about this event.”
+Air quality control has often been an important issue at the meeting, and new environmental minister Chen publicly endorsed the film earlier in the week.
+4 matches: issue, chen, environmental, important
+
+----------------
+
+sent_27:
+27 out of 29 sentences
+15 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Ms. Chai, 39, was born in Shanxi Province, a part of China abundant in coal, and bathed in noxious pollution.
+2 default entities: GPE Shanxi Province, GPE China
+2 custom entities: GPE Shanxi, GPE China
+
+Source Sentence and Source Headline Match:
+Ms. Chai, 39, was born in Shanxi Province, a part of China abundant in coal, and bathed in noxious pollution.
+Documentary on Air Pollution Grips China.
+2 matches: pollution, china
+
+Source Sentence and Story Headline Match:
+Ms. Chai, 39, was born in Shanxi Province, a part of China abundant in coal, and bathed in noxious pollution.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Ms. Chai, 39, was born in Shanxi Province, a part of China abundant in coal, and bathed in noxious pollution.
+Persistent pollution continues to be an everyday health threat for many people in China.
+2 matches: pollution, china
+
+----------------
+
+sent_28:
+28 out of 29 sentences
+15 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+She told the website of People’s Daily that she decided to set aside worries about making her daughter the subject of a video.
+1 default entities: GPE People
+1 custom entities: ORGANIZATION People's Daily
+
+Source Sentence and Source Headline Match:
+She told the website of People’s Daily that she decided to set aside worries about making her daughter the subject of a video.
+Documentary on Air Pollution Grips China.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+She told the website of People’s Daily that she decided to set aside worries about making her daughter the subject of a video.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+She told the website of People’s Daily that she decided to set aside worries about making her daughter the subject of a video.
+On March 7, the air pollution film "Under the Dome" was taken down from major streaming video websites in China.
+1 matches: video
+
+----------------
+
+sent_29:
+29 out of 29 sentences
+16 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+“If I had not had this kind of emotional impetus,” she told the website, “I would have found it very difficult to spend such a long time completing this.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“If I had not had this kind of emotional impetus,” she told the website, “I would have found it very difficult to spend such a long time completing this.”
+Documentary on Air Pollution Grips China.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“If I had not had this kind of emotional impetus,” she told the website, “I would have found it very difficult to spend such a long time completing this.”
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“If I had not had this kind of emotional impetus,” she told the website, “I would have found it very difficult to spend such a long time completing this.”
+Pollution has exceeded the index several times, most recently in October 2014.
+1 matches: time
+
+----------------
+

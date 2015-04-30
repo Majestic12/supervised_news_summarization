@@ -1,0 +1,491 @@
+sent_1:
+1 out of 18 sentences
+1 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+An air strike on a Scud missile base in the Houthi-controlled Yemeni capital Sanaa triggered a big explosion that killed 25 people and wounded almost 400 on Monday, state news agency Saba said.
+3 default entities: GPE Yemeni, PERSON Sanaa, PERSON Saba
+3 custom entities: GPE Yemeni, PERSON Sanaa, PERSON Saba
+
+Source Sentence and Source Headline Match:
+An air strike on a Scud missile base in the Houthi-controlled Yemeni capital Sanaa triggered a big explosion that killed 25 people and wounded almost 400 on Monday, state news agency Saba said.
+Air strike on missile base in Yemen capital kills 25, wounds hundreds.
+8 matches: wound, kill, air, missile, capital, strike, 25, base
+
+Source Sentence and Story Headline Match:
+An air strike on a Scud missile base in the Houthi-controlled Yemeni capital Sanaa triggered a big explosion that killed 25 people and wounded almost 400 on Monday, state news agency Saba said.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: yemeni
+
+Source Sentence and Best Story Sentence Match:
+An air strike on a Scud missile base in the Houthi-controlled Yemeni capital Sanaa triggered a big explosion that killed 25 people and wounded almost 400 on Monday, state news agency Saba said.
+An April 20 Saudi airstrike on a hillside tore through the Yemeni capital, killing at least 25 people and wounding nearly 400 people, according to witnesses and medics.
+7 matches: wound, people, kill, 400, capital, 25, yemeni
+
+----------------
+
+sent_2:
+2 out of 18 sentences
+2 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Saudi Arabia has led an alliance of Sunni Arab countries in air strikes against the Iran-allied Shi'ite Houthi group and army units loyal to ex-president Ali Abdullah Saleh.
+5 default entities: GPE Saudi, PERSON Arabia, ORGANIZATION Sunni Arab, ORGANIZATION Houthi, PERSON Abdullah Saleh
+5 custom entities: GPE Saudi, PERSON Arabia, ORGANIZATION Sunni Arab, ORGANIZATION Houthi, PERSON Abdullah Saleh
+
+Source Sentence and Source Headline Match:
+Saudi Arabia has led an alliance of Sunni Arab countries in air strikes against the Iran-allied Shi'ite Houthi group and army units loyal to ex-president Ali Abdullah Saleh.
+Air strike on missile base in Yemen capital kills 25, wounds hundreds.
+2 matches: strike, air
+
+Source Sentence and Story Headline Match:
+Saudi Arabia has led an alliance of Sunni Arab countries in air strikes against the Iran-allied Shi'ite Houthi group and army units loyal to ex-president Ali Abdullah Saleh.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+2 matches: arabia, saudi
+
+Source Sentence and Best Story Sentence Match:
+Saudi Arabia has led an alliance of Sunni Arab countries in air strikes against the Iran-allied Shi'ite Houthi group and army units loyal to ex-president Ali Abdullah Saleh.
+Ex-president and Houthi ally Ali Abdullah Saleh praised the announcement and called for dialogue.
+5 matches: houthi, ali, saleh, abdullah, ex-president
+
+----------------
+
+sent_3:
+3 out of 18 sentences
+3 out of 17 paragraphs
+Tagged as a quote
+
+Sentence:
+"Twenty-five citizens were killed and more than 398 were wounded, mostly women and children, according to a preliminary figure after the Saudi aggression's bombing today," said the agency, which is run by the Houthis.
+2 default entities: GPE Saudi, ORGANIZATION Houthis
+2 custom entities: GPE Saudi, ORGANIZATION Houthis
+
+Source Sentence and Source Headline Match:
+"Twenty-five citizens were killed and more than 398 were wounded, mostly women and children, according to a preliminary figure after the Saudi aggression's bombing today," said the agency, which is run by the Houthis.
+Air strike on missile base in Yemen capital kills 25, wounds hundreds.
+2 matches: wound, kill
+
+Source Sentence and Story Headline Match:
+"Twenty-five citizens were killed and more than 398 were wounded, mostly women and children, according to a preliminary figure after the Saudi aggression's bombing today," said the agency, which is run by the Houthis.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+"Twenty-five citizens were killed and more than 398 were wounded, mostly women and children, according to a preliminary figure after the Saudi aggression's bombing today," said the agency, which is run by the Houthis.
+An April 20 Saudi airstrike on a hillside tore through the Yemeni capital, killing at least 25 people and wounding nearly 400 people, according to witnesses and medics.
+4 matches: wound, kill, saudi, accord
+
+----------------
+
+sent_4:
+4 out of 18 sentences
+4 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The number could not be immediately verified, but medical sources told Reuters at least 15 people had been killed and scores wounded.
+1 default entities: ORGANIZATION Reuters
+1 custom entities: ORGANIZATION Reuters
+
+Source Sentence and Source Headline Match:
+The number could not be immediately verified, but medical sources told Reuters at least 15 people had been killed and scores wounded.
+Air strike on missile base in Yemen capital kills 25, wounds hundreds.
+2 matches: wound, kill
+
+Source Sentence and Story Headline Match:
+The number could not be immediately verified, but medical sources told Reuters at least 15 people had been killed and scores wounded.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The number could not be immediately verified, but medical sources told Reuters at least 15 people had been killed and scores wounded.
+An April 20 Saudi airstrike on a hillside tore through the Yemeni capital, killing at least 25 people and wounding nearly 400 people, according to witnesses and medics.
+4 matches: wound, people, kill, least
+
+----------------
+
+sent_5:
+5 out of 18 sentences
+5 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The blast hit the base on Faj Attan mountain beside the Hadda district, home to the presidential palace and many embassies, blowing out the windows of homes for kilometers around and sending a tall mushroom cloud into the air.
+2 default entities: PERSON Faj Attan, ORGANIZATION Hadda
+2 custom entities: PERSON Faj Attan, ORGANIZATION Hadda
+
+Source Sentence and Source Headline Match:
+The blast hit the base on Faj Attan mountain beside the Hadda district, home to the presidential palace and many embassies, blowing out the windows of homes for kilometers around and sending a tall mushroom cloud into the air.
+Air strike on missile base in Yemen capital kills 25, wounds hundreds.
+2 matches: base, air
+
+Source Sentence and Story Headline Match:
+The blast hit the base on Faj Attan mountain beside the Hadda district, home to the presidential palace and many embassies, blowing out the windows of homes for kilometers around and sending a tall mushroom cloud into the air.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: hit
+
+Source Sentence and Best Story Sentence Match:
+The blast hit the base on Faj Attan mountain beside the Hadda district, home to the presidential palace and many embassies, blowing out the windows of homes for kilometers around and sending a tall mushroom cloud into the air.
+Many people cannot reach health facilities due to conflict.
+1 matches: many
+
+----------------
+
+sent_6:
+6 out of 18 sentences
+6 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Resident Adel Mansour said it was the largest explosion in more than three weeks of bombing by the Saudi-led coalition.
+1 default entities: PERSON Mansour
+1 custom entities: PERSON Mansour
+
+Source Sentence and Source Headline Match:
+Resident Adel Mansour said it was the largest explosion in more than three weeks of bombing by the Saudi-led coalition.
+Air strike on missile base in Yemen capital kills 25, wounds hundreds.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Resident Adel Mansour said it was the largest explosion in more than three weeks of bombing by the Saudi-led coalition.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: bomb
+
+Source Sentence and Best Story Sentence Match:
+Resident Adel Mansour said it was the largest explosion in more than three weeks of bombing by the Saudi-led coalition.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+4 matches: coalition, saudi-led, say, resident
+
+----------------
+
+sent_7:
+7 out of 18 sentences
+7 out of 17 paragraphs
+Tagged as a quote
+
+Sentence:
+"For the first time since the start of the bombing the windows of my house smashed," Mansour said.
+1 default entities: PERSON Mansour
+1 custom entities: PERSON Mansour
+
+Source Sentence and Source Headline Match:
+"For the first time since the start of the bombing the windows of my house smashed," Mansour said.
+Air strike on missile base in Yemen capital kills 25, wounds hundreds.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"For the first time since the start of the bombing the windows of my house smashed," Mansour said.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"For the first time since the start of the bombing the windows of my house smashed," Mansour said.
+At least 944 people were killed, including 77 children, and 3,487 injured since the start of airstrikes as of April 17, the UN said April 21.
+3 matches: since, say, start
+
+----------------
+
+sent_8:
+8 out of 18 sentences
+7 out of 17 paragraphs
+Tagged as a quote
+
+Sentence:
+"My children are terrified and one of my relatives fainted because of the force of the blast."
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"My children are terrified and one of my relatives fainted because of the force of the blast."
+Air strike on missile base in Yemen capital kills 25, wounds hundreds.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"My children are terrified and one of my relatives fainted because of the force of the blast."
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"My children are terrified and one of my relatives fainted because of the force of the blast."
+"[Children] are being killed, maimed and forced to flee their homes, their health threatened and their education interrupted."
+2 matches: child, force
+
+----------------
+
+sent_9:
+9 out of 18 sentences
+8 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The campaign has repeatedly targeted the Faj Attan facility along with other military bases and airports in Sanaa and throughout the country.
+2 default entities: ORGANIZATION Faj Attan, GPE Sanaa
+2 custom entities: ORGANIZATION Faj Attan, GPE Sanaa
+
+Source Sentence and Source Headline Match:
+The campaign has repeatedly targeted the Faj Attan facility along with other military bases and airports in Sanaa and throughout the country.
+Air strike on missile base in Yemen capital kills 25, wounds hundreds.
+1 matches: base
+
+Source Sentence and Story Headline Match:
+The campaign has repeatedly targeted the Faj Attan facility along with other military bases and airports in Sanaa and throughout the country.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The campaign has repeatedly targeted the Faj Attan facility along with other military bases and airports in Sanaa and throughout the country.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 matches: campaign, military
+
+----------------
+
+sent_10:
+10 out of 18 sentences
+9 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Iran summoned Saudi Arabia's envoy to Tehran on Monday over the explosion near its embassy in Sanaa, Iranian state TV said.
+5 default entities: GPE Iran, GPE Saudi Arabia, GPE Tehran, GPE Sanaa, GPE Iranian
+5 custom entities: GPE Iran, GPE Saudi, GPE Tehran, GPE Sanaa, GPE Iranian
+
+Source Sentence and Source Headline Match:
+Iran summoned Saudi Arabia's envoy to Tehran on Monday over the explosion near its embassy in Sanaa, Iranian state TV said.
+Air strike on missile base in Yemen capital kills 25, wounds hundreds.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Iran summoned Saudi Arabia's envoy to Tehran on Monday over the explosion near its embassy in Sanaa, Iranian state TV said.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+Iran summoned Saudi Arabia's envoy to Tehran on Monday over the explosion near its embassy in Sanaa, Iranian state TV said.
+Yemeni President Mansour Hadi fled to Saudi Arabia, Saudi state TV reported March 26.
+3 matches: tv, state, saudi
+
+----------------
+
+sent_11:
+11 out of 18 sentences
+10 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Shi'ite Islamic Republic has repeatedly summoned the Sunni-ruled kingdom's envoy over disputes arising from a conflict seen as a struggle for influence between the two regional powers.
+1 default entities: ORGANIZATION Islamic Republic
+1 custom entities: ORGANIZATION Islamic Republic
+
+Source Sentence and Source Headline Match:
+The Shi'ite Islamic Republic has repeatedly summoned the Sunni-ruled kingdom's envoy over disputes arising from a conflict seen as a struggle for influence between the two regional powers.
+Air strike on missile base in Yemen capital kills 25, wounds hundreds.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Shi'ite Islamic Republic has repeatedly summoned the Sunni-ruled kingdom's envoy over disputes arising from a conflict seen as a struggle for influence between the two regional powers.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The Shi'ite Islamic Republic has repeatedly summoned the Sunni-ruled kingdom's envoy over disputes arising from a conflict seen as a struggle for influence between the two regional powers.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 matches: conflict, power
+
+----------------
+
+sent_12:
+12 out of 18 sentences
+11 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Indonesia's foreign minister Retno Marsudi told reporters in Jakarta his country condemned the air strike after two of the country's diplomatic staff were wounded and its embassy was damaged.
+3 default entities: GPE Indonesia, PERSON Retno Marsudi, GPE Jakarta
+2 custom entities: PERSON Retno Marsudi, GPE Jakarta
+
+Source Sentence and Source Headline Match:
+Indonesia's foreign minister Retno Marsudi told reporters in Jakarta his country condemned the air strike after two of the country's diplomatic staff were wounded and its embassy was damaged.
+Air strike on missile base in Yemen capital kills 25, wounds hundreds.
+3 matches: wound, strike, air
+
+Source Sentence and Story Headline Match:
+Indonesia's foreign minister Retno Marsudi told reporters in Jakarta his country condemned the air strike after two of the country's diplomatic staff were wounded and its embassy was damaged.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Indonesia's foreign minister Retno Marsudi told reporters in Jakarta his country condemned the air strike after two of the country's diplomatic staff were wounded and its embassy was damaged.
+Following the announcement, Saudi Arabia's King Salman ordered the country's National Guard to reinforce the border with Yemen.
+1 matches: country's
+
+----------------
+
+sent_13:
+13 out of 18 sentences
+12 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The explosion also killed three workers at the headquarters of a television station, Yemen Today, owned by ex-president Saleh, employees told Reuters.
+3 default entities: PERSON Yemen, PERSON Saleh, ORGANIZATION Reuters
+1 custom entities: ORGANIZATION Reuters
+
+Source Sentence and Source Headline Match:
+The explosion also killed three workers at the headquarters of a television station, Yemen Today, owned by ex-president Saleh, employees told Reuters.
+Air strike on missile base in Yemen capital kills 25, wounds hundreds.
+2 matches: yemen, kill
+
+Source Sentence and Story Headline Match:
+The explosion also killed three workers at the headquarters of a television station, Yemen Today, owned by ex-president Saleh, employees told Reuters.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The explosion also killed three workers at the headquarters of a television station, Yemen Today, owned by ex-president Saleh, employees told Reuters.
+Ex-president and Houthi ally Ali Abdullah Saleh praised the announcement and called for dialogue.
+2 matches: saleh, ex-president
+
+----------------
+
+sent_14:
+14 out of 18 sentences
+13 out of 17 paragraphs
+Tagged as a quote
+
+Sentence:
+Brigadier General Ahmed Asseri, Saudi spokesman for the campaign, told state news outlet SPA the operation had entered a "new phase".
+3 default entities: GPE Brigadier, ORGANIZATION General Ahmed Asseri, GPE Saudi
+2 custom entities: GPE Brigadier, ORGANIZATION General Ahmed Asseri Saudi
+
+Source Sentence and Source Headline Match:
+Brigadier General Ahmed Asseri, Saudi spokesman for the campaign, told state news outlet SPA the operation had entered a "new phase".
+Air strike on missile base in Yemen capital kills 25, wounds hundreds.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Brigadier General Ahmed Asseri, Saudi spokesman for the campaign, told state news outlet SPA the operation had entered a "new phase".
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+Brigadier General Ahmed Asseri, Saudi spokesman for the campaign, told state news outlet SPA the operation had entered a "new phase".
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 matches: campaign, saudi
+
+----------------
+
+sent_15:
+15 out of 18 sentences
+14 out of 17 paragraphs
+Tagged as a quote
+
+Sentence:
+"The next phase will focus on the movements of militias, protection of civilians, and support the evacuation and relief," he added, in an announcement that suggested over three weeks of pounding military bases across the country had run its course.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"The next phase will focus on the movements of militias, protection of civilians, and support the evacuation and relief," he added, in an announcement that suggested over three weeks of pounding military bases across the country had run its course.
+Air strike on missile base in Yemen capital kills 25, wounds hundreds.
+1 matches: base
+
+Source Sentence and Story Headline Match:
+"The next phase will focus on the movements of militias, protection of civilians, and support the evacuation and relief," he added, in an announcement that suggested over three weeks of pounding military bases across the country had run its course.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"The next phase will focus on the movements of militias, protection of civilians, and support the evacuation and relief," he added, in an announcement that suggested over three weeks of pounding military bases across the country had run its course.
+"The coalition will continue to prevent the movement of Houthi militias from moving or undertaking any operations inside Yemen."
+2 matches: movement, militia
+
+----------------
+
+sent_16:
+16 out of 18 sentences
+15 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A Saudi border guard was killed and two troops wounded by  gun and mortar fire from Yemen on Sunday evening, the kingdom's interior ministry said.
+2 default entities: GPE Saudi, GPE Yemen
+2 custom entities: GPE Saudi, GPE Yemen
+
+Source Sentence and Source Headline Match:
+A Saudi border guard was killed and two troops wounded by  gun and mortar fire from Yemen on Sunday evening, the kingdom's interior ministry said.
+Air strike on missile base in Yemen capital kills 25, wounds hundreds.
+3 matches: wound, yemen, kill
+
+Source Sentence and Story Headline Match:
+A Saudi border guard was killed and two troops wounded by  gun and mortar fire from Yemen on Sunday evening, the kingdom's interior ministry said.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+A Saudi border guard was killed and two troops wounded by  gun and mortar fire from Yemen on Sunday evening, the kingdom's interior ministry said.
+Following the announcement, Saudi Arabia's King Salman ordered the country's National Guard to reinforce the border with Yemen.
+4 matches: guard, border, saudi, yemen
+
+----------------
+
+sent_17:
+17 out of 18 sentences
+16 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Several members of Saudi Arabia's forces have been killed in the campaign against the Houthis.
+2 default entities: GPE Saudi Arabia, ORGANIZATION Houthis
+2 custom entities: GPE Saudi, ORGANIZATION Houthis
+
+Source Sentence and Source Headline Match:
+Several members of Saudi Arabia's forces have been killed in the campaign against the Houthis.
+Air strike on missile base in Yemen capital kills 25, wounds hundreds.
+1 matches: kill
+
+Source Sentence and Story Headline Match:
+Several members of Saudi Arabia's forces have been killed in the campaign against the Houthis.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+Several members of Saudi Arabia's forces have been killed in the campaign against the Houthis.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 matches: campaign, saudi
+
+----------------
+
+sent_18:
+18 out of 18 sentences
+17 out of 17 paragraphs
+Tagged as a quote
+
+Sentence:
+The movement's leader Abdel-Malek al-Houthi said in a televised speech on Sunday that the group believed its northern neighbor sought to invade and occupy Yemen, but that his people had the right to resist "by any means".
+1 default entities: GPE Yemen
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The movement's leader Abdel-Malek al-Houthi said in a televised speech on Sunday that the group believed its northern neighbor sought to invade and occupy Yemen, but that his people had the right to resist "by any means".
+Air strike on missile base in Yemen capital kills 25, wounds hundreds.
+1 matches: yemen
+
+Source Sentence and Story Headline Match:
+The movement's leader Abdel-Malek al-Houthi said in a televised speech on Sunday that the group believed its northern neighbor sought to invade and occupy Yemen, but that his people had the right to resist "by any means".
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The movement's leader Abdel-Malek al-Houthi said in a televised speech on Sunday that the group believed its northern neighbor sought to invade and occupy Yemen, but that his people had the right to resist "by any means".
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 matches: yemen, group
+
+----------------
+

@@ -1,0 +1,263 @@
+sent_1:
+
+Connecticut's leading role in aviation has never been disputed, but legislators have passed a bill insisting that a Connecticut aviator flew two years before the Wright brothers at Kitty Hawk, N.C.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+9 best matches: connecticut, brother, two, hawk, kitty, wright, year, aviator, aviation
+
+----------------
+sent_2:
+
+The measure is the latest twist in an effort to credit the first successful airplane flight to German-born aviator and Bridgeport resident Gustave Whitehead.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+6 best matches: whitehead, bridgeport, gustave, first, resident, flight
+
+----------------
+sent_3:
+
+The legislation is a flight of fancy, say Wright brothers partisans.
+Connecticut lawmakers passed a bill in 2013 stating that a German-born state resident staged the first successful human flight, before the Wright brothers.
+3 best matches: flight, brother, wright
+
+----------------
+sent_4:
+
+no story sentence best matches found
+
+----------------
+sent_5:
+
+Dannel P. Malloy has not committed to signing the legislation, but will review it when it reaches his desk, a spokesman said.
+Brown says he has photographic evidence — albeit very blurry — showing Gustave flying the first motorized aircraft in Connecticut in 1901.
+1 best matches: say
+
+----------------
+sent_6:
+
+The bill honors what it calls the first powered flight by Whitehead in 1901, "rather than the Wright brothers."
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+7 best matches: whitehead, bill, brother, rather, first, wright, flight
+
+----------------
+sent_7:
+
+Whitehead is credited by some for the first flight in August 1901.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+4 best matches: whitehead, flight, august, 1901
+
+----------------
+sent_8:
+
+The Wright brothers lifted off from North Carolina in December 1903.
+The Wright brothers' historic 59-second flight took place on Dec. 17, 1903, in North Carolina.
+5 best matches: 1903, north, carolina, brother, wright
+
+----------------
+sent_9:
+
+"We want to correct something that should have been corrected long ago," said state Rep. Larry Miller, R-Stratford, who spearheaded the legislation.
+Connecticut lawmakers passed a bill in 2013 stating that a German-born state resident staged the first successful human flight, before the Wright brothers.
+1 best matches: state
+
+----------------
+sent_10:
+
+"All we're trying to do is correct history.
+"Two years, four months, and three days before the Wright brothers, somebody else flew first… It's really a radical revision of the history of aviation."
+1 best matches: history
+
+----------------
+sent_11:
+
+no story sentence best matches found
+
+----------------
+sent_12:
+
+Tom Crouch, senior curator for aeronautics at the Smithsonian Institution, which displays Wilbur and Orville Wright's plane at the National Air and Space Museum, said Whitehead's backers are "absolutely wrong."
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+5 best matches: smithsonian, plane, orville, museum, display
+
+----------------
+sent_13:
+
+"Whitehead's legend has spawned much speculation and hearsay," he said.
+Brown says he has photographic evidence — albeit very blurry — showing Gustave flying the first motorized aircraft in Connecticut in 1901.
+1 best matches: say
+
+----------------
+sent_14:
+
+"People who have looked at this over the years ... almost unanimously reject the claim."
+A panel of Ohio state lawmakers unanimously backed a bill April 14 that rejects a position approved by Connecticut state lawmakers declaring Connecticut first in flight.
+2 best matches: unanimously, reject
+
+----------------
+sent_15:
+
+Connecticut has a long and storied history in aviation.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+2 best matches: connecticut, aviation
+
+----------------
+sent_16:
+
+Aircraft engines were made at Pratt and Whitney in East Hartford beginning in 1925, and a desk used by Charles Lindbergh is still on display at the jet engine manufacturer.
+"The Smithsonian… shall [not] publish or permit to be displayed a statement or label… any aircraft model or design of earlier date than the Wright Aeroplane of 1903, claiming in effect that such aircraft was capable of carrying a man under its own power in controlled flight."
+2 best matches: aircraft, display
+
+----------------
+sent_17:
+
+And famed helicopter maker Igor Sikorsky set up shop in Stratford in 1929 to make seaplanes.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+1 best matches: famed
+
+----------------
+sent_18:
+
+A recent burst of interest in Whitehead followed a documentary by an Australian historian, John Brown.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+1 best matches: whitehead
+
+----------------
+sent_19:
+
+In addition, Whitehead Research Committees in the United States and Germany have stoked interest.
+Connecticut lawmakers passed a bill in 2013 stating that a German-born state resident staged the first successful human flight, before the Wright brothers.
+1 best matches: state
+
+----------------
+sent_20:
+
+Jane's All the World's Aircraft, an influential industry publication, recently cited contemporary news accounts in concluding that Whitehead beat the brothers from Dayton, Ohio, into the air.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+2 best matches: whitehead, brother
+
+----------------
+sent_21:
+
+Janet Bednarek, a professor of aviation history at the University of Dayton, said many are seeking a share of the credit for flight development, but Whitehead's supporters "seemed to be particularly persistent."
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+2 best matches: flight, aviation
+
+----------------
+sent_22:
+
+The Wright brothers were the first to combine the lift, control and thrust systems, she said.
+Connecticut lawmakers passed a bill in 2013 stating that a German-born state resident staged the first successful human flight, before the Wright brothers.
+3 best matches: first, brother, wright
+
+----------------
+sent_23:
+
+"They put it all together for what was really the first modern airplane and demonstrated it," she said.
+"Two years, four months, and three days before the Wright brothers, somebody else flew first… It's really a radical revision of the history of aviation."
+2 best matches: really, first
+
+----------------
+sent_24:
+
+"Every airplane that has flown can trace its lineage to that Wright brothers' plane in 1903," something Whitehead cannot claim.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+5 best matches: claim, 1903, whitehead, brother, wright
+
+----------------
+sent_25:
+
+Andrew Kosch, a high school science teacher in Milford, said he has been working 30 years to promote Whitehead's achievement.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+1 best matches: year
+
+----------------
+sent_26:
+
+no story sentence best matches found
+
+----------------
+sent_27:
+
+21, for the plane Whitehead flew.
+Other experts are also skeptical that Whitehead flew first.
+2 best matches: whitehead, flew
+
+----------------
+sent_28:
+
+He said the aviator is well-known in Connecticut for flying before the Wright brothers and the world needs to know it.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+5 best matches: aviator, connecticut, know, brother, wright
+
+----------------
+sent_29:
+
+no story sentence best matches found
+
+----------------
+sent_30:
+
+That's what the Smithsonian is trying to do," Kosch said.
+Brown says he has photographic evidence — albeit very blurry — showing Gustave flying the first motorized aircraft in Connecticut in 1901.
+1 best matches: say
+
+----------------
+sent_31:
+
+He and Miller said the Smithsonian is forbidden by a contract with the executors of the Wright brothers' estate to admit that anyone else was the first to fly.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+5 best matches: smithsonian, estate, contract, first, wright
+
+----------------
+sent_32:
+
+Crouch said the Smithsonian signed a contract with two heirs of the Wright brothers' estate in 1948, after the brothers' deaths.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+5 best matches: smithsonian, estate, 1948, contract, wright
+
+----------------
+sent_33:
+
+The heirs insisted on the provision, he said, because they fought a fraudulent claim of early flights for 20 years.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+3 best matches: claim, year, flight
+
+----------------
+sent_34:
+
+It doesn't change what he said is the fact that Wilbur and Orville Wright operated the first heavier-than-air machine.
+The text of a 1948 contract between the Smithsonian and the estate of Orville Wright states that the museum may not display any other airplane as the first in flight, under penalty of losing the Wright plane.
+3 best matches: orville, first, wright
+
+----------------
+sent_35:
+
+"What they achieved changed the face of the world," he said.
+In 2013, Connecticut passed a bill claiming that Bridgeport resident Gustave Whitehead was the first person to achieve flight at the turn of the 20th century, rather than the Wright brothers.
+1 best matches: achieve
+
+----------------
+sent_36:
+
+"They were the ones who took those final steps.
+Connecticut claims that German-born aviator Gustave Whitehead took flight in August of 1901, more than two years before the 1903 flight in Kitty Hawk, NC, of the famed Wright Brothers, widely known as the grandfathers of aviation.
+1 best matches: take
+
+----------------
+sent_37:
+
+no story sentence best matches found
+
+----------------
+sent_38:
+
+Kosch will not be persuaded to reject Whitehead.
+A panel of Ohio state lawmakers unanimously backed a bill April 14 that rejects a position approved by Connecticut state lawmakers declaring Connecticut first in flight.
+1 best matches: reject
+
+----------------
+sent_39:
+
+"I do everything I can to keep the story alive," he said.
+Brown says he has photographic evidence — albeit very blurry — showing Gustave flying the first motorized aircraft in Connecticut in 1901.
+1 best matches: say
+
+----------------

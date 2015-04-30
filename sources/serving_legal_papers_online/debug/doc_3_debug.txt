@@ -1,0 +1,216 @@
+sent_1:
+1 out of 8 sentences
+1 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Manhattan supreme court judge issues ruling that allows woman to file for divorce from her hard-to-find husband via the social network.
+1 default entities: GPE Manhattan
+1 custom entities: GPE Manhattan
+
+Source Sentence and Source Headline Match:
+Manhattan supreme court judge issues ruling that allows woman to file for divorce from her hard-to-find husband via the social network.
+New York judge rules woman can serve divorce papers via Facebook message.
+5 matches: via, woman, rule, judge, divorce
+
+Source Sentence and Story Headline Match:
+Manhattan supreme court judge issues ruling that allows woman to file for divorce from her hard-to-find husband via the social network.
+Judge gives NY woman permission to serve husband divorce papers via Facebook.
+5 matches: via, woman, husband, judge, divorce
+
+Source Sentence and Best Story Sentence Match:
+Manhattan supreme court judge issues ruling that allows woman to file for divorce from her hard-to-find husband via the social network.
+The Daily News said on April 6 that a NY judge ruled that Ellanora Baidoo, 26, will be able to serve her "elusive" husband divorce papers via Facebook.
+5 matches: via, husband, rule, judge, divorce
+
+----------------
+
+sent_2:
+2 out of 8 sentences
+2 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A judge has given a New York City woman permission to file for divorce from her elusive husband via a Facebook message.
+1 default entities: GPE New York City
+1 custom entities: GPE New York City
+
+Source Sentence and Source Headline Match:
+A judge has given a New York City woman permission to file for divorce from her elusive husband via a Facebook message.
+New York judge rules woman can serve divorce papers via Facebook message.
+8 matches: woman, divorce, new, york, facebook, via, judge, message
+
+Source Sentence and Story Headline Match:
+A judge has given a New York City woman permission to file for divorce from her elusive husband via a Facebook message.
+Judge gives NY woman permission to serve husband divorce papers via Facebook.
+8 matches: woman, divorce, permission, husband, facebook, via, judge, give
+
+Source Sentence and Best Story Sentence Match:
+A judge has given a New York City woman permission to file for divorce from her elusive husband via a Facebook message.
+The Daily News said on April 6 that a NY judge ruled that Ellanora Baidoo, 26, will be able to serve her "elusive" husband divorce papers via Facebook.
+6 matches: elusive, divorce, husband, facebook, via, judge
+
+----------------
+
+sent_3:
+3 out of 8 sentences
+3 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The woman’s lawyer says the ruling was made by Manhattan supreme court justice Matthew Cooper.
+2 default entities: GPE Manhattan, PERSON Matthew Cooper
+2 custom entities: GPE Manhattan, PERSON Matthew Cooper
+
+Source Sentence and Source Headline Match:
+The woman’s lawyer says the ruling was made by Manhattan supreme court justice Matthew Cooper.
+New York judge rules woman can serve divorce papers via Facebook message.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The woman’s lawyer says the ruling was made by Manhattan supreme court justice Matthew Cooper.
+Judge gives NY woman permission to serve husband divorce papers via Facebook.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The woman’s lawyer says the ruling was made by Manhattan supreme court justice Matthew Cooper.
+Spinnell said the ruling was "necessary," as the defendant refused to make himself available to be served.
+3 matches: make, say, ruling
+
+----------------
+
+sent_4:
+4 out of 8 sentences
+4 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Daily News says Victor Sena Blood-Dzraku will be served with the divorce summons via a private Facebook message.
+2 default entities: ORGANIZATION Daily News, PERSON Victor Sena
+2 custom entities: ORGANIZATION Daily News, PERSON Victor Sena
+
+Source Sentence and Source Headline Match:
+The Daily News says Victor Sena Blood-Dzraku will be served with the divorce summons via a private Facebook message.
+New York judge rules woman can serve divorce papers via Facebook message.
+5 matches: via, serve, divorce, facebook, message
+
+Source Sentence and Story Headline Match:
+The Daily News says Victor Sena Blood-Dzraku will be served with the divorce summons via a private Facebook message.
+Judge gives NY woman permission to serve husband divorce papers via Facebook.
+4 matches: via, serve, divorce, facebook
+
+Source Sentence and Best Story Sentence Match:
+The Daily News says Victor Sena Blood-Dzraku will be served with the divorce summons via a private Facebook message.
+Victor Sena Blood-Dzraku of New York will be served a divorce summons by way of a private Facebook message after avoiding communication with his wife.
+9 matches: divorce, private, facebook, serve, sena, summons, victor, blood-dzraku, message
+
+----------------
+
+sent_5:
+5 out of 8 sentences
+4 out of 6 paragraphs
+Tagged as a quote
+
+Sentence:
+It will be repeated once a week for three consecutive weeks or until “acknowledged” by Ellanora Baidoo’s hard-to-find husband.
+1 default entities: PERSON Ellanora Baidoo
+1 custom entities: PERSON Ellanora
+
+Source Sentence and Source Headline Match:
+It will be repeated once a week for three consecutive weeks or until “acknowledged” by Ellanora Baidoo’s hard-to-find husband.
+New York judge rules woman can serve divorce papers via Facebook message.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It will be repeated once a week for three consecutive weeks or until “acknowledged” by Ellanora Baidoo’s hard-to-find husband.
+Judge gives NY woman permission to serve husband divorce papers via Facebook.
+1 matches: husband
+
+Source Sentence and Best Story Sentence Match:
+It will be repeated once a week for three consecutive weeks or until “acknowledged” by Ellanora Baidoo’s hard-to-find husband.
+Her lawyer was given permission to serve the summons via Facebook once a week for three weeks, or "until acknowledged."
+3 matches: week, three, acknowledged
+
+----------------
+
+sent_6:
+6 out of 8 sentences
+5 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Attorney Andrew Spinnell says the couple married in 2009 in a civil ceremony.
+1 default entities: PERSON Andrew Spinnell
+1 custom entities: PERSON Andrew Spinnell
+
+Source Sentence and Source Headline Match:
+Attorney Andrew Spinnell says the couple married in 2009 in a civil ceremony.
+New York judge rules woman can serve divorce papers via Facebook message.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Attorney Andrew Spinnell says the couple married in 2009 in a civil ceremony.
+Judge gives NY woman permission to serve husband divorce papers via Facebook.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Attorney Andrew Spinnell says the couple married in 2009 in a civil ceremony.
+The couple, both from Ghana, married in 2009 and faced problems soon after when Blood-Dzraku refused to hold a traditional Ghanian wedding ceremony.
+4 matches: ceremony, marry, couple, 2009
+
+----------------
+
+sent_7:
+7 out of 8 sentences
+5 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He says the relationship began to unravel when the defendant reneged on his promise to a traditional Ghanaian wedding ceremony as well.
+1 default entities: GPE Ghanaian
+1 custom entities: GPE Ghanaian
+
+Source Sentence and Source Headline Match:
+He says the relationship began to unravel when the defendant reneged on his promise to a traditional Ghanaian wedding ceremony as well.
+New York judge rules woman can serve divorce papers via Facebook message.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+He says the relationship began to unravel when the defendant reneged on his promise to a traditional Ghanaian wedding ceremony as well.
+Judge gives NY woman permission to serve husband divorce papers via Facebook.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+He says the relationship began to unravel when the defendant reneged on his promise to a traditional Ghanaian wedding ceremony as well.
+The couple, both from Ghana, married in 2009 and faced problems soon after when Blood-Dzraku refused to hold a traditional Ghanian wedding ceremony.
+3 matches: wedding, traditional, ceremony
+
+----------------
+
+sent_8:
+8 out of 8 sentences
+6 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The ruling says Blood-Dzraku has only been in touch with his wife via phone and Facebook.
+1 default entities: GPE Facebook
+1 custom entities: ORGANIZATION Facebook
+
+Source Sentence and Source Headline Match:
+The ruling says Blood-Dzraku has only been in touch with his wife via phone and Facebook.
+New York judge rules woman can serve divorce papers via Facebook message.
+2 matches: via, facebook
+
+Source Sentence and Story Headline Match:
+The ruling says Blood-Dzraku has only been in touch with his wife via phone and Facebook.
+Judge gives NY woman permission to serve husband divorce papers via Facebook.
+2 matches: via, facebook
+
+Source Sentence and Best Story Sentence Match:
+The ruling says Blood-Dzraku has only been in touch with his wife via phone and Facebook.
+The report states that the defendant has only been in touch with his wife via telephone and Facebook.
+4 matches: via, touch, wife, facebook
+
+----------------
+

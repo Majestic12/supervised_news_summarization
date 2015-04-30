@@ -1,0 +1,123 @@
+sent_1:
+
+A northeastern Chinese city famed for its donkey burgers now has another title to add to its calling card: home to China’s filthiest air.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+3 best matches: air, city, chinese
+
+----------------
+sent_2:
+
+no story sentence best matches found
+
+----------------
+sent_3:
+
+The country is home to notoriously carcinogenic air, which according to some analysts contribute to as many as 1.2 million deaths in a single year.
+Beijing's air pollution went "beyond index" on Jan. 15, meaning it exceeded the scale's highest reading of 500, according to the U.S. Embassy in Beijing.
+2 best matches: accord, air
+
+----------------
+sent_4:
+
+This year, Baoding – a city that his home to 11 million people as well as numerous heavy industries — carried off the honors.
+The most polluted city in China was Baoding, also in Hebei.
+2 best matches: city, baoding
+
+----------------
+sent_5:
+
+Among the top 10 cities cited on Monday by the country’s environmental ministry as having the country’s worst air in 2014, seven – including Baoding — are in Hebei province, which surrounds Beijing.
+Seven of the ten most polluted cities were in Hebei Province, which surrounds the Beijing municipality.
+6 best matches: beijing, seven, surround, province, city, hebei
+
+----------------
+sent_6:
+
+no story sentence best matches found
+
+----------------
+sent_7:
+
+All the same, the ministry said progress had been made.
+China's Ministry of Environmental Protection said Feb. 1 that 66 of 74 cities failed to meet air pollution targets in 2014.
+2 best matches: ministry, say
+
+----------------
+sent_8:
+
+Compared with last year, among the country’s largest cities, it said, 66% of days met air standards, up from 60% the year prior.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+5 best matches: standard, city, say, meet, air
+
+----------------
+sent_9:
+
+“Air-pollution management work has started to show signs of impact,” it said.
+The Beijing government said it would begin collecting fees from construction sites that contribute to dust pollution in the city starting March 1.
+2 best matches: say, start
+
+----------------
+sent_10:
+
+It credited a set of 2013 measures that required better regional air-quality planning and specific pollutant-reduction targets for certain major cities such as Beijing and Shanghai, among other efforts.
+"Despite modest improvements in high profile cities like Beijing, the figures paint a grim picture overall."
+2 best matches: beijing, city
+
+----------------
+sent_11:
+
+Baoding’s plight has been well-reported in state media, with reports last year declaring that the city was planning to close traditional factories in hopes of attracting cleaner industries.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+2 best matches: report, city
+
+----------------
+sent_12:
+
+no story sentence best matches found
+
+----------------
+sent_13:
+
+The nearby city of Xingtai – which last year claimed the title of worst air – has ordered power plants closed and seen it drop to No.
+Chinese cities often have unsafe levels of PM2.5 particles, which come mostly from vehicles and power plants burning fuels.
+3 best matches: plant, city, power
+
+----------------
+sent_14:
+
+2 in the countrywide rankings.
+However, discussion of the film, which had received tens of millions of more views since March 2 when it passed 100 million views, is reportedly still being allowed on social media sites.
+1 best matches: 2
+
+----------------
+sent_15:
+
+Now residents worry that the local economy will be damaged.
+The fund will incentivize industry and local authorities to tackle pollution in a meaningful way.
+1 best matches: local
+
+----------------
+sent_16:
+
+Back in Baoding, the weather bureau says it is expecting heavy smog in the coming days.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+1 best matches: say
+
+----------------
+sent_17:
+
+On its verified Weibo account yesterday, it also included its own postscript: “Oh!
+The most polluted city in China was Baoding, also in Hebei.
+1 best matches: also
+
+----------------
+sent_18:
+
+no story sentence best matches found
+
+----------------
+sent_19:
+
+no story sentence best matches found
+
+----------------

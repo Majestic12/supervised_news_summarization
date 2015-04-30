@@ -1,0 +1,42 @@
+sent_1:
+
+A survey commissioned by Variety shows that the top five "most influential figures among Americans ages 13-18" are personalities from YouTube.
+Americans between the ages of 13 and 18 now consider YouTube personalities like Ian Andrew Hecox and Anthony Padilla (a comedy duo better known as Smosh) and Felix Arvid Ulf Kjellberg (known as PewDiePie) to be more influential than more traditional celebrities, a Variety survey has revealed.
+7 best matches: age, influential, variety, personality, american, youtube, survey
+
+----------------
+sent_2:
+
+Coming in at number three, edging out Jennifer Lawrence, Katy Perry and Betty White, was a young Swedish man named PewDiePie.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+1 best matches: number
+
+----------------
+sent_3:
+
+Other top names from YouTube include Smosh, The Fine Bros. and KSI.
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+2 best matches: fine, youtube
+
+----------------
+sent_4:
+
+Famous for his let's play videos PewDiePie, whose given name is Felix Arvid Ulf Kjellberg, currently has the most subscribers on YouTube.
+Americans between the ages of 13 and 18 now consider YouTube personalities like Ian Andrew Hecox and Anthony Padilla (a comedy duo better known as Smosh) and Felix Arvid Ulf Kjellberg (known as PewDiePie) to be more influential than more traditional celebrities, a Variety survey has revealed.
+6 best matches: ulf, kjellberg, pewdiepie, youtube, felix, arvid
+
+----------------
+sent_5:
+
+His 27 million fans bring him more than $4 million a year.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+1 best matches: year
+
+----------------
+sent_6:
+
+The highest ranking non-YouTube celebrity in the survey is named Paul Walker, who passed away in a car accident in November of last year.
+Americans between the ages of 13 and 18 now consider YouTube personalities like Ian Andrew Hecox and Anthony Padilla (a comedy duo better known as Smosh) and Felix Arvid Ulf Kjellberg (known as PewDiePie) to be more influential than more traditional celebrities, a Variety survey has revealed.
+2 best matches: survey, celebrity
+
+----------------

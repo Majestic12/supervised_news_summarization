@@ -1,0 +1,1563 @@
+sent_1:
+1 out of 57 sentences
+1 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Revenue growing at Google video site, but still limited by narrow audience.
+2 default entities: GPE Revenue, ORGANIZATION Google
+2 custom entities: GPE Revenue, ORGANIZATION Google
+
+Source Sentence and Source Headline Match:
+Revenue growing at Google video site, but still limited by narrow audience.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Revenue growing at Google video site, but still limited by narrow audience.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Revenue growing at Google video site, but still limited by narrow audience.
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+2 matches: google, video
+
+----------------
+
+sent_2:
+2 out of 57 sentences
+2 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Google Inc. nurtured YouTube into a cultural phenomenon, attracting more than one billion users each month.
+3 default entities: PERSON Google, ORGANIZATION Inc., ORGANIZATION YouTube
+3 custom entities: PERSON Google, ORGANIZATION Inc, ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+Google Inc. nurtured YouTube into a cultural phenomenon, attracting more than one billion users each month.
+YouTube: 1 Billion Viewers, No Profit.
+2 matches: billion, youtube
+
+Source Sentence and Story Headline Match:
+Google Inc. nurtured YouTube into a cultural phenomenon, attracting more than one billion users each month.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+Google Inc. nurtured YouTube into a cultural phenomenon, attracting more than one billion users each month.
+"Google does not break out how much revenue YouTube generates, though the Wall Street Journal reported in February that YouTube generated a total of $4 billion in revenue in 2014.
+3 matches: google, billion, youtube
+
+----------------
+
+sent_3:
+3 out of 57 sentences
+2 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Still, YouTube hasn’t become a profitable business.
+1 default entities: ORGANIZATION YouTube
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Still, YouTube hasn’t become a profitable business.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+Still, YouTube hasn’t become a profitable business.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+Still, YouTube hasn’t become a profitable business.
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+1 matches: youtube
+
+----------------
+
+sent_4:
+4 out of 57 sentences
+3 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The online-video unit posted revenue of about $4 billion in 2014, up from $3 billion a year earlier, according to two people familiar with its financials, as advertiser-friendly moves enticed some big brands to spend more.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The online-video unit posted revenue of about $4 billion in 2014, up from $3 billion a year earlier, according to two people familiar with its financials, as advertiser-friendly moves enticed some big brands to spend more.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: billion
+
+Source Sentence and Story Headline Match:
+The online-video unit posted revenue of about $4 billion in 2014, up from $3 billion a year earlier, according to two people familiar with its financials, as advertiser-friendly moves enticed some big brands to spend more.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: unit
+
+Source Sentence and Best Story Sentence Match:
+The online-video unit posted revenue of about $4 billion in 2014, up from $3 billion a year earlier, according to two people familiar with its financials, as advertiser-friendly moves enticed some big brands to spend more.
+"Google does not break out how much revenue YouTube generates, though the Wall Street Journal reported in February that YouTube generated a total of $4 billion in revenue in 2014.
+4 matches: revenue, billion, 4, 2014
+
+----------------
+
+sent_5:
+5 out of 57 sentences
+3 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But while YouTube accounted for about 6% of Google’s overall sales last year, it didn’t contribute to earnings.
+2 default entities: ORGANIZATION YouTube, GPE Google
+1 custom entities: ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+But while YouTube accounted for about 6% of Google’s overall sales last year, it didn’t contribute to earnings.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+But while YouTube accounted for about 6% of Google’s overall sales last year, it didn’t contribute to earnings.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+But while YouTube accounted for about 6% of Google’s overall sales last year, it didn’t contribute to earnings.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+2 matches: year, youtube
+
+----------------
+
+sent_6:
+6 out of 57 sentences
+3 out of 28 paragraphs
+Tagged as a quote
+
+Sentence:
+After paying for content, and the equipment to deliver speedy videos, YouTube’s bottom line is “roughly break-even,” according to a person with knowledge of the figure.
+1 default entities: ORGANIZATION YouTube
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+After paying for content, and the equipment to deliver speedy videos, YouTube’s bottom line is “roughly break-even,” according to a person with knowledge of the figure.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+After paying for content, and the equipment to deliver speedy videos, YouTube’s bottom line is “roughly break-even,” according to a person with knowledge of the figure.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: content
+
+Source Sentence and Best Story Sentence Match:
+After paying for content, and the equipment to deliver speedy videos, YouTube’s bottom line is “roughly break-even,” according to a person with knowledge of the figure.
+One source said YouTube is "roughly break-even.""
+2 matches: roughly, break-even
+
+----------------
+
+sent_7:
+7 out of 57 sentences
+4 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+By comparison, Facebook Inc. generated more than $12 billion in revenue, and nearly $3 billion in profit, from its 1.3 billion users last year.
+1 default entities: ORGANIZATION Facebook Inc.
+1 custom entities: PERSON Facebook Inc
+
+Source Sentence and Source Headline Match:
+By comparison, Facebook Inc. generated more than $12 billion in revenue, and nearly $3 billion in profit, from its 1.3 billion users last year.
+YouTube: 1 Billion Viewers, No Profit.
+2 matches: billion, profit
+
+Source Sentence and Story Headline Match:
+By comparison, Facebook Inc. generated more than $12 billion in revenue, and nearly $3 billion in profit, from its 1.3 billion users last year.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+By comparison, Facebook Inc. generated more than $12 billion in revenue, and nearly $3 billion in profit, from its 1.3 billion users last year.
+"Google does not break out how much revenue YouTube generates, though the Wall Street Journal reported in February that YouTube generated a total of $4 billion in revenue in 2014.
+3 matches: revenue, generate, billion
+
+----------------
+
+sent_8:
+8 out of 57 sentences
+5 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The results reflect YouTube’s struggles to expand its core audience beyond teens and tweens.
+1 default entities: ORGANIZATION YouTube
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The results reflect YouTube’s struggles to expand its core audience beyond teens and tweens.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The results reflect YouTube’s struggles to expand its core audience beyond teens and tweens.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_9:
+9 out of 57 sentences
+5 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Many YouTube users treat the site as a video repository to be accessed from links or embedded video players posted elsewhere, rather than visiting YouTube.com daily.
+1 default entities: ORGANIZATION YouTube
+1 custom entities: ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+Many YouTube users treat the site as a video repository to be accessed from links or embedded video players posted elsewhere, rather than visiting YouTube.com daily.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+Many YouTube users treat the site as a video repository to be accessed from links or embedded video players posted elsewhere, rather than visiting YouTube.com daily.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+Many YouTube users treat the site as a video repository to be accessed from links or embedded video players posted elsewhere, rather than visiting YouTube.com daily.
+The move came shortly after Facebook began letting users embed natively hosted videos across the web.
+3 matches: user, video, embed
+
+----------------
+
+sent_10:
+10 out of 57 sentences
+5 out of 28 paragraphs
+Tagged as a quote
+
+Sentence:
+Google executives want them to turn on YouTube the way they turn on television, as a habit, where they can expect to find different “channels” of entertainment.
+1 default entities: GPE Google
+1 custom entities: GPE Google
+
+Source Sentence and Source Headline Match:
+Google executives want them to turn on YouTube the way they turn on television, as a habit, where they can expect to find different “channels” of entertainment.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+Google executives want them to turn on YouTube the way they turn on television, as a habit, where they can expect to find different “channels” of entertainment.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+Google executives want them to turn on YouTube the way they turn on television, as a habit, where they can expect to find different “channels” of entertainment.
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+3 matches: google, turn, youtube
+
+----------------
+
+sent_11:
+11 out of 57 sentences
+6 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+That is a problem still facing veteran Google executive Susan Wojcicki as she begins her second year running YouTube, one that could be tougher to solve if declining profit margins for Google overall limit her ability to invest in new content and services.
+4 default entities: PERSON Google, PERSON Susan Wojcicki, ORGANIZATION YouTube, ORGANIZATION Google
+4 custom entities: PERSON Google, PERSON Susan Wojcicki, ORGANIZATION YouTube, ORGANIZATION Google
+
+Source Sentence and Source Headline Match:
+That is a problem still facing veteran Google executive Susan Wojcicki as she begins her second year running YouTube, one that could be tougher to solve if declining profit margins for Google overall limit her ability to invest in new content and services.
+YouTube: 1 Billion Viewers, No Profit.
+2 matches: profit, youtube
+
+Source Sentence and Story Headline Match:
+That is a problem still facing veteran Google executive Susan Wojcicki as she begins her second year running YouTube, one that could be tougher to solve if declining profit margins for Google overall limit her ability to invest in new content and services.
+YouTube strikes original content deal with DreamWorks unit.
+2 matches: content, youtube
+
+Source Sentence and Best Story Sentence Match:
+That is a problem still facing veteran Google executive Susan Wojcicki as she begins her second year running YouTube, one that could be tougher to solve if declining profit margins for Google overall limit her ability to invest in new content and services.
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+2 matches: google, youtube
+
+----------------
+
+sent_12:
+12 out of 57 sentences
+7 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+New challengers also add urgency to her task.
+1 default entities: GPE New
+1 custom entities: GPE New
+
+Source Sentence and Source Headline Match:
+New challengers also add urgency to her task.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+New challengers also add urgency to her task.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+New challengers also add urgency to her task.
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+1 matches: also
+
+----------------
+
+sent_13:
+13 out of 57 sentences
+7 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Facebook and Twitter Inc., which routinely send traffic to YouTube, are building their own video offerings.
+3 default entities: GPE Facebook, ORGANIZATION Twitter Inc., ORGANIZATION YouTube
+3 custom entities: GPE Facebook, PERSON Twitter Inc, ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+Facebook and Twitter Inc., which routinely send traffic to YouTube, are building their own video offerings.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+Facebook and Twitter Inc., which routinely send traffic to YouTube, are building their own video offerings.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+Facebook and Twitter Inc., which routinely send traffic to YouTube, are building their own video offerings.
+Fullscreen, a large YouTube video production company partly owned by AT&T, released a tool March 25 for its content creators to upload their videos directly to Facebook.
+3 matches: video, facebook, youtube
+
+----------------
+
+sent_14:
+14 out of 57 sentences
+7 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Facebook, and startups such as Vessel, are trying to poach YouTube stars.
+3 default entities: GPE Facebook, GPE Vessel, ORGANIZATION YouTube
+3 custom entities: GPE Facebook, GPE Vessel, ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+Facebook, and startups such as Vessel, are trying to poach YouTube stars.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+Facebook, and startups such as Vessel, are trying to poach YouTube stars.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+Facebook, and startups such as Vessel, are trying to poach YouTube stars.
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+2 matches: try, youtube
+
+----------------
+
+sent_15:
+15 out of 57 sentences
+7 out of 28 paragraphs
+Tagged as a quote
+
+Sentence:
+Meanwhile, Amazon.com Inc. and Netflix Inc. are changing the image of “online video” by licensing Hollywood-produced content and creating original programming.
+2 default entities: ORGANIZATION Amazon.com Inc., PERSON Netflix
+2 custom entities: ORGANIZATION Amazon.com Inc, PERSON Netflix Inc
+
+Source Sentence and Source Headline Match:
+Meanwhile, Amazon.com Inc. and Netflix Inc. are changing the image of “online video” by licensing Hollywood-produced content and creating original programming.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Meanwhile, Amazon.com Inc. and Netflix Inc. are changing the image of “online video” by licensing Hollywood-produced content and creating original programming.
+YouTube strikes original content deal with DreamWorks unit.
+2 matches: original, content
+
+Source Sentence and Best Story Sentence Match:
+Meanwhile, Amazon.com Inc. and Netflix Inc. are changing the image of “online video” by licensing Hollywood-produced content and creating original programming.
+YouTube on April 28 announced an original content partnership with AwesomenessTV, a multichannel network owned by Dreamworks.
+2 matches: original, content
+
+----------------
+
+sent_16:
+16 out of 57 sentences
+8 out of 28 paragraphs
+Tagged as a quote
+
+Sentence:
+“There’s a lot of junk” on YouTube, says Pivotal Research analyst Brian Weiser.
+3 default entities: ORGANIZATION YouTube, ORGANIZATION Pivotal, PERSON Brian Weiser
+3 custom entities: ORGANIZATION YouTube, ORGANIZATION Pivotal, PERSON Brian Weiser
+
+Source Sentence and Source Headline Match:
+“There’s a lot of junk” on YouTube, says Pivotal Research analyst Brian Weiser.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+“There’s a lot of junk” on YouTube, says Pivotal Research analyst Brian Weiser.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+“There’s a lot of junk” on YouTube, says Pivotal Research analyst Brian Weiser.
+One source said YouTube is "roughly break-even.""
+2 matches: say, youtube
+
+----------------
+
+sent_17:
+17 out of 57 sentences
+8 out of 28 paragraphs
+Tagged as a quote
+
+Sentence:
+“If they want meaningful TV budgets, they need to invest in TV content.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“If they want meaningful TV budgets, they need to invest in TV content.”
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“If they want meaningful TV budgets, they need to invest in TV content.”
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: content
+
+Source Sentence and Best Story Sentence Match:
+“If they want meaningful TV budgets, they need to invest in TV content.”
+YouTube on April 28 announced an original content partnership with AwesomenessTV, a multichannel network owned by Dreamworks.
+1 matches: content
+
+----------------
+
+sent_18:
+18 out of 57 sentences
+9 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Robert Kyncl, YouTube’s head of business and content operations, says online video is on the cusp of a growth spurt, much like cable television 30 years ago.
+3 default entities: PERSON Robert, GPE Kyncl, ORGANIZATION YouTube
+2 custom entities: PERSON Robert, PERSON Kyncl
+
+Source Sentence and Source Headline Match:
+Robert Kyncl, YouTube’s head of business and content operations, says online video is on the cusp of a growth spurt, much like cable television 30 years ago.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Robert Kyncl, YouTube’s head of business and content operations, says online video is on the cusp of a growth spurt, much like cable television 30 years ago.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: content
+
+Source Sentence and Best Story Sentence Match:
+Robert Kyncl, YouTube’s head of business and content operations, says online video is on the cusp of a growth spurt, much like cable television 30 years ago.
+Fullscreen, a large YouTube video production company partly owned by AT&T, released a tool March 25 for its content creators to upload their videos directly to Facebook.
+2 matches: content, video
+
+----------------
+
+sent_19:
+19 out of 57 sentences
+9 out of 28 paragraphs
+Tagged as a quote
+
+Sentence:
+He says it makes more sense for YouTube to invest in “Internet native creators,” rather than traditional TV shows.
+1 default entities: ORGANIZATION YouTube
+1 custom entities: ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+He says it makes more sense for YouTube to invest in “Internet native creators,” rather than traditional TV shows.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+He says it makes more sense for YouTube to invest in “Internet native creators,” rather than traditional TV shows.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+He says it makes more sense for YouTube to invest in “Internet native creators,” rather than traditional TV shows.
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+2 matches: creator, youtube
+
+----------------
+
+sent_20:
+20 out of 57 sentences
+10 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Google bought YouTube in 2006 for $1.65 billion, but generated little revenue in the early years.
+2 default entities: PERSON Google, ORGANIZATION YouTube
+2 custom entities: PERSON Google, ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+Google bought YouTube in 2006 for $1.65 billion, but generated little revenue in the early years.
+YouTube: 1 Billion Viewers, No Profit.
+2 matches: billion, youtube
+
+Source Sentence and Story Headline Match:
+Google bought YouTube in 2006 for $1.65 billion, but generated little revenue in the early years.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+Google bought YouTube in 2006 for $1.65 billion, but generated little revenue in the early years.
+"Google does not break out how much revenue YouTube generates, though the Wall Street Journal reported in February that YouTube generated a total of $4 billion in revenue in 2014.
+5 matches: google, revenue, generate, billion, youtube
+
+----------------
+
+sent_21:
+21 out of 57 sentences
+10 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Revenue accelerated in part due to skippable ads YouTube introduced in 2010.
+2 default entities: PERSON Revenue, ORGANIZATION YouTube
+2 custom entities: PERSON Revenue, ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+Revenue accelerated in part due to skippable ads YouTube introduced in 2010.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+Revenue accelerated in part due to skippable ads YouTube introduced in 2010.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+Revenue accelerated in part due to skippable ads YouTube introduced in 2010.
+"Google does not break out how much revenue YouTube generates, though the Wall Street Journal reported in February that YouTube generated a total of $4 billion in revenue in 2014.
+2 matches: revenue, youtube
+
+----------------
+
+sent_22:
+22 out of 57 sentences
+10 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Viewers like them because they can skip ads they don’t want to watch; advertisers like them because they pay only when viewers do watch.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Viewers like them because they can skip ads they don’t want to watch; advertisers like them because they pay only when viewers do watch.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: viewer
+
+Source Sentence and Story Headline Match:
+Viewers like them because they can skip ads they don’t want to watch; advertisers like them because they pay only when viewers do watch.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Viewers like them because they can skip ads they don’t want to watch; advertisers like them because they pay only when viewers do watch.
+YouTube has taken a number of steps to help attract advertisers to the site, including letting certain high-profile producers use professional studio facilities in cities like London, Los Angeles, and New York.
+2 matches: like, advertiser
+
+----------------
+
+sent_23:
+23 out of 57 sentences
+11 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Past efforts to make YouTube more of a regular destination bore little fruit.
+2 default entities: GPE Past, ORGANIZATION YouTube
+2 custom entities: GPE Past, ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+Past efforts to make YouTube more of a regular destination bore little fruit.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+Past efforts to make YouTube more of a regular destination bore little fruit.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+Past efforts to make YouTube more of a regular destination bore little fruit.
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+2 matches: destination, youtube
+
+----------------
+
+sent_24:
+24 out of 57 sentences
+11 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In 2012, YouTube paid hundreds of millions of dollars to content producers, an early effort to create television-like channels.
+1 default entities: ORGANIZATION YouTube
+1 custom entities: ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+In 2012, YouTube paid hundreds of millions of dollars to content producers, an early effort to create television-like channels.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+In 2012, YouTube paid hundreds of millions of dollars to content producers, an early effort to create television-like channels.
+YouTube strikes original content deal with DreamWorks unit.
+2 matches: content, youtube
+
+Source Sentence and Best Story Sentence Match:
+In 2012, YouTube paid hundreds of millions of dollars to content producers, an early effort to create television-like channels.
+YouTube on April 28 announced an original content partnership with AwesomenessTV, a multichannel network owned by Dreamworks.
+2 matches: content, youtube
+
+----------------
+
+sent_25:
+25 out of 57 sentences
+11 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+YouTube also redesigned its home page and tweaked algorithms that promote videos to encourage more frequent visits.
+1 default entities: ORGANIZATION YouTube
+1 custom entities: ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+YouTube also redesigned its home page and tweaked algorithms that promote videos to encourage more frequent visits.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+YouTube also redesigned its home page and tweaked algorithms that promote videos to encourage more frequent visits.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+YouTube also redesigned its home page and tweaked algorithms that promote videos to encourage more frequent visits.
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+2 matches: video, youtube
+
+----------------
+
+sent_26:
+26 out of 57 sentences
+12 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But many of those channels failed.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+But many of those channels failed.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+But many of those channels failed.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+But many of those channels failed.
+"We're here to help you: from promotion to channel management to content optimization, we have the resources and programs to support you."
+1 matches: channel
+
+----------------
+
+sent_27:
+27 out of 57 sentences
+12 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+An executive tasked with improving search to help users find YouTube videos departed earlier this month, just a few months after Ms. Wojcicki recruited him.
+2 default entities: ORGANIZATION YouTube, PERSON Wojcicki
+2 custom entities: ORGANIZATION YouTube, PERSON Wojcicki
+
+Source Sentence and Source Headline Match:
+An executive tasked with improving search to help users find YouTube videos departed earlier this month, just a few months after Ms. Wojcicki recruited him.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+An executive tasked with improving search to help users find YouTube videos departed earlier this month, just a few months after Ms. Wojcicki recruited him.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+An executive tasked with improving search to help users find YouTube videos departed earlier this month, just a few months after Ms. Wojcicki recruited him.
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+2 matches: video, youtube
+
+----------------
+
+sent_28:
+28 out of 57 sentences
+12 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+People close to YouTube say the site still struggles to attract users directly, rather than via links.
+1 default entities: ORGANIZATION YouTube
+1 custom entities: ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+People close to YouTube say the site still struggles to attract users directly, rather than via links.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+People close to YouTube say the site still struggles to attract users directly, rather than via links.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+People close to YouTube say the site still struggles to attract users directly, rather than via links.
+YouTube has taken a number of steps to help attract advertisers to the site, including letting certain high-profile producers use professional studio facilities in cities like London, Los Angeles, and New York.
+3 matches: site, attract, youtube
+
+----------------
+
+sent_29:
+29 out of 57 sentences
+13 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+One reason is that it caters to a narrow audience of young viewers.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+One reason is that it caters to a narrow audience of young viewers.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: viewer
+
+Source Sentence and Story Headline Match:
+One reason is that it caters to a narrow audience of young viewers.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+One reason is that it caters to a narrow audience of young viewers.
+One source said YouTube is "roughly break-even.""
+1 matches: one
+
+----------------
+
+sent_30:
+30 out of 57 sentences
+13 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Music videos are its most popular content.
+1 default entities: GPE Music
+1 custom entities: GPE Music
+
+Source Sentence and Source Headline Match:
+Music videos are its most popular content.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Music videos are its most popular content.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: content
+
+Source Sentence and Best Story Sentence Match:
+Music videos are its most popular content.
+Fullscreen, a large YouTube video production company partly owned by AT&T, released a tool March 25 for its content creators to upload their videos directly to Facebook.
+2 matches: content, video
+
+----------------
+
+sent_31:
+31 out of 57 sentences
+13 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+YouTube’s stars remain relatively unknown.
+1 default entities: ORGANIZATION YouTube
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+YouTube’s stars remain relatively unknown.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+YouTube’s stars remain relatively unknown.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_32:
+32 out of 57 sentences
+13 out of 28 paragraphs
+Tagged as a quote
+
+Sentence:
+Felix “PewDiePie” Kjellberg is the biggest star, with 35 million subscribers to his wacky videogame montages.
+1 default entities: PERSON Felix
+2 custom entities: PERSON Felix, ORGANIZATION PewDiePie Kjellberg
+
+Source Sentence and Source Headline Match:
+Felix “PewDiePie” Kjellberg is the biggest star, with 35 million subscribers to his wacky videogame montages.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Felix “PewDiePie” Kjellberg is the biggest star, with 35 million subscribers to his wacky videogame montages.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Felix “PewDiePie” Kjellberg is the biggest star, with 35 million subscribers to his wacky videogame montages.
+Americans between the ages of 13 and 18 now consider YouTube personalities like Ian Andrew Hecox and Anthony Padilla (a comedy duo better known as Smosh) and Felix Arvid Ulf Kjellberg (known as PewDiePie) to be more influential than more traditional celebrities, a Variety survey has revealed.
+3 matches: kjellberg, pewdiepie, felix
+
+----------------
+
+sent_33:
+33 out of 57 sentences
+13 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Even Ms. Wojcicki hadn’t heard of him before joining YouTube, she told a conference last fall.
+2 default entities: PERSON Wojcicki, ORGANIZATION YouTube
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Even Ms. Wojcicki hadn’t heard of him before joining YouTube, she told a conference last fall.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+Even Ms. Wojcicki hadn’t heard of him before joining YouTube, she told a conference last fall.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+Even Ms. Wojcicki hadn’t heard of him before joining YouTube, she told a conference last fall.
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+1 matches: youtube
+
+----------------
+
+sent_34:
+34 out of 57 sentences
+14 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+To be sure, some advertisers covet these devoted fans.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+To be sure, some advertisers covet these devoted fans.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+To be sure, some advertisers covet these devoted fans.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+To be sure, some advertisers covet these devoted fans.
+YouTube has taken a number of steps to help attract advertisers to the site, including letting certain high-profile producers use professional studio facilities in cities like London, Los Angeles, and New York.
+1 matches: advertiser
+
+----------------
+
+sent_35:
+35 out of 57 sentences
+14 out of 28 paragraphs
+Tagged as a quote
+
+Sentence:
+Josh Jacobs, chief executive of Accuen, the programmatic-advertising arm of Omnicom Group Inc., says ad buyers want to reach young fans as they build brand “affinities.”
+4 default entities: PERSON Josh, ORGANIZATION Jacobs, GPE Accuen, ORGANIZATION Omnicom Group Inc.
+3 custom entities: PERSON Josh, PERSON Jacobs, ORGANIZATION Omnicom Group Inc
+
+Source Sentence and Source Headline Match:
+Josh Jacobs, chief executive of Accuen, the programmatic-advertising arm of Omnicom Group Inc., says ad buyers want to reach young fans as they build brand “affinities.”
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Josh Jacobs, chief executive of Accuen, the programmatic-advertising arm of Omnicom Group Inc., says ad buyers want to reach young fans as they build brand “affinities.”
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Josh Jacobs, chief executive of Accuen, the programmatic-advertising arm of Omnicom Group Inc., says ad buyers want to reach young fans as they build brand “affinities.”
+One source said YouTube is "roughly break-even.""
+1 matches: say
+
+----------------
+
+sent_36:
+36 out of 57 sentences
+15 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But the narrow audience means advertisers typically reach far fewer people than via television, says Pivotal’s Mr. Weiser.
+2 default entities: PERSON Pivotal, PERSON Mr. Weiser
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+But the narrow audience means advertisers typically reach far fewer people than via television, says Pivotal’s Mr. Weiser.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+But the narrow audience means advertisers typically reach far fewer people than via television, says Pivotal’s Mr. Weiser.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+But the narrow audience means advertisers typically reach far fewer people than via television, says Pivotal’s Mr. Weiser.
+One source said YouTube is "roughly break-even.""
+1 matches: say
+
+----------------
+
+sent_37:
+37 out of 57 sentences
+15 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He estimates that 9% of viewers account for 85% of online-video views.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+He estimates that 9% of viewers account for 85% of online-video views.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: viewer
+
+Source Sentence and Story Headline Match:
+He estimates that 9% of viewers account for 85% of online-video views.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_38:
+38 out of 57 sentences
+16 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In January, YouTube moved to broaden its audience by securing rights to National Football League game clips, interviews and more.
+2 default entities: ORGANIZATION YouTube, ORGANIZATION National Football League
+1 custom entities: ORGANIZATION National Football League
+
+Source Sentence and Source Headline Match:
+In January, YouTube moved to broaden its audience by securing rights to National Football League game clips, interviews and more.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+In January, YouTube moved to broaden its audience by securing rights to National Football League game clips, interviews and more.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+In January, YouTube moved to broaden its audience by securing rights to National Football League game clips, interviews and more.
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+1 matches: youtube
+
+----------------
+
+sent_39:
+39 out of 57 sentences
+16 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The deal followed a similar Facebook deal with the NFL in December.
+1 default entities: ORGANIZATION NFL
+1 custom entities: ORGANIZATION NFL
+
+Source Sentence and Source Headline Match:
+The deal followed a similar Facebook deal with the NFL in December.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The deal followed a similar Facebook deal with the NFL in December.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: deal
+
+Source Sentence and Best Story Sentence Match:
+The deal followed a similar Facebook deal with the NFL in December.
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+1 matches: deal
+
+----------------
+
+sent_40:
+40 out of 57 sentences
+16 out of 28 paragraphs
+Tagged as a quote
+
+Sentence:
+It is also featuring episodes of “Sesame Street” and “Thomas the Tank Engine” for a new app for children.
+1 default entities: ORGANIZATION Tank
+2 custom entities: PERSON Sesame Street, ORGANIZATION Tank Engine
+
+Source Sentence and Source Headline Match:
+It is also featuring episodes of “Sesame Street” and “Thomas the Tank Engine” for a new app for children.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It is also featuring episodes of “Sesame Street” and “Thomas the Tank Engine” for a new app for children.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+It is also featuring episodes of “Sesame Street” and “Thomas the Tank Engine” for a new app for children.
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+1 matches: also
+
+----------------
+
+sent_41:
+41 out of 57 sentences
+17 out of 28 paragraphs
+Tagged as a quote
+
+Sentence:
+Otherwise, YouTube has mostly focused on investments in “originals” produced by its homegrown stars; it is paying some of them bonuses not to jump ship to rivals.
+1 default entities: ORGANIZATION YouTube
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Otherwise, YouTube has mostly focused on investments in “originals” produced by its homegrown stars; it is paying some of them bonuses not to jump ship to rivals.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+Otherwise, YouTube has mostly focused on investments in “originals” produced by its homegrown stars; it is paying some of them bonuses not to jump ship to rivals.
+YouTube strikes original content deal with DreamWorks unit.
+2 matches: original, youtube
+
+Source Sentence and Best Story Sentence Match:
+Otherwise, YouTube has mostly focused on investments in “originals” produced by its homegrown stars; it is paying some of them bonuses not to jump ship to rivals.
+YouTube on April 28 announced an original content partnership with AwesomenessTV, a multichannel network owned by Dreamworks.
+2 matches: original, youtube
+
+----------------
+
+sent_42:
+42 out of 57 sentences
+18 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Other steps to boost viewership include playing more videos automatically, as they do on Facebook, Instagram and Twitter’s Vine.
+3 default entities: GPE Facebook, PERSON Instagram, PERSON Twitter
+1 custom entities: PERSON Facebook Instagram
+
+Source Sentence and Source Headline Match:
+Other steps to boost viewership include playing more videos automatically, as they do on Facebook, Instagram and Twitter’s Vine.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Other steps to boost viewership include playing more videos automatically, as they do on Facebook, Instagram and Twitter’s Vine.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Other steps to boost viewership include playing more videos automatically, as they do on Facebook, Instagram and Twitter’s Vine.
+YouTube has taken a number of steps to help attract advertisers to the site, including letting certain high-profile producers use professional studio facilities in cities like London, Los Angeles, and New York.
+2 matches: include, step
+
+----------------
+
+sent_43:
+43 out of 57 sentences
+18 out of 28 paragraphs
+Tagged as a quote
+
+Sentence:
+The “autoplay” feature is expected to roll out shortly, say two people familiar with the matter.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The “autoplay” feature is expected to roll out shortly, say two people familiar with the matter.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The “autoplay” feature is expected to roll out shortly, say two people familiar with the matter.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The “autoplay” feature is expected to roll out shortly, say two people familiar with the matter.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+1 matches: two
+
+----------------
+
+sent_44:
+44 out of 57 sentences
+19 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Beyond broadening the audience, Ms. Wojcicki is also under pressure to boost sales, as growth slows at Google’s core-search advertising business.
+2 default entities: GPE Beyond, ORGANIZATION Google
+2 custom entities: GPE Beyond, ORGANIZATION Google's
+
+Source Sentence and Source Headline Match:
+Beyond broadening the audience, Ms. Wojcicki is also under pressure to boost sales, as growth slows at Google’s core-search advertising business.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Beyond broadening the audience, Ms. Wojcicki is also under pressure to boost sales, as growth slows at Google’s core-search advertising business.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Beyond broadening the audience, Ms. Wojcicki is also under pressure to boost sales, as growth slows at Google’s core-search advertising business.
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+1 matches: also
+
+----------------
+
+sent_45:
+45 out of 57 sentences
+20 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Last year YouTube gave advertisers the ability to reserve spots next to popular videos, such as those from PewDiePie and comedian Jenna Marbles, separate from the hundreds of hours uploaded to the site every minute.
+3 default entities: ORGANIZATION YouTube, ORGANIZATION PewDiePie, PERSON Jenna Marbles
+3 custom entities: ORGANIZATION YouTube, ORGANIZATION PewDiePie, PERSON Jenna Marbles
+
+Source Sentence and Source Headline Match:
+Last year YouTube gave advertisers the ability to reserve spots next to popular videos, such as those from PewDiePie and comedian Jenna Marbles, separate from the hundreds of hours uploaded to the site every minute.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+Last year YouTube gave advertisers the ability to reserve spots next to popular videos, such as those from PewDiePie and comedian Jenna Marbles, separate from the hundreds of hours uploaded to the site every minute.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+Last year YouTube gave advertisers the ability to reserve spots next to popular videos, such as those from PewDiePie and comedian Jenna Marbles, separate from the hundreds of hours uploaded to the site every minute.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+3 matches: year, next, youtube
+
+----------------
+
+sent_46:
+46 out of 57 sentences
+20 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In late 2013, YouTube agreed to let advertisers use Nielsen technology, instead of YouTube’s, to measure who sees their ads.
+3 default entities: ORGANIZATION YouTube, PERSON Nielsen, ORGANIZATION YouTube
+2 custom entities: ORGANIZATION YouTube, PERSON Nielsen
+
+Source Sentence and Source Headline Match:
+In late 2013, YouTube agreed to let advertisers use Nielsen technology, instead of YouTube’s, to measure who sees their ads.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+In late 2013, YouTube agreed to let advertisers use Nielsen technology, instead of YouTube’s, to measure who sees their ads.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+In late 2013, YouTube agreed to let advertisers use Nielsen technology, instead of YouTube’s, to measure who sees their ads.
+YouTube has taken a number of steps to help attract advertisers to the site, including letting certain high-profile producers use professional studio facilities in cities like London, Los Angeles, and New York.
+3 matches: use, advertiser, youtube
+
+----------------
+
+sent_47:
+47 out of 57 sentences
+21 out of 28 paragraphs
+Tagged as a quote
+
+Sentence:
+OMD, the media-buying unit of Omnicom, increased spending with YouTube “exponentially” in 2014 as a result, said Ben Winkler, chief digital officer.
+3 default entities: GPE Omnicom, ORGANIZATION YouTube, PERSON Ben Winkler
+3 custom entities: PERSON Omnicom, ORGANIZATION YouTube, PERSON Ben Winkler
+
+Source Sentence and Source Headline Match:
+OMD, the media-buying unit of Omnicom, increased spending with YouTube “exponentially” in 2014 as a result, said Ben Winkler, chief digital officer.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+OMD, the media-buying unit of Omnicom, increased spending with YouTube “exponentially” in 2014 as a result, said Ben Winkler, chief digital officer.
+YouTube strikes original content deal with DreamWorks unit.
+2 matches: unit, youtube
+
+Source Sentence and Best Story Sentence Match:
+OMD, the media-buying unit of Omnicom, increased spending with YouTube “exponentially” in 2014 as a result, said Ben Winkler, chief digital officer.
+"Google does not break out how much revenue YouTube generates, though the Wall Street Journal reported in February that YouTube generated a total of $4 billion in revenue in 2014.
+2 matches: 2014, youtube
+
+----------------
+
+sent_48:
+48 out of 57 sentences
+22 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+At the same time, YouTube is moving to develop subscription services.
+1 default entities: ORGANIZATION YouTube
+1 custom entities: ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+At the same time, YouTube is moving to develop subscription services.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+At the same time, YouTube is moving to develop subscription services.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+At the same time, YouTube is moving to develop subscription services.
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+1 matches: youtube
+
+----------------
+
+sent_49:
+49 out of 57 sentences
+22 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In November, YouTube announced a music-subscription service, similar to Spotify, that will offer ad-free listening and other tools for $10 a month.
+2 default entities: ORGANIZATION YouTube, GPE Spotify
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+In November, YouTube announced a music-subscription service, similar to Spotify, that will offer ad-free listening and other tools for $10 a month.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+In November, YouTube announced a music-subscription service, similar to Spotify, that will offer ad-free listening and other tools for $10 a month.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+In November, YouTube announced a music-subscription service, similar to Spotify, that will offer ad-free listening and other tools for $10 a month.
+YouTube on April 28 announced an original content partnership with AwesomenessTV, a multichannel network owned by Dreamworks.
+2 matches: announce, youtube
+
+----------------
+
+sent_50:
+50 out of 57 sentences
+22 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+YouTube executives have discussed another subscription offering for non-music content, according to one industry official, which would be in addition to its existing ad-supported service.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+YouTube executives have discussed another subscription offering for non-music content, according to one industry official, which would be in addition to its existing ad-supported service.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+YouTube executives have discussed another subscription offering for non-music content, according to one industry official, which would be in addition to its existing ad-supported service.
+YouTube strikes original content deal with DreamWorks unit.
+2 matches: content, youtube
+
+Source Sentence and Best Story Sentence Match:
+YouTube executives have discussed another subscription offering for non-music content, according to one industry official, which would be in addition to its existing ad-supported service.
+YouTube on April 28 announced an original content partnership with AwesomenessTV, a multichannel network owned by Dreamworks.
+2 matches: content, youtube
+
+----------------
+
+sent_51:
+51 out of 57 sentences
+23 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+If those services succeed, they would provide a steady revenue stream that could help support investments in higher-quality programming.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+If those services succeed, they would provide a steady revenue stream that could help support investments in higher-quality programming.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+If those services succeed, they would provide a steady revenue stream that could help support investments in higher-quality programming.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+If those services succeed, they would provide a steady revenue stream that could help support investments in higher-quality programming.
+"We're here to help you: from promotion to channel management to content optimization, we have the resources and programs to support you."
+2 matches: support, help
+
+----------------
+
+sent_52:
+52 out of 57 sentences
+24 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+YouTube executives also are considering a plan to tap Google’s data to target ads more effectively, according to two people briefed on the plans.
+1 default entities: PERSON Google
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+YouTube executives also are considering a plan to tap Google’s data to target ads more effectively, according to two people briefed on the plans.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+YouTube executives also are considering a plan to tap Google’s data to target ads more effectively, according to two people briefed on the plans.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+YouTube executives also are considering a plan to tap Google’s data to target ads more effectively, according to two people briefed on the plans.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+2 matches: two, youtube
+
+----------------
+
+sent_53:
+53 out of 57 sentences
+25 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Today, YouTube relies on tracking cookies deployed on users’ computers by Google’s DoubleClick unit, which builds user profiles based on the non-Google websites they visit.
+3 default entities: ORGANIZATION YouTube, PERSON Google, ORGANIZATION DoubleClick
+2 custom entities: ORGANIZATION Google's, ORGANIZATION DoubleClick
+
+Source Sentence and Source Headline Match:
+Today, YouTube relies on tracking cookies deployed on users’ computers by Google’s DoubleClick unit, which builds user profiles based on the non-Google websites they visit.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+Today, YouTube relies on tracking cookies deployed on users’ computers by Google’s DoubleClick unit, which builds user profiles based on the non-Google websites they visit.
+YouTube strikes original content deal with DreamWorks unit.
+2 matches: unit, youtube
+
+Source Sentence and Best Story Sentence Match:
+Today, YouTube relies on tracking cookies deployed on users’ computers by Google’s DoubleClick unit, which builds user profiles based on the non-Google websites they visit.
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+1 matches: youtube
+
+----------------
+
+sent_54:
+54 out of 57 sentences
+25 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Using the data Google captures from its own sites, including users’ search history, could prove more effective.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Using the data Google captures from its own sites, including users’ search history, could prove more effective.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Using the data Google captures from its own sites, including users’ search history, could prove more effective.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Using the data Google captures from its own sites, including users’ search history, could prove more effective.
+YouTube has taken a number of steps to help attract advertisers to the site, including letting certain high-profile producers use professional studio facilities in cities like London, Los Angeles, and New York.
+3 matches: include, site, use
+
+----------------
+
+sent_55:
+55 out of 57 sentences
+26 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+For example, someone researching vacation plans via Google search might see commercials for Caribbean getaways on YouTube.
+3 default entities: GPE Google, LOCATION Caribbean, ORGANIZATION YouTube
+3 custom entities: GPE Google, LOCATION Caribbean, ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+For example, someone researching vacation plans via Google search might see commercials for Caribbean getaways on YouTube.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+For example, someone researching vacation plans via Google search might see commercials for Caribbean getaways on YouTube.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+For example, someone researching vacation plans via Google search might see commercials for Caribbean getaways on YouTube.
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+2 matches: google, youtube
+
+----------------
+
+sent_56:
+56 out of 57 sentences
+27 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Today, YouTube advertisers are left to guess who is planning a vacation based on other travel websites that DoubleClick has spotted them visiting.
+2 default entities: ORGANIZATION YouTube, ORGANIZATION DoubleClick
+1 custom entities: ORGANIZATION DoubleClick
+
+Source Sentence and Source Headline Match:
+Today, YouTube advertisers are left to guess who is planning a vacation based on other travel websites that DoubleClick has spotted them visiting.
+YouTube: 1 Billion Viewers, No Profit.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+Today, YouTube advertisers are left to guess who is planning a vacation based on other travel websites that DoubleClick has spotted them visiting.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+Today, YouTube advertisers are left to guess who is planning a vacation based on other travel websites that DoubleClick has spotted them visiting.
+YouTube has taken a number of steps to help attract advertisers to the site, including letting certain high-profile producers use professional studio facilities in cities like London, Los Angeles, and New York.
+2 matches: advertiser, youtube
+
+----------------
+
+sent_57:
+57 out of 57 sentences
+28 out of 28 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The new ad-targeting system could arrive this year, say the people familiar with it, though one cautions that the system is complicated and might be difficult to roll out.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The new ad-targeting system could arrive this year, say the people familiar with it, though one cautions that the system is complicated and might be difficult to roll out.
+YouTube: 1 Billion Viewers, No Profit.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The new ad-targeting system could arrive this year, say the people familiar with it, though one cautions that the system is complicated and might be difficult to roll out.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The new ad-targeting system could arrive this year, say the people familiar with it, though one cautions that the system is complicated and might be difficult to roll out.
+One source said YouTube is "roughly break-even.""
+2 matches: one, say
+
+----------------
+

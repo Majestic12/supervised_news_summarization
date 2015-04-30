@@ -1,0 +1,660 @@
+sent_1:
+1 out of 24 sentences
+1 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+S&P Dow Jones Indices today released the latest results for the S&P/Case-Shiller Home Price Indices, the leading measure of U.S. home prices.
+2 default entities: PERSON P Dow Jones Indices, GPE U.S.
+1 custom entities: PERSON Jones Indices
+
+Source Sentence and Source Headline Match:
+S&P Dow Jones Indices today released the latest results for the S&P/Case-Shiller Home Price Indices, the leading measure of U.S. home prices.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+5 matches: case-shiller, home, index, s&p, price
+
+Source Sentence and Story Headline Match:
+S&P Dow Jones Indices today released the latest results for the S&P/Case-Shiller Home Price Indices, the leading measure of U.S. home prices.
+US existing home sales leap 6.1% in March.
+1 matches: home
+
+Source Sentence and Best Story Sentence Match:
+S&P Dow Jones Indices today released the latest results for the S&P/Case-Shiller Home Price Indices, the leading measure of U.S. home prices.
+The S&P/Case-Shiller index found the biggest year-on-year gains in home prices were in Denver and Miami, where prices rose 8.4 and 8.3%, respectively.
+5 matches: case-shiller, index, home, s&p, price
+
+----------------
+
+sent_2:
+2 out of 24 sentences
+1 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Data released today for January 2015 show that home prices continued their rise across the country over the last 12 months.
+1 default entities: PERSON Data
+1 custom entities: PERSON Data
+
+Source Sentence and Source Headline Match:
+Data released today for January 2015 show that home prices continued their rise across the country over the last 12 months.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+3 matches: rise, home, price
+
+Source Sentence and Story Headline Match:
+Data released today for January 2015 show that home prices continued their rise across the country over the last 12 months.
+US existing home sales leap 6.1% in March.
+1 matches: home
+
+Source Sentence and Best Story Sentence Match:
+Data released today for January 2015 show that home prices continued their rise across the country over the last 12 months.
+Nationwide, home prices were up 4.6% in January compared to the same month in the previous year.
+4 matches: january, home, month, price
+
+----------------
+
+sent_3:
+3 out of 24 sentences
+1 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+However, monthly data reveal slowing increases and seasonal weakness.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+However, monthly data reveal slowing increases and seasonal weakness.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+However, monthly data reveal slowing increases and seasonal weakness.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+However, monthly data reveal slowing increases and seasonal weakness.
+Sales of existing homes increased 6.1% in March to a seasonally adjusted rate of 5.19 million, the National Association of Realtors said April 22.
+1 matches: increase
+
+----------------
+
+sent_4:
+4 out of 24 sentences
+2 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Both the 10-City and 20-City Composites saw year-over-year increases in January compared to December.
+1 default entities: ORGANIZATION Composites
+1 custom entities: ORGANIZATION Composites
+
+Source Sentence and Source Headline Match:
+Both the 10-City and 20-City Composites saw year-over-year increases in January compared to December.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Both the 10-City and 20-City Composites saw year-over-year increases in January compared to December.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Both the 10-City and 20-City Composites saw year-over-year increases in January compared to December.
+Nationwide, home prices were up 4.6% in January compared to the same month in the previous year.
+2 matches: january, compare
+
+----------------
+
+sent_5:
+5 out of 24 sentences
+2 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The 10-City Composite gained 4.4% year-over-year, up from 4.3% in December.
+1 default entities: ORGANIZATION Composite
+1 custom entities: ORGANIZATION Composite
+
+Source Sentence and Source Headline Match:
+The 10-City Composite gained 4.4% year-over-year, up from 4.3% in December.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The 10-City Composite gained 4.4% year-over-year, up from 4.3% in December.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The 10-City Composite gained 4.4% year-over-year, up from 4.3% in December.
+The S&P/Case-Shiller index found the biggest year-on-year gains in home prices were in Denver and Miami, where prices rose 8.4 and 8.3%, respectively.
+1 matches: gain
+
+----------------
+
+sent_6:
+6 out of 24 sentences
+2 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The 20-City Composite gained 4.6% year-over-year, compared to a 4.4% increase in December.
+1 default entities: ORGANIZATION Composite
+1 custom entities: ORGANIZATION Composite
+
+Source Sentence and Source Headline Match:
+The 20-City Composite gained 4.6% year-over-year, compared to a 4.4% increase in December.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The 20-City Composite gained 4.6% year-over-year, compared to a 4.4% increase in December.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The 20-City Composite gained 4.6% year-over-year, compared to a 4.4% increase in December.
+Nationwide, home prices were up 4.6% in January compared to the same month in the previous year.
+2 matches: compare, 4.6
+
+----------------
+
+sent_7:
+7 out of 24 sentences
+2 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The S&P/Case-Shiller U.S. National Home Price Index, which covers all nine U.S. census divisions, recorded a 4.5% annual gain in January 2015 versus a 4.6% increase in December 2014.
+3 default entities: GPE U.S., ORGANIZATION National Home, GPE U.S.
+1 custom entities: ORGANIZATION National Home
+
+Source Sentence and Source Headline Match:
+The S&P/Case-Shiller U.S. National Home Price Index, which covers all nine U.S. census divisions, recorded a 4.5% annual gain in January 2015 versus a 4.6% increase in December 2014.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+5 matches: case-shiller, home, index, s&p, price
+
+Source Sentence and Story Headline Match:
+The S&P/Case-Shiller U.S. National Home Price Index, which covers all nine U.S. census divisions, recorded a 4.5% annual gain in January 2015 versus a 4.6% increase in December 2014.
+US existing home sales leap 6.1% in March.
+1 matches: home
+
+Source Sentence and Best Story Sentence Match:
+The S&P/Case-Shiller U.S. National Home Price Index, which covers all nine U.S. census divisions, recorded a 4.5% annual gain in January 2015 versus a 4.6% increase in December 2014.
+The S&P/Case-Shiller index found the biggest year-on-year gains in home prices were in Denver and Miami, where prices rose 8.4 and 8.3%, respectively.
+6 matches: price, index, case-shiller, gain, s&p, home
+
+----------------
+
+sent_8:
+8 out of 24 sentences
+3 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Denver and Miami reported the highest year-over-year gains, as prices increased by 8.4% and 8.3%, respectively, over the last 12 months.
+1 default entities: PERSON Miami
+1 custom entities: PERSON Miami
+
+Source Sentence and Source Headline Match:
+Denver and Miami reported the highest year-over-year gains, as prices increased by 8.4% and 8.3%, respectively, over the last 12 months.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+3 matches: miami, denver, price
+
+Source Sentence and Story Headline Match:
+Denver and Miami reported the highest year-over-year gains, as prices increased by 8.4% and 8.3%, respectively, over the last 12 months.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Denver and Miami reported the highest year-over-year gains, as prices increased by 8.4% and 8.3%, respectively, over the last 12 months.
+The S&P/Case-Shiller index found the biggest year-on-year gains in home prices were in Denver and Miami, where prices rose 8.4 and 8.3%, respectively.
+7 matches: 8.4, price, 8.3, miami, respectively, gain, denver
+
+----------------
+
+sent_9:
+9 out of 24 sentences
+3 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Fourteen cities reported higher price increasesin the year ended January 2015 over the year ended December 2014.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Fourteen cities reported higher price increasesin the year ended January 2015 over the year ended December 2014.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+1 matches: price
+
+Source Sentence and Story Headline Match:
+Fourteen cities reported higher price increasesin the year ended January 2015 over the year ended December 2014.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Fourteen cities reported higher price increasesin the year ended January 2015 over the year ended December 2014.
+Six cities, including San Francisco, reported price declines in the twelve months leading up to January.
+4 matches: january, report, city, price
+
+----------------
+
+sent_10:
+10 out of 24 sentences
+3 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Chicago led the way with a reported increase of 2.5%, up 110 basis points from December.
+1 default entities: GPE Chicago
+1 custom entities: GPE Chicago
+
+Source Sentence and Source Headline Match:
+Chicago led the way with a reported increase of 2.5%, up 110 basis points from December.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Chicago led the way with a reported increase of 2.5%, up 110 basis points from December.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Chicago led the way with a reported increase of 2.5%, up 110 basis points from December.
+The median price in March for existing homes stood at $212,100, NAR reported, which is a 7.8% increase from March 2014.
+2 matches: report, increase
+
+----------------
+
+sent_11:
+11 out of 24 sentences
+3 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Six cities reported declines, with San Francisco leading the declining annual returns with a reported rate of 7.9%, down from 9.4% annually.
+1 default entities: PERSON San Francisco
+1 custom entities: PERSON San Francisco
+
+Source Sentence and Source Headline Match:
+Six cities reported declines, with San Francisco leading the declining annual returns with a reported rate of 7.9%, down from 9.4% annually.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Six cities reported declines, with San Francisco leading the declining annual returns with a reported rate of 7.9%, down from 9.4% annually.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Six cities reported declines, with San Francisco leading the declining annual returns with a reported rate of 7.9%, down from 9.4% annually.
+Six cities, including San Francisco, reported price declines in the twelve months leading up to January.
+7 matches: lead, report, francisco, six, decline, city, san
+
+----------------
+
+sent_12:
+12 out of 24 sentences
+4 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The National index declined for the fifth consecutive month in January, reporting a -0.1% change for the month.
+1 default entities: ORGANIZATION National
+1 custom entities: ORGANIZATION National
+
+Source Sentence and Source Headline Match:
+The National index declined for the fifth consecutive month in January, reporting a -0.1% change for the month.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+1 matches: index
+
+Source Sentence and Story Headline Match:
+The National index declined for the fifth consecutive month in January, reporting a -0.1% change for the month.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The National index declined for the fifth consecutive month in January, reporting a -0.1% change for the month.
+Six cities, including San Francisco, reported price declines in the twelve months leading up to January.
+3 matches: january, month, decline
+
+----------------
+
+sent_13:
+13 out of 24 sentences
+4 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Both the 10- and 20-City Composites reported virtually flat month-over-month changes.
+1 default entities: ORGANIZATION Composites
+1 custom entities: ORGANIZATION Composites
+
+Source Sentence and Source Headline Match:
+Both the 10- and 20-City Composites reported virtually flat month-over-month changes.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Both the 10- and 20-City Composites reported virtually flat month-over-month changes.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Both the 10- and 20-City Composites reported virtually flat month-over-month changes.
+The median price in March for existing homes stood at $212,100, NAR reported, which is a 7.8% increase from March 2014.
+1 matches: report
+
+----------------
+
+sent_14:
+14 out of 24 sentences
+4 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Of the nine cities that reported increases, Charlotte, Miami, and San Diego led all cities in January with increases of 0.7%.
+3 default entities: PERSON Charlotte, GPE Miami, PERSON San Diego
+2 custom entities: PERSON Charlotte Miami, PERSON San Diego
+
+Source Sentence and Source Headline Match:
+Of the nine cities that reported increases, Charlotte, Miami, and San Diego led all cities in January with increases of 0.7%.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+1 matches: miami
+
+Source Sentence and Story Headline Match:
+Of the nine cities that reported increases, Charlotte, Miami, and San Diego led all cities in January with increases of 0.7%.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Of the nine cities that reported increases, Charlotte, Miami, and San Diego led all cities in January with increases of 0.7%.
+Six cities, including San Francisco, reported price declines in the twelve months leading up to January.
+5 matches: january, report, city, san, lead
+
+----------------
+
+sent_15:
+15 out of 24 sentences
+4 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+San Francisco reported the largest decrease of all 20 cities, with a monthover-month decrease of -0.9%.
+2 default entities: GPE San, PERSON Francisco
+2 custom entities: GPE San, PERSON Francisco
+
+Source Sentence and Source Headline Match:
+San Francisco reported the largest decrease of all 20 cities, with a monthover-month decrease of -0.9%.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+San Francisco reported the largest decrease of all 20 cities, with a monthover-month decrease of -0.9%.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+San Francisco reported the largest decrease of all 20 cities, with a monthover-month decrease of -0.9%.
+Six cities, including San Francisco, reported price declines in the twelve months leading up to January.
+4 matches: report, francisco, city, san
+
+----------------
+
+sent_16:
+16 out of 24 sentences
+4 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Seattle and Washington D.C. reported decreases of -0.5%.
+2 default entities: GPE Seattle, GPE Washington
+2 custom entities: GPE Seattle, GPE Washington
+
+Source Sentence and Source Headline Match:
+Seattle and Washington D.C. reported decreases of -0.5%.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Seattle and Washington D.C. reported decreases of -0.5%.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Seattle and Washington D.C. reported decreases of -0.5%.
+The median price in March for existing homes stood at $212,100, NAR reported, which is a 7.8% increase from March 2014.
+1 matches: report
+
+----------------
+
+sent_17:
+17 out of 24 sentences
+4 out of 6 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Unusually cold and wet weather may have weakened activity in some cities.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Unusually cold and wet weather may have weakened activity in some cities.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Unusually cold and wet weather may have weakened activity in some cities.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Unusually cold and wet weather may have weakened activity in some cities.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+1 matches: activity
+
+----------------
+
+sent_18:
+18 out of 24 sentences
+5 out of 6 paragraphs
+Tagged as a quote
+
+Sentence:
+“The combination of low interest rates and strong consumer confidence based on solid job growth, cheap oil and low inflation continue to support further increases in home prices” says David M. Blitzer, Managing Director and Chairman of the Index Committee for S&P Dow Jones Indices.
+3 default entities: PERSON David M. Blitzer, ORGANIZATION Index Committee, PERSON P Dow Jones Indices
+3 custom entities: PERSON David M Blitzer Managing Director, ORGANIZATION Index Committee, PERSON Jones Indices
+
+Source Sentence and Source Headline Match:
+“The combination of low interest rates and strong consumer confidence based on solid job growth, cheap oil and low inflation continue to support further increases in home prices” says David M. Blitzer, Managing Director and Chairman of the Index Committee for S&P Dow Jones Indices.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+4 matches: index, home, s&p, price
+
+Source Sentence and Story Headline Match:
+“The combination of low interest rates and strong consumer confidence based on solid job growth, cheap oil and low inflation continue to support further increases in home prices” says David M. Blitzer, Managing Director and Chairman of the Index Committee for S&P Dow Jones Indices.
+US existing home sales leap 6.1% in March.
+1 matches: home
+
+Source Sentence and Best Story Sentence Match:
+“The combination of low interest rates and strong consumer confidence based on solid job growth, cheap oil and low inflation continue to support further increases in home prices” says David M. Blitzer, Managing Director and Chairman of the Index Committee for S&P Dow Jones Indices.
+Sales of existing homes increased 6.1% in March to a seasonally adjusted rate of 5.19 million, the National Association of Realtors said April 22.
+4 matches: home, rate, say, increase
+
+----------------
+
+sent_19:
+19 out of 24 sentences
+5 out of 6 paragraphs
+Tagged as a quote
+
+Sentence:
+“Regional patterns in recent months continue: strength in the west and southwest paced by Denver and Dallas with results ahead of the national index in the California cities, the Pacific Northwest and Las Vegas.
+5 default entities: PERSON Denver, PERSON Dallas, GPE California, ORGANIZATION Pacific Northwest, PERSON Las Vegas
+6 custom entities: GPE Regional, PERSON Denver, PERSON Dallas, GPE California, ORGANIZATION Pacific Northwest, PERSON Las Vegas
+
+Source Sentence and Source Headline Match:
+“Regional patterns in recent months continue: strength in the west and southwest paced by Denver and Dallas with results ahead of the national index in the California cities, the Pacific Northwest and Las Vegas.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+3 matches: index, denver, dallas
+
+Source Sentence and Story Headline Match:
+“Regional patterns in recent months continue: strength in the west and southwest paced by Denver and Dallas with results ahead of the national index in the California cities, the Pacific Northwest and Las Vegas.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“Regional patterns in recent months continue: strength in the west and southwest paced by Denver and Dallas with results ahead of the national index in the California cities, the Pacific Northwest and Las Vegas.
+The S&P/Case-Shiller index found the biggest year-on-year gains in home prices were in Denver and Miami, where prices rose 8.4 and 8.3%, respectively.
+2 matches: index, denver
+
+----------------
+
+sent_20:
+20 out of 24 sentences
+5 out of 6 paragraphs
+Tagged as a quote
+
+Sentence:
+The northeast and Midwest are mostly weaker than the national index.
+1 default entities: GPE Midwest
+1 custom entities: GPE Midwest
+
+Source Sentence and Source Headline Match:
+The northeast and Midwest are mostly weaker than the national index.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+1 matches: index
+
+Source Sentence and Story Headline Match:
+The northeast and Midwest are mostly weaker than the national index.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The northeast and Midwest are mostly weaker than the national index.
+Sales of existing homes increased 6.1% in March to a seasonally adjusted rate of 5.19 million, the National Association of Realtors said April 22.
+1 matches: national
+
+----------------
+
+sent_21:
+21 out of 24 sentences
+6 out of 6 paragraphs
+Tagged as a quote
+
+Sentence:
+“Despite price gains, the housing market faces some difficulties.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“Despite price gains, the housing market faces some difficulties.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+1 matches: price
+
+Source Sentence and Story Headline Match:
+“Despite price gains, the housing market faces some difficulties.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“Despite price gains, the housing market faces some difficulties.
+The S&P/Case-Shiller index found the biggest year-on-year gains in home prices were in Denver and Miami, where prices rose 8.4 and 8.3%, respectively.
+2 matches: gain, price
+
+----------------
+
+sent_22:
+22 out of 24 sentences
+6 out of 6 paragraphs
+Tagged as a quote
+
+Sentence:
+Home prices are rising roughly twice as fast as wages, putting pressure on potential homebuyers and heightening the risk that any uptick in interest rates could be a major setback.
+1 default entities: GPE Home
+1 custom entities: GPE Home
+
+Source Sentence and Source Headline Match:
+Home prices are rising roughly twice as fast as wages, putting pressure on potential homebuyers and heightening the risk that any uptick in interest rates could be a major setback.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+3 matches: rise, home, price
+
+Source Sentence and Story Headline Match:
+Home prices are rising roughly twice as fast as wages, putting pressure on potential homebuyers and heightening the risk that any uptick in interest rates could be a major setback.
+US existing home sales leap 6.1% in March.
+1 matches: home
+
+Source Sentence and Best Story Sentence Match:
+Home prices are rising roughly twice as fast as wages, putting pressure on potential homebuyers and heightening the risk that any uptick in interest rates could be a major setback.
+Home prices rose only 7.9% in San Francisco, down from an annual rate in 2014 of 9.4%.
+4 matches: rise, home, rate, price
+
+----------------
+
+sent_23:
+23 out of 24 sentences
+6 out of 6 paragraphs
+Tagged as a quote
+
+Sentence:
+Moreover, the new home sector is weak; residential construction is still below its pre-crisis peak.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Moreover, the new home sector is weak; residential construction is still below its pre-crisis peak.
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+1 matches: home
+
+Source Sentence and Story Headline Match:
+Moreover, the new home sector is weak; residential construction is still below its pre-crisis peak.
+US existing home sales leap 6.1% in March.
+1 matches: home
+
+Source Sentence and Best Story Sentence Match:
+Moreover, the new home sector is weak; residential construction is still below its pre-crisis peak.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+1 matches: home
+
+----------------
+
+sent_24:
+24 out of 24 sentences
+6 out of 6 paragraphs
+Tagged as a quote
+
+Sentence:
+Any time before 2008 that housing starts were as low as the current rate of one million, the economy was in a recession.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Any time before 2008 that housing starts were as low as the current rate of one million, the economy was in a recession.”
+Rise in Home Prices Paced by Denver, Miami, and Dallas According to the S&P/Case-Shiller Home Price Indices.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Any time before 2008 that housing starts were as low as the current rate of one million, the economy was in a recession.”
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Any time before 2008 that housing starts were as low as the current rate of one million, the economy was in a recession.”
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+2 matches: house, start
+
+----------------
+

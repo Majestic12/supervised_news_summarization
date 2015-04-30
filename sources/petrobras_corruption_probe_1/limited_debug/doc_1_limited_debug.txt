@@ -1,0 +1,63 @@
+sent_1:
+
+Brazil's prosecutor is seeking to prevent agreements between the federal government and companies accused of involvement in a corruption scandal enveloping oil producer Petrobras from bidding on more state contracts.
+Julio Marcelo de Oliveira, prosecutor for Brazil, asked the country's Federal Audits Court on Feb. 19 to stop "leniency agreements" that allow companies accused of involvement in the Petrobras scandal to continue bidding on federal contracts while still under investigation.
+9 best matches: company, accuse, petrobras, scandal, federal, contract, agreement, prosecutor, involvement
+
+----------------
+sent_2:
+
+Prosecutor Julio Marcelo de Oliveira on Friday sent a letter to the Brazilian Federal Audits Court asking for an order stopping some so-called leniency agreements, according to a copy of the document published on the Contas Abertas website, a non-governmental group that monitors fiscal accounts.
+Julio Marcelo de Oliveira, prosecutor for Brazil, asked the country's Federal Audits Court on Feb. 19 to stop "leniency agreements" that allow companies accused of involvement in the Petrobras scandal to continue bidding on federal contracts while still under investigation.
+12 best matches: ask, court, stop, leniency, de, oliveira, marcelo, federal, agreement, prosecutor, julio, audit
+
+----------------
+sent_3:
+
+The accords would allow companies to continue bidding on state contracts while cooperating with investigators.
+Julio Marcelo de Oliveira, prosecutor for Brazil, asked the country's Federal Audits Court on Feb. 19 to stop "leniency agreements" that allow companies accused of involvement in the Petrobras scandal to continue bidding on federal contracts while still under investigation.
+5 best matches: bidding, continue, allow, company, contract
+
+----------------
+sent_4:
+
+Oliveira said some agreements could be permitted if companies and executives are fully cooperating with authorities into the investigation of alleged kickbacks at Petroleo Brasileiro SA, a case known as the Carwash scandal.
+If companies fully cooperate with authorities in the Petrobras investigation, exceptions could be made, de Oliveira said.
+8 best matches: company, authority, cooperate, investigation, fully, could, oliveira, say
+
+----------------
+sent_5:
+
+In other situations, the agreements would hinder investigations, he said.
+Julio Marcelo de Oliveira, prosecutor for Brazil, asked the country's Federal Audits Court on Feb. 19 to stop "leniency agreements" that allow companies accused of involvement in the Petrobras scandal to continue bidding on federal contracts while still under investigation.
+2 best matches: investigation, agreement
+
+----------------
+sent_6:
+
+Prosecutors are seeking about $1.6 billion in payments from companies allegedly involved in the case.
+Brazil's federal prosecutors said Feb. 19 that they will seek about $1.55 billion in compensation from six construction and engineering companies accused of paying bribes to Petrobras.
+4 best matches: prosecutor, company, billion, seek
+
+----------------
+sent_7:
+
+Allowing leniency deals would bring “complications to advances and the possibility of success of the investigations,” de Oliveira wrote.
+Julio Marcelo de Oliveira, prosecutor for Brazil, asked the country's Federal Audits Court on Feb. 19 to stop "leniency agreements" that allow companies accused of involvement in the Petrobras scandal to continue bidding on federal contracts while still under investigation.
+5 best matches: oliveira, investigation, allow, leniency, de
+
+----------------
+sent_8:
+
+The testimony of business executives has been a key tool for investigators to date.
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+1 best matches: business
+
+----------------
+sent_9:
+
+Officials at Brazil’s Federal Audits Court and Prosecutor’s office didn’t immediately respond to calls and e-mails from Bloomberg News seeking comment.
+Julio Marcelo de Oliveira, prosecutor for Brazil, asked the country's Federal Audits Court on Feb. 19 to stop "leniency agreements" that allow companies accused of involvement in the Petrobras scandal to continue bidding on federal contracts while still under investigation.
+3 best matches: court, federal, audit
+
+----------------

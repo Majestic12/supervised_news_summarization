@@ -1,0 +1,193 @@
+sent_1:
+
+The Nasdaq composite is finally back to where it was 15 long years ago at the tippy-tippy top of the dot-com stock bubble.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+2 best matches: nasdaq, composite
+
+----------------
+sent_2:
+
+The tech- and biotech-fueled stock index closed at a new record high Thursday, finally wiping out all of the nearly 80% loss it suffered after the tech-stock crash in 2000.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+4 best matches: high, new, close, record
+
+----------------
+sent_3:
+
+The old closing record of 5048.62 dating back to the dot-com era and March 10, 2000, was eclipsed Thursday in another big rally on Wall Street.
+The Nasdaq has had two consecutive days of record highs.
+1 best matches: record
+
+----------------
+sent_4:
+
+The Nasdaq, the onetime posterboy for stock market excess, climbed 20.89 points, or 0.4%, to a new all-time closing high of 5056.06, and a fresh 2015 high.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+4 best matches: nasdaq, point, new, high
+
+----------------
+sent_5:
+
+The Dow Jones industrial average rose 20.42, or 0.1% to 18,058.69 and the Standard & Poor's 500 index gained 4.97, or 0.2%, to 2112.93.
+The Dow Jones Industrial Average added 21 points and closed at 18,080.
+4 best matches: average, jones, dow, industrial
+
+----------------
+sent_6:
+
+The S&P is now less than 5 points from its record closing high of 2117.39
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+4 best matches: high, point, close, record
+
+----------------
+sent_7:
+
+After crashing during the 2000-02 bear market, few folks on Wall Street thought the Nasdaq, which arguably was the biggest stock market bubble in history, would ever hit a new high in their lifetime.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+3 best matches: nasdaq, new, high
+
+----------------
+sent_8:
+
+no story sentence best matches found
+
+----------------
+sent_9:
+
+"I didn't think I'd see Nasdaq climb this high in just 15 years , but then again I never thought I'd see the Fed's balance sheet reach 4.5 trillion dollars, either."
+The Nasdaq has had two consecutive days of record highs.
+2 best matches: nasdaq, high
+
+----------------
+sent_10:
+
+The Nasdaq, like the rest of the U.S. stock market, of course, has enjoyed the tailwind of cheap money and massive stimulus from the U.S. Federal Reserve since the financial crisis in 2009.
+The index lagged behind the Nasdaq and S&P500 due to poor performances from some of its heavier weighted stocks.
+2 best matches: nasdaq, stock
+
+----------------
+sent_11:
+
+The new Nasdaq record high equates to a complete recovery and demonstrates the U.S. market's resilience despite headwinds ranging from financial crises to wars.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+4 best matches: nasdaq, new, record, high
+
+----------------
+sent_12:
+
+It is also likely to restart the debate over whether another stock bubble is brewing.
+The index lagged behind the Nasdaq and S&P500 due to poor performances from some of its heavier weighted stocks.
+1 best matches: stock
+
+----------------
+sent_13:
+
+It is also a sign that investors are willing to take risks despite all the headwinds, such as the threat of coming interest rate hikes, above-average valuations, slowing earnings growth, and the negative fallout on earnings and sales due to the super-strong U.S. dollar, says Michael Farr, president of money management firm Farr Miller & Washington.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+1 best matches: earnings
+
+----------------
+sent_14:
+
+no story sentence best matches found
+
+----------------
+sent_15:
+
+Just as it did back in its heyday at the start of the century, the Nasdaq in 2015 is again leading the U.S. stock market higher, driven again by innovative new companies that are changing the world and have growth potential that investors salivate over.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+3 best matches: nasdaq, new, high
+
+----------------
+sent_16:
+
+For the year, the Nasdaq is up 6.8%, better than the other major U.S. indexes such as the Dow Jones industrial average and Standard & Poor's 500.
+The Dow Jones Industrial Average added 21 points and closed at 18,080.
+4 best matches: average, jones, dow, industrial
+
+----------------
+sent_17:
+
+The Nasdaq — which became a pop-culture sensation back in the go-go 1990s when tech stocks ranging from software giant Microsoft to an army of unknown Internet stocks with no earnings but big promises and dreams climbed higher in price than anyone thought possible — has finally rewritten the Wall Street record books.
+The Nasdaq has had two consecutive days of record highs.
+3 best matches: nasdaq, record, high
+
+----------------
+sent_18:
+
+And while the Nasdaq is back to levels last seen 15 years ago, this is in not your father's Nasdaq.
+The Nasdaq has had two consecutive days of record highs.
+1 best matches: nasdaq
+
+----------------
+sent_19:
+
+no story sentence best matches found
+
+----------------
+sent_20:
+
+no story sentence best matches found
+
+----------------
+sent_21:
+
+Back then everybody from Wall Street pros to taxi drivers turned day traders thought stock prices only went up.
+The Nasdaq has had two consecutive days of record highs.
+1 best matches: day
+
+----------------
+sent_22:
+
+no story sentence best matches found
+
+----------------
+sent_23:
+
+"Today, your father doesn't trust the market and that's actually helped the market climb higher," Krosby says.
+The Nasdaq has had two consecutive days of record highs.
+1 best matches: high
+
+----------------
+sent_24:
+
+Today's Nasdaq is not all about tech, either.
+The Nasdaq has had two consecutive days of record highs.
+1 best matches: nasdaq
+
+----------------
+sent_25:
+
+Biotech stock are hot, as are the new darlings of the Internet, the so-called social media stocks.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+1 best matches: new
+
+----------------
+sent_26:
+
+Indeed, the Nasdaq, which was once known for its tech stocks like Microsoft and IBM, is now but home to some of the hottest and best-performing health care and biotech stocks on Wall Street.
+The index lagged behind the Nasdaq and S&P500 due to poor performances from some of its heavier weighted stocks.
+2 best matches: nasdaq, stock
+
+----------------
+sent_27:
+
+Today's Nasdaq, which regained the 5000 level for the first time in 15 years in March, gets the bulk of its performance from the innovative biotech sector, as well as new tech titans like Facebook, Twitter and Google.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+2 best matches: nasdaq, new
+
+----------------
+sent_28:
+
+Heading into today's historic trading session, the Nasdaq composite was being paced this year by digital marketing and advertising company Voltari (up 2,194%, according to FactSet) and health care names like Capnia (+367%), Eagle Pharmaceuticals (up 291%), Recro Pharma (up 275%) and Nymox Pharmaceutical (up 230%).
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+2 best matches: nasdaq, composite
+
+----------------
+sent_29:
+
+The index is now within striking distance of its intraday high of 5132.62, also from March 10, 2000.
+The Nasdaq has had two consecutive days of record highs.
+1 best matches: high
+
+----------------

@@ -1,0 +1,2198 @@
+sent_1:
+1 out of 81 sentences
+1 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Secret documents reveal more than 1,000 targets of American and British surveillance in recent years, including the office of an Israeli prime minister, heads of international aid organizations, foreign energy companies and a European Union official involved in antitrust battles with American technology businesses.
+7 default entities: GPE Secret, GPE American, GPE British, GPE Israeli, GPE European, ORGANIZATION Union, GPE American
+7 custom entities: GPE Secret, GPE American, GPE British, GPE Israeli, GPE European, ORGANIZATION Union, GPE American
+
+Source Sentence and Source Headline Match:
+Secret documents reveal more than 1,000 targets of American and British surveillance in recent years, including the office of an Israeli prime minister, heads of international aid organizations, foreign energy companies and a European Union official involved in antitrust battles with American technology businesses.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+2 matches: business, aid
+
+Source Sentence and Story Headline Match:
+Secret documents reveal more than 1,000 targets of American and British surveillance in recent years, including the office of an Israeli prime minister, heads of international aid organizations, foreign energy companies and a European Union official involved in antitrust battles with American technology businesses.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Secret documents reveal more than 1,000 targets of American and British surveillance in recent years, including the office of an Israeli prime minister, heads of international aid organizations, foreign energy companies and a European Union official involved in antitrust battles with American technology businesses.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+6 matches: include, target, reveal, 1,000, israeli, european
+
+----------------
+
+sent_2:
+2 out of 81 sentences
+2 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+While the names of some political and diplomatic leaders have previously emerged as targets, the newly disclosed intelligence documents provide a much fuller portrait of the spies’ sweeping interests in more than 60 countries.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+While the names of some political and diplomatic leaders have previously emerged as targets, the newly disclosed intelligence documents provide a much fuller portrait of the spies’ sweeping interests in more than 60 countries.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+1 matches: spy
+
+Source Sentence and Story Headline Match:
+While the names of some political and diplomatic leaders have previously emerged as targets, the newly disclosed intelligence documents provide a much fuller portrait of the spies’ sweeping interests in more than 60 countries.
+German intelligence agency helped NSA spy in Europe.
+2 matches: spy, intelligence
+
+Source Sentence and Best Story Sentence Match:
+While the names of some political and diplomatic leaders have previously emerged as targets, the newly disclosed intelligence documents provide a much fuller portrait of the spies’ sweeping interests in more than 60 countries.
+German officials in Oct. 2014 refused to relinquish intelligence documents that would illuminate the nature of government spy agencies' relationships with the U.S, the AP reported.
+3 matches: document, spy, intelligence
+
+----------------
+
+sent_3:
+3 out of 81 sentences
+3 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Britain’s Government Communications Headquarters, working closely with the National Security Agency, monitored the communications of senior European Union officials, foreign leaders including African heads of state and sometimes their family members, directors of United Nations and other relief programs, and officials overseeing oil and finance ministries, according to the documents.
+7 default entities: GPE Britain, ORGANIZATION Government Communications Headquarters, ORGANIZATION National, GPE European, ORGANIZATION Union, GPE African, ORGANIZATION United Nations
+6 custom entities: ORGANIZATION National, PERSON Agency, GPE European, ORGANIZATION Union, GPE African, ORGANIZATION United Nations
+
+Source Sentence and Source Headline Match:
+Britain’s Government Communications Headquarters, working closely with the National Security Agency, monitored the communications of senior European Union officials, foreign leaders including African heads of state and sometimes their family members, directors of United Nations and other relief programs, and officials overseeing oil and finance ministries, according to the documents.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Britain’s Government Communications Headquarters, working closely with the National Security Agency, monitored the communications of senior European Union officials, foreign leaders including African heads of state and sometimes their family members, directors of United Nations and other relief programs, and officials overseeing oil and finance ministries, according to the documents.
+German intelligence agency helped NSA spy in Europe.
+1 matches: agency
+
+Source Sentence and Best Story Sentence Match:
+Britain’s Government Communications Headquarters, working closely with the National Security Agency, monitored the communications of senior European Union officials, foreign leaders including African heads of state and sometimes their family members, directors of United Nations and other relief programs, and officials overseeing oil and finance ministries, according to the documents.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+4 matches: european, national, security, agency
+
+----------------
+
+sent_4:
+4 out of 81 sentences
+3 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In addition to Israel, some targets involved close allies like France and Germany, where tensions have already erupted over recent revelations about spying by the N.S.A.
+3 default entities: GPE Israel, GPE France, GPE Germany
+3 custom entities: GPE Israel, GPE France, GPE Germany
+
+Source Sentence and Source Headline Match:
+In addition to Israel, some targets involved close allies like France and Germany, where tensions have already erupted over recent revelations about spying by the N.S.A.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+3 matches: n.s.a, spy, ally
+
+Source Sentence and Story Headline Match:
+In addition to Israel, some targets involved close allies like France and Germany, where tensions have already erupted over recent revelations about spying by the N.S.A.
+German intelligence agency helped NSA spy in Europe.
+1 matches: spy
+
+Source Sentence and Best Story Sentence Match:
+In addition to Israel, some targets involved close allies like France and Germany, where tensions have already erupted over recent revelations about spying by the N.S.A.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+1 matches: spy
+
+----------------
+
+sent_5:
+5 out of 81 sentences
+4 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Details of the surveillance are described in documents from the N.S.A.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Details of the surveillance are described in documents from the N.S.A.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+1 matches: n.s.a
+
+Source Sentence and Story Headline Match:
+Details of the surveillance are described in documents from the N.S.A.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Details of the surveillance are described in documents from the N.S.A.
+German officials in Oct. 2014 refused to relinquish intelligence documents that would illuminate the nature of government spy agencies' relationships with the U.S, the AP reported.
+1 matches: document
+
+----------------
+
+sent_6:
+6 out of 81 sentences
+4 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+and Britain’s eavesdropping agency, known as GCHQ, dating from 2008 to 2011.
+2 default entities: GPE Britain, ORGANIZATION GCHQ
+1 custom entities: ORGANIZATION GCHQ
+
+Source Sentence and Source Headline Match:
+and Britain’s eavesdropping agency, known as GCHQ, dating from 2008 to 2011.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+and Britain’s eavesdropping agency, known as GCHQ, dating from 2008 to 2011.
+German intelligence agency helped NSA spy in Europe.
+1 matches: agency
+
+Source Sentence and Best Story Sentence Match:
+and Britain’s eavesdropping agency, known as GCHQ, dating from 2008 to 2011.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+1 matches: agency
+
+----------------
+
+sent_7:
+7 out of 81 sentences
+4 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The target lists appear in a set of GCHQ reports that sometimes identify which agency requested the surveillance, but more often do not.
+1 default entities: ORGANIZATION GCHQ
+1 custom entities: ORGANIZATION GCHQ
+
+Source Sentence and Source Headline Match:
+The target lists appear in a set of GCHQ reports that sometimes identify which agency requested the surveillance, but more often do not.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The target lists appear in a set of GCHQ reports that sometimes identify which agency requested the surveillance, but more often do not.
+German intelligence agency helped NSA spy in Europe.
+1 matches: agency
+
+Source Sentence and Best Story Sentence Match:
+The target lists appear in a set of GCHQ reports that sometimes identify which agency requested the surveillance, but more often do not.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+4 matches: report, gchq, list, target
+
+----------------
+
+sent_8:
+8 out of 81 sentences
+4 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The documents were leaked by the former N.S.A.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The documents were leaked by the former N.S.A.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+1 matches: n.s.a
+
+Source Sentence and Story Headline Match:
+The documents were leaked by the former N.S.A.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The documents were leaked by the former N.S.A.
+French paper Le Monde reported in Oct. 2013 that documents leaked by Edward Snowden show that from Dec. 10, 2012, to Jan. 7, 2013, the NSA intercepted and collected 70.3 million phone records of French citizens, or about 3 million per day.
+2 matches: document, leak
+
+----------------
+
+sent_9:
+9 out of 81 sentences
+4 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+contractor Edward J. Snowden and shared by The New York Times, The Guardian and Der Spiegel.
+4 default entities: PERSON Edward J. Snowden, GPE New York Times, ORGANIZATION The Guardian, PERSON Der Spiegel
+4 custom entities: PERSON Edward J Snowden, GPE New York, GPE Guardian, PERSON Der Spiegel
+
+Source Sentence and Source Headline Match:
+contractor Edward J. Snowden and shared by The New York Times, The Guardian and Der Spiegel.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+contractor Edward J. Snowden and shared by The New York Times, The Guardian and Der Spiegel.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+contractor Edward J. Snowden and shared by The New York Times, The Guardian and Der Spiegel.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+4 matches: guardian, new, york, time
+
+----------------
+
+sent_10:
+10 out of 81 sentences
+5 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The reports are spare, technical bulletins produced as the spies, typically working out of British intelligence sites, systematically tapped one international communications link after another, focusing especially on satellite transmissions.
+1 default entities: GPE British
+1 custom entities: GPE British
+
+Source Sentence and Source Headline Match:
+The reports are spare, technical bulletins produced as the spies, typically working out of British intelligence sites, systematically tapped one international communications link after another, focusing especially on satellite transmissions.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+1 matches: spy
+
+Source Sentence and Story Headline Match:
+The reports are spare, technical bulletins produced as the spies, typically working out of British intelligence sites, systematically tapped one international communications link after another, focusing especially on satellite transmissions.
+German intelligence agency helped NSA spy in Europe.
+2 matches: spy, intelligence
+
+Source Sentence and Best Story Sentence Match:
+The reports are spare, technical bulletins produced as the spies, typically working out of British intelligence sites, systematically tapped one international communications link after another, focusing especially on satellite transmissions.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+3 matches: report, spy, intelligence
+
+----------------
+
+sent_11:
+11 out of 81 sentences
+5 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The value of each link is gauged, in part, by the number of surveillance targets found to be using it for emails, text messages or phone calls.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The value of each link is gauged, in part, by the number of surveillance targets found to be using it for emails, text messages or phone calls.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The value of each link is gauged, in part, by the number of surveillance targets found to be using it for emails, text messages or phone calls.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The value of each link is gauged, in part, by the number of surveillance targets found to be using it for emails, text messages or phone calls.
+The BND used thousands of "selectors" sent by the NSA that included IP addresses, emails, and phone numbers.
+4 matches: email, phone, number, use
+
+----------------
+
+sent_12:
+12 out of 81 sentences
+5 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+More than 1,000 targets, which also include people suspected of being terrorists or militants, are in the reports.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+More than 1,000 targets, which also include people suspected of being terrorists or militants, are in the reports.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+More than 1,000 targets, which also include people suspected of being terrorists or militants, are in the reports.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+More than 1,000 targets, which also include people suspected of being terrorists or militants, are in the reports.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+4 matches: include, report, target, 1,000
+
+----------------
+
+sent_13:
+13 out of 81 sentences
+6 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It is unclear what the eavesdroppers gleaned.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It is unclear what the eavesdroppers gleaned.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It is unclear what the eavesdroppers gleaned.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_14:
+14 out of 81 sentences
+6 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The documents include a few fragmentary transcripts of conversations and messages, but otherwise contain only hints that further information was available elsewhere, possibly in a larger database.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The documents include a few fragmentary transcripts of conversations and messages, but otherwise contain only hints that further information was available elsewhere, possibly in a larger database.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The documents include a few fragmentary transcripts of conversations and messages, but otherwise contain only hints that further information was available elsewhere, possibly in a larger database.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The documents include a few fragmentary transcripts of conversations and messages, but otherwise contain only hints that further information was available elsewhere, possibly in a larger database.
+Merkel was listed in an NSA document cited by Der Spiegel, but it wasn't clear if her conversations were recorded.
+2 matches: document, conversation
+
+----------------
+
+sent_15:
+15 out of 81 sentences
+7 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Some condemned the surveillance on Friday as unjustified and improper.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Some condemned the surveillance on Friday as unjustified and improper.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Some condemned the surveillance on Friday as unjustified and improper.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_16:
+16 out of 81 sentences
+7 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+“This is not the type of behavior that we expect from strategic partners,” Pia Ahrenkilde Hansen, a spokeswoman for the European Commission, said on the latest revelations of American and British spying in Europe.
+5 default entities: PERSON Pia Ahrenkilde Hansen, ORGANIZATION European Commission, GPE American, GPE British, GPE Europe
+5 custom entities: PERSON Pia Ahrenkilde, ORGANIZATION European Commission, GPE American, GPE British, GPE Europe
+
+Source Sentence and Source Headline Match:
+“This is not the type of behavior that we expect from strategic partners,” Pia Ahrenkilde Hansen, a spokeswoman for the European Commission, said on the latest revelations of American and British spying in Europe.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“This is not the type of behavior that we expect from strategic partners,” Pia Ahrenkilde Hansen, a spokeswoman for the European Commission, said on the latest revelations of American and British spying in Europe.
+German intelligence agency helped NSA spy in Europe.
+1 matches: europe
+
+Source Sentence and Best Story Sentence Match:
+“This is not the type of behavior that we expect from strategic partners,” Pia Ahrenkilde Hansen, a spokeswoman for the European Commission, said on the latest revelations of American and British spying in Europe.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+3 matches: spying, commission, european
+
+----------------
+
+sent_17:
+17 out of 81 sentences
+8 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Some of the surveillance relates to issues that are being scrutinized by President Obama and a panel he appointed in Washington that on Wednesday recommended tighter limits on the N.S.A., particularly on spying of foreign leaders, especially allies.
+3 default entities: PERSON Obama, GPE Washington, ORGANIZATION N.S.A.
+2 custom entities: PERSON Obama, GPE Washington
+
+Source Sentence and Source Headline Match:
+Some of the surveillance relates to issues that are being scrutinized by President Obama and a panel he appointed in Washington that on Wednesday recommended tighter limits on the N.S.A., particularly on spying of foreign leaders, especially allies.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+2 matches: n.s.a, ally
+
+Source Sentence and Story Headline Match:
+Some of the surveillance relates to issues that are being scrutinized by President Obama and a panel he appointed in Washington that on Wednesday recommended tighter limits on the N.S.A., particularly on spying of foreign leaders, especially allies.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Some of the surveillance relates to issues that are being scrutinized by President Obama and a panel he appointed in Washington that on Wednesday recommended tighter limits on the N.S.A., particularly on spying of foreign leaders, especially allies.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+3 matches: spying, leader, president
+
+----------------
+
+sent_18:
+18 out of 81 sentences
+9 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+The reports show that spies monitored the email traffic of several Israeli officials, including one target identified as “Israeli prime minister,” followed by an email address.
+2 default entities: GPE Israeli, GPE “Israeli
+2 custom entities: GPE Israeli, GPE Israeli
+
+Source Sentence and Source Headline Match:
+The reports show that spies monitored the email traffic of several Israeli officials, including one target identified as “Israeli prime minister,” followed by an email address.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+1 matches: spy
+
+Source Sentence and Story Headline Match:
+The reports show that spies monitored the email traffic of several Israeli officials, including one target identified as “Israeli prime minister,” followed by an email address.
+German intelligence agency helped NSA spy in Europe.
+1 matches: spy
+
+Source Sentence and Best Story Sentence Match:
+The reports show that spies monitored the email traffic of several Israeli officials, including one target identified as “Israeli prime minister,” followed by an email address.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+4 matches: include, report, target, israeli
+
+----------------
+
+sent_19:
+19 out of 81 sentences
+9 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The prime minister at the time, in January 2009, was Ehud Olmert.
+1 default entities: PERSON Ehud Olmert
+1 custom entities: PERSON Ehud Olmert
+
+Source Sentence and Source Headline Match:
+The prime minister at the time, in January 2009, was Ehud Olmert.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The prime minister at the time, in January 2009, was Ehud Olmert.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The prime minister at the time, in January 2009, was Ehud Olmert.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+3 matches: ehud, olmert, time
+
+----------------
+
+sent_20:
+20 out of 81 sentences
+9 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The next month, spies intercepted the email traffic of the Israeli defense minister, Ehud Barak, according to another report.
+2 default entities: GPE Israeli, PERSON Ehud Barak
+2 custom entities: GPE Israeli, PERSON Ehud Barak
+
+Source Sentence and Source Headline Match:
+The next month, spies intercepted the email traffic of the Israeli defense minister, Ehud Barak, according to another report.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+1 matches: spy
+
+Source Sentence and Story Headline Match:
+The next month, spies intercepted the email traffic of the Israeli defense minister, Ehud Barak, according to another report.
+German intelligence agency helped NSA spy in Europe.
+1 matches: spy
+
+Source Sentence and Best Story Sentence Match:
+The next month, spies intercepted the email traffic of the Israeli defense minister, Ehud Barak, according to another report.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+3 matches: report, ehud, israeli
+
+----------------
+
+sent_21:
+21 out of 81 sentences
+9 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Two Israeli embassies also appear on the target lists.
+1 default entities: GPE Israeli
+1 custom entities: GPE Israeli
+
+Source Sentence and Source Headline Match:
+Two Israeli embassies also appear on the target lists.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Two Israeli embassies also appear on the target lists.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Two Israeli embassies also appear on the target lists.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+3 matches: target, list, israeli
+
+----------------
+
+sent_22:
+22 out of 81 sentences
+10 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Mr. Olmert said in a telephone interview on Friday that the email address was used for correspondence with his office, which he said staff members often handled.
+2 default entities: PERSON Mr., PERSON Olmert
+1 custom entities: PERSON Olmert
+
+Source Sentence and Source Headline Match:
+Mr. Olmert said in a telephone interview on Friday that the email address was used for correspondence with his office, which he said staff members often handled.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Mr. Olmert said in a telephone interview on Friday that the email address was used for correspondence with his office, which he said staff members often handled.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Mr. Olmert said in a telephone interview on Friday that the email address was used for correspondence with his office, which he said staff members often handled.
+The BND used thousands of "selectors" sent by the NSA that included IP addresses, emails, and phone numbers.
+3 matches: email, address, use
+
+----------------
+
+sent_23:
+23 out of 81 sentences
+10 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He added that it was unlikely that any secrets could have been compromised.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+He added that it was unlikely that any secrets could have been compromised.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+He added that it was unlikely that any secrets could have been compromised.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+He added that it was unlikely that any secrets could have been compromised.
+Snowden said he wanted to testify before the committee in Berlin, but the German government could not give assurances that he wouldn't be detained and extradited to the U.S.
+1 matches: could
+
+----------------
+
+sent_24:
+24 out of 81 sentences
+11 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+“This was an unimpressive target,” Mr. Olmert said.
+1 default entities: PERSON Mr. Olmert
+1 custom entities: PERSON Olmert
+
+Source Sentence and Source Headline Match:
+“This was an unimpressive target,” Mr. Olmert said.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“This was an unimpressive target,” Mr. Olmert said.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“This was an unimpressive target,” Mr. Olmert said.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+2 matches: target, olmert
+
+----------------
+
+sent_25:
+25 out of 81 sentences
+11 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He noted, for example, that his most sensitive discussions with President George W. Bush took place in person.
+1 default entities: PERSON George W. Bush
+1 custom entities: PERSON George W Bush
+
+Source Sentence and Source Headline Match:
+He noted, for example, that his most sensitive discussions with President George W. Bush took place in person.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+He noted, for example, that his most sensitive discussions with President George W. Bush took place in person.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+He noted, for example, that his most sensitive discussions with President George W. Bush took place in person.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+1 matches: president
+
+----------------
+
+sent_26:
+26 out of 81 sentences
+11 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+“I would be surprised if there was any attempt by American intelligence in Israel to listen to the prime minister’s lines,” he said.
+2 default entities: GPE American, GPE Israel
+2 custom entities: GPE American, GPE Israel
+
+Source Sentence and Source Headline Match:
+“I would be surprised if there was any attempt by American intelligence in Israel to listen to the prime minister’s lines,” he said.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“I would be surprised if there was any attempt by American intelligence in Israel to listen to the prime minister’s lines,” he said.
+German intelligence agency helped NSA spy in Europe.
+1 matches: intelligence
+
+Source Sentence and Best Story Sentence Match:
+“I would be surprised if there was any attempt by American intelligence in Israel to listen to the prime minister’s lines,” he said.
+German officials in Oct. 2014 refused to relinquish intelligence documents that would illuminate the nature of government spy agencies' relationships with the U.S, the AP reported.
+2 matches: would, intelligence
+
+----------------
+
+sent_27:
+27 out of 81 sentences
+12 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Mr. Barak, who declined to comment, has said publicly that he used to take it for granted that he was under surveillance.
+2 default entities: PERSON Mr., GPE Barak
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Mr. Barak, who declined to comment, has said publicly that he used to take it for granted that he was under surveillance.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Mr. Barak, who declined to comment, has said publicly that he used to take it for granted that he was under surveillance.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Mr. Barak, who declined to comment, has said publicly that he used to take it for granted that he was under surveillance.
+The BND used thousands of "selectors" sent by the NSA that included IP addresses, emails, and phone numbers.
+1 matches: use
+
+----------------
+
+sent_28:
+28 out of 81 sentences
+13 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Despite the close ties between the United States and Israel, the record of mutual spying is long: Israeli spies, including Jonathan Jay Pollard, who was sentenced in 1987 to life in prison for passing intelligence information to Israel, have often operated in the United States, and the United States has often turned the abilities of the N.S.A.
+7 default entities: GPE United States, GPE Israel, GPE Israeli, PERSON Jonathan Jay Pollard, GPE Israel, GPE United States, GPE United States
+7 custom entities: GPE United States, GPE Israel, GPE Israeli, PERSON Jonathan Jay, GPE Israel, GPE United States, GPE United States
+
+Source Sentence and Source Headline Match:
+Despite the close ties between the United States and Israel, the record of mutual spying is long: Israeli spies, including Jonathan Jay Pollard, who was sentenced in 1987 to life in prison for passing intelligence information to Israel, have often operated in the United States, and the United States has often turned the abilities of the N.S.A.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+2 matches: n.s.a, spy
+
+Source Sentence and Story Headline Match:
+Despite the close ties between the United States and Israel, the record of mutual spying is long: Israeli spies, including Jonathan Jay Pollard, who was sentenced in 1987 to life in prison for passing intelligence information to Israel, have often operated in the United States, and the United States has often turned the abilities of the N.S.A.
+German intelligence agency helped NSA spy in Europe.
+2 matches: spy, intelligence
+
+Source Sentence and Best Story Sentence Match:
+Despite the close ties between the United States and Israel, the record of mutual spying is long: Israeli spies, including Jonathan Jay Pollard, who was sentenced in 1987 to life in prison for passing intelligence information to Israel, have often operated in the United States, and the United States has often turned the abilities of the N.S.A.
+A 31-year-old German intelligence worker was arrested in July 2014 on accusations of passing information about the parliamentary inquiry into the NSA to an American contact.
+3 matches: pass, intelligence, information
+
+----------------
+
+sent_29:
+29 out of 81 sentences
+13 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+against Israel.
+1 default entities: GPE Israel
+1 custom entities: GPE Israel
+
+Source Sentence and Source Headline Match:
+against Israel.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+against Israel.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_30:
+30 out of 81 sentences
+14 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Mr. Olmert’s office email was intercepted while he was dealing with fallout from Israel’s military response to rocket attacks from Gaza, but also at a particularly tense time in relations with the United States.
+5 default entities: PERSON Mr., PERSON Olmert, GPE Israel, GPE Gaza, GPE United States
+3 custom entities: GPE Israel's, LOCATION Gaza, GPE United States
+
+Source Sentence and Source Headline Match:
+Mr. Olmert’s office email was intercepted while he was dealing with fallout from Israel’s military response to rocket attacks from Gaza, but also at a particularly tense time in relations with the United States.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Mr. Olmert’s office email was intercepted while he was dealing with fallout from Israel’s military response to rocket attacks from Gaza, but also at a particularly tense time in relations with the United States.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Mr. Olmert’s office email was intercepted while he was dealing with fallout from Israel’s military response to rocket attacks from Gaza, but also at a particularly tense time in relations with the United States.
+It also intercepted data from emails and social networks.
+3 matches: email, intercept, also
+
+----------------
+
+sent_31:
+31 out of 81 sentences
+14 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The two countries were simultaneously at odds on Israeli preparations to attack Iran’s nuclear program and cooperating on a wave of cyberattacks on Iran’s major nuclear enrichment facility.
+3 default entities: GPE Israeli, GPE Iran, GPE Iran
+1 custom entities: GPE Israeli
+
+Source Sentence and Source Headline Match:
+The two countries were simultaneously at odds on Israeli preparations to attack Iran’s nuclear program and cooperating on a wave of cyberattacks on Iran’s major nuclear enrichment facility.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The two countries were simultaneously at odds on Israeli preparations to attack Iran’s nuclear program and cooperating on a wave of cyberattacks on Iran’s major nuclear enrichment facility.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The two countries were simultaneously at odds on Israeli preparations to attack Iran’s nuclear program and cooperating on a wave of cyberattacks on Iran’s major nuclear enrichment facility.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+1 matches: israeli
+
+----------------
+
+sent_32:
+32 out of 81 sentences
+15 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A year before the interception of Mr. Olmert’s office email, the documents listed another target, the Institute of Physics at the Hebrew University of Jerusalem, an internationally recognized center for research in atomic and nuclear physics.
+5 default entities: PERSON Mr. Olmert, ORGANIZATION Institute, PERSON Physics, ORGANIZATION Hebrew University, GPE Jerusalem
+4 custom entities: ORGANIZATION Institute, PERSON Physics, ORGANIZATION Hebrew University, GPE Jerusalem
+
+Source Sentence and Source Headline Match:
+A year before the interception of Mr. Olmert’s office email, the documents listed another target, the Institute of Physics at the Hebrew University of Jerusalem, an internationally recognized center for research in atomic and nuclear physics.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+A year before the interception of Mr. Olmert’s office email, the documents listed another target, the Institute of Physics at the Hebrew University of Jerusalem, an internationally recognized center for research in atomic and nuclear physics.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+A year before the interception of Mr. Olmert’s office email, the documents listed another target, the Institute of Physics at the Hebrew University of Jerusalem, an internationally recognized center for research in atomic and nuclear physics.
+Merkel was listed in an NSA document cited by Der Spiegel, but it wasn't clear if her conversations were recorded.
+2 matches: document, list
+
+----------------
+
+sent_33:
+33 out of 81 sentences
+16 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Also appearing on the surveillance lists is Joaquín Almunia, vice president of the European Commission, which, among other powers, has oversight of antitrust issues in Europe.
+3 default entities: PERSON Joaquín Almunia, ORGANIZATION European Commission, GPE Europe
+3 custom entities: PERSON Joaquín Almunia, ORGANIZATION European Commission, GPE Europe
+
+Source Sentence and Source Headline Match:
+Also appearing on the surveillance lists is Joaquín Almunia, vice president of the European Commission, which, among other powers, has oversight of antitrust issues in Europe.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Also appearing on the surveillance lists is Joaquín Almunia, vice president of the European Commission, which, among other powers, has oversight of antitrust issues in Europe.
+German intelligence agency helped NSA spy in Europe.
+1 matches: europe
+
+Source Sentence and Best Story Sentence Match:
+Also appearing on the surveillance lists is Joaquín Almunia, vice president of the European Commission, which, among other powers, has oversight of antitrust issues in Europe.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+6 matches: list, president, vice, commission, almunia, european
+
+----------------
+
+sent_34:
+34 out of 81 sentences
+16 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The commission has broad authority over local and foreign companies, and it has punished a number of American companies, including Microsoft and Intel, with heavy fines for hampering fair competition.
+3 default entities: GPE American, ORGANIZATION Microsoft, ORGANIZATION Intel
+3 custom entities: GPE American, ORGANIZATION Microsoft, ORGANIZATION Intel
+
+Source Sentence and Source Headline Match:
+The commission has broad authority over local and foreign companies, and it has punished a number of American companies, including Microsoft and Intel, with heavy fines for hampering fair competition.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The commission has broad authority over local and foreign companies, and it has punished a number of American companies, including Microsoft and Intel, with heavy fines for hampering fair competition.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The commission has broad authority over local and foreign companies, and it has punished a number of American companies, including Microsoft and Intel, with heavy fines for hampering fair competition.
+The BND used thousands of "selectors" sent by the NSA that included IP addresses, emails, and phone numbers.
+2 matches: include, number
+
+----------------
+
+sent_35:
+35 out of 81 sentences
+16 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The reports say that spies intercepted Mr. Almunia’s communications in 2008 and 2009.
+1 default entities: PERSON Mr. Almunia
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The reports say that spies intercepted Mr. Almunia’s communications in 2008 and 2009.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+1 matches: spy
+
+Source Sentence and Story Headline Match:
+The reports say that spies intercepted Mr. Almunia’s communications in 2008 and 2009.
+German intelligence agency helped NSA spy in Europe.
+1 matches: spy
+
+Source Sentence and Best Story Sentence Match:
+The reports say that spies intercepted Mr. Almunia’s communications in 2008 and 2009.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+2 matches: report, spy
+
+----------------
+
+sent_36:
+36 out of 81 sentences
+17 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Mr. Almunia, a Spaniard, assumed direct authority over the commission’s antitrust office in 2010.
+2 default entities: PERSON Mr. Almunia, ORGANIZATION Spaniard
+1 custom entities: ORGANIZATION Spaniard
+
+Source Sentence and Source Headline Match:
+Mr. Almunia, a Spaniard, assumed direct authority over the commission’s antitrust office in 2010.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Mr. Almunia, a Spaniard, assumed direct authority over the commission’s antitrust office in 2010.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Mr. Almunia, a Spaniard, assumed direct authority over the commission’s antitrust office in 2010.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+1 matches: almunia
+
+----------------
+
+sent_37:
+37 out of 81 sentences
+17 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He has been involved in a three-year standoff with Google over how the company runs its search engine.
+1 default entities: PERSON Google
+1 custom entities: PERSON Google
+
+Source Sentence and Source Headline Match:
+He has been involved in a three-year standoff with Google over how the company runs its search engine.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+He has been involved in a three-year standoff with Google over how the company runs its search engine.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+He has been involved in a three-year standoff with Google over how the company runs its search engine.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+1 matches: company
+
+----------------
+
+sent_38:
+38 out of 81 sentences
+17 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Competitors of the online giant had complained that it was prioritizing its own search results and using content like travel reviews and ratings from other websites without permission.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Competitors of the online giant had complained that it was prioritizing its own search results and using content like travel reviews and ratings from other websites without permission.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Competitors of the online giant had complained that it was prioritizing its own search results and using content like travel reviews and ratings from other websites without permission.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Competitors of the online giant had complained that it was prioritizing its own search results and using content like travel reviews and ratings from other websites without permission.
+The BND used thousands of "selectors" sent by the NSA that included IP addresses, emails, and phone numbers.
+1 matches: use
+
+----------------
+
+sent_39:
+39 out of 81 sentences
+17 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+While pushing for a settlement with Google, Mr. Almunia has warned that the company could face large fines if it does not cooperate.
+2 default entities: PERSON Google, PERSON Mr. Almunia
+1 custom entities: PERSON Google Mr Almunia
+
+Source Sentence and Source Headline Match:
+While pushing for a settlement with Google, Mr. Almunia has warned that the company could face large fines if it does not cooperate.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+While pushing for a settlement with Google, Mr. Almunia has warned that the company could face large fines if it does not cooperate.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+While pushing for a settlement with Google, Mr. Almunia has warned that the company could face large fines if it does not cooperate.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+1 matches: company
+
+----------------
+
+sent_40:
+40 out of 81 sentences
+18 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The surveillance reports do not specify whether the interceptions of Mr. Almunia’s communications were requested by the N.S.A.
+1 default entities: PERSON Mr. Almunia
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The surveillance reports do not specify whether the interceptions of Mr. Almunia’s communications were requested by the N.S.A.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+1 matches: n.s.a
+
+Source Sentence and Story Headline Match:
+The surveillance reports do not specify whether the interceptions of Mr. Almunia’s communications were requested by the N.S.A.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The surveillance reports do not specify whether the interceptions of Mr. Almunia’s communications were requested by the N.S.A.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+1 matches: report
+
+----------------
+
+sent_41:
+41 out of 81 sentences
+18 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+or British spies.
+1 default entities: GPE British
+1 custom entities: GPE British
+
+Source Sentence and Source Headline Match:
+or British spies.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+1 matches: spy
+
+Source Sentence and Story Headline Match:
+or British spies.
+German intelligence agency helped NSA spy in Europe.
+1 matches: spy
+
+Source Sentence and Best Story Sentence Match:
+or British spies.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+1 matches: spy
+
+----------------
+
+sent_42:
+42 out of 81 sentences
+18 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Nor do the reports make clear whether he was a longstanding surveillance target or swept up as part of a fleeting operation.
+1 default entities: GPE Nor
+1 custom entities: GPE Nor
+
+Source Sentence and Source Headline Match:
+Nor do the reports make clear whether he was a longstanding surveillance target or swept up as part of a fleeting operation.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Nor do the reports make clear whether he was a longstanding surveillance target or swept up as part of a fleeting operation.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Nor do the reports make clear whether he was a longstanding surveillance target or swept up as part of a fleeting operation.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+2 matches: report, target
+
+----------------
+
+sent_43:
+43 out of 81 sentences
+18 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+Contacted by The Times, Mr. Almunia said he was “strongly upset” about the spying.
+2 default entities: GPE Times, PERSON Mr. Almunia
+2 custom entities: ORGANIZATION Times, PERSON Almunia
+
+Source Sentence and Source Headline Match:
+Contacted by The Times, Mr. Almunia said he was “strongly upset” about the spying.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Contacted by The Times, Mr. Almunia said he was “strongly upset” about the spying.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Contacted by The Times, Mr. Almunia said he was “strongly upset” about the spying.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+3 matches: spying, almunia, time
+
+----------------
+
+sent_44:
+44 out of 81 sentences
+19 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+Ms. Hansen, the spokeswoman for the European Commission, said that it was already engaged in talks with the United States that were “needed to restore trust and confidence in the trans-Atlantic relationship.” She added that “the commission will raise these new allegations with U.S. and U.K. authorities.”
+3 default entities: ORGANIZATION European Commission, GPE United States, GPE U.S.
+2 custom entities: ORGANIZATION European Commission, GPE United States
+
+Source Sentence and Source Headline Match:
+Ms. Hansen, the spokeswoman for the European Commission, said that it was already engaged in talks with the United States that were “needed to restore trust and confidence in the trans-Atlantic relationship.” She added that “the commission will raise these new allegations with U.S. and U.K. authorities.”
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Ms. Hansen, the spokeswoman for the European Commission, said that it was already engaged in talks with the United States that were “needed to restore trust and confidence in the trans-Atlantic relationship.” She added that “the commission will raise these new allegations with U.S. and U.K. authorities.”
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Ms. Hansen, the spokeswoman for the European Commission, said that it was already engaged in talks with the United States that were “needed to restore trust and confidence in the trans-Atlantic relationship.” She added that “the commission will raise these new allegations with U.S. and U.K. authorities.”
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+3 matches: commission, new, european
+
+----------------
+
+sent_45:
+45 out of 81 sentences
+20 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In a statement, the N.S.A.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+In a statement, the N.S.A.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+1 matches: n.s.a
+
+Source Sentence and Story Headline Match:
+In a statement, the N.S.A.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_46:
+46 out of 81 sentences
+20 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+denied that it had ever carried out espionage to benefit American businesses.
+1 default entities: GPE American
+1 custom entities: GPE American
+
+Source Sentence and Source Headline Match:
+denied that it had ever carried out espionage to benefit American businesses.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+1 matches: business
+
+Source Sentence and Story Headline Match:
+denied that it had ever carried out espionage to benefit American businesses.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+denied that it had ever carried out espionage to benefit American businesses.
+A 31-year-old German intelligence worker was arrested in July 2014 on accusations of passing information about the parliamentary inquiry into the NSA to an American contact.
+1 matches: american
+
+----------------
+
+sent_47:
+47 out of 81 sentences
+21 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+“We do not use our foreign intelligence capabilities to steal the trade secrets of foreign companies on behalf of — or give intelligence we collect to — U.S. companies to enhance their international competitiveness or increase their bottom line,” said Vanee Vines, an N.S.A.
+2 default entities: GPE U.S., PERSON Vanee Vines
+1 custom entities: PERSON Vanee Vines
+
+Source Sentence and Source Headline Match:
+“We do not use our foreign intelligence capabilities to steal the trade secrets of foreign companies on behalf of — or give intelligence we collect to — U.S. companies to enhance their international competitiveness or increase their bottom line,” said Vanee Vines, an N.S.A.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+1 matches: n.s.a
+
+Source Sentence and Story Headline Match:
+“We do not use our foreign intelligence capabilities to steal the trade secrets of foreign companies on behalf of — or give intelligence we collect to — U.S. companies to enhance their international competitiveness or increase their bottom line,” said Vanee Vines, an N.S.A.
+German intelligence agency helped NSA spy in Europe.
+1 matches: intelligence
+
+Source Sentence and Best Story Sentence Match:
+“We do not use our foreign intelligence capabilities to steal the trade secrets of foreign companies on behalf of — or give intelligence we collect to — U.S. companies to enhance their international competitiveness or increase their bottom line,” said Vanee Vines, an N.S.A.
+Snowden said he wanted to testify before the committee in Berlin, but the German government could not give assurances that he wouldn't be detained and extradited to the U.S.
+3 matches: say, give, u.s
+
+----------------
+
+sent_48:
+48 out of 81 sentences
+21 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+spokeswoman.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+spokeswoman.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+spokeswoman.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_49:
+49 out of 81 sentences
+22 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But she added that some economic spying was justified by national security needs.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+But she added that some economic spying was justified by national security needs.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+But she added that some economic spying was justified by national security needs.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+But she added that some economic spying was justified by national security needs.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+2 matches: national, security
+
+----------------
+
+sent_50:
+50 out of 81 sentences
+22 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+“The intelligence community’s efforts to understand economic systems and policies, and monitor anomalous economic activities, are critical to providing policy makers with the information they need to make informed decisions that are in the best interest of our national security,” Ms. Vines said.
+1 default entities: PERSON Vines
+1 custom entities: PERSON Vines
+
+Source Sentence and Source Headline Match:
+“The intelligence community’s efforts to understand economic systems and policies, and monitor anomalous economic activities, are critical to providing policy makers with the information they need to make informed decisions that are in the best interest of our national security,” Ms. Vines said.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“The intelligence community’s efforts to understand economic systems and policies, and monitor anomalous economic activities, are critical to providing policy makers with the information they need to make informed decisions that are in the best interest of our national security,” Ms. Vines said.
+German intelligence agency helped NSA spy in Europe.
+1 matches: intelligence
+
+Source Sentence and Best Story Sentence Match:
+“The intelligence community’s efforts to understand economic systems and policies, and monitor anomalous economic activities, are critical to providing policy makers with the information they need to make informed decisions that are in the best interest of our national security,” Ms. Vines said.
+Friedrich, Germany's minister responsible for national security said he is keen to speak to Snowden over allegations that the NSA monitored Chancellor Angela Merkel's phone calls.
+4 matches: monitor, national, security, say
+
+----------------
+
+sent_51:
+51 out of 81 sentences
+23 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+Spies have a freer hand with economic targets in Britain, where the law permits intelligence gathering in the service of the “economic well-being” of the country.
+1 default entities: GPE Britain
+1 custom entities: GPE Britain
+
+Source Sentence and Source Headline Match:
+Spies have a freer hand with economic targets in Britain, where the law permits intelligence gathering in the service of the “economic well-being” of the country.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+1 matches: spy
+
+Source Sentence and Story Headline Match:
+Spies have a freer hand with economic targets in Britain, where the law permits intelligence gathering in the service of the “economic well-being” of the country.
+German intelligence agency helped NSA spy in Europe.
+2 matches: spy, intelligence
+
+Source Sentence and Best Story Sentence Match:
+Spies have a freer hand with economic targets in Britain, where the law permits intelligence gathering in the service of the “economic well-being” of the country.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+2 matches: spy, intelligence
+
+----------------
+
+sent_52:
+52 out of 81 sentences
+23 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+A GCHQ spokesman said that its policy was not to comment on intelligence matters, but that the agency “takes its obligations under the law very seriously.”
+1 default entities: ORGANIZATION GCHQ
+1 custom entities: ORGANIZATION GCHQ
+
+Source Sentence and Source Headline Match:
+A GCHQ spokesman said that its policy was not to comment on intelligence matters, but that the agency “takes its obligations under the law very seriously.”
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+A GCHQ spokesman said that its policy was not to comment on intelligence matters, but that the agency “takes its obligations under the law very seriously.”
+German intelligence agency helped NSA spy in Europe.
+2 matches: intelligence, agency
+
+Source Sentence and Best Story Sentence Match:
+A GCHQ spokesman said that its policy was not to comment on intelligence matters, but that the agency “takes its obligations under the law very seriously.”
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+2 matches: intelligence, agency
+
+----------------
+
+sent_53:
+53 out of 81 sentences
+24 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+At the request of GCHQ, The Times agreed to withhold some details from the documents because of security concerns.
+2 default entities: ORGANIZATION GCHQ, PERSON Times
+2 custom entities: ORGANIZATION GCHQ, PERSON Times
+
+Source Sentence and Source Headline Match:
+At the request of GCHQ, The Times agreed to withhold some details from the documents because of security concerns.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+At the request of GCHQ, The Times agreed to withhold some details from the documents because of security concerns.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+At the request of GCHQ, The Times agreed to withhold some details from the documents because of security concerns.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+2 matches: gchq, time
+
+----------------
+
+sent_54:
+54 out of 81 sentences
+25 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The surveillance reports show American and British spies’ deep appetite for information.
+2 default entities: GPE American, GPE British
+2 custom entities: GPE American, GPE British
+
+Source Sentence and Source Headline Match:
+The surveillance reports show American and British spies’ deep appetite for information.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+1 matches: spy
+
+Source Sentence and Story Headline Match:
+The surveillance reports show American and British spies’ deep appetite for information.
+German intelligence agency helped NSA spy in Europe.
+1 matches: spy
+
+Source Sentence and Best Story Sentence Match:
+The surveillance reports show American and British spies’ deep appetite for information.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+2 matches: report, spy
+
+----------------
+
+sent_55:
+55 out of 81 sentences
+25 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+The French companies Total, the oil and gas giant, and Thales, an electronics, logistics and transportation outfit, appear as targets, as do a French ambassador, an “Estonian Skype security team” and the German Embassy in Rwanda.
+6 default entities: GPE French, PERSON Total, GPE Thales, GPE French, ORGANIZATION German Embassy, GSP Rwanda
+6 custom entities: GPE French, GPE Thales, GPE French, GPE Estonian, ORGANIZATION German Embassy, GSP Rwanda
+
+Source Sentence and Source Headline Match:
+The French companies Total, the oil and gas giant, and Thales, an electronics, logistics and transportation outfit, appear as targets, as do a French ambassador, an “Estonian Skype security team” and the German Embassy in Rwanda.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The French companies Total, the oil and gas giant, and Thales, an electronics, logistics and transportation outfit, appear as targets, as do a French ambassador, an “Estonian Skype security team” and the German Embassy in Rwanda.
+German intelligence agency helped NSA spy in Europe.
+1 matches: german
+
+Source Sentence and Best Story Sentence Match:
+The French companies Total, the oil and gas giant, and Thales, an electronics, logistics and transportation outfit, appear as targets, as do a French ambassador, an “Estonian Skype security team” and the German Embassy in Rwanda.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+1 matches: security
+
+----------------
+
+sent_56:
+56 out of 81 sentences
+26 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Germany is especially sensitive about American spying since reports emerged that the agency listened to Chancellor Angela Merkel’s cellphone calls.
+3 default entities: GPE Germany, GPE American, PERSON Chancellor Angela Merkel
+3 custom entities: GPE Germany, GPE American, PERSON Chancellor Angela
+
+Source Sentence and Source Headline Match:
+Germany is especially sensitive about American spying since reports emerged that the agency listened to Chancellor Angela Merkel’s cellphone calls.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Germany is especially sensitive about American spying since reports emerged that the agency listened to Chancellor Angela Merkel’s cellphone calls.
+German intelligence agency helped NSA spy in Europe.
+1 matches: agency
+
+Source Sentence and Best Story Sentence Match:
+Germany is especially sensitive about American spying since reports emerged that the agency listened to Chancellor Angela Merkel’s cellphone calls.
+Der Spiegel in 2013 revealed the NSA's Special Collection Service may have been monitoring Chancellor Angela Merkel's mobile phone since 2002.
+3 matches: angela, since, chancellor
+
+----------------
+
+sent_57:
+57 out of 81 sentences
+26 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Negotiations for a proposed agreement between Germany and the United States on spying rules have recently stalled for several reasons, including the United States’ guarantee only that it would never spy on the chancellor — a promise it has refused to extend to other German officials.
+4 default entities: GPE Germany, GPE United States, GPE United States, GPE German
+4 custom entities: GPE Germany, GPE United States, GPE United States, GPE German
+
+Source Sentence and Source Headline Match:
+Negotiations for a proposed agreement between Germany and the United States on spying rules have recently stalled for several reasons, including the United States’ guarantee only that it would never spy on the chancellor — a promise it has refused to extend to other German officials.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+1 matches: spy
+
+Source Sentence and Story Headline Match:
+Negotiations for a proposed agreement between Germany and the United States on spying rules have recently stalled for several reasons, including the United States’ guarantee only that it would never spy on the chancellor — a promise it has refused to extend to other German officials.
+German intelligence agency helped NSA spy in Europe.
+2 matches: spy, german
+
+Source Sentence and Best Story Sentence Match:
+Negotiations for a proposed agreement between Germany and the United States on spying rules have recently stalled for several reasons, including the United States’ guarantee only that it would never spy on the chancellor — a promise it has refused to extend to other German officials.
+German officials in Oct. 2014 refused to relinquish intelligence documents that would illuminate the nature of government spy agencies' relationships with the U.S, the AP reported.
+5 matches: would, official, refuse, spy, german
+
+----------------
+
+sent_58:
+58 out of 81 sentences
+27 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Multiple United Nations Missions in Geneva are listed as targets, including Unicef and the United Nations Institute for Disarmament Research.
+6 default entities: PERSON Multiple, ORGANIZATION United Nations Missions, GPE Geneva, ORGANIZATION Unicef, ORGANIZATION United Nations Institute, ORGANIZATION Disarmament Research
+6 custom entities: PERSON Multiple, ORGANIZATION United Nations Missions, GPE Geneva, ORGANIZATION Unicef, ORGANIZATION United Nations Institute, ORGANIZATION Disarmament
+
+Source Sentence and Source Headline Match:
+Multiple United Nations Missions in Geneva are listed as targets, including Unicef and the United Nations Institute for Disarmament Research.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Multiple United Nations Missions in Geneva are listed as targets, including Unicef and the United Nations Institute for Disarmament Research.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Multiple United Nations Missions in Geneva are listed as targets, including Unicef and the United Nations Institute for Disarmament Research.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+4 matches: include, target, unicef, list
+
+----------------
+
+sent_59:
+59 out of 81 sentences
+27 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+So is Médecins du Monde, a medical relief organization that goes into war-ravaged areas.
+2 default entities: PERSON Médecins, PERSON Monde
+1 custom entities: PERSON Médecins
+
+Source Sentence and Source Headline Match:
+So is Médecins du Monde, a medical relief organization that goes into war-ravaged areas.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+So is Médecins du Monde, a medical relief organization that goes into war-ravaged areas.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+So is Médecins du Monde, a medical relief organization that goes into war-ravaged areas.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+2 matches: monde, du
+
+----------------
+
+sent_60:
+60 out of 81 sentences
+27 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+Leigh Daynes, an executive director of the organization in Britain, responded to news about the surveillance by saying: “There is absolutely no reason for our operations to be secretly monitored.”
+3 default entities: PERSON Leigh, ORGANIZATION Daynes, GPE Britain
+2 custom entities: PERSON Leigh, GPE Britain
+
+Source Sentence and Source Headline Match:
+Leigh Daynes, an executive director of the organization in Britain, responded to news about the surveillance by saying: “There is absolutely no reason for our operations to be secretly monitored.”
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Leigh Daynes, an executive director of the organization in Britain, responded to news about the surveillance by saying: “There is absolutely no reason for our operations to be secretly monitored.”
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Leigh Daynes, an executive director of the organization in Britain, responded to news about the surveillance by saying: “There is absolutely no reason for our operations to be secretly monitored.”
+Friedrich, Germany's minister responsible for national security said he is keen to speak to Snowden over allegations that the NSA monitored Chancellor Angela Merkel's phone calls.
+2 matches: say, monitor
+
+----------------
+
+sent_61:
+61 out of 81 sentences
+28 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+More obvious intelligence targets are also listed, though in smaller numbers, including people identified as “Israeli grey arms dealer,” “Taleban ministry of refugee affairs” and “various entities in Beijing.” Some of those included are described as possible members of Al Qaeda, and as suspected extremists or jihadists.
+1 default entities: PERSON Al Qaeda
+4 custom entities: GPE Israeli, ORGANIZATION Taleban, GPE Beijing, PERSON Al Qaeda
+
+Source Sentence and Source Headline Match:
+More obvious intelligence targets are also listed, though in smaller numbers, including people identified as “Israeli grey arms dealer,” “Taleban ministry of refugee affairs” and “various entities in Beijing.” Some of those included are described as possible members of Al Qaeda, and as suspected extremists or jihadists.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+More obvious intelligence targets are also listed, though in smaller numbers, including people identified as “Israeli grey arms dealer,” “Taleban ministry of refugee affairs” and “various entities in Beijing.” Some of those included are described as possible members of Al Qaeda, and as suspected extremists or jihadists.
+German intelligence agency helped NSA spy in Europe.
+1 matches: intelligence
+
+Source Sentence and Best Story Sentence Match:
+More obvious intelligence targets are also listed, though in smaller numbers, including people identified as “Israeli grey arms dealer,” “Taleban ministry of refugee affairs” and “various entities in Beijing.” Some of those included are described as possible members of Al Qaeda, and as suspected extremists or jihadists.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+4 matches: include, target, list, israeli
+
+----------------
+
+sent_62:
+62 out of 81 sentences
+29 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+While few if any American citizens appear to be named in the documents, they make clear that some of the intercepted communications either began or ended in the United States and that N.S.A.
+2 default entities: GPE American, GPE United States
+2 custom entities: GPE American, GPE United States
+
+Source Sentence and Source Headline Match:
+While few if any American citizens appear to be named in the documents, they make clear that some of the intercepted communications either began or ended in the United States and that N.S.A.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+1 matches: n.s.a
+
+Source Sentence and Story Headline Match:
+While few if any American citizens appear to be named in the documents, they make clear that some of the intercepted communications either began or ended in the United States and that N.S.A.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+While few if any American citizens appear to be named in the documents, they make clear that some of the intercepted communications either began or ended in the United States and that N.S.A.
+French paper Le Monde reported in Oct. 2013 that documents leaked by Edward Snowden show that from Dec. 10, 2012, to Jan. 7, 2013, the NSA intercepted and collected 70.3 million phone records of French citizens, or about 3 million per day.
+3 matches: document, citizen, intercept
+
+----------------
+
+sent_63:
+63 out of 81 sentences
+29 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+facilities carried out interceptions around the world in collaboration with their British partners.
+1 default entities: GPE British
+1 custom entities: GPE British
+
+Source Sentence and Source Headline Match:
+facilities carried out interceptions around the world in collaboration with their British partners.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+facilities carried out interceptions around the world in collaboration with their British partners.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+facilities carried out interceptions around the world in collaboration with their British partners.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+1 matches: world
+
+----------------
+
+sent_64:
+64 out of 81 sentences
+29 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Some of the interceptions appear to have been made at the Sugar Grove, W.Va., listening post run by the N.S.A.
+1 default entities: ORGANIZATION Sugar Grove
+1 custom entities: ORGANIZATION Sugar Grove
+
+Source Sentence and Source Headline Match:
+Some of the interceptions appear to have been made at the Sugar Grove, W.Va., listening post run by the N.S.A.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+1 matches: n.s.a
+
+Source Sentence and Story Headline Match:
+Some of the interceptions appear to have been made at the Sugar Grove, W.Va., listening post run by the N.S.A.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_65:
+65 out of 81 sentences
+29 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+and code-named Timberline, and some are explicitly tied to N.S.A.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+and code-named Timberline, and some are explicitly tied to N.S.A.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+1 matches: n.s.a
+
+Source Sentence and Story Headline Match:
+and code-named Timberline, and some are explicitly tied to N.S.A.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_66:
+66 out of 81 sentences
+29 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+target lists in the reports.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+target lists in the reports.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+target lists in the reports.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+target lists in the reports.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+3 matches: report, target, list
+
+----------------
+
+sent_67:
+67 out of 81 sentences
+30 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+Many of the reports, written by British teams specializing in Sigint, shorthand for “signals intelligence,” are called “Bude Sigint Development Reports,” referring to a British spy campus on the Cornwall coast.
+5 default entities: GPE British, GPE Sigint, PERSON Sigint Development Reports, GPE British, ORGANIZATION Cornwall
+5 custom entities: GPE British, GPE Sigint, PERSON Bude Sigint Development Reports, GPE British, ORGANIZATION Cornwall
+
+Source Sentence and Source Headline Match:
+Many of the reports, written by British teams specializing in Sigint, shorthand for “signals intelligence,” are called “Bude Sigint Development Reports,” referring to a British spy campus on the Cornwall coast.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+1 matches: spy
+
+Source Sentence and Story Headline Match:
+Many of the reports, written by British teams specializing in Sigint, shorthand for “signals intelligence,” are called “Bude Sigint Development Reports,” referring to a British spy campus on the Cornwall coast.
+German intelligence agency helped NSA spy in Europe.
+2 matches: spy, intelligence
+
+Source Sentence and Best Story Sentence Match:
+Many of the reports, written by British teams specializing in Sigint, shorthand for “signals intelligence,” are called “Bude Sigint Development Reports,” referring to a British spy campus on the Cornwall coast.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+3 matches: report, spy, intelligence
+
+----------------
+
+sent_68:
+68 out of 81 sentences
+30 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The reports often reveal which countries were the endpoints for the intercepted communications, and information on which satellite was carrying the traffic.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The reports often reveal which countries were the endpoints for the intercepted communications, and information on which satellite was carrying the traffic.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The reports often reveal which countries were the endpoints for the intercepted communications, and information on which satellite was carrying the traffic.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The reports often reveal which countries were the endpoints for the intercepted communications, and information on which satellite was carrying the traffic.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+2 matches: report, reveal
+
+----------------
+
+sent_69:
+69 out of 81 sentences
+31 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Strengthening the likelihood that full transcripts were taken during the intercepts is the case of Mohamed Ibn Chambas, an official of the Economic Community of West African States, known as Ecowas, a regional initiative of 15 countries that promotes economic and industrial activity.
+4 default entities: PERSON Mohamed Ibn Chambas, ORGANIZATION Economic, GPE West African States, GPE Ecowas
+4 custom entities: PERSON Mohamed Ibn Chambas, ORGANIZATION Economic, GPE West African States, PERSON Ecowas
+
+Source Sentence and Source Headline Match:
+Strengthening the likelihood that full transcripts were taken during the intercepts is the case of Mohamed Ibn Chambas, an official of the Economic Community of West African States, known as Ecowas, a regional initiative of 15 countries that promotes economic and industrial activity.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Strengthening the likelihood that full transcripts were taken during the intercepts is the case of Mohamed Ibn Chambas, an official of the Economic Community of West African States, known as Ecowas, a regional initiative of 15 countries that promotes economic and industrial activity.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Strengthening the likelihood that full transcripts were taken during the intercepts is the case of Mohamed Ibn Chambas, an official of the Economic Community of West African States, known as Ecowas, a regional initiative of 15 countries that promotes economic and industrial activity.
+German officials in Oct. 2014 refused to relinquish intelligence documents that would illuminate the nature of government spy agencies' relationships with the U.S, the AP reported.
+1 matches: official
+
+----------------
+
+sent_70:
+70 out of 81 sentences
+31 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Whether intentionally or through some oversight, when Mr. Chambas’s communications were intercepted in August 2009, dozens of his complete text messages were copied into one of the reports.
+1 default entities: PERSON Mr. Chambas
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Whether intentionally or through some oversight, when Mr. Chambas’s communications were intercepted in August 2009, dozens of his complete text messages were copied into one of the reports.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Whether intentionally or through some oversight, when Mr. Chambas’s communications were intercepted in August 2009, dozens of his complete text messages were copied into one of the reports.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Whether intentionally or through some oversight, when Mr. Chambas’s communications were intercepted in August 2009, dozens of his complete text messages were copied into one of the reports.
+French paper Le Monde reported in Oct. 2013 that documents leaked by Edward Snowden show that from Dec. 10, 2012, to Jan. 7, 2013, the NSA intercepted and collected 70.3 million phone records of French citizens, or about 3 million per day.
+2 matches: report, intercept
+
+----------------
+
+sent_71:
+71 out of 81 sentences
+32 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Referred to in the transcripts as “Dr.
+1 default entities: GPE Referred
+1 custom entities: GPE Referred
+
+Source Sentence and Source Headline Match:
+Referred to in the transcripts as “Dr.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Referred to in the transcripts as “Dr.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_72:
+72 out of 81 sentences
+32 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Chambers,” he seems to have been monitored during an especially humdrum day or two of travel.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Chambers,” he seems to have been monitored during an especially humdrum day or two of travel.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Chambers,” he seems to have been monitored during an especially humdrum day or two of travel.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Chambers,” he seems to have been monitored during an especially humdrum day or two of travel.
+Der Spiegel in 2013 revealed the NSA's Special Collection Service may have been monitoring Chancellor Angela Merkel's mobile phone since 2002.
+1 matches: monitor
+
+----------------
+
+sent_73:
+73 out of 81 sentences
+32 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+“Am glad yr day was satisfying,” Mr. Chambas texted one acquaintance.
+1 default entities: PERSON Mr. Chambas
+2 custom entities: GPE Am, PERSON Chambas
+
+Source Sentence and Source Headline Match:
+“Am glad yr day was satisfying,” Mr. Chambas texted one acquaintance.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“Am glad yr day was satisfying,” Mr. Chambas texted one acquaintance.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“Am glad yr day was satisfying,” Mr. Chambas texted one acquaintance.
+French paper Le Monde reported in Oct. 2013 that documents leaked by Edward Snowden show that from Dec. 10, 2012, to Jan. 7, 2013, the NSA intercepted and collected 70.3 million phone records of French citizens, or about 3 million per day.
+1 matches: day
+
+----------------
+
+sent_74:
+74 out of 81 sentences
+32 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+“I spent my whole day travelling ... Had to go from Abidjan to Accra to catch a flt to Monrovia ...
+3 default entities: GPE Abidjan, GPE Accra, GPE Monrovia
+4 custom entities: PERSON Had, GPE Abidjan, GPE Accra, GPE Monrovia
+
+Source Sentence and Source Headline Match:
+“I spent my whole day travelling ... Had to go from Abidjan to Accra to catch a flt to Monrovia ...
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“I spent my whole day travelling ... Had to go from Abidjan to Accra to catch a flt to Monrovia ...
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“I spent my whole day travelling ... Had to go from Abidjan to Accra to catch a flt to Monrovia ...
+French paper Le Monde reported in Oct. 2013 that documents leaked by Edward Snowden show that from Dec. 10, 2012, to Jan. 7, 2013, the NSA intercepted and collected 70.3 million phone records of French citizens, or about 3 million per day.
+1 matches: day
+
+----------------
+
+sent_75:
+75 out of 81 sentences
+32 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+The usual saga of intra afr.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The usual saga of intra afr.”
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The usual saga of intra afr.”
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_76:
+76 out of 81 sentences
+33 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+Later he recommended a book, “A Colonial History of Northern Ghana,” to the same person.
+1 default entities: GPE Northern Ghana
+1 custom entities: GPE Northern
+
+Source Sentence and Source Headline Match:
+Later he recommended a book, “A Colonial History of Northern Ghana,” to the same person.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Later he recommended a book, “A Colonial History of Northern Ghana,” to the same person.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_77:
+77 out of 81 sentences
+33 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+“Interesting and informative,” Mr. Chambas texted.
+1 default entities: PERSON Mr. Chambas
+1 custom entities: PERSON Chambas
+
+Source Sentence and Source Headline Match:
+“Interesting and informative,” Mr. Chambas texted.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“Interesting and informative,” Mr. Chambas texted.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“Interesting and informative,” Mr. Chambas texted.
+"We will find a way, if Mr. Snowden is willing to talk."
+1 matches: mr
+
+----------------
+
+sent_78:
+78 out of 81 sentences
+33 out of 34 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The high point of his day was receiving an award in Liberia, but soon he was busy working out logistics for future appointments.
+1 default entities: GPE Liberia
+1 custom entities: GSP Liberia
+
+Source Sentence and Source Headline Match:
+The high point of his day was receiving an award in Liberia, but soon he was busy working out logistics for future appointments.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The high point of his day was receiving an award in Liberia, but soon he was busy working out logistics for future appointments.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The high point of his day was receiving an award in Liberia, but soon he was busy working out logistics for future appointments.
+French paper Le Monde reported in Oct. 2013 that documents leaked by Edward Snowden show that from Dec. 10, 2012, to Jan. 7, 2013, the NSA intercepted and collected 70.3 million phone records of French citizens, or about 3 million per day.
+1 matches: day
+
+----------------
+
+sent_79:
+79 out of 81 sentences
+34 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+“Where is the conference pl?
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“Where is the conference pl?
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“Where is the conference pl?
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_80:
+80 out of 81 sentences
+34 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+Didnt get the invt,” he texted another contact.
+1 default entities: GPE Didnt
+1 custom entities: GPE Didnt
+
+Source Sentence and Source Headline Match:
+Didnt get the invt,” he texted another contact.
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Didnt get the invt,” he texted another contact.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Didnt get the invt,” he texted another contact.
+A 31-year-old German intelligence worker was arrested in July 2014 on accusations of passing information about the parliamentary inquiry into the NSA to an American contact.
+1 matches: contact
+
+----------------
+
+sent_81:
+81 out of 81 sentences
+34 out of 34 paragraphs
+Tagged as a quote
+
+Sentence:
+He discussed further details before adding, perhaps wistfully, given his grinding travel schedule: “Have a restful Sunday.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+He discussed further details before adding, perhaps wistfully, given his grinding travel schedule: “Have a restful Sunday.”
+N.S.A. Spied on Allies, Aid Groups and Businesses.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+He discussed further details before adding, perhaps wistfully, given his grinding travel schedule: “Have a restful Sunday.”
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+He discussed further details before adding, perhaps wistfully, given his grinding travel schedule: “Have a restful Sunday.”
+He said a system was set up to "insulate" European leaders from potential backlash in case details of the partnership emerged.
+1 matches: detail
+
+----------------
+

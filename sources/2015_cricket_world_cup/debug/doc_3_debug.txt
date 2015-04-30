@@ -1,0 +1,422 @@
+sent_1:
+1 out of 16 sentences
+1 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Scotland will need time to get over the disappointment of their one-wicket World Cup defeat by Afghanistan, according to captain Preston Mommsen.
+3 default entities: GPE Scotland, GPE Afghanistan, PERSON Preston Mommsen
+3 custom entities: GPE Scotland, GPE Afghanistan, PERSON Preston Mommsen
+
+Source Sentence and Source Headline Match:
+Scotland will need time to get over the disappointment of their one-wicket World Cup defeat by Afghanistan, according to captain Preston Mommsen.
+Cricket World Cup: Scotland 'must get over Afghanistan defeat'.
+6 matches: afghanistan, world, defeat, cup, get, scotland
+
+Source Sentence and Story Headline Match:
+Scotland will need time to get over the disappointment of their one-wicket World Cup defeat by Afghanistan, according to captain Preston Mommsen.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+2 matches: cup, world
+
+Source Sentence and Best Story Sentence Match:
+Scotland will need time to get over the disappointment of their one-wicket World Cup defeat by Afghanistan, according to captain Preston Mommsen.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+5 matches: cup, afghanistan, defeat, world, scotland
+
+----------------
+
+sent_2:
+2 out of 16 sentences
+2 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Afghanistan recovered from 97-7 to overhaul 210 in the final over and deny Scotland a first World Cup win.
+1 default entities: GPE Afghanistan
+1 custom entities: GPE Afghanistan
+
+Source Sentence and Source Headline Match:
+Afghanistan recovered from 97-7 to overhaul 210 in the final over and deny Scotland a first World Cup win.
+Cricket World Cup: Scotland 'must get over Afghanistan defeat'.
+4 matches: cup, afghanistan, world, scotland
+
+Source Sentence and Story Headline Match:
+Afghanistan recovered from 97-7 to overhaul 210 in the final over and deny Scotland a first World Cup win.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+3 matches: cup, win, world
+
+Source Sentence and Best Story Sentence Match:
+Afghanistan recovered from 97-7 to overhaul 210 in the final over and deny Scotland a first World Cup win.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+6 matches: win, afghanistan, world, cup, first, scotland
+
+----------------
+
+sent_3:
+3 out of 16 sentences
+3 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+"It's a very difficult day," Mommsen told the BBC's Test Match Special.
+3 default entities: PERSON Mommsen, ORGANIZATION BBC, PERSON Test Match Special
+2 custom entities: PERSON Mommsen, PERSON Match Special
+
+Source Sentence and Source Headline Match:
+"It's a very difficult day," Mommsen told the BBC's Test Match Special.
+Cricket World Cup: Scotland 'must get over Afghanistan defeat'.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"It's a very difficult day," Mommsen told the BBC's Test Match Special.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_4:
+4 out of 16 sentences
+3 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+"There was a lot riding on this, a huge opportunity to get that first win.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"There was a lot riding on this, a huge opportunity to get that first win.
+Cricket World Cup: Scotland 'must get over Afghanistan defeat'.
+1 matches: get
+
+Source Sentence and Story Headline Match:
+"There was a lot riding on this, a huge opportunity to get that first win.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+1 matches: win
+
+Source Sentence and Best Story Sentence Match:
+"There was a lot riding on this, a huge opportunity to get that first win.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+2 matches: win, first
+
+----------------
+
+sent_5:
+5 out of 16 sentences
+4 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+"Regrettably, it wasn't to be.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"Regrettably, it wasn't to be.
+Cricket World Cup: Scotland 'must get over Afghanistan defeat'.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"Regrettably, it wasn't to be.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_6:
+6 out of 16 sentences
+4 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+It will take a couple of days to get over it."
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It will take a couple of days to get over it."
+Cricket World Cup: Scotland 'must get over Afghanistan defeat'.
+1 matches: get
+
+Source Sentence and Story Headline Match:
+It will take a couple of days to get over it."
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_7:
+7 out of 16 sentences
+5 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Scotland, who have never won a World Cup match, had earlier slumped to 144-8, only to be taken to their highest score in the tournament by a ninth-wicket partnership of 62 between Majid Haq and Alasdair Evans.
+3 default entities: GPE Scotland, PERSON Majid Haq, PERSON Alasdair Evans
+3 custom entities: GPE Scotland, PERSON Majid Haq, PERSON Alasdair Evans
+
+Source Sentence and Source Headline Match:
+Scotland, who have never won a World Cup match, had earlier slumped to 144-8, only to be taken to their highest score in the tournament by a ninth-wicket partnership of 62 between Majid Haq and Alasdair Evans.
+Cricket World Cup: Scotland 'must get over Afghanistan defeat'.
+3 matches: cup, world, scotland
+
+Source Sentence and Story Headline Match:
+Scotland, who have never won a World Cup match, had earlier slumped to 144-8, only to be taken to their highest score in the tournament by a ninth-wicket partnership of 62 between Majid Haq and Alasdair Evans.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+3 matches: cup, win, world
+
+Source Sentence and Best Story Sentence Match:
+Scotland, who have never won a World Cup match, had earlier slumped to 144-8, only to be taken to their highest score in the tournament by a ninth-wicket partnership of 62 between Majid Haq and Alasdair Evans.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+4 matches: cup, win, world, scotland
+
+----------------
+
+sent_8:
+8 out of 16 sentences
+6 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Afghanistan then suffered their own collapse of five wickets for 12 runs, but Samiullah Shenwari's 96 took them to the brink of victory, with last man Shapoor Zadran hitting the winning runs with three balls to spare.
+3 default entities: GPE Afghanistan, PERSON Samiullah Shenwari, PERSON Shapoor Zadran
+3 custom entities: GPE Afghanistan, PERSON Samiullah, PERSON Shapoor Zadran
+
+Source Sentence and Source Headline Match:
+Afghanistan then suffered their own collapse of five wickets for 12 runs, but Samiullah Shenwari's 96 took them to the brink of victory, with last man Shapoor Zadran hitting the winning runs with three balls to spare.
+Cricket World Cup: Scotland 'must get over Afghanistan defeat'.
+1 matches: afghanistan
+
+Source Sentence and Story Headline Match:
+Afghanistan then suffered their own collapse of five wickets for 12 runs, but Samiullah Shenwari's 96 took them to the brink of victory, with last man Shapoor Zadran hitting the winning runs with three balls to spare.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+2 matches: win, victory
+
+Source Sentence and Best Story Sentence Match:
+Afghanistan then suffered their own collapse of five wickets for 12 runs, but Samiullah Shenwari's 96 took them to the brink of victory, with last man Shapoor Zadran hitting the winning runs with three balls to spare.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+3 matches: win, afghanistan, wicket
+
+----------------
+
+sent_9:
+9 out of 16 sentences
+7 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+"With the bat and the ball we got into winning positions, and in neither innings we managed the killer punch," said batsman Mommsen.
+1 default entities: PERSON Mommsen
+1 custom entities: PERSON Mommsen
+
+Source Sentence and Source Headline Match:
+"With the bat and the ball we got into winning positions, and in neither innings we managed the killer punch," said batsman Mommsen.
+Cricket World Cup: Scotland 'must get over Afghanistan defeat'.
+1 matches: get
+
+Source Sentence and Story Headline Match:
+"With the bat and the ball we got into winning positions, and in neither innings we managed the killer punch," said batsman Mommsen.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_10:
+10 out of 16 sentences
+8 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+"I'm not sure what to put it down to.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"I'm not sure what to put it down to.
+Cricket World Cup: Scotland 'must get over Afghanistan defeat'.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"I'm not sure what to put it down to.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_11:
+11 out of 16 sentences
+8 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+We threw everything at it.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+We threw everything at it.
+Cricket World Cup: Scotland 'must get over Afghanistan defeat'.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+We threw everything at it.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_12:
+12 out of 16 sentences
+9 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+"Small opportunities weren't taken and, the closer it got, the harder it got to bowl them out."
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"Small opportunities weren't taken and, the closer it got, the harder it got to bowl them out."
+Cricket World Cup: Scotland 'must get over Afghanistan defeat'.
+1 matches: get
+
+Source Sentence and Story Headline Match:
+"Small opportunities weren't taken and, the closer it got, the harder it got to bowl them out."
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_13:
+13 out of 16 sentences
+10 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Scotland's 11th successive World Cup defeat in three tournaments since making their debut in 1999 is a record, and their third reverse in this campaign leaves them on the brink of elimination from quarter-final contention.
+1 default entities: GPE Scotland
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Scotland's 11th successive World Cup defeat in three tournaments since making their debut in 1999 is a record, and their third reverse in this campaign leaves them on the brink of elimination from quarter-final contention.
+Cricket World Cup: Scotland 'must get over Afghanistan defeat'.
+3 matches: cup, world, defeat
+
+Source Sentence and Story Headline Match:
+Scotland's 11th successive World Cup defeat in three tournaments since making their debut in 1999 is a record, and their third reverse in this campaign leaves them on the brink of elimination from quarter-final contention.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+2 matches: cup, world
+
+Source Sentence and Best Story Sentence Match:
+Scotland's 11th successive World Cup defeat in three tournaments since making their debut in 1999 is a record, and their third reverse in this campaign leaves them on the brink of elimination from quarter-final contention.
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+3 matches: cup, defeat, world
+
+----------------
+
+sent_14:
+14 out of 16 sentences
+11 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+"It's going to be a huge challenge for us to respond to this," added 27-year-old Mommsen, whose team next play Bangladesh in Nelson on 4 March.
+1 default entities: GPE Nelson
+1 custom entities: GPE Nelson
+
+Source Sentence and Source Headline Match:
+"It's going to be a huge challenge for us to respond to this," added 27-year-old Mommsen, whose team next play Bangladesh in Nelson on 4 March.
+Cricket World Cup: Scotland 'must get over Afghanistan defeat'.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"It's going to be a huge challenge for us to respond to this," added 27-year-old Mommsen, whose team next play Bangladesh in Nelson on 4 March.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_15:
+15 out of 16 sentences
+12 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+"We know Bangladesh are a side we're capable of beating.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"We know Bangladesh are a side we're capable of beating.
+Cricket World Cup: Scotland 'must get over Afghanistan defeat'.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"We know Bangladesh are a side we're capable of beating.
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_16:
+16 out of 16 sentences
+12 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+We've played good cricket in parts in the first three games, but not for long enough."
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+We've played good cricket in parts in the first three games, but not for long enough."
+Cricket World Cup: Scotland 'must get over Afghanistan defeat'.
+1 matches: cricket
+
+Source Sentence and Story Headline Match:
+We've played good cricket in parts in the first three games, but not for long enough."
+Australia wins 5th Cricket World Cup with victory over New Zealand.
+1 matches: cricket
+
+Source Sentence and Best Story Sentence Match:
+We've played good cricket in parts in the first three games, but not for long enough."
+Afghanistan defeated Scotland by a single wicket, its first ever Cricket World Cup win, in Dunedin, New Zealand on Feb. 24.
+2 matches: first, cricket
+
+----------------
+
