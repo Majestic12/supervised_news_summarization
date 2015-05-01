@@ -1,4 +1,5 @@
 #TODO - windows parsing issue with ascii (ansi) encoding. Tested and works on Mac.
+#TODO - fix inefficient loops and collecting sentences
 import glob, os
 from sys import stdout
 from nltk.tokenize import sent_tokenize, RegexpTokenizer
