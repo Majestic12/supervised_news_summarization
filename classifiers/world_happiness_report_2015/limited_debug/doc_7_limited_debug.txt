@@ -1,0 +1,63 @@
+sent_1:
+
+IRELAND IS THE 18th happiest place on earth – according to the UN.
+The most happy nations in the world according to the 2015 report: Switzerland, Iceland, Denmark, Norway and Canada.
+2 best matches: happy, accord
+
+----------------
+sent_2:
+
+The third World Happiness Report was published today, ranking Ireland ahead of the UK, Germany and France, but a distance behind Switzerland, Iceland and Denmark in the top three places.
+The most happy nations in the world according to the 2015 report: Switzerland, Iceland, Denmark, Norway and Canada.
+5 best matches: report, denmark, world, switzerland, iceland
+
+----------------
+sent_3:
+
+The report issues a score of between one an ten based on polling data taken between 2012 and 2014.
+The third annual World Happiness Report has been released by the United Nations.
+1 best matches: report
+
+----------------
+sent_4:
+
+Ireland scored a 6.94, just behind Luxembourg and half a point behind Switzerland.
+The most happy nations in the world according to the 2015 report: Switzerland, Iceland, Denmark, Norway and Canada.
+1 best matches: switzerland
+
+----------------
+sent_5:
+
+Unfortunately for Ireland, that score is down .204 on our score between 2005 and 2007.
+The U.S. ranked 15th in the 2015 report--ahead of the UK (21nd), Ireland (18th) and Japan (46rd).
+1 best matches: ireland
+
+----------------
+sent_6:
+
+In the same period, Greece is down 1.47 points, but the people of Nicaragua and Zimbabwe are far more happy than they were.
+The most happy nations in the world according to the 2015 report: Switzerland, Iceland, Denmark, Norway and Canada.
+1 best matches: happy
+
+----------------
+sent_7:
+
+reland ranked first in the number of people who say they have someone they can count on – 95% – well above the international average of 80%.
+The U.S. ranked 15th in the 2015 report--ahead of the UK (21nd), Ireland (18th) and Japan (46rd).
+1 best matches: rank
+
+----------------
+sent_8:
+
+The top ten happiest countries – Switzerland, Iceland, Denmark, Norway, Canada, Finland, Netherlands, Sweden, New Zealand and Australia – are all small to mid-sized western economies, while the bottom countries – Togo, Burundi, Syria, Benin, Rwanda – are all developing nations.
+The most happy nations in the world according to the 2015 report: Switzerland, Iceland, Denmark, Norway and Canada.
+6 best matches: nation, norway, denmark, iceland, canada, switzerland
+
+----------------
+sent_9:
+
+The report tasked leading experts across fields – economics, psychology, survey analysis, national statistics, health, public policy and more – to measure the progress of nations.
+The third annual World Happiness Report has been released by the United Nations.
+2 best matches: report, nation
+
+----------------

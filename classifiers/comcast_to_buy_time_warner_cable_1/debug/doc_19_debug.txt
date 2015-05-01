@@ -1,0 +1,1213 @@
+sent_1:
+1 out of 44 sentences
+1 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Hearing designation order would be setback for deal plans.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Hearing designation order would be setback for deal plans.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Hearing designation order would be setback for deal plans.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Hearing designation order would be setback for deal plans.
+"Citing unnamed sources, the Wall Street Journal reported April 22 that the FCC is now considering issuing a "hearing designation order" for Comcast's proposed merger with Time Warner Cable.
+2 matches: order, designation
+
+----------------
+
+sent_2:
+2 out of 44 sentences
+2 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Federal Communications Commission’s staff threw up a significant roadblock Wednesday to Comcast Corp.’s proposed acquisition of Time Warner Cable Inc., recommending a procedural move that could potentially sink one of the media industry’s biggest mergers in years.
+3 default entities: ORGANIZATION Federal Communications Commission, ORGANIZATION Comcast Corp., ORGANIZATION Time Warner Cable Inc.
+3 custom entities: ORGANIZATION Federal Communications, ORGANIZATION Comcast, ORGANIZATION Time Warner Cable Inc
+
+Source Sentence and Source Headline Match:
+The Federal Communications Commission’s staff threw up a significant roadblock Wednesday to Comcast Corp.’s proposed acquisition of Time Warner Cable Inc., recommending a procedural move that could potentially sink one of the media industry’s biggest mergers in years.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+4 matches: cable, staff, merger, warner
+
+Source Sentence and Story Headline Match:
+The Federal Communications Commission’s staff threw up a significant roadblock Wednesday to Comcast Corp.’s proposed acquisition of Time Warner Cable Inc., recommending a procedural move that could potentially sink one of the media industry’s biggest mergers in years.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: merger
+
+Source Sentence and Best Story Sentence Match:
+The Federal Communications Commission’s staff threw up a significant roadblock Wednesday to Comcast Corp.’s proposed acquisition of Time Warner Cable Inc., recommending a procedural move that could potentially sink one of the media industry’s biggest mergers in years.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+5 matches: warner, cable, merger, time, comcast
+
+----------------
+
+sent_3:
+3 out of 44 sentences
+3 out of 26 paragraphs
+Tagged as a quote
+
+Sentence:
+The FCC staff reached a conclusion that the best option for the FCC is to issue a “hearing designation order,” according to people familiar with the matter.
+2 default entities: ORGANIZATION FCC, ORGANIZATION FCC
+2 custom entities: ORGANIZATION FCC, ORGANIZATION FCC
+
+Source Sentence and Source Headline Match:
+The FCC staff reached a conclusion that the best option for the FCC is to issue a “hearing designation order,” according to people familiar with the matter.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+3 matches: hearing, staff, fcc
+
+Source Sentence and Story Headline Match:
+The FCC staff reached a conclusion that the best option for the FCC is to issue a “hearing designation order,” according to people familiar with the matter.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: fcc
+
+Source Sentence and Best Story Sentence Match:
+The FCC staff reached a conclusion that the best option for the FCC is to issue a “hearing designation order,” according to people familiar with the matter.
+"Citing unnamed sources, the Wall Street Journal reported April 22 that the FCC is now considering issuing a "hearing designation order" for Comcast's proposed merger with Time Warner Cable.
+5 matches: hearing, order, fcc, designation, issue
+
+----------------
+
+sent_4:
+4 out of 44 sentences
+3 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In effect, that would put the $45.2 billion merger in the hands of an administrative law judge, and would be seen as a strong sign the FCC doesn’t believe the deal is in the public interest.
+1 default entities: ORGANIZATION FCC
+1 custom entities: ORGANIZATION FCC
+
+Source Sentence and Source Headline Match:
+In effect, that would put the $45.2 billion merger in the hands of an administrative law judge, and would be seen as a strong sign the FCC doesn’t believe the deal is in the public interest.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+2 matches: merger, fcc
+
+Source Sentence and Story Headline Match:
+In effect, that would put the $45.2 billion merger in the hands of an administrative law judge, and would be seen as a strong sign the FCC doesn’t believe the deal is in the public interest.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+3 matches: judge, merger, fcc
+
+Source Sentence and Best Story Sentence Match:
+In effect, that would put the $45.2 billion merger in the hands of an administrative law judge, and would be seen as a strong sign the FCC doesn’t believe the deal is in the public interest.
+This procedural move suggests the agency does not view the merger as being in the public interest, leaving approval in the hands of an administrative law judge."
+7 matches: hand, administrative, law, public, judge, merger, interest
+
+----------------
+
+sent_5:
+5 out of 44 sentences
+4 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Comcast and Time Warner Cable may still have an opportunity to weigh in on the matter before the proceeding moves forward, people familiar with the situation said.
+2 default entities: GPE Comcast, ORGANIZATION Time Warner
+2 custom entities: GPE Comcast, ORGANIZATION Time Warner
+
+Source Sentence and Source Headline Match:
+Comcast and Time Warner Cable may still have an opportunity to weigh in on the matter before the proceeding moves forward, people familiar with the situation said.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+2 matches: cable, warner
+
+Source Sentence and Story Headline Match:
+Comcast and Time Warner Cable may still have an opportunity to weigh in on the matter before the proceeding moves forward, people familiar with the situation said.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Comcast and Time Warner Cable may still have an opportunity to weigh in on the matter before the proceeding moves forward, people familiar with the situation said.
+saying that they don't like Comcast or they don't like Time Warner Cable."
+5 matches: warner, cable, say, time, comcast
+
+----------------
+
+sent_6:
+6 out of 44 sentences
+4 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Those people cautioned that the situation remains fluid and no final decision has been made.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Those people cautioned that the situation remains fluid and no final decision has been made.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Those people cautioned that the situation remains fluid and no final decision has been made.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Those people cautioned that the situation remains fluid and no final decision has been made.
+"When Comcast makes a promise to act, it is comforting to know that they will always follow through.
+1 matches: make
+
+----------------
+
+sent_7:
+7 out of 44 sentences
+5 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A hearing could be a drawn-out process, and some regulatory experts describe the procedure as a deal-killer, though Comcast would be entitled to make its case for the tie-up.
+1 default entities: ORGANIZATION Comcast
+1 custom entities: ORGANIZATION Comcast
+
+Source Sentence and Source Headline Match:
+A hearing could be a drawn-out process, and some regulatory experts describe the procedure as a deal-killer, though Comcast would be entitled to make its case for the tie-up.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+1 matches: hearing
+
+Source Sentence and Story Headline Match:
+A hearing could be a drawn-out process, and some regulatory experts describe the procedure as a deal-killer, though Comcast would be entitled to make its case for the tie-up.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+A hearing could be a drawn-out process, and some regulatory experts describe the procedure as a deal-killer, though Comcast would be entitled to make its case for the tie-up.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 matches: would, comcast
+
+----------------
+
+sent_8:
+8 out of 44 sentences
+6 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Comcast executives on Wednesday met with officials at the FCC and the Justice Department, as those regulators’ reviews of the proposed merger enters its final stages.
+3 default entities: GPE Comcast, ORGANIZATION FCC, ORGANIZATION Justice Department
+3 custom entities: GPE Comcast, ORGANIZATION FCC, ORGANIZATION Justice Department
+
+Source Sentence and Source Headline Match:
+Comcast executives on Wednesday met with officials at the FCC and the Justice Department, as those regulators’ reviews of the proposed merger enters its final stages.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+2 matches: merger, fcc
+
+Source Sentence and Story Headline Match:
+Comcast executives on Wednesday met with officials at the FCC and the Justice Department, as those regulators’ reviews of the proposed merger enters its final stages.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+2 matches: merger, fcc
+
+Source Sentence and Best Story Sentence Match:
+Comcast executives on Wednesday met with officials at the FCC and the Justice Department, as those regulators’ reviews of the proposed merger enters its final stages.
+Comcast met with FCC and DOJ officials on April 22 to assuage concerns they have about the merger.
+4 matches: official, merger, fcc, comcast
+
+----------------
+
+sent_9:
+9 out of 44 sentences
+7 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Comcast has previously said its deal is in the public interest because it will bring a better video and broadband experience to Time Warner Cable customers and expand low income broadband options.
+2 default entities: GPE Comcast, PERSON Time Warner Cable
+2 custom entities: GPE Comcast, PERSON Time Warner Cable
+
+Source Sentence and Source Headline Match:
+Comcast has previously said its deal is in the public interest because it will bring a better video and broadband experience to Time Warner Cable customers and expand low income broadband options.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+2 matches: cable, warner
+
+Source Sentence and Story Headline Match:
+Comcast has previously said its deal is in the public interest because it will bring a better video and broadband experience to Time Warner Cable customers and expand low income broadband options.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Comcast has previously said its deal is in the public interest because it will bring a better video and broadband experience to Time Warner Cable customers and expand low income broadband options.
+saying that they don't like Comcast or they don't like Time Warner Cable."
+5 matches: warner, cable, say, time, comcast
+
+----------------
+
+sent_10:
+10 out of 44 sentences
+7 out of 26 paragraphs
+Tagged as a quote
+
+Sentence:
+In a written statement Wednesday, the company confirmed it met with FCC and Justice officials but said, “we do not believe it is appropriate to share the content of those meetings publicly.”
+2 default entities: ORGANIZATION FCC, ORGANIZATION Justice
+2 custom entities: ORGANIZATION FCC, ORGANIZATION Justice
+
+Source Sentence and Source Headline Match:
+In a written statement Wednesday, the company confirmed it met with FCC and Justice officials but said, “we do not believe it is appropriate to share the content of those meetings publicly.”
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+1 matches: fcc
+
+Source Sentence and Story Headline Match:
+In a written statement Wednesday, the company confirmed it met with FCC and Justice officials but said, “we do not believe it is appropriate to share the content of those meetings publicly.”
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: fcc
+
+Source Sentence and Best Story Sentence Match:
+In a written statement Wednesday, the company confirmed it met with FCC and Justice officials but said, “we do not believe it is appropriate to share the content of those meetings publicly.”
+Comcast met with FCC and DOJ officials on April 22 to assuage concerns they have about the merger.
+3 matches: official, meet, fcc
+
+----------------
+
+sent_11:
+11 out of 44 sentences
+8 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Regulatory scrutiny of the deal has intensified in recent weeks.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Regulatory scrutiny of the deal has intensified in recent weeks.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Regulatory scrutiny of the deal has intensified in recent weeks.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Regulatory scrutiny of the deal has intensified in recent weeks.
+"Several other stories in recent days, all based on unnamed sources, have suggested that the Dept.
+1 matches: recent
+
+----------------
+
+sent_12:
+12 out of 44 sentences
+8 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The government is concerned about the influence the combined cable behemoth would have in the broadband and pay-television markets.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The government is concerned about the influence the combined cable behemoth would have in the broadband and pay-television markets.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+1 matches: cable
+
+Source Sentence and Story Headline Match:
+The government is concerned about the influence the combined cable behemoth would have in the broadband and pay-television markets.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The government is concerned about the influence the combined cable behemoth would have in the broadband and pay-television markets.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 matches: cable, would, combine
+
+----------------
+
+sent_13:
+13 out of 44 sentences
+8 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The deal would create a company with control over roughly 30% of the pay-TV market and 57% of the market for broadband Internet service, which the FCC now defines as speeds 25 megabits-per-second and higher.
+1 default entities: ORGANIZATION FCC
+1 custom entities: ORGANIZATION FCC
+
+Source Sentence and Source Headline Match:
+The deal would create a company with control over roughly 30% of the pay-TV market and 57% of the market for broadband Internet service, which the FCC now defines as speeds 25 megabits-per-second and higher.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+1 matches: fcc
+
+Source Sentence and Story Headline Match:
+The deal would create a company with control over roughly 30% of the pay-TV market and 57% of the market for broadband Internet service, which the FCC now defines as speeds 25 megabits-per-second and higher.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: fcc
+
+Source Sentence and Best Story Sentence Match:
+The deal would create a company with control over roughly 30% of the pay-TV market and 57% of the market for broadband Internet service, which the FCC now defines as speeds 25 megabits-per-second and higher.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 matches: would, company
+
+----------------
+
+sent_14:
+14 out of 44 sentences
+9 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Justice Department meeting with Comcast on Wednesday was a chance for both sides to air their views and begin discussing whether there are any concessions the cable companies could offer that would ease the regulators’ worries.
+2 default entities: ORGANIZATION Justice Department, ORGANIZATION Comcast
+2 custom entities: ORGANIZATION Justice Department, ORGANIZATION Comcast
+
+Source Sentence and Source Headline Match:
+The Justice Department meeting with Comcast on Wednesday was a chance for both sides to air their views and begin discussing whether there are any concessions the cable companies could offer that would ease the regulators’ worries.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+1 matches: cable
+
+Source Sentence and Story Headline Match:
+The Justice Department meeting with Comcast on Wednesday was a chance for both sides to air their views and begin discussing whether there are any concessions the cable companies could offer that would ease the regulators’ worries.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The Justice Department meeting with Comcast on Wednesday was a chance for both sides to air their views and begin discussing whether there are any concessions the cable companies could offer that would ease the regulators’ worries.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+4 matches: cable, would, company, comcast
+
+----------------
+
+sent_15:
+15 out of 44 sentences
+10 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Justice officials made clear during the session they had significant concerns about the deal, but it wasn’t a drop-dead meeting and the two sides are expected to continue a dialogue, according to people familiar with the matter.
+1 default entities: GPE Justice
+1 custom entities: GPE Justice
+
+Source Sentence and Source Headline Match:
+Justice officials made clear during the session they had significant concerns about the deal, but it wasn’t a drop-dead meeting and the two sides are expected to continue a dialogue, according to people familiar with the matter.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Justice officials made clear during the session they had significant concerns about the deal, but it wasn’t a drop-dead meeting and the two sides are expected to continue a dialogue, according to people familiar with the matter.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Justice officials made clear during the session they had significant concerns about the deal, but it wasn’t a drop-dead meeting and the two sides are expected to continue a dialogue, according to people familiar with the matter.
+Comcast met with FCC and DOJ officials on April 22 to assuage concerns they have about the merger.
+2 matches: official, concern
+
+----------------
+
+sent_16:
+16 out of 44 sentences
+11 out of 26 paragraphs
+Tagged as a quote
+
+Sentence:
+Justice officials are said to be wary of attempting to address the agency’s concerns through “behavioral remedies,” or pledges by Comcast that it will conduct business in a certain way.
+2 default entities: GPE Justice, ORGANIZATION Comcast
+2 custom entities: GPE Justice, ORGANIZATION Comcast
+
+Source Sentence and Source Headline Match:
+Justice officials are said to be wary of attempting to address the agency’s concerns through “behavioral remedies,” or pledges by Comcast that it will conduct business in a certain way.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Justice officials are said to be wary of attempting to address the agency’s concerns through “behavioral remedies,” or pledges by Comcast that it will conduct business in a certain way.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Justice officials are said to be wary of attempting to address the agency’s concerns through “behavioral remedies,” or pledges by Comcast that it will conduct business in a certain way.
+Comcast met with FCC and DOJ officials on April 22 to assuage concerns they have about the merger.
+3 matches: official, concern, comcast
+
+----------------
+
+sent_17:
+17 out of 44 sentences
+12 out of 26 paragraphs
+Tagged as a quote
+
+Sentence:
+But there might not be a lot of scope for more “structural” conditions on the deal.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+But there might not be a lot of scope for more “structural” conditions on the deal.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+But there might not be a lot of scope for more “structural” conditions on the deal.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+But there might not be a lot of scope for more “structural” conditions on the deal.
+The company denied directly paying any groups for the sole purpose of winning their public support, and said the deal should only be considered from a legal and technical standpoint, and not whether or not the company is well-liked.
+1 matches: deal
+
+----------------
+
+sent_18:
+18 out of 44 sentences
+12 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Comcast and Time Warner Cable already have deals with Charter Communications Inc. to sell or spin off systems serving 3.9 million customers if the merger goes through.
+3 default entities: GPE Comcast, ORGANIZATION Time Warner, ORGANIZATION Charter Communications Inc.
+3 custom entities: GPE Comcast, ORGANIZATION Time Warner, ORGANIZATION Charter Communications Inc
+
+Source Sentence and Source Headline Match:
+Comcast and Time Warner Cable already have deals with Charter Communications Inc. to sell or spin off systems serving 3.9 million customers if the merger goes through.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+3 matches: cable, merger, warner
+
+Source Sentence and Story Headline Match:
+Comcast and Time Warner Cable already have deals with Charter Communications Inc. to sell or spin off systems serving 3.9 million customers if the merger goes through.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: merger
+
+Source Sentence and Best Story Sentence Match:
+Comcast and Time Warner Cable already have deals with Charter Communications Inc. to sell or spin off systems serving 3.9 million customers if the merger goes through.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+5 matches: warner, cable, merger, time, comcast
+
+----------------
+
+sent_19:
+19 out of 44 sentences
+13 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The use of hearing designation orders is rare, but the procedure doesn’t bode well for mergers.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The use of hearing designation orders is rare, but the procedure doesn’t bode well for mergers.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+2 matches: hearing, merger
+
+Source Sentence and Story Headline Match:
+The use of hearing designation orders is rare, but the procedure doesn’t bode well for mergers.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: merger
+
+Source Sentence and Best Story Sentence Match:
+The use of hearing designation orders is rare, but the procedure doesn’t bode well for mergers.
+"Citing unnamed sources, the Wall Street Journal reported April 22 that the FCC is now considering issuing a "hearing designation order" for Comcast's proposed merger with Time Warner Cable.
+4 matches: hearing, order, designation, merger
+
+----------------
+
+sent_20:
+20 out of 44 sentences
+13 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In 2011, AT&T Inc. and T-Mobile USA dropped a planned $39 billion merger after the Justice Department filed an antitrust lawsuit to block the deal and the FCC was preparing to release a hearing designation order on the deal.
+4 default entities: PERSON T Inc., ORGANIZATION USA, ORGANIZATION Justice Department, ORGANIZATION FCC
+4 custom entities: ORGANIZATION AT&T Inc, ORGANIZATION USA, ORGANIZATION Justice Department, ORGANIZATION FCC
+
+Source Sentence and Source Headline Match:
+In 2011, AT&T Inc. and T-Mobile USA dropped a planned $39 billion merger after the Justice Department filed an antitrust lawsuit to block the deal and the FCC was preparing to release a hearing designation order on the deal.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+3 matches: hearing, merger, fcc
+
+Source Sentence and Story Headline Match:
+In 2011, AT&T Inc. and T-Mobile USA dropped a planned $39 billion merger after the Justice Department filed an antitrust lawsuit to block the deal and the FCC was preparing to release a hearing designation order on the deal.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+2 matches: merger, fcc
+
+Source Sentence and Best Story Sentence Match:
+In 2011, AT&T Inc. and T-Mobile USA dropped a planned $39 billion merger after the Justice Department filed an antitrust lawsuit to block the deal and the FCC was preparing to release a hearing designation order on the deal.
+"Citing unnamed sources, the Wall Street Journal reported April 22 that the FCC is now considering issuing a "hearing designation order" for Comcast's proposed merger with Time Warner Cable.
+5 matches: hearing, order, fcc, designation, merger
+
+----------------
+
+sent_21:
+21 out of 44 sentences
+14 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+If the deal were derailed, it would be a major win for media companies that lobbied aggressively to kill it, including Discovery Communications Inc., which was very vocal in its stance that a Comcast-Time Warner Cable combination would be bad for content companies.
+2 default entities: ORGANIZATION Discovery Communications Inc., PERSON Warner Cable
+2 custom entities: ORGANIZATION Discovery Communications Inc, PERSON Warner Cable
+
+Source Sentence and Source Headline Match:
+If the deal were derailed, it would be a major win for media companies that lobbied aggressively to kill it, including Discovery Communications Inc., which was very vocal in its stance that a Comcast-Time Warner Cable combination would be bad for content companies.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+3 matches: cable, comcast-time, warner
+
+Source Sentence and Story Headline Match:
+If the deal were derailed, it would be a major win for media companies that lobbied aggressively to kill it, including Discovery Communications Inc., which was very vocal in its stance that a Comcast-Time Warner Cable combination would be bad for content companies.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+If the deal were derailed, it would be a major win for media companies that lobbied aggressively to kill it, including Discovery Communications Inc., which was very vocal in its stance that a Comcast-Time Warner Cable combination would be bad for content companies.
+Several companies, including Discovery Communications, Dish Network and Netflix, have also publicly opposed the proposed merger, with Dish Network also claiming a combined Comcast-TWC could use its large size to win better terms.
+5 matches: include, communication, company, discovery, win
+
+----------------
+
+sent_22:
+22 out of 44 sentences
+14 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Other programmers including Time Warner Inc., Walt Disney Co. and 21st Century Fox Inc. have privately raised concerns about the deal to regulators.
+3 default entities: ORGANIZATION Time Warner Inc., PERSON Walt Disney, ORGANIZATION Century Fox
+2 custom entities: ORGANIZATION Time Warner Inc Walt Disney Co, ORGANIZATION Century Fox Inc
+
+Source Sentence and Source Headline Match:
+Other programmers including Time Warner Inc., Walt Disney Co. and 21st Century Fox Inc. have privately raised concerns about the deal to regulators.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+1 matches: warner
+
+Source Sentence and Story Headline Match:
+Other programmers including Time Warner Inc., Walt Disney Co. and 21st Century Fox Inc. have privately raised concerns about the deal to regulators.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Other programmers including Time Warner Inc., Walt Disney Co. and 21st Century Fox Inc. have privately raised concerns about the deal to regulators.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 matches: time, warner
+
+----------------
+
+sent_23:
+23 out of 44 sentences
+15 out of 26 paragraphs
+Tagged as a quote
+
+Sentence:
+“The fundamental problem with this transaction is there is no major constituency outside of Comcast and Time Warner Cable that want it to move forward,” said Rich Greenfield, analyst at BTIG Research, which has been predicting the deal falls apart.
+4 default entities: ORGANIZATION Comcast, ORGANIZATION Time Warner, PERSON Rich Greenfield, ORGANIZATION BTIG Research
+4 custom entities: ORGANIZATION Comcast, ORGANIZATION Time Warner, PERSON Rich Greenfield, ORGANIZATION BTIG
+
+Source Sentence and Source Headline Match:
+“The fundamental problem with this transaction is there is no major constituency outside of Comcast and Time Warner Cable that want it to move forward,” said Rich Greenfield, analyst at BTIG Research, which has been predicting the deal falls apart.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+2 matches: cable, warner
+
+Source Sentence and Story Headline Match:
+“The fundamental problem with this transaction is there is no major constituency outside of Comcast and Time Warner Cable that want it to move forward,” said Rich Greenfield, analyst at BTIG Research, which has been predicting the deal falls apart.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“The fundamental problem with this transaction is there is no major constituency outside of Comcast and Time Warner Cable that want it to move forward,” said Rich Greenfield, analyst at BTIG Research, which has been predicting the deal falls apart.
+saying that they don't like Comcast or they don't like Time Warner Cable."
+5 matches: warner, cable, say, time, comcast
+
+----------------
+
+sent_24:
+24 out of 44 sentences
+16 out of 26 paragraphs
+Tagged as a quote
+
+Sentence:
+Mr. Greenfield noted that it would be a “very uphill battle” for Comcast to prove its case through the FCC’s hearing process that its merger is in the public interest.
+4 default entities: PERSON Mr., ORGANIZATION Greenfield, ORGANIZATION Comcast, ORGANIZATION FCC
+1 custom entities: ORGANIZATION Comcast
+
+Source Sentence and Source Headline Match:
+Mr. Greenfield noted that it would be a “very uphill battle” for Comcast to prove its case through the FCC’s hearing process that its merger is in the public interest.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+1 matches: merger
+
+Source Sentence and Story Headline Match:
+Mr. Greenfield noted that it would be a “very uphill battle” for Comcast to prove its case through the FCC’s hearing process that its merger is in the public interest.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: merger
+
+Source Sentence and Best Story Sentence Match:
+Mr. Greenfield noted that it would be a “very uphill battle” for Comcast to prove its case through the FCC’s hearing process that its merger is in the public interest.
+Comcast has defended the tactic by saying that it merely "reached out" to policy makers to "detail the public interest benefit" of the merger.
+4 matches: public, interest, merger, comcast
+
+----------------
+
+sent_25:
+25 out of 44 sentences
+16 out of 26 paragraphs
+Tagged as a quote
+
+Sentence:
+“Is it really worth spending more time and resources to fight the government?”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“Is it really worth spending more time and resources to fight the government?”
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“Is it really worth spending more time and resources to fight the government?”
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“Is it really worth spending more time and resources to fight the government?”
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+1 matches: time
+
+----------------
+
+sent_26:
+26 out of 44 sentences
+17 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+For Comcast, the proposed Time Warner Cable deal is a way to seek out growth and synergies in a maturing U.S. cable sector.
+3 default entities: ORGANIZATION Comcast, PERSON Time Warner Cable, GPE U.S.
+1 custom entities: PERSON Time Warner Cable
+
+Source Sentence and Source Headline Match:
+For Comcast, the proposed Time Warner Cable deal is a way to seek out growth and synergies in a maturing U.S. cable sector.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+2 matches: cable, warner
+
+Source Sentence and Story Headline Match:
+For Comcast, the proposed Time Warner Cable deal is a way to seek out growth and synergies in a maturing U.S. cable sector.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+For Comcast, the proposed Time Warner Cable deal is a way to seek out growth and synergies in a maturing U.S. cable sector.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+5 matches: warner, cable, u.s, time, comcast
+
+----------------
+
+sent_27:
+27 out of 44 sentences
+17 out of 26 paragraphs
+Tagged as a quote
+
+Sentence:
+The pay-TV business is stagnating as consumers begin to “cut the cord,” and the future depends largely on the high-margin broadband Internet business.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The pay-TV business is stagnating as consumers begin to “cut the cord,” and the future depends largely on the high-margin broadband Internet business.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The pay-TV business is stagnating as consumers begin to “cut the cord,” and the future depends largely on the high-margin broadband Internet business.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The pay-TV business is stagnating as consumers begin to “cut the cord,” and the future depends largely on the high-margin broadband Internet business.
+The proposed merger has come under severe criticism from those who say it would create a monopoly that will ultimately harm consumers.
+1 matches: consumer
+
+----------------
+
+sent_28:
+28 out of 44 sentences
+18 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+If it were blocked from pursuing a major deal in the U.S., Comcast could follow the path of other big cable and media companies like Fox, Discovery and John Malone’s Liberty Global, by looking for acquisitions in faster-growing overseas markets.
+6 default entities: GPE U.S., ORGANIZATION Comcast, PERSON Fox, PERSON Discovery, PERSON John Malone, ORGANIZATION Liberty Global
+3 custom entities: ORGANIZATION Comcast, PERSON Fox Discovery, PERSON John Malone's Liberty Global
+
+Source Sentence and Source Headline Match:
+If it were blocked from pursuing a major deal in the U.S., Comcast could follow the path of other big cable and media companies like Fox, Discovery and John Malone’s Liberty Global, by looking for acquisitions in faster-growing overseas markets.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+1 matches: cable
+
+Source Sentence and Story Headline Match:
+If it were blocked from pursuing a major deal in the U.S., Comcast could follow the path of other big cable and media companies like Fox, Discovery and John Malone’s Liberty Global, by looking for acquisitions in faster-growing overseas markets.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+If it were blocked from pursuing a major deal in the U.S., Comcast could follow the path of other big cable and media companies like Fox, Discovery and John Malone’s Liberty Global, by looking for acquisitions in faster-growing overseas markets.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+4 matches: cable, company, u.s, comcast
+
+----------------
+
+sent_29:
+29 out of 44 sentences
+19 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Comcast also would be in a strong position, as the nation’s largest broadband operator, to offer a streaming video service, capitalizing on growing demand from consumers for services like Netflix.
+2 default entities: GPE Comcast, PERSON Netflix
+2 custom entities: GPE Comcast, PERSON Netflix
+
+Source Sentence and Source Headline Match:
+Comcast also would be in a strong position, as the nation’s largest broadband operator, to offer a streaming video service, capitalizing on growing demand from consumers for services like Netflix.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Comcast also would be in a strong position, as the nation’s largest broadband operator, to offer a streaming video service, capitalizing on growing demand from consumers for services like Netflix.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Comcast also would be in a strong position, as the nation’s largest broadband operator, to offer a streaming video service, capitalizing on growing demand from consumers for services like Netflix.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 matches: would, large, comcast
+
+----------------
+
+sent_30:
+30 out of 44 sentences
+19 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Launching such a service in the midst of the merger review would be challenging.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Launching such a service in the midst of the merger review would be challenging.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+1 matches: merger
+
+Source Sentence and Story Headline Match:
+Launching such a service in the midst of the merger review would be challenging.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: merger
+
+Source Sentence and Best Story Sentence Match:
+Launching such a service in the midst of the merger review would be challenging.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 matches: would, merger
+
+----------------
+
+sent_31:
+31 out of 44 sentences
+19 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Comcast also has made investments in the fast-growing digital-ad technology business.
+1 default entities: GPE Comcast
+1 custom entities: GPE Comcast
+
+Source Sentence and Source Headline Match:
+Comcast also has made investments in the fast-growing digital-ad technology business.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Comcast also has made investments in the fast-growing digital-ad technology business.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Comcast also has made investments in the fast-growing digital-ad technology business.
+"When Comcast makes a promise to act, it is comforting to know that they will always follow through.
+2 matches: make, comcast
+
+----------------
+
+sent_32:
+32 out of 44 sentences
+20 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Time Warner Cable, meanwhile, could move back into play if a deal with Comcast doesn’t pan out.
+2 default entities: PERSON Warner Cable, ORGANIZATION Comcast
+2 custom entities: PERSON Warner Cable, ORGANIZATION Comcast
+
+Source Sentence and Source Headline Match:
+Time Warner Cable, meanwhile, could move back into play if a deal with Comcast doesn’t pan out.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+2 matches: cable, warner
+
+Source Sentence and Story Headline Match:
+Time Warner Cable, meanwhile, could move back into play if a deal with Comcast doesn’t pan out.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Time Warner Cable, meanwhile, could move back into play if a deal with Comcast doesn’t pan out.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+4 matches: warner, cable, time, comcast
+
+----------------
+
+sent_33:
+33 out of 44 sentences
+20 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Before Comcast snapped up the company, it was pursued by Charter Communications Inc., which is backed by Mr. Malone’s Liberty Broadband Corp.
+4 default entities: ORGANIZATION Comcast, ORGANIZATION Charter Communications Inc., PERSON Mr. Malone, ORGANIZATION Liberty Broadband Corp
+3 custom entities: ORGANIZATION Comcast, ORGANIZATION Charter Communications Inc, PERSON Broadband Corp
+
+Source Sentence and Source Headline Match:
+Before Comcast snapped up the company, it was pursued by Charter Communications Inc., which is backed by Mr. Malone’s Liberty Broadband Corp.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Before Comcast snapped up the company, it was pursued by Charter Communications Inc., which is backed by Mr. Malone’s Liberty Broadband Corp.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Before Comcast snapped up the company, it was pursued by Charter Communications Inc., which is backed by Mr. Malone’s Liberty Broadband Corp.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 matches: company, comcast
+
+----------------
+
+sent_34:
+34 out of 44 sentences
+21 out of 26 paragraphs
+Tagged as a quote
+
+Sentence:
+Asked at an investor day last year whether Charter would look to buy TWC if its Comcast deal fell apart, Mr. Malone said emphatically, “yes!” Charter has big ambitions—last month, it announced plans to acquire Bright House Networks LLC, a cable operator with two million customers, for $10.4 billion in cash and stock.
+5 default entities: PERSON Charter, ORGANIZATION TWC, PERSON Mr. Malone, PERSON Charter, PERSON Bright House Networks LLC
+5 custom entities: PERSON Charter, ORGANIZATION TWC, PERSON Malone, PERSON Charter, PERSON Bright House Networks
+
+Source Sentence and Source Headline Match:
+Asked at an investor day last year whether Charter would look to buy TWC if its Comcast deal fell apart, Mr. Malone said emphatically, “yes!” Charter has big ambitions—last month, it announced plans to acquire Bright House Networks LLC, a cable operator with two million customers, for $10.4 billion in cash and stock.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+1 matches: cable
+
+Source Sentence and Story Headline Match:
+Asked at an investor day last year whether Charter would look to buy TWC if its Comcast deal fell apart, Mr. Malone said emphatically, “yes!” Charter has big ambitions—last month, it announced plans to acquire Bright House Networks LLC, a cable operator with two million customers, for $10.4 billion in cash and stock.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Asked at an investor day last year whether Charter would look to buy TWC if its Comcast deal fell apart, Mr. Malone said emphatically, “yes!” Charter has big ambitions—last month, it announced plans to acquire Bright House Networks LLC, a cable operator with two million customers, for $10.4 billion in cash and stock.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+6 matches: billion, cable, would, two, comcast, announce
+
+----------------
+
+sent_35:
+35 out of 44 sentences
+21 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+That transaction is contingent on the Comcast-Time Warner Cable deal passing muster with regulators.
+1 default entities: PERSON Warner Cable
+1 custom entities: PERSON Warner Cable
+
+Source Sentence and Source Headline Match:
+That transaction is contingent on the Comcast-Time Warner Cable deal passing muster with regulators.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+3 matches: cable, comcast-time, warner
+
+Source Sentence and Story Headline Match:
+That transaction is contingent on the Comcast-Time Warner Cable deal passing muster with regulators.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+That transaction is contingent on the Comcast-Time Warner Cable deal passing muster with regulators.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 matches: cable, warner
+
+----------------
+
+sent_36:
+36 out of 44 sentences
+22 out of 26 paragraphs
+Tagged as a quote
+
+Sentence:
+Time Warner Cable is already preparing “Plan B” communications strategies for if the merger falls apart, people familiar with the company’s thinking said.
+1 default entities: PERSON Warner Cable
+2 custom entities: PERSON Warner Cable, PERSON Plan B
+
+Source Sentence and Source Headline Match:
+Time Warner Cable is already preparing “Plan B” communications strategies for if the merger falls apart, people familiar with the company’s thinking said.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+3 matches: cable, merger, warner
+
+Source Sentence and Story Headline Match:
+Time Warner Cable is already preparing “Plan B” communications strategies for if the merger falls apart, people familiar with the company’s thinking said.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: merger
+
+Source Sentence and Best Story Sentence Match:
+Time Warner Cable is already preparing “Plan B” communications strategies for if the merger falls apart, people familiar with the company’s thinking said.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+4 matches: cable, merger, time, warner
+
+----------------
+
+sent_37:
+37 out of 44 sentences
+22 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The company believes its assets are more valuable today than they were a year ago thanks to better operating by management, a person familiar with the company’s thinking said.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The company believes its assets are more valuable today than they were a year ago thanks to better operating by management, a person familiar with the company’s thinking said.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The company believes its assets are more valuable today than they were a year ago thanks to better operating by management, a person familiar with the company’s thinking said.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The company believes its assets are more valuable today than they were a year ago thanks to better operating by management, a person familiar with the company’s thinking said.
+Comcast has repeatedly defended the merger, saying it will not reduce competition because the two companies don't serve the same areas.
+2 matches: company, say
+
+----------------
+
+sent_38:
+38 out of 44 sentences
+22 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+With its strong balance sheet, TWC could be an acquirer in its own right should the deal fall apart, the person said.
+1 default entities: ORGANIZATION TWC
+1 custom entities: ORGANIZATION TWC
+
+Source Sentence and Source Headline Match:
+With its strong balance sheet, TWC could be an acquirer in its own right should the deal fall apart, the person said.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+With its strong balance sheet, TWC could be an acquirer in its own right should the deal fall apart, the person said.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+With its strong balance sheet, TWC could be an acquirer in its own right should the deal fall apart, the person said.
+The company denied directly paying any groups for the sole purpose of winning their public support, and said the deal should only be considered from a legal and technical standpoint, and not whether or not the company is well-liked.
+2 matches: deal, say
+
+----------------
+
+sent_39:
+39 out of 44 sentences
+23 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A TWC spokesman declined to comment.
+1 default entities: ORGANIZATION TWC
+1 custom entities: ORGANIZATION TWC
+
+Source Sentence and Source Headline Match:
+A TWC spokesman declined to comment.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+A TWC spokesman declined to comment.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+A TWC spokesman declined to comment.
+Comcast has supplied several local officials throughout the U.S. with pre-written letters of support for its merger with TWC, according to documents obtained by The Verge.
+1 matches: twc
+
+----------------
+
+sent_40:
+40 out of 44 sentences
+24 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The recommendation from the staff for a hearing order is the first step in a regulatory process.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The recommendation from the staff for a hearing order is the first step in a regulatory process.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+2 matches: hearing, staff
+
+Source Sentence and Story Headline Match:
+The recommendation from the staff for a hearing order is the first step in a regulatory process.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The recommendation from the staff for a hearing order is the first step in a regulatory process.
+"Citing unnamed sources, the Wall Street Journal reported April 22 that the FCC is now considering issuing a "hearing designation order" for Comcast's proposed merger with Time Warner Cable.
+2 matches: hearing, order
+
+----------------
+
+sent_41:
+41 out of 44 sentences
+24 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It must be circulated to all commissioners who would then vote on whether to approve it.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It must be circulated to all commissioners who would then vote on whether to approve it.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It must be circulated to all commissioners who would then vote on whether to approve it.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+It must be circulated to all commissioners who would then vote on whether to approve it.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+1 matches: would
+
+----------------
+
+sent_42:
+42 out of 44 sentences
+25 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Comcast and Time Warner Cable can continue to lobby the FCC in the weeks ahead to attempt to make a case why the staff’s view is incorrect.
+3 default entities: GPE Comcast, ORGANIZATION Time Warner, ORGANIZATION FCC
+3 custom entities: GPE Comcast, ORGANIZATION Time Warner, ORGANIZATION FCC
+
+Source Sentence and Source Headline Match:
+Comcast and Time Warner Cable can continue to lobby the FCC in the weeks ahead to attempt to make a case why the staff’s view is incorrect.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+3 matches: cable, fcc, warner
+
+Source Sentence and Story Headline Match:
+Comcast and Time Warner Cable can continue to lobby the FCC in the weeks ahead to attempt to make a case why the staff’s view is incorrect.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: fcc
+
+Source Sentence and Best Story Sentence Match:
+Comcast and Time Warner Cable can continue to lobby the FCC in the weeks ahead to attempt to make a case why the staff’s view is incorrect.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+4 matches: warner, cable, time, comcast
+
+----------------
+
+sent_43:
+43 out of 44 sentences
+26 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Separately, the other major media merger being reviewed by the FCC—AT&T’s proposed purchase of satellite broadcaster DirecTV—is on much more solid ground with the FCC’s staff, a person familiar with the matter said.
+1 default entities: ORGANIZATION FCC
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Separately, the other major media merger being reviewed by the FCC—AT&T’s proposed purchase of satellite broadcaster DirecTV—is on much more solid ground with the FCC’s staff, a person familiar with the matter said.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+2 matches: staff, merger
+
+Source Sentence and Story Headline Match:
+Separately, the other major media merger being reviewed by the FCC—AT&T’s proposed purchase of satellite broadcaster DirecTV—is on much more solid ground with the FCC’s staff, a person familiar with the matter said.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+1 matches: merger
+
+Source Sentence and Best Story Sentence Match:
+Separately, the other major media merger being reviewed by the FCC—AT&T’s proposed purchase of satellite broadcaster DirecTV—is on much more solid ground with the FCC’s staff, a person familiar with the matter said.
+The proposed merger has come under severe criticism from those who say it would create a monopoly that will ultimately harm consumers.
+3 matches: propose, merger, say
+
+----------------
+
+sent_44:
+44 out of 44 sentences
+26 out of 26 paragraphs
+Tagged as not being a quote
+
+Sentence:
+That combination is seen as more healthy for competition than a Comcast-Time Warner Cable pairing, the person said.
+1 default entities: PERSON Warner Cable
+1 custom entities: PERSON Warner Cable
+
+Source Sentence and Source Headline Match:
+That combination is seen as more healthy for competition than a Comcast-Time Warner Cable pairing, the person said.
+FCC Staff Recommends Hearing on Comcast-Time Warner Cable Merger.
+3 matches: cable, comcast-time, warner
+
+Source Sentence and Story Headline Match:
+That combination is seen as more healthy for competition than a Comcast-Time Warner Cable pairing, the person said.
+Report: FCC recommends Comcast-TWC merger be sent to judge.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+That combination is seen as more healthy for competition than a Comcast-Time Warner Cable pairing, the person said.
+saying that they don't like Comcast or they don't like Time Warner Cable."
+3 matches: cable, say, warner
+
+----------------
+

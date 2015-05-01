@@ -1,0 +1,243 @@
+sent_1:
+1 out of 9 sentences
+1 out of 3 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Google has stopped selling the Nexus 5, the company's 2014 flagship Android smartphone.
+2 default entities: GPE Google, PERSON Android
+2 custom entities: GPE Google, PERSON Android
+
+Source Sentence and Source Headline Match:
+Google has stopped selling the Nexus 5, the company's 2014 flagship Android smartphone.
+Google is done selling the Nexus 5
+4 matches: google, sell, nexus, 5
+
+Source Sentence and Story Headline Match:
+Google has stopped selling the Nexus 5, the company's 2014 flagship Android smartphone.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: google, nexus
+
+Source Sentence and Best Story Sentence Match:
+Google has stopped selling the Nexus 5, the company's 2014 flagship Android smartphone.
+Google said it stopped selling the Nexus 5 to focus on the Nexus 6.
+5 matches: google, stop, sell, nexus, 5
+
+----------------
+
+sent_2:
+2 out of 9 sentences
+1 out of 3 paragraphs
+Tagged as a quote
+
+Sentence:
+A Google spokesperson told The Verge today that "while some inventory of Nexus 5 still exists (with our retail and carrier partners), our focus is on the Nexus 6 at this time."
+2 default entities: GPE Google, GPE Verge
+2 custom entities: GPE Google, GPE Verge
+
+Source Sentence and Source Headline Match:
+A Google spokesperson told The Verge today that "while some inventory of Nexus 5 still exists (with our retail and carrier partners), our focus is on the Nexus 6 at this time."
+Google is done selling the Nexus 5
+3 matches: google, nexus, 5
+
+Source Sentence and Story Headline Match:
+A Google spokesperson told The Verge today that "while some inventory of Nexus 5 still exists (with our retail and carrier partners), our focus is on the Nexus 6 at this time."
+Nexus 7 tablet no longer for sale from Google.
+2 matches: google, nexus
+
+Source Sentence and Best Story Sentence Match:
+A Google spokesperson told The Verge today that "while some inventory of Nexus 5 still exists (with our retail and carrier partners), our focus is on the Nexus 6 at this time."
+Google said it stopped selling the Nexus 5 to focus on the Nexus 6.
+5 matches: google, focus, 6, nexus, 5
+
+----------------
+
+sent_3:
+3 out of 9 sentences
+1 out of 3 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Searches for the older model on Google's new hardware store show that the Nexus 5 is no longer available for purchase direct from Google.
+2 default entities: PERSON Google, GPE Google
+1 custom entities: GPE Google
+
+Source Sentence and Source Headline Match:
+Searches for the older model on Google's new hardware store show that the Nexus 5 is no longer available for purchase direct from Google.
+Google is done selling the Nexus 5
+3 matches: google, nexus, 5
+
+Source Sentence and Story Headline Match:
+Searches for the older model on Google's new hardware store show that the Nexus 5 is no longer available for purchase direct from Google.
+Nexus 7 tablet no longer for sale from Google.
+3 matches: google, longer, nexus
+
+Source Sentence and Best Story Sentence Match:
+Searches for the older model on Google's new hardware store show that the Nexus 5 is no longer available for purchase direct from Google.
+The Nexus 7 is no longer available from Google's official online store.
+5 matches: store, available, google's, longer, nexus
+
+----------------
+
+sent_4:
+4 out of 9 sentences
+2 out of 3 paragraphs
+Tagged as a quote
+
+Sentence:
+The news corroborates a report released at the tail end of 2014 that said Google had discontinued production of the well-liked phone, and once stocks were depleted, it was "gone."
+1 default entities: PERSON Google
+1 custom entities: PERSON Google
+
+Source Sentence and Source Headline Match:
+The news corroborates a report released at the tail end of 2014 that said Google had discontinued production of the well-liked phone, and once stocks were depleted, it was "gone."
+Google is done selling the Nexus 5
+1 matches: google
+
+Source Sentence and Story Headline Match:
+The news corroborates a report released at the tail end of 2014 that said Google had discontinued production of the well-liked phone, and once stocks were depleted, it was "gone."
+Nexus 7 tablet no longer for sale from Google.
+1 matches: google
+
+Source Sentence and Best Story Sentence Match:
+The news corroborates a report released at the tail end of 2014 that said Google had discontinued production of the well-liked phone, and once stocks were depleted, it was "gone."
+Google in Oct. 2014 announced the Nexus 9 and Nexus 6 smartphone.
+2 matches: google, 2014
+
+----------------
+
+sent_5:
+5 out of 9 sentences
+2 out of 3 paragraphs
+Tagged as a quote
+
+Sentence:
+Google disputed the claim at the time, telling The Verge that the Nexus 5 would "continue to be available for sale on Google Play and through select retailers in Q1 2015."
+2 default entities: PERSON Google, PERSON Google Play
+2 custom entities: PERSON Google, PERSON Google Play
+
+Source Sentence and Source Headline Match:
+Google disputed the claim at the time, telling The Verge that the Nexus 5 would "continue to be available for sale on Google Play and through select retailers in Q1 2015."
+Google is done selling the Nexus 5
+3 matches: google, nexus, 5
+
+Source Sentence and Story Headline Match:
+Google disputed the claim at the time, telling The Verge that the Nexus 5 would "continue to be available for sale on Google Play and through select retailers in Q1 2015."
+Nexus 7 tablet no longer for sale from Google.
+3 matches: google, sale, nexus
+
+Source Sentence and Best Story Sentence Match:
+Google disputed the claim at the time, telling The Verge that the Nexus 5 would "continue to be available for sale on Google Play and through select retailers in Q1 2015."
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+3 matches: google, nexus, 5
+
+----------------
+
+sent_6:
+6 out of 9 sentences
+2 out of 3 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The timing of this new statement means both were correct — Google did indeed plan to stop selling the Nexus 5, but its supplies kept it in stock for the first quarter of 2015.
+1 default entities: PERSON Google
+1 custom entities: PERSON Google
+
+Source Sentence and Source Headline Match:
+The timing of this new statement means both were correct — Google did indeed plan to stop selling the Nexus 5, but its supplies kept it in stock for the first quarter of 2015.
+Google is done selling the Nexus 5
+3 matches: google, nexus, 5
+
+Source Sentence and Story Headline Match:
+The timing of this new statement means both were correct — Google did indeed plan to stop selling the Nexus 5, but its supplies kept it in stock for the first quarter of 2015.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: google, nexus
+
+Source Sentence and Best Story Sentence Match:
+The timing of this new statement means both were correct — Google did indeed plan to stop selling the Nexus 5, but its supplies kept it in stock for the first quarter of 2015.
+Google said it stopped selling the Nexus 5 to focus on the Nexus 6.
+4 matches: google, stop, nexus, 5
+
+----------------
+
+sent_7:
+7 out of 9 sentences
+3 out of 3 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The effective retirement of the Nexus 5 comes as Google tweaks its storefront to separate hardware and digital products.
+1 default entities: GPE Google
+1 custom entities: GPE Google
+
+Source Sentence and Source Headline Match:
+The effective retirement of the Nexus 5 comes as Google tweaks its storefront to separate hardware and digital products.
+Google is done selling the Nexus 5
+3 matches: google, nexus, 5
+
+Source Sentence and Story Headline Match:
+The effective retirement of the Nexus 5 comes as Google tweaks its storefront to separate hardware and digital products.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: google, nexus
+
+Source Sentence and Best Story Sentence Match:
+The effective retirement of the Nexus 5 comes as Google tweaks its storefront to separate hardware and digital products.
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+3 matches: google, nexus, 5
+
+----------------
+
+sent_8:
+8 out of 9 sentences
+3 out of 3 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Previously the Nexus 5 — along with other Google and Android devices such as smartwatches and Chromebooks — was sold by the Google Play Store, alongside digital products like apps, music, and movies.
+4 default entities: ORGANIZATION Google, PERSON Android, ORGANIZATION Chromebooks, ORGANIZATION Google Play Store
+4 custom entities: ORGANIZATION Google, PERSON Android, PERSON Chromebooks, ORGANIZATION Google Play Store
+
+Source Sentence and Source Headline Match:
+Previously the Nexus 5 — along with other Google and Android devices such as smartwatches and Chromebooks — was sold by the Google Play Store, alongside digital products like apps, music, and movies.
+Google is done selling the Nexus 5
+4 matches: google, sell, nexus, 5
+
+Source Sentence and Story Headline Match:
+Previously the Nexus 5 — along with other Google and Android devices such as smartwatches and Chromebooks — was sold by the Google Play Store, alongside digital products like apps, music, and movies.
+Nexus 7 tablet no longer for sale from Google.
+2 matches: google, nexus
+
+Source Sentence and Best Story Sentence Match:
+Previously the Nexus 5 — along with other Google and Android devices such as smartwatches and Chromebooks — was sold by the Google Play Store, alongside digital products like apps, music, and movies.
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+4 matches: google, sell, nexus, 5
+
+----------------
+
+sent_9:
+9 out of 9 sentences
+3 out of 3 paragraphs
+Tagged as not being a quote
+
+Sentence:
+As of today, the search giant has split software and hardware up, moving the latter to a new destination simply called the Google Store.
+1 default entities: ORGANIZATION Google Store
+1 custom entities: ORGANIZATION Google Store
+
+Source Sentence and Source Headline Match:
+As of today, the search giant has split software and hardware up, moving the latter to a new destination simply called the Google Store.
+Google is done selling the Nexus 5
+1 matches: google
+
+Source Sentence and Story Headline Match:
+As of today, the search giant has split software and hardware up, moving the latter to a new destination simply called the Google Store.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: google
+
+Source Sentence and Best Story Sentence Match:
+As of today, the search giant has split software and hardware up, moving the latter to a new destination simply called the Google Store.
+"Advances in computing are driven at the intersection of hardware and software.
+2 matches: hardware, software
+
+----------------
+

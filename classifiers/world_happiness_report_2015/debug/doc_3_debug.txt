@@ -1,0 +1,549 @@
+sent_1:
+1 out of 20 sentences
+1 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Happiness scores rose worldwide, but not in the USA or countries hit hard by economic and political upheaval.
+2 default entities: GPE Happiness, ORGANIZATION USA
+2 custom entities: GPE Happiness, ORGANIZATION USA
+
+Source Sentence and Source Headline Match:
+Happiness scores rose worldwide, but not in the USA or countries hit hard by economic and political upheaval.
+Smile: USA ranks 17th among world's happiest countries.
+2 matches: country, usa
+
+Source Sentence and Story Headline Match:
+Happiness scores rose worldwide, but not in the USA or countries hit hard by economic and political upheaval.
+Switzerland at the top of 'world's happiest' list.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Happiness scores rose worldwide, but not in the USA or countries hit hard by economic and political upheaval.
+The UN's Sustainable Development Solutions Network, in partnership with Columbia University's Earth Institute, released the third annual "World Happiness Report" on April 23 for 158 countries.
+2 matches: country, happiness
+
+----------------
+
+sent_2:
+2 out of 20 sentences
+2 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Something to smile about?
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Something to smile about?
+Smile: USA ranks 17th among world's happiest countries.
+1 matches: smile
+
+Source Sentence and Story Headline Match:
+Something to smile about?
+Switzerland at the top of 'world's happiest' list.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_3:
+3 out of 20 sentences
+2 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Americans are not the happiest people on earth, but we do rank a respectable No.
+1 default entities: GPE Americans
+1 custom entities: GPE Americans
+
+Source Sentence and Source Headline Match:
+Americans are not the happiest people on earth, but we do rank a respectable No.
+Smile: USA ranks 17th among world's happiest countries.
+1 matches: rank
+
+Source Sentence and Story Headline Match:
+Americans are not the happiest people on earth, but we do rank a respectable No.
+Switzerland at the top of 'world's happiest' list.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Americans are not the happiest people on earth, but we do rank a respectable No.
+The UN's Sustainable Development Solutions Network, in partnership with Columbia University's Earth Institute, released the third annual "World Happiness Report" on April 23 for 158 countries.
+1 matches: earth
+
+----------------
+
+sent_4:
+4 out of 20 sentences
+2 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+17, among 156 countries evaluated for a new United Nations report.
+1 default entities: ORGANIZATION United Nations
+1 custom entities: ORGANIZATION United Nations
+
+Source Sentence and Source Headline Match:
+17, among 156 countries evaluated for a new United Nations report.
+Smile: USA ranks 17th among world's happiest countries.
+2 matches: country, among
+
+Source Sentence and Story Headline Match:
+17, among 156 countries evaluated for a new United Nations report.
+Switzerland at the top of 'world's happiest' list.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+17, among 156 countries evaluated for a new United Nations report.
+The third annual World Happiness Report has been released by the United Nations.
+3 matches: report, nation, united
+
+----------------
+
+sent_5:
+5 out of 20 sentences
+3 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The second annual World Happiness Report, released Monday, finds the highest levels of happiness in Denmark, Norway, Switzerland, the Netherlands and Sweden, all in northern Europe.
+7 default entities: ORGANIZATION Happiness Report, GPE Denmark, GPE Norway, GPE Switzerland, GPE Netherlands, GPE Sweden, LOCATION Europe
+5 custom entities: ORGANIZATION Happiness, GPE Denmark, GPE Netherlands, GPE Sweden, GPE Europe
+
+Source Sentence and Source Headline Match:
+The second annual World Happiness Report, released Monday, finds the highest levels of happiness in Denmark, Norway, Switzerland, the Netherlands and Sweden, all in northern Europe.
+Smile: USA ranks 17th among world's happiest countries.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The second annual World Happiness Report, released Monday, finds the highest levels of happiness in Denmark, Norway, Switzerland, the Netherlands and Sweden, all in northern Europe.
+Switzerland at the top of 'world's happiest' list.
+1 matches: switzerland
+
+Source Sentence and Best Story Sentence Match:
+The second annual World Happiness Report, released Monday, finds the highest levels of happiness in Denmark, Norway, Switzerland, the Netherlands and Sweden, all in northern Europe.
+The third annual World Happiness Report has been released by the United Nations.
+5 matches: release, report, world, annual, happiness
+
+----------------
+
+sent_6:
+6 out of 20 sentences
+3 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The lowest ranked were Rwanda, Burundi, the Central African Republic, Benin and Togo, all in Africa.
+6 default entities: GSP Rwanda, GPE Burundi, ORGANIZATION Central African Republic, PERSON Benin, PERSON Togo, GPE Africa
+4 custom entities: PERSON Rwanda Burundi, ORGANIZATION Central African Republic Benin, PERSON Togo, GPE Africa
+
+Source Sentence and Source Headline Match:
+The lowest ranked were Rwanda, Burundi, the Central African Republic, Benin and Togo, all in Africa.
+Smile: USA ranks 17th among world's happiest countries.
+1 matches: rank
+
+Source Sentence and Story Headline Match:
+The lowest ranked were Rwanda, Burundi, the Central African Republic, Benin and Togo, all in Africa.
+Switzerland at the top of 'world's happiest' list.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The lowest ranked were Rwanda, Burundi, the Central African Republic, Benin and Togo, all in Africa.
+The least happy nations in the world, according the report, are Togo, Burundi, Benin, Rwanda, and Syria.
+4 matches: benin, togo, rwanda, burundi
+
+----------------
+
+sent_7:
+7 out of 20 sentences
+4 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The report, from the U.N.
+1 default entities: ORGANIZATION U.N
+1 custom entities: ORGANIZATION U.N
+
+Source Sentence and Source Headline Match:
+The report, from the U.N.
+Smile: USA ranks 17th among world's happiest countries.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The report, from the U.N.
+Switzerland at the top of 'world's happiest' list.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The report, from the U.N.
+The third annual World Happiness Report has been released by the United Nations.
+1 matches: report
+
+----------------
+
+sent_8:
+8 out of 20 sentences
+4 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Sustainable Development Solutions Network, is based on how people around the world rate their overall satisfaction with life, not just on how they feel at any moment.
+2 default entities: GPE Sustainable, ORGANIZATION Development Solutions Network
+2 custom entities: GPE Sustainable, ORGANIZATION Development Solutions Network
+
+Source Sentence and Source Headline Match:
+Sustainable Development Solutions Network, is based on how people around the world rate their overall satisfaction with life, not just on how they feel at any moment.
+Smile: USA ranks 17th among world's happiest countries.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Sustainable Development Solutions Network, is based on how people around the world rate their overall satisfaction with life, not just on how they feel at any moment.
+Switzerland at the top of 'world's happiest' list.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Sustainable Development Solutions Network, is based on how people around the world rate their overall satisfaction with life, not just on how they feel at any moment.
+The UN's Sustainable Development Solutions Network, in partnership with Columbia University's Earth Institute, released the third annual "World Happiness Report" on April 23 for 158 countries.
+5 matches: sustainable, solution, world, development, network
+
+----------------
+
+sent_9:
+9 out of 20 sentences
+4 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It shows that while economic conditions matter, factors such as life expectancy, freedom and social support do, too.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It shows that while economic conditions matter, factors such as life expectancy, freedom and social support do, too.
+Smile: USA ranks 17th among world's happiest countries.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It shows that while economic conditions matter, factors such as life expectancy, freedom and social support do, too.
+Switzerland at the top of 'world's happiest' list.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+It shows that while economic conditions matter, factors such as life expectancy, freedom and social support do, too.
+The report endeavors to measure overall life satisfaction country-by-country, factoring in conditions such as freedom, life expectancy and social support services.
+7 matches: support, freedom, expectancy, factor, condition, life, social
+
+----------------
+
+sent_10:
+10 out of 20 sentences
+4 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The report says human happiness should be a more important part of how we measure nation-by-nation progress.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The report says human happiness should be a more important part of how we measure nation-by-nation progress.
+Smile: USA ranks 17th among world's happiest countries.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The report says human happiness should be a more important part of how we measure nation-by-nation progress.
+Switzerland at the top of 'world's happiest' list.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The report says human happiness should be a more important part of how we measure nation-by-nation progress.
+The third annual World Happiness Report has been released by the United Nations.
+2 matches: report, happiness
+
+----------------
+
+sent_11:
+11 out of 20 sentences
+5 out of 9 paragraphs
+Tagged as a quote
+
+Sentence:
+"There is now a rising worldwide demand that policy be more closely aligned with what really matters to people, as they themselves characterize their well-being," report co-editor Jeffrey Sachs said in a statement.
+1 default entities: PERSON Jeffrey Sachs
+1 custom entities: PERSON Jeffrey Sachs
+
+Source Sentence and Source Headline Match:
+"There is now a rising worldwide demand that policy be more closely aligned with what really matters to people, as they themselves characterize their well-being," report co-editor Jeffrey Sachs said in a statement.
+Smile: USA ranks 17th among world's happiest countries.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"There is now a rising worldwide demand that policy be more closely aligned with what really matters to people, as they themselves characterize their well-being," report co-editor Jeffrey Sachs said in a statement.
+Switzerland at the top of 'world's happiest' list.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"There is now a rising worldwide demand that policy be more closely aligned with what really matters to people, as they themselves characterize their well-being," report co-editor Jeffrey Sachs said in a statement.
+They reflect a new worldwide demand for more attention to happiness as a criteria for government policy."
+3 matches: worldwide, policy, demand
+
+----------------
+
+sent_12:
+12 out of 20 sentences
+5 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Sachs is director of the Earth Institute at Columbia University, New York.
+4 default entities: GPE Sachs, ORGANIZATION Earth Institute, ORGANIZATION Columbia University, GPE New York
+3 custom entities: GPE Sachs, ORGANIZATION Earth Institute, ORGANIZATION Columbia University New York
+
+Source Sentence and Source Headline Match:
+Sachs is director of the Earth Institute at Columbia University, New York.
+Smile: USA ranks 17th among world's happiest countries.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Sachs is director of the Earth Institute at Columbia University, New York.
+Switzerland at the top of 'world's happiest' list.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Sachs is director of the Earth Institute at Columbia University, New York.
+The UN's Sustainable Development Solutions Network, in partnership with Columbia University's Earth Institute, released the third annual "World Happiness Report" on April 23 for 158 countries.
+3 matches: earth, columbia, institute
+
+----------------
+
+sent_13:
+13 out of 20 sentences
+6 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+And the world may be getting just a little happier: Data for the new report, collected between 2010 and 2012, showed overall increases in happiness from the first round, collected between 2005 and 2011.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+And the world may be getting just a little happier: Data for the new report, collected between 2010 and 2012, showed overall increases in happiness from the first round, collected between 2005 and 2011.
+Smile: USA ranks 17th among world's happiest countries.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+And the world may be getting just a little happier: Data for the new report, collected between 2010 and 2012, showed overall increases in happiness from the first round, collected between 2005 and 2011.
+Switzerland at the top of 'world's happiest' list.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+And the world may be getting just a little happier: Data for the new report, collected between 2010 and 2012, showed overall increases in happiness from the first round, collected between 2005 and 2011.
+"The reports review the state of happiness in the world today and show how the new science of happiness explains personal and national variations in happiness.
+5 matches: report, show, world, happiness, new
+
+----------------
+
+sent_14:
+14 out of 20 sentences
+6 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Happiness was up most in Latin America and sub-Saharan Africa, but down in countries struck by economic upheaval (Greece, Italy, Portugal and Spain) or political convulsions (Egypt).
+8 default entities: PERSON Happiness, GPE Latin America, PERSON Africa, GPE Greece, GPE Italy, GPE Portugal, GPE Spain, GPE Egypt
+5 custom entities: PERSON Happiness, GPE Latin America, PERSON Greece Italy Portugal, GPE Spain, GPE Egypt
+
+Source Sentence and Source Headline Match:
+Happiness was up most in Latin America and sub-Saharan Africa, but down in countries struck by economic upheaval (Greece, Italy, Portugal and Spain) or political convulsions (Egypt).
+Smile: USA ranks 17th among world's happiest countries.
+1 matches: country
+
+Source Sentence and Story Headline Match:
+Happiness was up most in Latin America and sub-Saharan Africa, but down in countries struck by economic upheaval (Greece, Italy, Portugal and Spain) or political convulsions (Egypt).
+Switzerland at the top of 'world's happiest' list.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Happiness was up most in Latin America and sub-Saharan Africa, but down in countries struck by economic upheaval (Greece, Italy, Portugal and Spain) or political convulsions (Egypt).
+The UN's Sustainable Development Solutions Network, in partnership with Columbia University's Earth Institute, released the third annual "World Happiness Report" on April 23 for 158 countries.
+2 matches: country, happiness
+
+----------------
+
+sent_15:
+15 out of 20 sentences
+7 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Happiness in the United States fell slightly, but Americans remained happier than people in the United Kingdom (ranked 22nd), France (25th) or Japan (43rd).
+5 default entities: GPE Happiness, GPE United States, ORGANIZATION United Kingdom, GPE France, GPE Japan
+4 custom entities: GPE Happiness, GPE United States, ORGANIZATION United Kingdom, GPE Japan
+
+Source Sentence and Source Headline Match:
+Happiness in the United States fell slightly, but Americans remained happier than people in the United Kingdom (ranked 22nd), France (25th) or Japan (43rd).
+Smile: USA ranks 17th among world's happiest countries.
+1 matches: rank
+
+Source Sentence and Story Headline Match:
+Happiness in the United States fell slightly, but Americans remained happier than people in the United Kingdom (ranked 22nd), France (25th) or Japan (43rd).
+Switzerland at the top of 'world's happiest' list.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Happiness in the United States fell slightly, but Americans remained happier than people in the United Kingdom (ranked 22nd), France (25th) or Japan (43rd).
+The third annual World Happiness Report has been released by the United Nations.
+2 matches: united, happiness
+
+----------------
+
+sent_16:
+16 out of 20 sentences
+7 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Countries ranked higher than the USA include Canada (6th), Costa Rica (12th) and Mexico (16th).
+4 default entities: ORGANIZATION USA, GPE Canada, PERSON Costa Rica, GPE Mexico
+3 custom entities: ORGANIZATION USA, PERSON Costa Rica, GPE Mexico
+
+Source Sentence and Source Headline Match:
+Countries ranked higher than the USA include Canada (6th), Costa Rica (12th) and Mexico (16th).
+Smile: USA ranks 17th among world's happiest countries.
+3 matches: rank, country, usa
+
+Source Sentence and Story Headline Match:
+Countries ranked higher than the USA include Canada (6th), Costa Rica (12th) and Mexico (16th).
+Switzerland at the top of 'world's happiest' list.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Countries ranked higher than the USA include Canada (6th), Costa Rica (12th) and Mexico (16th).
+The UN's Sustainable Development Solutions Network, in partnership with Columbia University's Earth Institute, released the third annual "World Happiness Report" on April 23 for 158 countries.
+1 matches: country
+
+----------------
+
+sent_17:
+17 out of 20 sentences
+8 out of 9 paragraphs
+Tagged as a quote
+
+Sentence:
+One reason the USA lags behind leading countries is "a relatively mediocre life expectancy," Sachs said in an e-mail.
+2 default entities: ORGANIZATION USA, PERSON Sachs
+2 custom entities: ORGANIZATION USA, PERSON Sachs
+
+Source Sentence and Source Headline Match:
+One reason the USA lags behind leading countries is "a relatively mediocre life expectancy," Sachs said in an e-mail.
+Smile: USA ranks 17th among world's happiest countries.
+2 matches: country, usa
+
+Source Sentence and Story Headline Match:
+One reason the USA lags behind leading countries is "a relatively mediocre life expectancy," Sachs said in an e-mail.
+Switzerland at the top of 'world's happiest' list.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+One reason the USA lags behind leading countries is "a relatively mediocre life expectancy," Sachs said in an e-mail.
+The report endeavors to measure overall life satisfaction country-by-country, factoring in conditions such as freedom, life expectancy and social support services.
+2 matches: life, expectancy
+
+----------------
+
+sent_18:
+18 out of 20 sentences
+8 out of 9 paragraphs
+Tagged as a quote
+
+Sentence:
+The USA also lost points, and fell from 11th to 17th, because of perceived declines in "freedom to make life choices," which might be linked to poverty or unemployment, he said.
+1 default entities: ORGANIZATION USA
+1 custom entities: ORGANIZATION USA
+
+Source Sentence and Source Headline Match:
+The USA also lost points, and fell from 11th to 17th, because of perceived declines in "freedom to make life choices," which might be linked to poverty or unemployment, he said.
+Smile: USA ranks 17th among world's happiest countries.
+2 matches: 17th, usa
+
+Source Sentence and Story Headline Match:
+The USA also lost points, and fell from 11th to 17th, because of perceived declines in "freedom to make life choices," which might be linked to poverty or unemployment, he said.
+Switzerland at the top of 'world's happiest' list.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The USA also lost points, and fell from 11th to 17th, because of perceived declines in "freedom to make life choices," which might be linked to poverty or unemployment, he said.
+The report endeavors to measure overall life satisfaction country-by-country, factoring in conditions such as freedom, life expectancy and social support services.
+2 matches: freedom, life
+
+----------------
+
+sent_19:
+19 out of 20 sentences
+9 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The report notes that mental illnesses, such as depression and anxiety, are major contributors to unhappiness around the world.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The report notes that mental illnesses, such as depression and anxiety, are major contributors to unhappiness around the world.
+Smile: USA ranks 17th among world's happiest countries.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The report notes that mental illnesses, such as depression and anxiety, are major contributors to unhappiness around the world.
+Switzerland at the top of 'world's happiest' list.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The report notes that mental illnesses, such as depression and anxiety, are major contributors to unhappiness around the world.
+The third annual World Happiness Report has been released by the United Nations.
+2 matches: report, world
+
+----------------
+
+sent_20:
+20 out of 20 sentences
+9 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But it says that, even in rich countries, fewer than a third of people with such illnesses are in treatment.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+But it says that, even in rich countries, fewer than a third of people with such illnesses are in treatment.
+Smile: USA ranks 17th among world's happiest countries.
+1 matches: country
+
+Source Sentence and Story Headline Match:
+But it says that, even in rich countries, fewer than a third of people with such illnesses are in treatment.
+Switzerland at the top of 'world's happiest' list.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+But it says that, even in rich countries, fewer than a third of people with such illnesses are in treatment.
+The UN's Sustainable Development Solutions Network, in partnership with Columbia University's Earth Institute, released the third annual "World Happiness Report" on April 23 for 158 countries.
+2 matches: third, country
+
+----------------
+

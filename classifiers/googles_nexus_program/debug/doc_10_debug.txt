@@ -1,0 +1,111 @@
+sent_1:
+1 out of 4 sentences
+1 out of 1 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It had a great run, but Google has today discontinued the 2013-edition Nexus 7.
+1 default entities: PERSON Google
+1 custom entities: PERSON Google
+
+Source Sentence and Source Headline Match:
+It had a great run, but Google has today discontinued the 2013-edition Nexus 7.
+PSA: The 2013 Nexus 7 has been discontinued.
+3 matches: 7, discontinue, nexus
+
+Source Sentence and Story Headline Match:
+It had a great run, but Google has today discontinued the 2013-edition Nexus 7.
+Nexus 7 tablet no longer for sale from Google.
+3 matches: google, 7, nexus
+
+Source Sentence and Best Story Sentence Match:
+It had a great run, but Google has today discontinued the 2013-edition Nexus 7.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 matches: 7, nexus
+
+----------------
+
+sent_2:
+2 out of 4 sentences
+1 out of 1 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The device was arguably—and is still to this this day—one of the best options when it comes to mid-range Android tablets.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The device was arguably—and is still to this this day—one of the best options when it comes to mid-range Android tablets.
+PSA: The 2013 Nexus 7 has been discontinued.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The device was arguably—and is still to this this day—one of the best options when it comes to mid-range Android tablets.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: tablet
+
+Source Sentence and Best Story Sentence Match:
+The device was arguably—and is still to this this day—one of the best options when it comes to mid-range Android tablets.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+2 matches: tablet, still
+
+----------------
+
+sent_3:
+3 out of 4 sentences
+1 out of 1 paragraphs
+Tagged as not being a quote
+
+Sentence:
+You may not be able to grab it on the Google Store anymore, but several places are offering the device at decent prices.
+1 default entities: ORGANIZATION Google Store
+1 custom entities: ORGANIZATION Google Store
+
+Source Sentence and Source Headline Match:
+You may not be able to grab it on the Google Store anymore, but several places are offering the device at decent prices.
+PSA: The 2013 Nexus 7 has been discontinued.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+You may not be able to grab it on the Google Store anymore, but several places are offering the device at decent prices.
+Nexus 7 tablet no longer for sale from Google.
+1 matches: google
+
+Source Sentence and Best Story Sentence Match:
+You may not be able to grab it on the Google Store anymore, but several places are offering the device at decent prices.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 matches: price
+
+----------------
+
+sent_4:
+4 out of 4 sentences
+1 out of 1 paragraphs
+Tagged as not being a quote
+
+Sentence:
+On eBay, you can find several options including one that’s $185 refurbished.
+1 default entities: ORGANIZATION eBay
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+On eBay, you can find several options including one that’s $185 refurbished.
+PSA: The 2013 Nexus 7 has been discontinued.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+On eBay, you can find several options including one that’s $185 refurbished.
+Nexus 7 tablet no longer for sale from Google.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+On eBay, you can find several options including one that’s $185 refurbished.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+2 matches: include, ebay
+
+----------------
+

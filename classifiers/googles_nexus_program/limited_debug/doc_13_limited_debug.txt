@@ -1,0 +1,497 @@
+sent_1:
+
+This is a very interesting question: the Nexus 7 (2013) was and still is one of the defining tablets for Android.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_2:
+
+The Nexus 9 is the latest and greatest, but has arrived with a whole host of issues.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: 9, nexus
+
+----------------
+sent_3:
+
+So is it worth upgrading your Nexus 7 to a new Nexus 9?
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+3 best matches: 7, 9, nexus
+
+----------------
+sent_4:
+
+Find out in our Nexus 9 vs Nexus 7 (2013) comparison.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_5:
+
+Up front, there's not much to distinguish between the Nexus 9 and Nexus 7 (2013) other than the size and shape difference.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_6:
+
+The Nexus 9 adopts a 4:3 aspect ratio while, in comparison, the Nexus 7 (2013) is in the wide screen 16:9 format.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+4 best matches: 7, screen, 9, nexus
+
+----------------
+sent_7:
+
+Of course, the Nexus 9 is an 8.9-inch device and the Nexus 7 (2013) a 7-inch diagonal display.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_8:
+
+The back of the Nexus 9 is a little different depending on which color you choose: the black one is almost identical to the rubberized back of the Nexus 5, which we love.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: 9, nexus
+
+----------------
+sent_9:
+
+no story sentence best matches found
+
+----------------
+sent_10:
+
+The white Nexus 9 feels a little more papery, and you'd be hard-pressed to spot fingerprints on it.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: 9, nexus
+
+----------------
+sent_11:
+
+The white Nexus 9 also has a silver trim along the metallic sides, with a beveled edge that picks up a hint of bright silver.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: 9, nexus
+
+----------------
+sent_12:
+
+The black Nexus 9 misses out on this nice highlight, and also has slightly more flat buttons.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: 9, nexus
+
+----------------
+sent_13:
+
+I haven't seen the sandy beige Nexus 9, so I can't comment on its texture or feel.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: 9, nexus
+
+----------------
+sent_14:
+
+All buttons, incidentally, are in the same locations on both the Nexus 9 and Nexus 7 (2013): power button and volume rocker on the upper right, USB 2.0 charging port centered on the bottom and headphone port to the right on the upper edge.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_15:
+
+Both tablets have a camera lens squeezed into the upper corner on the back.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: tablet
+
+----------------
+sent_16:
+
+The Nexus 7 (2013), has a rounder back, mostly towards the sides, and has a harder plastic feel than the other current Nexus devices.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_17:
+
+The Nexus 7 (2013) also has rear-mounted stereo speakers compared to the Nexus 9's front-facing stereo BoomSound speakers.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_18:
+
+The Nexus 9 is, of course, much heavier than the Nexus 7 (2013).
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_19:
+
+The Nexus 9 weighs in at 425 grams for the Wi-Fi version and 436 grams for the LTE version.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: 9, nexus
+
+----------------
+sent_20:
+
+The Wi-Fi only Nexus 7 (2013), on the other hand, is a very pocketable 290 grams (or 299 grams for the LTE version).
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_21:
+
+Despite the excitement that ''HTC design'' brought in the lead up to the Nexus 9, the actual device feels a little flimsy and heats up unnecessarily.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: 9, nexus
+
+----------------
+sent_22:
+
+It looks nice enough, but it's far from being as solid as the Nexus 7 (2103)
+The Nexus 7 won critical praise for its high build quality and low price.
+2 best matches: 7, nexus
+
+----------------
+sent_23:
+
+The Nexus 9 bridges the size gap between the Nexus 7 (2013) and Nexus 10, coming in just shy of nine inches at 8.9 inches on the diagonal.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_24:
+
+The Nexus 9 has the same screen resolution and aspect ratio as the iPad: 2,048 x 1,536 with a pixel density of 281 pixels per inch.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+3 best matches: screen, 9, nexus
+
+----------------
+sent_25:
+
+The Nexus 7 (2013) rocks a straight 7-inch widescreen display with 1,920 x 1,200 resolution and 323 ppi.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_26:
+
+Both tablets utilize IPS LCD display technology.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: tablet
+
+----------------
+sent_27:
+
+The Nexus 9 in our hands has a cooler greenish tint to the display than the Nexus 7 (2013), which tends (a lot) towards pink.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_28:
+
+The Nexus 7 (2013) is also significantly brighter than the newer display and of course, is slightly more defined thanks to the higher pixel density.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+4 best matches: 7, 2013, nexus, high
+
+----------------
+sent_29:
+
+no story sentence best matches found
+
+----------------
+sent_30:
+
+Viewing angles are better on the Nexus 9 though.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: 9, nexus
+
+----------------
+sent_31:
+
+no story sentence best matches found
+
+----------------
+sent_32:
+
+Both tablets are running the latest version of Android: Android 5.0 Lollipop.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+4 best matches: android, version, lollipop, late
+
+----------------
+sent_33:
+
+The Nexus 9 came with Lollipop out of the box, whereas the Nexus 7 (2013) was the delivery device for Android 4.4 KitKat.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_34:
+
+Other than the differences you'll notice because of the different aspect ratios, the stock Android experience is pretty much identical on both devices.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+2 best matches: android, device
+
+----------------
+sent_35:
+
+no story sentence best matches found
+
+----------------
+sent_36:
+
+no story sentence best matches found
+
+----------------
+sent_37:
+
+Of course, the Nexus 9 is a full year newer than the Nexus 7 (2013), and is the first tablet to utilize Nvidia's 64-bit dual-core Tegra K1.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_38:
+
+However, despite supporting 4 GB of RAM, the Nexus 9 specs only include 2 GB of RAM, and that lack of RAM is noticeable in the stuttery performance of the tablet and the semi-frequent freezes and crashes.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+2 best matches: include, tablet
+
+----------------
+sent_39:
+
+The Nexus 7 (2013) packs a quad-core Snapdragon S4 Pro, clocked at 1.5 GHz, with 2 GB of RAM backing it up.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_40:
+
+This is a much weaker processor than the 2.3 GHz dual-core CPU beating inside the Nexus 9, but the Snapdragon manages just fine.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: 9, nexus
+
+----------------
+sent_41:
+
+In comparison, the Nexus 9 also rocks a Kepler DX1 GPU compared to the Nexus 7 (2013)'s Adreno 320.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_42:
+
+Even though Lollipop looks great and generally performs nice and smoothly, there's always the shadow of stutter and lag on the horizon with the Nexus 9, and lags of any kind on a device with this kind of specs sheet and stock Android should be absolutely unheard of.
+That's why we've always introduced Nexus devices alongside our platform releases.
+3 best matches: device, always, nexus
+
+----------------
+sent_43:
+
+no story sentence best matches found
+
+----------------
+sent_44:
+
+Read our Nexus 9 review for the earlier build problems.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 best matches: build, nexus
+
+----------------
+sent_45:
+
+The Nexus 7 (2013) specs, in comparison, seems to handle Lollipop pretty well for an older device.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_46:
+
+During basic operation (responsiveness, app launches, multitasking), both handle Lollipop nicely and some things are very equal (the camera app launches at exactly the same speed, for example).
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+1 best matches: lollipop
+
+----------------
+sent_47:
+
+However, when put under more pressure, like hi-res gaming, the Nexus 9's Tegra K1 shows its strength and leaves the Nexus 7 (2013) in the dust.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_48:
+
+Nexus cameras suck.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 best matches: nexus
+
+----------------
+sent_49:
+
+That needs saying right up front.
+Google said it stopped selling the Nexus 5 to focus on the Nexus 6.
+1 best matches: say
+
+----------------
+sent_50:
+
+No one buys a Nexus for the camera, and even less so a Nexus tablet.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 best matches: nexus
+
+----------------
+sent_51:
+
+So if you're wanting a giant tablet to take photos with you might want to look at an iPad or Galaxy Tab S instead.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: tablet
+
+----------------
+sent_52:
+
+The Nexus 9 camera shoots at 8 MP and is the same as that found in the thoroughly mid-range Desire 610, along with a 1.6 MP front-facing camera.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: 9, nexus
+
+----------------
+sent_53:
+
+The Nexus 7 (2013) camera brings equally sucky 5 MP performance with a 1.2 MP selfie camera up front.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_54:
+
+The Nexus 9 has a decently sized 6,700 mAh battery that fails to produce anything even resembling a reasonable amount of run time.
+The Nexus 6 largely resembles the Moto X (2014), Motorola's 5.2-inch smartphone, and is the largest smartphone so far produced by Google.
+3 best matches: resemble, produce, nexus
+
+----------------
+sent_55:
+
+I have to confess the battery life has improved following the recent software update, but still.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: still
+
+----------------
+sent_56:
+
+The Nexus 9 battery is also painfully slow to charge.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: 9, nexus
+
+----------------
+sent_57:
+
+The Nexus 7 (2013) has a much smaller 3,950 mAh battery but it powers a much smaller screen.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_58:
+
+It charges a lot faster too, thanks to its smaller capacity, but run time is a problem for both tablets, and both tend to heat up a bit under stress.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+2 best matches: small, tablet
+
+----------------
+sent_59:
+
+At least you won't be waiting half a day while the Nexus 7 (2013) charges though.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_60:
+
+Project Volta and the Battery Saver are your two new best friends.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 best matches: best
+
+----------------
+sent_61:
+
+The Nexus 7 (2013) release date was July 26, 2013 and the Nexus 9 release date was November 3, 2014.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+4 best matches: 7, 2013, nexus, release
+
+----------------
+sent_62:
+
+The Nexus 7 (2013) price was 229 USD for the 16 GB version, 269 USD for the 32 GB version with WiFi only, and 349 USD for the 32 GB version with 4G/LTE connectivity.
+The Nexus 7 won critical praise for its high build quality and low price.
+3 best matches: 7, nexus, price
+
+----------------
+sent_63:
+
+A white version of the tablet was added to the Play Store in December, 2013.
+The Nexus 7 is no longer available from Google's official online store.
+1 best matches: store
+
+----------------
+sent_64:
+
+The Nexus 9 price is 389 USD for the 16 GB version with WiFi, 479 USD for the 32 GB WiFi version and 559 USD for the 32 GB LTE version.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 best matches: nexus, price
+
+----------------
+sent_65:
+
+This is a tough one: as far as all-round brilliance goes, the Nexus 7 (2013) was a close-to-perfect tablet for the price.
+The Nexus 7 won critical praise for its high build quality and low price.
+3 best matches: 7, nexus, price
+
+----------------
+sent_66:
+
+Sure, the battery wasn't great and neither was the camera, but hey, it's a Nexus so what do you expect?
+The Nexus 7 won critical praise for its high build quality and low price.
+1 best matches: nexus
+
+----------------
+sent_67:
+
+The Nexus 9 is significantly more expensive but seems to have a longer list of issues.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: 9, nexus
+
+----------------
+sent_68:
+
+no story sentence best matches found
+
+----------------
+sent_69:
+
+If all you want is pure speed and better specs, then the Tegra K1 in the Nexus 9 can't be beat, even if it seems like Lollipop struggles sometimes to keep up.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: 9, nexus
+
+----------------
+sent_70:
+
+The new aspect ratio is nice but the Nexus 9 fails to impress as a standout tablet.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: 9, nexus
+
+----------------
+sent_71:
+
+The Nexus 7 (2013), on the other hand, is still one of the best Android tablets around.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_72:
+
+As far as bargains go, the Nexus 7 (2013) is still pretty unbeatable, and for my money, pound for pound, I'd prefer the Nexus 7 (2013)'s quibbles over the Nexus 9's problems, even if it is the older tablet.
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------
+sent_73:
+
+For your money, which is the better buy the Nexus 7 (2013) or Nexus 9?
+Nexus 7 models were released in 2012 and 2013, both of which won high praise from critics.
+3 best matches: 7, 2013, nexus
+
+----------------

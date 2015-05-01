@@ -1,0 +1,887 @@
+sent_1:
+1 out of 33 sentences
+1 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+UPDATE: It’s official –“Full House” will return to television for a 13-episode sequel on Netflix in 2016, the streaming service confirmed.
+1 default entities: GPE Netflix
+3 custom entities: ORGANIZATION UPDATE, PERSON Full House, GPE Netflix
+
+Source Sentence and Source Headline Match:
+UPDATE: It’s official –“Full House” will return to television for a 13-episode sequel on Netflix in 2016, the streaming service confirmed.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+3 matches: full, netflix, house
+
+Source Sentence and Story Headline Match:
+UPDATE: It’s official –“Full House” will return to television for a 13-episode sequel on Netflix in 2016, the streaming service confirmed.
+Netflix confirms reboot of "Full House"
+4 matches: full, confirm, netflix, house
+
+Source Sentence and Best Story Sentence Match:
+UPDATE: It’s official –“Full House” will return to television for a 13-episode sequel on Netflix in 2016, the streaming service confirmed.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+5 matches: 13-episode, full, confirm, netflix, house
+
+----------------
+
+sent_2:
+2 out of 33 sentences
+2 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+John Stamos, who played Uncle Jesse on the popular family sitcom, broke the news Monday night on “Jimmy Kimmel Live!”
+4 default entities: PERSON John, GPE Stamos, PERSON Uncle Jesse, PERSON Kimmel Live
+3 custom entities: PERSON John, PERSON Uncle Jesse, PERSON Jimmy Kimmel Live
+
+Source Sentence and Source Headline Match:
+John Stamos, who played Uncle Jesse on the popular family sitcom, broke the news Monday night on “Jimmy Kimmel Live!”
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+John Stamos, who played Uncle Jesse on the popular family sitcom, broke the news Monday night on “Jimmy Kimmel Live!”
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+John Stamos, who played Uncle Jesse on the popular family sitcom, broke the news Monday night on “Jimmy Kimmel Live!”
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+1 matches: sitcom
+
+----------------
+
+sent_3:
+3 out of 33 sentences
+3 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+Called “Fuller House,” the revival series will focus on Candace Cameron Bure’s character, D.J.
+3 default entities: GPE Called, ORGANIZATION House, PERSON Candace Cameron Bure
+3 custom entities: GPE Called, PERSON Fuller House, PERSON Candace Cameron
+
+Source Sentence and Source Headline Match:
+Called “Fuller House,” the revival series will focus on Candace Cameron Bure’s character, D.J.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+1 matches: house
+
+Source Sentence and Story Headline Match:
+Called “Fuller House,” the revival series will focus on Candace Cameron Bure’s character, D.J.
+Netflix confirms reboot of "Full House"
+1 matches: house
+
+Source Sentence and Best Story Sentence Match:
+Called “Fuller House,” the revival series will focus on Candace Cameron Bure’s character, D.J.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+2 matches: fuller, house
+
+----------------
+
+sent_4:
+4 out of 33 sentences
+3 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Tanner, who is a recently widowed and pregnant veterinarian.
+1 default entities: GPE Tanner
+1 custom entities: PERSON Tanner
+
+Source Sentence and Source Headline Match:
+Tanner, who is a recently widowed and pregnant veterinarian.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Tanner, who is a recently widowed and pregnant veterinarian.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_5:
+5 out of 33 sentences
+3 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Her younger sister and aspiring musician Stephanie Tanner (Jodie Sweetin) and her childhood best friend, Kimmy Gibbler, (Andrea Barber), along with Gibbler’s feisty teenage daughter Ramona, move in to help D.J.
+6 default entities: PERSON Stephanie Tanner, PERSON Jodie Sweetin, PERSON Kimmy Gibbler, PERSON Andrea Barber, PERSON Gibbler, GPE Ramona
+3 custom entities: PERSON Stephanie Tanner Jodie Sweetin, PERSON Kimmy Gibbler Andrea Barber, GPE Ramona
+
+Source Sentence and Source Headline Match:
+Her younger sister and aspiring musician Stephanie Tanner (Jodie Sweetin) and her childhood best friend, Kimmy Gibbler, (Andrea Barber), along with Gibbler’s feisty teenage daughter Ramona, move in to help D.J.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Her younger sister and aspiring musician Stephanie Tanner (Jodie Sweetin) and her childhood best friend, Kimmy Gibbler, (Andrea Barber), along with Gibbler’s feisty teenage daughter Ramona, move in to help D.J.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Her younger sister and aspiring musician Stephanie Tanner (Jodie Sweetin) and her childhood best friend, Kimmy Gibbler, (Andrea Barber), along with Gibbler’s feisty teenage daughter Ramona, move in to help D.J.
+It will star Candace Cameron-Bure playing the role of D.J.
+1 matches: d.j
+
+----------------
+
+sent_6:
+6 out of 33 sentences
+3 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+raise her two sons — rebellious 12-year-old J.D.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+raise her two sons — rebellious 12-year-old J.D.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+raise her two sons — rebellious 12-year-old J.D.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_7:
+7 out of 33 sentences
+3 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+and neurotic 7-year-old Max — and soon-to-arrive baby.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+and neurotic 7-year-old Max — and soon-to-arrive baby.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+and neurotic 7-year-old Max — and soon-to-arrive baby.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_8:
+8 out of 33 sentences
+4 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Stamos is set to produce the show and reprise his role as a guest star.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Stamos is set to produce the show and reprise his role as a guest star.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Stamos is set to produce the show and reprise his role as a guest star.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Stamos is set to produce the show and reprise his role as a guest star.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+3 matches: star, show, guest
+
+----------------
+
+sent_9:
+9 out of 33 sentences
+5 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+Discussions with original “Full House” stars Bob Saget, Mary-Kate and Ashley Olsen, Dave Coulier and Lori Loughlin regarding guest appearances in the new show are “ongoing,” according to the Netflix release.
+5 default entities: PERSON Bob Saget, PERSON Ashley Olsen, PERSON Dave Coulier, PERSON Lori Loughlin, ORGANIZATION Netflix
+5 custom entities: ORGANIZATION House, PERSON Bob Saget, PERSON Ashley Olsen Dave Coulier, PERSON Lori Loughlin, ORGANIZATION Netflix
+
+Source Sentence and Source Headline Match:
+Discussions with original “Full House” stars Bob Saget, Mary-Kate and Ashley Olsen, Dave Coulier and Lori Loughlin regarding guest appearances in the new show are “ongoing,” according to the Netflix release.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+3 matches: full, netflix, house
+
+Source Sentence and Story Headline Match:
+Discussions with original “Full House” stars Bob Saget, Mary-Kate and Ashley Olsen, Dave Coulier and Lori Loughlin regarding guest appearances in the new show are “ongoing,” according to the Netflix release.
+Netflix confirms reboot of "Full House"
+3 matches: full, netflix, house
+
+Source Sentence and Best Story Sentence Match:
+Discussions with original “Full House” stars Bob Saget, Mary-Kate and Ashley Olsen, Dave Coulier and Lori Loughlin regarding guest appearances in the new show are “ongoing,” according to the Netflix release.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+6 matches: star, house, full, show, guest, original
+
+----------------
+
+sent_10:
+10 out of 33 sentences
+5 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+However, Loughlin recently told “Access Hollywood Live” that that she wasn’t sure if she’d return.
+2 default entities: PERSON Loughlin, ORGANIZATION “Access Hollywood
+2 custom entities: PERSON Loughlin, ORGANIZATION Access Hollywood Live
+
+Source Sentence and Source Headline Match:
+However, Loughlin recently told “Access Hollywood Live” that that she wasn’t sure if she’d return.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+However, Loughlin recently told “Access Hollywood Live” that that she wasn’t sure if she’d return.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_11:
+11 out of 33 sentences
+6 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+“They made deals with half the cast, but not the other half,” she told the show’s Billy Bush and Kit Hoover on April 21.
+2 default entities: PERSON Billy Bush, PERSON Kit Hoover
+2 custom entities: PERSON Billy Bush, PERSON Kit Hoover
+
+Source Sentence and Source Headline Match:
+“They made deals with half the cast, but not the other half,” she told the show’s Billy Bush and Kit Hoover on April 21.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“They made deals with half the cast, but not the other half,” she told the show’s Billy Bush and Kit Hoover on April 21.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“They made deals with half the cast, but not the other half,” she told the show’s Billy Bush and Kit Hoover on April 21.
+Netflix said April 21 that it has renewed "Daredevil" for a second season.
+2 matches: april, 21
+
+----------------
+
+sent_12:
+12 out of 33 sentences
+6 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+“I don’t have a deal, Dave doesn’t have a deal, Bob, we’re all in negotiations.
+2 default entities: PERSON Dave, PERSON Bob
+2 custom entities: PERSON Dave, PERSON Bob
+
+Source Sentence and Source Headline Match:
+“I don’t have a deal, Dave doesn’t have a deal, Bob, we’re all in negotiations.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“I don’t have a deal, Dave doesn’t have a deal, Bob, we’re all in negotiations.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“I don’t have a deal, Dave doesn’t have a deal, Bob, we’re all in negotiations.
+Netflix said April 2 that it had ordered 4, 30-minute episodes of an original series from creators Bob Odenkirk and David Cross.
+1 matches: bob
+
+----------------
+
+sent_13:
+13 out of 33 sentences
+6 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+I think we would all like to come back, if the powers that be are fair to all of us.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+I think we would all like to come back, if the powers that be are fair to all of us.”
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+I think we would all like to come back, if the powers that be are fair to all of us.”
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_14:
+14 out of 33 sentences
+7 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+She said she wasn’t sure if this was true for Mary-Kate and Ashley Olsen.
+1 default entities: PERSON Ashley Olsen
+1 custom entities: PERSON Ashley Olsen
+
+Source Sentence and Source Headline Match:
+She said she wasn’t sure if this was true for Mary-Kate and Ashley Olsen.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+She said she wasn’t sure if this was true for Mary-Kate and Ashley Olsen.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+She said she wasn’t sure if this was true for Mary-Kate and Ashley Olsen.
+Netflix said April 21 that it has renewed "Daredevil" for a second season.
+1 matches: say
+
+----------------
+
+sent_15:
+15 out of 33 sentences
+8 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+“It doesn’t matter how much money they get paid, they don’t care.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“It doesn’t matter how much money they get paid, they don’t care.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“It doesn’t matter how much money they get paid, they don’t care.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_16:
+16 out of 33 sentences
+8 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+I honestly don’t know if they want to do it.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+I honestly don’t know if they want to do it.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+I honestly don’t know if they want to do it.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_17:
+17 out of 33 sentences
+8 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+I’m sure they’re talking to them.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+I’m sure they’re talking to them.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+I’m sure they’re talking to them.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_18:
+18 out of 33 sentences
+8 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+I don’t know what’s going on there,” she said on the show.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+I don’t know what’s going on there,” she said on the show.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+I don’t know what’s going on there,” she said on the show.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+I don’t know what’s going on there,” she said on the show.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+1 matches: show
+
+----------------
+
+sent_19:
+19 out of 33 sentences
+8 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+“Everyone would love it [if they came back], it would be really nice.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“Everyone would love it [if they came back], it would be really nice.”
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“Everyone would love it [if they came back], it would be really nice.”
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_20:
+20 out of 33 sentences
+9 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+“Full House,” which aired on ABC from 1987 to 1995, followed Danny Tanner (Saget) and his large family in the wake of his wife’s death.
+3 default entities: ORGANIZATION House, ORGANIZATION ABC, PERSON Danny Tanner
+4 custom entities: PERSON Full, ORGANIZATION House, ORGANIZATION ABC, PERSON Danny Tanner Saget
+
+Source Sentence and Source Headline Match:
+“Full House,” which aired on ABC from 1987 to 1995, followed Danny Tanner (Saget) and his large family in the wake of his wife’s death.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+2 matches: full, house
+
+Source Sentence and Story Headline Match:
+“Full House,” which aired on ABC from 1987 to 1995, followed Danny Tanner (Saget) and his large family in the wake of his wife’s death.
+Netflix confirms reboot of "Full House"
+2 matches: full, house
+
+Source Sentence and Best Story Sentence Match:
+“Full House,” which aired on ABC from 1987 to 1995, followed Danny Tanner (Saget) and his large family in the wake of his wife’s death.
+"Full House" ended its original run in 1995.
+3 matches: full, 1995, house
+
+----------------
+
+sent_21:
+21 out of 33 sentences
+10 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+“As big fans of the original ‘Full House,’ we are thrilled to be able to introduce ‘Fuller House’s’ new narrative to existing fans worldwide, who grew up on the original, as well as a new generation of global viewers that have grown up with the Tanners in syndication,” said Cindy Holland, vice president of original content for Netflix, in a statement.
+5 default entities: ORGANIZATION House, ORGANIZATION House, ORGANIZATION Tanners, PERSON Cindy Holland, PERSON Netflix
+4 custom entities: PERSON Fuller, ORGANIZATION Tanners, PERSON Cindy Holland, PERSON Netflix
+
+Source Sentence and Source Headline Match:
+“As big fans of the original ‘Full House,’ we are thrilled to be able to introduce ‘Fuller House’s’ new narrative to existing fans worldwide, who grew up on the original, as well as a new generation of global viewers that have grown up with the Tanners in syndication,” said Cindy Holland, vice president of original content for Netflix, in a statement.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+3 matches: full, netflix, house
+
+Source Sentence and Story Headline Match:
+“As big fans of the original ‘Full House,’ we are thrilled to be able to introduce ‘Fuller House’s’ new narrative to existing fans worldwide, who grew up on the original, as well as a new generation of global viewers that have grown up with the Tanners in syndication,” said Cindy Holland, vice president of original content for Netflix, in a statement.
+Netflix confirms reboot of "Full House"
+3 matches: full, netflix, house
+
+Source Sentence and Best Story Sentence Match:
+“As big fans of the original ‘Full House,’ we are thrilled to be able to introduce ‘Fuller House’s’ new narrative to existing fans worldwide, who grew up on the original, as well as a new generation of global viewers that have grown up with the Tanners in syndication,” said Cindy Holland, vice president of original content for Netflix, in a statement.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+4 matches: full, fuller, netflix, house
+
+----------------
+
+sent_22:
+22 out of 33 sentences
+11 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In a joint statement, executive producers Robert L. Boyett, Thomas L. Miller and Jeff Franklin said: “The continued support of ‘Full House’ fans of all ages for the last 28 years has been astounding.
+4 default entities: PERSON Robert L. Boyett, PERSON Thomas L. Miller, PERSON Jeff Franklin, ORGANIZATION House
+4 custom entities: PERSON Robert L Boyett Thomas, PERSON Miller, PERSON Jeff Franklin, ORGANIZATION Full House
+
+Source Sentence and Source Headline Match:
+In a joint statement, executive producers Robert L. Boyett, Thomas L. Miller and Jeff Franklin said: “The continued support of ‘Full House’ fans of all ages for the last 28 years has been astounding.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+2 matches: full, house
+
+Source Sentence and Story Headline Match:
+In a joint statement, executive producers Robert L. Boyett, Thomas L. Miller and Jeff Franklin said: “The continued support of ‘Full House’ fans of all ages for the last 28 years has been astounding.
+Netflix confirms reboot of "Full House"
+2 matches: full, house
+
+Source Sentence and Best Story Sentence Match:
+In a joint statement, executive producers Robert L. Boyett, Thomas L. Miller and Jeff Franklin said: “The continued support of ‘Full House’ fans of all ages for the last 28 years has been astounding.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+2 matches: full, house
+
+----------------
+
+sent_23:
+23 out of 33 sentences
+11 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It is an honor and a thrill to catch up with these beloved characters and explore their lives today.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It is an honor and a thrill to catch up with these beloved characters and explore their lives today.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It is an honor and a thrill to catch up with these beloved characters and explore their lives today.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+It is an honor and a thrill to catch up with these beloved characters and explore their lives today.
+"Daredevil," which stars British actor Charlie Cox as the title character, debuted on Netflix on April 10.
+1 matches: character
+
+----------------
+
+sent_24:
+24 out of 33 sentences
+11 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The love you saw on the show was real.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The love you saw on the show was real.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The love you saw on the show was real.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The love you saw on the show was real.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+1 matches: show
+
+----------------
+
+sent_25:
+25 out of 33 sentences
+11 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The cast has remained a loving family off screen all these years.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The cast has remained a loving family off screen all these years.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The cast has remained a loving family off screen all these years.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The cast has remained a loving family off screen all these years.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+1 matches: cast
+
+----------------
+
+sent_26:
+26 out of 33 sentences
+11 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+We are as excited as our fans to finally bring ‘Full House’ back to life.”
+1 default entities: ORGANIZATION House
+1 custom entities: PERSON Full House
+
+Source Sentence and Source Headline Match:
+We are as excited as our fans to finally bring ‘Full House’ back to life.”
+‘Full House’ Reunion on Netflix Is Officially Happening.
+2 matches: full, house
+
+Source Sentence and Story Headline Match:
+We are as excited as our fans to finally bring ‘Full House’ back to life.”
+Netflix confirms reboot of "Full House"
+2 matches: full, house
+
+Source Sentence and Best Story Sentence Match:
+We are as excited as our fans to finally bring ‘Full House’ back to life.”
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+2 matches: full, house
+
+----------------
+
+sent_27:
+27 out of 33 sentences
+12 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+On “Jimmy Kimmel,” Stamos said he, Franklin (who created the original series), Boyett and Miller had been planning the spinoff for years.
+5 default entities: PERSON Kimmel, PERSON Stamos, GPE Franklin, PERSON Boyett, PERSON Miller
+3 custom entities: PERSON Jimmy Kimmel Stamos, PERSON Boyett, PERSON Miller
+
+Source Sentence and Source Headline Match:
+On “Jimmy Kimmel,” Stamos said he, Franklin (who created the original series), Boyett and Miller had been planning the spinoff for years.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+On “Jimmy Kimmel,” Stamos said he, Franklin (who created the original series), Boyett and Miller had been planning the spinoff for years.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+On “Jimmy Kimmel,” Stamos said he, Franklin (who created the original series), Boyett and Miller had been planning the spinoff for years.
+Netflix said April 2 that it had ordered 4, 30-minute episodes of an original series from creators Bob Odenkirk and David Cross.
+3 matches: series, say, original
+
+----------------
+
+sent_28:
+28 out of 33 sentences
+13 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+“It’s a labor of love,” Stamos said on the show.
+1 default entities: PERSON Stamos
+1 custom entities: PERSON Stamos
+
+Source Sentence and Source Headline Match:
+“It’s a labor of love,” Stamos said on the show.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“It’s a labor of love,” Stamos said on the show.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“It’s a labor of love,” Stamos said on the show.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+1 matches: show
+
+----------------
+
+sent_29:
+29 out of 33 sentences
+13 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+“We’ve been literally trying for so many years to do it right, and I think we’ve finally got it perfect.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“We’ve been literally trying for so many years to do it right, and I think we’ve finally got it perfect.”
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“We’ve been literally trying for so many years to do it right, and I think we’ve finally got it perfect.”
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_30:
+30 out of 33 sentences
+14 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+When Kimmel asked if Saget would appear on the show, Stamos replied, “He better.”
+3 default entities: PERSON Kimmel, PERSON Saget, PERSON Stamos
+3 custom entities: PERSON Kimmel, PERSON Saget, PERSON Stamos
+
+Source Sentence and Source Headline Match:
+When Kimmel asked if Saget would appear on the show, Stamos replied, “He better.”
+‘Full House’ Reunion on Netflix Is Officially Happening.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+When Kimmel asked if Saget would appear on the show, Stamos replied, “He better.”
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+When Kimmel asked if Saget would appear on the show, Stamos replied, “He better.”
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+1 matches: show
+
+----------------
+
+sent_31:
+31 out of 33 sentences
+15 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+News of the “Full House” reunion broke earlier this month on TVLine.
+1 default entities: ORGANIZATION TVLine
+2 custom entities: FACILITY Full House, ORGANIZATION TVLine
+
+Source Sentence and Source Headline Match:
+News of the “Full House” reunion broke earlier this month on TVLine.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+3 matches: full, reunion, house
+
+Source Sentence and Story Headline Match:
+News of the “Full House” reunion broke earlier this month on TVLine.
+Netflix confirms reboot of "Full House"
+2 matches: full, house
+
+Source Sentence and Best Story Sentence Match:
+News of the “Full House” reunion broke earlier this month on TVLine.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+2 matches: full, house
+
+----------------
+
+sent_32:
+32 out of 33 sentences
+15 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+A rep for Netflix said at the time that the story was “just a rumor.”
+1 default entities: PERSON Netflix
+1 custom entities: PERSON Netflix
+
+Source Sentence and Source Headline Match:
+A rep for Netflix said at the time that the story was “just a rumor.”
+‘Full House’ Reunion on Netflix Is Officially Happening.
+1 matches: netflix
+
+Source Sentence and Story Headline Match:
+A rep for Netflix said at the time that the story was “just a rumor.”
+Netflix confirms reboot of "Full House"
+1 matches: netflix
+
+Source Sentence and Best Story Sentence Match:
+A rep for Netflix said at the time that the story was “just a rumor.”
+Netflix said April 21 that it has renewed "Daredevil" for a second season.
+2 matches: say, netflix
+
+----------------
+
+sent_33:
+33 out of 33 sentences
+16 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+“Fuller House” comes from Miller-Boyett Productions and Jeff Franklin Productions in association with Warner Horizon Television for Netflix.
+3 default entities: PERSON Jeff Franklin, PERSON Warner Horizon Television, PERSON Netflix
+5 custom entities: PERSON Fuller, ORGANIZATION House, PERSON Jeff Franklin, PERSON Warner Horizon Television, PERSON Netflix
+
+Source Sentence and Source Headline Match:
+“Fuller House” comes from Miller-Boyett Productions and Jeff Franklin Productions in association with Warner Horizon Television for Netflix.
+‘Full House’ Reunion on Netflix Is Officially Happening.
+2 matches: netflix, house
+
+Source Sentence and Story Headline Match:
+“Fuller House” comes from Miller-Boyett Productions and Jeff Franklin Productions in association with Warner Horizon Television for Netflix.
+Netflix confirms reboot of "Full House"
+2 matches: netflix, house
+
+Source Sentence and Best Story Sentence Match:
+“Fuller House” comes from Miller-Boyett Productions and Jeff Franklin Productions in association with Warner Horizon Television for Netflix.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+3 matches: fuller, netflix, house
+
+----------------
+

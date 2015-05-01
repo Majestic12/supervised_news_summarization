@@ -1,0 +1,35 @@
+sent_1:
+
+The federal police on Wednesday detained the treasurer of the governing Workers’ Party, João Vaccari Neto, in connection with an investigation into corruption at the state-run oil giant Petrobras.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+5 best matches: connection, petrobras, party, vaccari, worker
+
+----------------
+sent_2:
+
+Mr. Vaccari’s sister-in-law was also detained, and his wife was questioned in connection with a series of unidentified deposits in her account that investigators suspect might be related to a kickback scheme at Petrobras.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+2 best matches: connection, petrobras
+
+----------------
+sent_3:
+
+Mr. Vaccari has maintained his innocence.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+1 best matches: vaccari
+
+----------------
+sent_4:
+
+Dozens of lawmakers and some former executive branch officials, including two former chiefs of staff to President Dilma Rousseff, are under investigation, but Mr. Vaccari is the closest figure to the president yet implicated in the scandal.
+A wide-ranging corruption probe launched after the March 2014 arrest of Paulo Roberto Costa, Petrobras' former chief of refining.
+2 best matches: former, chief
+
+----------------
+sent_5:
+
+Ms. Rousseff, who served as chairwoman of the Petrobras board during several years as the graft took place, has not been implicated in the scandal.
+Protesters insist Rousseff must have known about the accusations of corruption and political bribes at Petrobras while she chaired its board.
+3 best matches: petrobras, rousseff, board
+
+----------------

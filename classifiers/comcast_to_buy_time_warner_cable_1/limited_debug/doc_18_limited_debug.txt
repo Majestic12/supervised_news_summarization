@@ -1,0 +1,266 @@
+sent_1:
+
+Staff attorneys at the U.S. Justice Department’s antitrust division are nearing a recommendation to block Comcast Corp.’s bid to buy Time Warner Cable Inc., according to people familiar with the matter.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+5 best matches: warner, cable, u.s, time, comcast
+
+----------------
+sent_2:
+
+Attorneys who are investigating Comcast’s $45.2 billion proposal to create a nationwide cable giant are leaning against the merger out of concern that consumers would be harmed and could submit their review as soon as next week, said the people.
+The proposed merger has come under severe criticism from those who say it would create a monopoly that will ultimately harm consumers.
+6 best matches: harm, would, say, create, consumer, merger
+
+----------------
+sent_3:
+
+The division’s senior officials will then decide whether to file a federal lawsuit seeking to block the tie-up.
+The letters were sent to federal regulators with only minimal input from the officials, the documents show.
+2 best matches: official, federal
+
+----------------
+sent_4:
+
+Comcast shares dropped 2.1 percent to $58.42 in New York, while Time Warner Cable fell 5.4 percent to $149.61.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+4 best matches: warner, cable, time, comcast
+
+----------------
+sent_5:
+
+The spread between the current prices and the offer price widened to $18.35 from $13.35 yesterday, indicating investors are more pessimistic about the deal winning regulatory approval.
+Comcast said as recently as March that it expected to win regulatory approval for the merger "in the middle" of 2015.
+3 best matches: approval, win, regulatory
+
+----------------
+sent_6:
+
+A rejection of the deal would be a blow to Comcast, which has sought to gain valuable cable assets in major U.S. cities including New York and Los Angeles, where Time Warner Cable is dominant.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+6 best matches: warner, time, cable, would, comcast, u.s
+
+----------------
+sent_7:
+
+Expanding Comcast’s broadband Internet and video footprint would help it better compete with satellite, Web and telecommunications competitors that have taken hundreds of thousands of TV subscribers from the Philadelphia-based company in recent years.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 best matches: would, company
+
+----------------
+sent_8:
+
+Renata Hesse, a deputy assistant attorney general for antitrust, will take the analysis and ultimately decide, along with the division’s top officials, whether to bring a case to block the merger, they said.
+The proposed merger has come under severe criticism from those who say it would create a monopoly that will ultimately harm consumers.
+3 best matches: merger, say, ultimately
+
+----------------
+sent_9:
+
+The Justice Department lawyers have been contacting outside parties in the last few weeks to shore up evidence to support a potential case against the merger, one of the people said.
+of Justice is also leaning against approving the merger.
+2 best matches: justice, merger
+
+----------------
+sent_10:
+
+Furthermore, officials at the antitrust division and the Federal Communications Commission, which is also reviewing the deal, aren’t negotiating with Comcast about conditions to the merger that would resolve concerns, such as selling parts of its business or changing practices, said two people familiar with the situation.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+4 best matches: would, two, merger, comcast
+
+----------------
+sent_11:
+
+It’s unclear what the FCC’s position is on the deal.
+The company denied directly paying any groups for the sole purpose of winning their public support, and said the deal should only be considered from a legal and technical standpoint, and not whether or not the company is well-liked.
+1 best matches: deal
+
+----------------
+sent_12:
+
+The agency may be waiting to discuss possible conditions until a court decision on the extent to which programmers including CBS Corp. must disclose their contracts with Comcast and Time Warner Cable, said Andrew Jay Schwartzman, senior counselor at the Georgetown University Law Center’s Institute for Public Representation in Washington.
+saying that they don't like Comcast or they don't like Time Warner Cable."
+5 best matches: warner, cable, say, time, comcast
+
+----------------
+sent_13:
+
+Comcast has been seeking approval for the merger from the Justice Department and the FCC since it was announced last year.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 best matches: merger, announce, comcast
+
+----------------
+sent_14:
+
+Comcast could still fight any lawsuit in court or attempt to reach a settlement that would let the deal go ahead.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 best matches: would, comcast
+
+----------------
+sent_15:
+
+The Justice Department antitrust lawyers’ recommendation isn’t yet complete and company officials remain confident.
+Comcast also claimed that, ultimately, it was up to the local officials whether or not they actually sent the letters, and thus the company could not be held responsible for their actions.
+2 best matches: official, company
+
+----------------
+sent_16:
+
+“There is no basis for a lawsuit to block the transaction,” said Sena Fitzmaurice, a Comcast spokeswoman.
+Comcast said as recently as March that it expected to win regulatory approval for the merger "in the middle" of 2015.
+2 best matches: say, comcast
+
+----------------
+sent_17:
+
+The merger “will result in significant consumer benefits -- faster broadband speeds, access to a superior video experience, and more competition in business services resulting in billions of dollars of cost savings.”
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 best matches: merger, billion
+
+----------------
+sent_18:
+
+A Time Warner Cable spokesman, Bobby Amirshahi, said “we have been working productively with both DOJ and FCC and believe that there is no basis for DOJ to block the deal.”
+"Citing unnamed sources, the Wall Street Journal reported April 22 that the FCC is now considering issuing a "hearing designation order" for Comcast's proposed merger with Time Warner Cable.
+4 best matches: cable, fcc, time, warner
+
+----------------
+sent_19:
+
+Peter Carr, a Justice Department spokesman, and Kim Hart, an FCC spokeswoman, declined to comment.
+"Citing unnamed sources, the Wall Street Journal reported April 22 that the FCC is now considering issuing a "hearing designation order" for Comcast's proposed merger with Time Warner Cable.
+1 best matches: fcc
+
+----------------
+sent_20:
+
+Hesse is overseeing the review because Bill Baer, the chief of the antitrust division, is recused from the matter.
+The FCC paused its informal "shot clock" reviewing the merger on March 13 pending the outcome of a lawsuit between Comcast and programming providers.
+1 best matches: review
+
+----------------
+sent_21:
+
+He previously represented NBCUniversal when Comcast bought the network in 2011.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+1 best matches: comcast
+
+----------------
+sent_22:
+
+The antitrust division and the FCC have been studying how the potential tie-up between the nation’s two biggest cable companies could reshape the cable landscape in the U.S.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+4 best matches: cable, two, company, u.s
+
+----------------
+sent_23:
+
+Such a deal would have implications for the future of the Internet and television, affecting how and where Americans can watch programming that is increasingly being delivered on platforms other than televisions with set-top cable boxes.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 best matches: cable, would
+
+----------------
+sent_24:
+
+Among regulators’ concerns is whether such a deal could choke new ways of delivering programming, according to one of the people.
+Comcast also claimed that, ultimately, it was up to the local officials whether or not they actually sent the letters, and thus the company could not be held responsible for their actions.
+2 best matches: could, whether
+
+----------------
+sent_25:
+
+They have been focused on three areas: whether the combined entity would have too much control over nationwide broadband Internet delivery, whether a cable giant could use its financial influence to strike exclusive cable deals that could keep programming off of other platforms and whether it could limit how programming is delivered through video streaming services, the person said.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 best matches: cable, would, combine
+
+----------------
+sent_26:
+
+Antitrust officials also have been looking at whether Comcast complied with terms under a previous merger deal with NBCUniversal, one of the people said.
+Comcast also claimed that, ultimately, it was up to the local officials whether or not they actually sent the letters, and thus the company could not be held responsible for their actions.
+4 best matches: also, official, whether, comcast
+
+----------------
+sent_27:
+
+After the merger, Comcast would serve 56.8 percent of U.S. subscribers with fixed broadband capable of the 25 megabits-per-second speed standard the FCC adopted in January, according to a company filing.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+5 best matches: would, company, merger, u.s, comcast
+
+----------------
+sent_28:
+
+Comcast says regulators should consider consumers with slower connections, too.
+Comcast said as recently as March that it expected to win regulatory approval for the merger "in the middle" of 2015.
+2 best matches: say, comcast
+
+----------------
+sent_29:
+
+That would lower its apparent share of the market.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+1 best matches: would
+
+----------------
+sent_30:
+
+The enlarged company would serve about 29 million residential video customers, or about 29 percent of the residential pay-TV market.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 best matches: would, company
+
+----------------
+sent_31:
+
+Comcast, the nation’s biggest cable provider, has already offered to sell customers to Charter Communications Inc. in an effort to allay concerns that the merger is anticompetitive.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 best matches: cable, merger, comcast
+
+----------------
+sent_32:
+
+The outcome of the Comcast-Time Warner Cable deal will impact other transactions.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+2 best matches: cable, warner
+
+----------------
+sent_33:
+
+If the deal gets blocked, that could scuttle the agreement with Charter, which lost out to Comcast last year in an effort to buy Time Warner Cable.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+4 best matches: warner, cable, time, comcast
+
+----------------
+sent_34:
+
+Charter’s agreement to take control of 3.9 million Comcast cable-TV customers is contingent on the Comcast-Time Warner Cable deal going through.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 best matches: warner, cable, comcast
+
+----------------
+sent_35:
+
+Billionaire John Malone, the cable-industry pioneer and largest investor in Charter, has said he would try again to buy Time Warner Cable if the deal with Comcast failed.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+6 best matches: large, warner, time, cable, would, comcast
+
+----------------
+sent_36:
+
+Meanwhile, Charter’s recent purchase of Bright House Networks, the sixth-largest U.S. cable company, would be in jeopardy if Comcast’s merger with Time Warner Cable is blocked.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+7 best matches: company, warner, time, cable, would, merger, u.s
+
+----------------
+sent_37:
+
+Time Warner Cable has the right to block Charter’s deal with Bright House as part of its long-time arrangement to negotiate programming and other deals for the smaller cable company.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+4 best matches: cable, company, time, warner
+
+----------------
+sent_38:
+
+Time Warner Cable could buy Bright House under similar deal terms to stave off Charter, according to Amy Yong, an analyst at Macquarie Capital USA Inc.
+Comcast and Time Warner Cable in February 2014 announced a $45.2 billion merger that would combine the two largest cable companies in the U.S.
+3 best matches: cable, time, warner
+
+----------------

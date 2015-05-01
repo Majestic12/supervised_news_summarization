@@ -1,0 +1,262 @@
+sent_1:
+
+Houthi forces fought street-by-street battles with local militia in the old center of Aden on Wednesday, as the first boatloads of emergency medical aid reached the south Yemeni port city, which relief workers say faces a humanitarian catastrophe.
+The first shipments of emergency medical aid reached Aden April 8.
+6 best matches: aid, medical, first, emergency, reach, aden
+
+----------------
+sent_2:
+
+Residents saw a dozen bodies strewn on the streets and said several buildings were burnt or demolished by rocket fire.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 best matches: say, resident
+
+----------------
+sent_3:
+
+Mosques broadcast appeals for jihad against the Houthis, Iran-allied fighters who have taken over large areas of Yemen.
+The UN on April 17 launched an emergency appeal of $273.7 million for Yemen as Saudi airstrikes were pounding most of the country.
+2 best matches: appeal, yemen
+
+----------------
+sent_4:
+
+The Houthi attack in the central Crater neighborhood, backed by tanks and armored vehicles, was at least partially repelled, residents said, and Houthi gunmen had also been driven from some northern neighborhoods.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 best matches: say, resident
+
+----------------
+sent_5:
+
+Iran, which denies arming the Houthis, has condemned the Saudi-led offensive.
+The UN Security Council voted April 14 to impose an arms embargo on Houthis, as well as former president Ali Abdullah Saleh.
+2 best matches: arm, houthis
+
+----------------
+sent_6:
+
+Tehran sent two warships to the Gulf of Aden on Wednesday, saying they would protect Iranian shipping.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 best matches: would, say
+
+----------------
+sent_7:
+
+Aden has been the target of a three-week-old assault by the Shi'ite Muslim fighters, who control the capital Sanaa.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 best matches: control
+
+----------------
+sent_8:
+
+Their campaign prompted Tehran's rival Saudi Arabia and its allies to launch air strikes against the Houthis.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+5 best matches: arabia, launch, campaign, saudi, rival
+
+----------------
+sent_9:
+
+Saudi Arabia's leading role against the Houthis has turned Yemen into the latest theater of a regional proxy conflict between the Gulf's leading Sunni Muslim and Shi'ite Muslim powers - a struggle also playing out in Syria, Lebanon and Iraq.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+4 best matches: yemen, saudi, conflict, power
+
+----------------
+sent_10:
+
+The fighting has had a devastating impact on parts of Aden.
+The conflict's start in Aden appeared to be part of a struggle between Hadi and ex-president Ali Abdullah Saleh.
+2 best matches: aden, part
+
+----------------
+sent_11:
+
+Scores of people have been killed, water and electricity have been cut off in central neighborhoods, and hospitals have struggled to cope with the casualties.
+An April 20 Saudi airstrike on a hillside tore through the Yemeni capital, killing at least 25 people and wounding nearly 400 people, according to witnesses and medics.
+2 best matches: people, kill
+
+----------------
+sent_12:
+
+"It's nearly catastrophic," said the International Committee of the Red Cross spokeswoman in Yemen, Marie Claire Feghali.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 best matches: yemen, say
+
+----------------
+sent_13:
+
+"Shops are closed, so people cannot get food, they cannot get water.
+Many people cannot reach health facilities due to conflict.
+2 best matches: cannot, people
+
+----------------
+sent_14:
+
+no story sentence best matches found
+
+----------------
+sent_15:
+
+no story sentence best matches found
+
+----------------
+sent_16:
+
+A boat carrying 2.5 tonnes of medicine docked in Aden on Wednesday, the medical aid group Medecins Sans Frontieres said.
+The first shipments of emergency medical aid reached Aden April 8.
+3 best matches: medical, aden, aid
+
+----------------
+sent_17:
+
+MSF said it was the first shipment it had delivered to the city since the fighting escalated.
+At least 944 people were killed, including 77 children, and 3,487 injured since the start of airstrikes as of April 17, the UN said April 21.
+2 best matches: since, say
+
+----------------
+sent_18:
+
+The ICRC said a surgical team also arrived by boat in Aden, which has a population of one million.
+The conflict occurs amid "a humanitarian crisis that was already one of the largest and most complex in the world," the UN said.
+2 best matches: one, say
+
+----------------
+sent_19:
+
+The World Health Organization says at least 643 people have been killed in the conflict and more than 2,200 wounded.
+An April 20 Saudi airstrike on a hillside tore through the Yemeni capital, killing at least 25 people and wounding nearly 400 people, according to witnesses and medics.
+4 best matches: wound, people, kill, least
+
+----------------
+sent_20:
+
+Tens of thousands of families have been displaced.
+"It only contained humanitarian supplies associated with our previous work in Saada, bringing clean water to thousands of households."
+1 best matches: thousand
+
+----------------
+sent_21:
+
+Iran has called for an immediate halt to the air strikes by the Saudi-led coalition which includes four other Gulf Arab states, and appealed for dialogue.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 best matches: coalition, saudi-led
+
+----------------
+sent_22:
+
+Its deputy foreign minister said Yemeni factions should form a national unity government.
+The Iranian plan calls for a ceasefire, humanitarian aid, resuming a national dialogue and "an inclusive national unity government."
+3 best matches: government, unity, national
+
+----------------
+sent_23:
+
+"We in the Islamic Republic of Iran are undertaking all good initiatives and efforts that help in reaching this political solution," Morteza Sarmadi said.
+"The coalition will continue to prevent the movement of Houthi militias from moving or undertaking any operations inside Yemen."
+1 best matches: undertake
+
+----------------
+sent_24:
+
+Iran's Alborz destroyer and Bushehr support vessel would patrol the Gulf of Aden and Red Sea to protect Iranian shipping from piracy, navy chief Rear Admiral Habibollah Sayyari said.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 best matches: would, say
+
+----------------
+sent_25:
+
+United Arab Emirates Foreign Minister Sheikh Abdullah bin Zayed said Iran was meddling in the conflict and elsewhere in the region.
+The conflict occurs amid "a humanitarian crisis that was already one of the largest and most complex in the world," the UN said.
+2 best matches: say, conflict
+
+----------------
+sent_26:
+
+"There is systematic action that has been going for years in the idea of exporting the (Iranian) revolution," he said in Abu Dhabi after talks with Yemen's foreign minister.
+One of Yemen's largest electricity plants stopped working, as much of the country was already facing extended power cuts, local reports said.
+2 best matches: yemen's, say
+
+----------------
+sent_27:
+
+A military spokesman for the Saudi-led coalition said Iran had the right to send ships to international waters as long as they had no aggressive intent.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+3 best matches: coalition, saudi-led, say
+
+----------------
+sent_28:
+
+But he repeated accusations that Iranians in Yemen had supported, trained and equipped the Houthi fighters, adding that any of them who remained "are now in the same trench as the Houthi militias, and will face the same fate".
+"The coalition will continue to prevent the movement of Houthi militias from moving or undertaking any operations inside Yemen."
+2 best matches: houthi, yemen
+
+----------------
+sent_29:
+
+The United States, a major Saudi ally, said on Tuesday it was speeding up arms supplies for the offensive, and had increased intelligence sharing and planning coordination.
+The U.S. has "expedited weapons deliveries" and "increased intelligence" to Saudi Arabia, U.S. Deputy Sec.
+3 best matches: intelligence, increase, saudi
+
+----------------
+sent_30:
+
+State media in the United Arab Emirates says Saudi Arabia has deployed 100 jets in its air campaign, alongside 30 from the UAE, 15 each from Kuwait and Bahrain, and 10 from Qatar.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+3 best matches: arabia, campaign, saudi
+
+----------------
+sent_31:
+
+Sudan, Jordan, Egypt and Morocco have also supported the campaign.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 best matches: campaign
+
+----------------
+sent_32:
+
+Pakistan's parliament is debating a Saudi request for it to join the military operation.
+Saudi Arabia launched military operations including airstrikes against the Houthis and their allies in Yemen on March 25.
+3 best matches: operation, saudi, military
+
+----------------
+sent_33:
+
+Prime Minister Nawaz Sharif has promised to defend Saudi Arabia's "territorial integrity", but has not said what, if any, commitments he has made.
+Following the announcement, Saudi Arabia's King Salman ordered the country's National Guard to reinforce the border with Yemen.
+2 best matches: arabia's, saudi
+
+----------------
+sent_34:
+
+The foreign minister of Oman, the only member of the Gulf Cooperation Council (GCC) not participating in the bombing campaign, called for a short humanitarian truce after meeting his Iranian counterpart in Muscat on Wednesday.
+The Iranian plan calls for a ceasefire, humanitarian aid, resuming a national dialogue and "an inclusive national unity government."
+3 best matches: call, humanitarian, iranian
+
+----------------
+sent_35:
+
+Yusuf bin Alawi previously said Oman was ready to help mediate between the two sides but he did not believe the combatants were ready to come to the table.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+1 best matches: say
+
+----------------
+sent_36:
+
+Overnight, warplanes struck al-Anad airbase, about 50 km (30 miles) north of Aden, local officials said.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 best matches: official, say
+
+----------------
+sent_37:
+
+The base, which once housed U.S. military personnel involved in Washington's covert drone war against al Qaeda fighters in eastern Yemen, has been taken over by soldiers loyal to former president Ali Abdullah Saleh, who are allied to the Houthis.
+The UN Security Council voted April 14 to impose an arms embargo on Houthis, as well as former president Ali Abdullah Saleh.
+6 best matches: former, houthis, president, saleh, ali, abdullah
+
+----------------
+sent_38:
+
+There were also air strikes against Houthi positions in the town of Dhalea, further north from al-Anad.
+"The coalition will continue to prevent the movement of Houthi militias from moving or undertaking any operations inside Yemen."
+1 best matches: houthi
+
+----------------

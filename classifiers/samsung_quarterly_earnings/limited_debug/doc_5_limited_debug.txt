@@ -1,0 +1,231 @@
+sent_1:
+
+Samsung Electronics Co. will spend more than $21.4 billion this year to help supply chips and displays to Apple Inc. and Chinese competitors eating away at its Galaxy smartphone sales.
+While Samsung did earn $4.9 billion in profit (down 27% from a year earlier), smartphone rival Apple earned $18 billion in profit.
+5 best matches: samsung, year, smartphone, billion, apple
+
+----------------
+sent_2:
+
+Capital expenditure will top the 23.4 trillion won spent last year in an effort to boost processor chip output, the Suwon, South Korea-based company said Thursday as earnings fell for a third straight quarter.
+Samsung will freeze the salaries of all employees in South Korea this year because business conditions are "not optimistic," the company said Feb. 26.
+4 best matches: year, south, company, say
+
+----------------
+sent_3:
+
+The spending plan comes as Apple surged into a tie with Samsung as the biggest smartphone maker with about 20 percent of shipments.
+While Samsung did earn $4.9 billion in profit (down 27% from a year earlier), smartphone rival Apple earned $18 billion in profit.
+3 best matches: samsung, smartphone, apple
+
+----------------
+sent_4:
+
+Apple’s move to larger screens and competition from Chinese producers for budget buyers combined to end Samsung’s dominance of smartphone sales.
+Samsung has been increasing its reliance on its display and semiconductor divisions in the face of increased smartphone competition.
+2 best matches: smartphone, competition
+
+----------------
+sent_5:
+
+As Vice Chairman Lee Jae Yong tries to fight back with high-end features, including wraparound screens and metal cases, a focus on components may ensure he gets a slice of sales even when consumers choose an iPhone.
+Apple, boosted by strong sales of the iPhone 6 and 6 Plus, has since overtaken both companies as the top smartphone vendor in China.
+2 best matches: sale, iphone
+
+----------------
+sent_6:
+
+“It’s getting harder to make a killing from smartphones competing head on with the rivals, but competitors including Apple will have more Samsung chips inside,” said Ko Jung Woo, a Seoul-based analyst at BS Securities Co. Ltd. “Smartphones are highly commoditized.
+However, Samsung said that its chip business will "see demand" moving forward.
+3 best matches: samsung, chip, say
+
+----------------
+sent_7:
+
+Samsung can no longer monopolize the market.”
+Samsung has been increasing its reliance on its display and semiconductor divisions in the face of increased smartphone competition.
+1 best matches: samsung
+
+----------------
+sent_8:
+
+Shares of Samsung fell 1.3 percent to 1,360,000 won in Seoul.
+Samsung has been increasing its reliance on its display and semiconductor divisions in the face of increased smartphone competition.
+1 best matches: samsung
+
+----------------
+sent_9:
+
+The stock has risen 2.5 percent this year after dropping 3.3 percent last year.
+Samsung on Jan. 29 posted its first annual loss in three years following a weak Q4 2014.
+1 best matches: year
+
+----------------
+sent_10:
+
+Both Apple and Samsung shipped 74.5 million smartphones in the December quarter, Strategy Analytics said in an e-mailed statement Thursday.
+However, Samsung said that its chip business will "see demand" moving forward.
+2 best matches: samsung, say
+
+----------------
+sent_11:
+
+Both had 19.6 percent of the market, which for the Galaxy maker was 10 percentage points lower than a year earlier.
+Samsung on April 10 released the Galaxy S6, which the company hopes can help turn around its struggling smartphone division.
+2 best matches: 10, galaxy
+
+----------------
+sent_12:
+
+Apple’s iPhone 6 and 6 Plus have gained in the world’s largest market of China, where consumers want a bigger device to perform the role of a phone and tablet computer.
+Apple, boosted by strong sales of the iPhone 6 and 6 Plus, has since overtaken both companies as the top smartphone vendor in China.
+4 best matches: plus, 6, iphone, china
+
+----------------
+sent_13:
+
+The company posted 70 percent revenue growth in China last quarter and may get another boost from the Lunar New Year shopping season in February.
+One analyst said the new division suggests the two companies are getting along better than they had in the past."
+3 best matches: get, company, new
+
+----------------
+sent_14:
+
+With Xiaomi Corp. and Lenovo Group Ltd. winning customers with feature-packed devices at lower prices, Samsung’s earnings have fallen for three straight quarters.
+"In the second quarter, the company expects its overall earnings to increase compared to the previous quarter."
+2 best matches: quarter, earnings
+
+----------------
+sent_15:
+
+Net income, excluding minority interests, slumped 27 percent to 5.29 trillion won in the fourth quarter, according to a regulatory filing.
+"In the second quarter, the company expects its overall earnings to increase compared to the previous quarter."
+1 best matches: quarter
+
+----------------
+sent_16:
+
+The company, which has more than $60 billion of cash, also announced a boost of its dividend to 19,500 won a share, up from 13,800 won a year earlier.
+While Samsung did earn $4.9 billion in profit (down 27% from a year earlier), smartphone rival Apple earned $18 billion in profit.
+3 best matches: year, billion, early
+
+----------------
+sent_17:
+
+Operating profit at the mobile-phone unit slumped by almost two-thirds to 1.96 trillion won from 5.47 trillion won a year earlier.
+While Samsung did earn $4.9 billion in profit (down 27% from a year earlier), smartphone rival Apple earned $18 billion in profit.
+3 best matches: year, early, profit
+
+----------------
+sent_18:
+
+The business was overtaken by chips in the third quarter as Samsung’s biggest profit driver.
+However, Samsung said that its chip business will "see demand" moving forward.
+2 best matches: business, chip
+
+----------------
+sent_19:
+
+Samsung is cutting its smartphone lineup to focus on products where it has a competitive edge.
+Samsung has been increasing its reliance on its display and semiconductor divisions in the face of increased smartphone competition.
+2 best matches: samsung, smartphone
+
+----------------
+sent_20:
+
+It will start selling a smartphone in India using its own homegrown Tizen software rather than Google Inc.’s Android operating system.
+Samsung has been increasing its reliance on its display and semiconductor divisions in the face of increased smartphone competition.
+1 best matches: smartphone
+
+----------------
+sent_21:
+
+The next version of its marquee Galaxy S range will be critical to turning around earnings from smartphones.
+Samsung on April 10 released the Galaxy S6, which the company hopes can help turn around its struggling smartphone division.
+2 best matches: galaxy, around
+
+----------------
+sent_22:
+
+Samsung shipped 317.2 million smartphones last year, compared with 319.8 million the year before, according to Strategy Analytics.
+The smartphone won critical acclaim, with critics highlighting its use of high-end materials compared to previous Samsung smartphones.
+3 best matches: samsung, smartphones, compare
+
+----------------
+sent_23:
+
+“The Galaxy S6 smartphone is a very important phone for Samsung this year,” said Lee Seung Woo, an analyst at IBK Securities Co. in Seoul.
+Samsung on April 10 released the Galaxy S6, which the company hopes can help turn around its struggling smartphone division.
+4 best matches: samsung, smartphone, s6, galaxy
+
+----------------
+sent_24:
+
+“Although they are increasing the number of lower-margin smartphones globally, that’s not where they are making a living.”
+Samsung has been increasing its reliance on its display and semiconductor divisions in the face of increased smartphone competition.
+1 best matches: increase
+
+----------------
+sent_25:
+
+On Tuesday, Apple posted the biggest quarterly sales increase in three years as new products such as the large-screen iPhones and refreshed Macs spurred demand.
+Samsung on Jan. 29 posted its first annual loss in three years following a weak Q4 2014.
+3 best matches: three, year, post
+
+----------------
+sent_26:
+
+“Samsung’s profits were never going to reach the same heights as Apple’s,” Dan Wagner, the London-based chief executive officer at Powa Technologies Ltd., said in an e-mail.
+Its operating profit was $5.64 billion, down 29.6% year-on-year, with operating profit from its mobile division down 57%.
+1 best matches: profit
+
+----------------
+sent_27:
+
+“They remain the main competitor to Apple, but with so many potential successors in the market, it is now or never for the company to differentiate itself in the sector.”
+Apple, boosted by strong sales of the iPhone 6 and 6 Plus, has since overtaken both companies as the top smartphone vendor in China.
+2 best matches: company, apple
+
+----------------
+sent_28:
+
+Profit at Samsung’s chip business, which makes both memory chips and application processors, was 2.7 trillion won, compared with 1.99 trillion won a year earlier.
+While Samsung did earn $4.9 billion in profit (down 27% from a year earlier), smartphone rival Apple earned $18 billion in profit.
+3 best matches: year, early, profit
+
+----------------
+sent_29:
+
+The world’s second-largest semiconductor maker is said to be switching to its own processors in the next Galaxy S smartphone after Qualcomm Inc. chips overheated during a sample testing, according to people with direct knowledge of the matter.
+"Bloomberg reported April 15, citing a person with 'direct knowledge' of the matter, that Samsung earlier this month created a division that's dedicated to working with Apple to create displays for that company's devices.
+3 best matches: matter, direct, knowledge
+
+----------------
+sent_30:
+
+Qualcomm cut its 2015 forecasts for sales and profit Wednesday, reflecting lost semiconductor orders at a major customer and more competition in China.
+Samsung has been increasing its reliance on its display and semiconductor divisions in the face of increased smartphone competition.
+2 best matches: competition, semiconductor
+
+----------------
+sent_31:
+
+“Qualcomm’s Snapdragon problem will benefit both Samsung’s mobile and processors divisions,” said Song Myung Sup, a Seoul-based analyst at HI Investment & Securities Co. “It may roll out the next Galaxy S device as early as March, when there will be no new rival devices on store shelves to compete with.”
+One analyst said the new division suggests the two companies are getting along better than they had in the past."
+4 best matches: division, say, analyst, new
+
+----------------
+sent_32:
+
+Samsung’s most advanced chips, which consume less energy than existing semiconductors, should win the bulk of orders for Apple’s next iPhones after losing out to Taiwan Semiconductor Manufacturing Co. last year, according to Lee Min Hee, a Seoul-based analyst at I’M Investment & Securities Co.
+Samsung has been increasing its reliance on its display and semiconductor divisions in the face of increased smartphone competition.
+1 best matches: semiconductor
+
+----------------
+sent_33:
+
+Profit at the consumer-electronics division, which oversees TVs and home-appliances, dropped to 180 billion won in the quarter, and the display division had earnings of 470 billion won.
+Its operating profit was $5.64 billion, down 29.6% year-on-year, with operating profit from its mobile division down 57%.
+3 best matches: billion, division, profit
+
+----------------

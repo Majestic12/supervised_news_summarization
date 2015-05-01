@@ -1,0 +1,749 @@
+sent_1:
+1 out of 27 sentences
+1 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+People refused to venture outdoors and buildings disappeared into Beijing's murky skyline on Sunday as the air quality in China's notoriously polluted capital went off the index.
+2 default entities: GPE Beijing, GPE China
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+People refused to venture outdoors and buildings disappeared into Beijing's murky skyline on Sunday as the air quality in China's notoriously polluted capital went off the index.
+Beijing air pollution off the charts.
+1 matches: air
+
+Source Sentence and Story Headline Match:
+People refused to venture outdoors and buildings disappeared into Beijing's murky skyline on Sunday as the air quality in China's notoriously polluted capital went off the index.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+2 matches: quality, air
+
+Source Sentence and Best Story Sentence Match:
+People refused to venture outdoors and buildings disappeared into Beijing's murky skyline on Sunday as the air quality in China's notoriously polluted capital went off the index.
+Beijing's air pollution went "beyond index" on Jan. 15, meaning it exceeded the scale's highest reading of 500, according to the U.S. Embassy in Beijing.
+4 matches: went, index, beijing's, air
+
+----------------
+
+sent_2:
+2 out of 27 sentences
+2 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Beijing Municipal Environmental Monitoring Center said on its website that the density of PM2.5 particulates had surpassed 700 micrograms per cubic meter in many parts of the city.
+1 default entities: ORGANIZATION Beijing Municipal Environmental Monitoring Center
+1 custom entities: ORGANIZATION Beijing Municipal Environmental Monitoring Center
+
+Source Sentence and Source Headline Match:
+The Beijing Municipal Environmental Monitoring Center said on its website that the density of PM2.5 particulates had surpassed 700 micrograms per cubic meter in many parts of the city.
+Beijing air pollution off the charts.
+1 matches: beijing
+
+Source Sentence and Story Headline Match:
+The Beijing Municipal Environmental Monitoring Center said on its website that the density of PM2.5 particulates had surpassed 700 micrograms per cubic meter in many parts of the city.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+2 matches: city, say
+
+Source Sentence and Best Story Sentence Match:
+The Beijing Municipal Environmental Monitoring Center said on its website that the density of PM2.5 particulates had surpassed 700 micrograms per cubic meter in many parts of the city.
+The Beijing Municipal Research Institute of Environmental Protection said dust accounts for approximately 14% of PM 2.5 in Beijing.
+4 matches: beijing, municipal, environmental, say
+
+----------------
+
+sent_3:
+3 out of 27 sentences
+2 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The World Health Organization considers a safe daily level to be 25 micrograms per cubic meter.
+1 default entities: ORGANIZATION World
+1 custom entities: ORGANIZATION World
+
+Source Sentence and Source Headline Match:
+The World Health Organization considers a safe daily level to be 25 micrograms per cubic meter.
+Beijing air pollution off the charts.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The World Health Organization considers a safe daily level to be 25 micrograms per cubic meter.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The World Health Organization considers a safe daily level to be 25 micrograms per cubic meter.
+Persistent pollution continues to be an everyday health threat for many people in China.
+1 matches: health
+
+----------------
+
+sent_4:
+4 out of 27 sentences
+3 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+PM2.5 are tiny particulate matter less than 2.5 micrometers in size, or about 1/30th the average width of a human hair.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+PM2.5 are tiny particulate matter less than 2.5 micrometers in size, or about 1/30th the average width of a human hair.
+Beijing air pollution off the charts.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+PM2.5 are tiny particulate matter less than 2.5 micrometers in size, or about 1/30th the average width of a human hair.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+PM2.5 are tiny particulate matter less than 2.5 micrometers in size, or about 1/30th the average width of a human hair.
+The particles, which measure about 1/30th the average width of a human hair, can penetrate deep into people's lungs.
+5 matches: 1/30th, width, hair, human, average
+
+----------------
+
+sent_5:
+5 out of 27 sentences
+3 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+They can penetrate deep into the lungs, so measuring them is considered a more accurate reflection of air quality than other methods.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+They can penetrate deep into the lungs, so measuring them is considered a more accurate reflection of air quality than other methods.
+Beijing air pollution off the charts.
+1 matches: air
+
+Source Sentence and Story Headline Match:
+They can penetrate deep into the lungs, so measuring them is considered a more accurate reflection of air quality than other methods.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+2 matches: quality, air
+
+Source Sentence and Best Story Sentence Match:
+They can penetrate deep into the lungs, so measuring them is considered a more accurate reflection of air quality than other methods.
+The particles, which measure about 1/30th the average width of a human hair, can penetrate deep into people's lungs.
+4 matches: measure, lung, penetrate, deep
+
+----------------
+
+sent_6:
+6 out of 27 sentences
+4 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Beijing center recommended that children and the elderly stay indoors, and that others avoid outdoor activities.
+1 default entities: GPE Beijing
+1 custom entities: GPE Beijing
+
+Source Sentence and Source Headline Match:
+The Beijing center recommended that children and the elderly stay indoors, and that others avoid outdoor activities.
+Beijing air pollution off the charts.
+1 matches: beijing
+
+Source Sentence and Story Headline Match:
+The Beijing center recommended that children and the elderly stay indoors, and that others avoid outdoor activities.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The Beijing center recommended that children and the elderly stay indoors, and that others avoid outdoor activities.
+"Despite modest improvements in high profile cities like Beijing, the figures paint a grim picture overall."
+1 matches: beijing
+
+----------------
+
+sent_7:
+7 out of 27 sentences
+5 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The U.S. Embassy also publishes data for PM2.5 on Twitter, and interprets the data according to more stringent standards.
+3 default entities: GPE U.S., ORGANIZATION Embassy, PERSON Twitter
+2 custom entities: ORGANIZATION Embassy, PERSON Twitter
+
+Source Sentence and Source Headline Match:
+The U.S. Embassy also publishes data for PM2.5 on Twitter, and interprets the data according to more stringent standards.
+Beijing air pollution off the charts.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The U.S. Embassy also publishes data for PM2.5 on Twitter, and interprets the data according to more stringent standards.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The U.S. Embassy also publishes data for PM2.5 on Twitter, and interprets the data according to more stringent standards.
+Beijing's air pollution went "beyond index" on Jan. 15, meaning it exceeded the scale's highest reading of 500, according to the U.S. Embassy in Beijing.
+3 matches: accord, u.s, embassy
+
+----------------
+
+sent_8:
+8 out of 27 sentences
+6 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+In the 24-hour period up to 10 a.m. Sunday, it said 18 of the hourly readings were "beyond index."
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+In the 24-hour period up to 10 a.m. Sunday, it said 18 of the hourly readings were "beyond index."
+Beijing air pollution off the charts.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+In the 24-hour period up to 10 a.m. Sunday, it said 18 of the hourly readings were "beyond index."
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: say
+
+Source Sentence and Best Story Sentence Match:
+In the 24-hour period up to 10 a.m. Sunday, it said 18 of the hourly readings were "beyond index."
+Beijing's air pollution went "beyond index" on Jan. 15, meaning it exceeded the scale's highest reading of 500, according to the U.S. Embassy in Beijing.
+2 matches: index, beyond
+
+----------------
+
+sent_9:
+9 out of 27 sentences
+6 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The highest number was 755, which corresponded to a PM2.5 density of 886 micrograms per cubic meter.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The highest number was 755, which corresponded to a PM2.5 density of 886 micrograms per cubic meter.
+Beijing air pollution off the charts.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The highest number was 755, which corresponded to a PM2.5 density of 886 micrograms per cubic meter.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The highest number was 755, which corresponded to a PM2.5 density of 886 micrograms per cubic meter.
+Both the PM2.5 and larger PM10 levels in the city were extremely high by midday.
+2 matches: high, pm2.5
+
+----------------
+
+sent_10:
+10 out of 27 sentences
+6 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+The U.S. Environmental Protection Agency's air quality index goes up to only 500, and the agency advises that anything greater than 300 would trigger a health warning of "emergency conditions," with the entire population likely affected.
+2 default entities: GPE U.S., PERSON Agency
+1 custom entities: ORGANIZATION Environmental Protection
+
+Source Sentence and Source Headline Match:
+The U.S. Environmental Protection Agency's air quality index goes up to only 500, and the agency advises that anything greater than 300 would trigger a health warning of "emergency conditions," with the entire population likely affected.
+Beijing air pollution off the charts.
+1 matches: air
+
+Source Sentence and Story Headline Match:
+The U.S. Environmental Protection Agency's air quality index goes up to only 500, and the agency advises that anything greater than 300 would trigger a health warning of "emergency conditions," with the entire population likely affected.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+2 matches: quality, air
+
+Source Sentence and Best Story Sentence Match:
+The U.S. Environmental Protection Agency's air quality index goes up to only 500, and the agency advises that anything greater than 300 would trigger a health warning of "emergency conditions," with the entire population likely affected.
+Beijing's air pollution went "beyond index" on Jan. 15, meaning it exceeded the scale's highest reading of 500, according to the U.S. Embassy in Beijing.
+4 matches: index, 500, u.s, air
+
+----------------
+
+sent_11:
+11 out of 27 sentences
+7 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+While some people vowed to stay indoors with air purifiers turned on, Beijing's streets were still fairly busy Sunday, and there was the familiar sight of heavy traffic on main thoroughfares.
+1 default entities: GPE Beijing
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+While some people vowed to stay indoors with air purifiers turned on, Beijing's streets were still fairly busy Sunday, and there was the familiar sight of heavy traffic on main thoroughfares.
+Beijing air pollution off the charts.
+1 matches: air
+
+Source Sentence and Story Headline Match:
+While some people vowed to stay indoors with air purifiers turned on, Beijing's streets were still fairly busy Sunday, and there was the familiar sight of heavy traffic on main thoroughfares.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: air
+
+Source Sentence and Best Story Sentence Match:
+While some people vowed to stay indoors with air purifiers turned on, Beijing's streets were still fairly busy Sunday, and there was the familiar sight of heavy traffic on main thoroughfares.
+Beijing's air pollution went "beyond index" on Jan. 15, meaning it exceeded the scale's highest reading of 500, according to the U.S. Embassy in Beijing.
+2 matches: beijing's, air
+
+----------------
+
+sent_12:
+12 out of 27 sentences
+8 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A young couple strolled along hand in hand in the central business district, both with matching white masks strung around their faces.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+A young couple strolled along hand in hand in the central business district, both with matching white masks strung around their faces.
+Beijing air pollution off the charts.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+A young couple strolled along hand in hand in the central business district, both with matching white masks strung around their faces.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_13:
+13 out of 27 sentences
+8 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Two Taiwanese tourists wore masks they said they had brought with them because they heard Beijing's pollution was so bad.
+2 default entities: GPE Taiwanese, GPE Beijing
+1 custom entities: GPE Taiwanese
+
+Source Sentence and Source Headline Match:
+Two Taiwanese tourists wore masks they said they had brought with them because they heard Beijing's pollution was so bad.
+Beijing air pollution off the charts.
+1 matches: pollution
+
+Source Sentence and Story Headline Match:
+Two Taiwanese tourists wore masks they said they had brought with them because they heard Beijing's pollution was so bad.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: say
+
+Source Sentence and Best Story Sentence Match:
+Two Taiwanese tourists wore masks they said they had brought with them because they heard Beijing's pollution was so bad.
+Zhang Jiandong, vice-chair of Beijing's bid committee said that the city has "the confidence" that it can reduce pollution before the Games.
+3 matches: pollution, beijing's, say
+
+----------------
+
+sent_14:
+14 out of 27 sentences
+9 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+"I don't know why there is such heavy haze these past days.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"I don't know why there is such heavy haze these past days.
+Beijing air pollution off the charts.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"I don't know why there is such heavy haze these past days.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_15:
+15 out of 27 sentences
+9 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+It's really quite serious compared with the air quality three days ago," said a 33-year-old lawyer, who would give only his surname, Liu, as he adjusted his own mask.
+1 default entities: PERSON Liu
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It's really quite serious compared with the air quality three days ago," said a 33-year-old lawyer, who would give only his surname, Liu, as he adjusted his own mask.
+Beijing air pollution off the charts.
+1 matches: air
+
+Source Sentence and Story Headline Match:
+It's really quite serious compared with the air quality three days ago," said a 33-year-old lawyer, who would give only his surname, Liu, as he adjusted his own mask.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+3 matches: quality, say, air
+
+Source Sentence and Best Story Sentence Match:
+It's really quite serious compared with the air quality three days ago," said a 33-year-old lawyer, who would give only his surname, Liu, as he adjusted his own mask.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+3 matches: quality, say, air
+
+----------------
+
+sent_16:
+16 out of 27 sentences
+9 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+He said he had ventured out only because he needed to go shopping.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+He said he had ventured out only because he needed to go shopping.
+Beijing air pollution off the charts.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+He said he had ventured out only because he needed to go shopping.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: say
+
+Source Sentence and Best Story Sentence Match:
+He said he had ventured out only because he needed to go shopping.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+1 matches: say
+
+----------------
+
+sent_17:
+17 out of 27 sentences
+10 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+Beijing's air started to worsen on Thursday.
+1 default entities: GPE Beijing
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Beijing's air started to worsen on Thursday.
+Beijing air pollution off the charts.
+1 matches: air
+
+Source Sentence and Story Headline Match:
+Beijing's air started to worsen on Thursday.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: air
+
+Source Sentence and Best Story Sentence Match:
+Beijing's air started to worsen on Thursday.
+Beijing's air pollution went "beyond index" on Jan. 15, meaning it exceeded the scale's highest reading of 500, according to the U.S. Embassy in Beijing.
+2 matches: beijing's, air
+
+----------------
+
+sent_18:
+18 out of 27 sentences
+10 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+The Beijing monitoring center has said the pollution is expected to linger until Tuesday.
+1 default entities: GPE Beijing
+1 custom entities: GPE Beijing
+
+Source Sentence and Source Headline Match:
+The Beijing monitoring center has said the pollution is expected to linger until Tuesday.
+Beijing air pollution off the charts.
+2 matches: beijing, pollution
+
+Source Sentence and Story Headline Match:
+The Beijing monitoring center has said the pollution is expected to linger until Tuesday.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: say
+
+Source Sentence and Best Story Sentence Match:
+The Beijing monitoring center has said the pollution is expected to linger until Tuesday.
+The Beijing government said it would begin collecting fees from construction sites that contribute to dust pollution in the city starting March 1.
+3 matches: beijing, pollution, say
+
+----------------
+
+sent_19:
+19 out of 27 sentences
+11 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+PM2.5 can result from the burning of fuels in vehicles and power plants.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+PM2.5 can result from the burning of fuels in vehicles and power plants.
+Beijing air pollution off the charts.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+PM2.5 can result from the burning of fuels in vehicles and power plants.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+PM2.5 can result from the burning of fuels in vehicles and power plants.
+Chinese cities often have unsafe levels of PM2.5 particles, which come mostly from vehicles and power plants burning fuels.
+5 matches: power, plant, vehicle, fuel, pm2.5
+
+----------------
+
+sent_20:
+20 out of 27 sentences
+12 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+Weather conditions are a factor in the recent poor air quality, as a lack of wind means pollutants can easily accumulate and fail to dissipate, said Pan Xiao Chuan, a professor at Peking University's public health department.
+3 default entities: GPE Weather, PERSON Pan Xiao Chuan, ORGANIZATION Peking University
+3 custom entities: GPE Weather, PERSON Pan Xiao Chuan, ORGANIZATION Peking
+
+Source Sentence and Source Headline Match:
+Weather conditions are a factor in the recent poor air quality, as a lack of wind means pollutants can easily accumulate and fail to dissipate, said Pan Xiao Chuan, a professor at Peking University's public health department.
+Beijing air pollution off the charts.
+1 matches: air
+
+Source Sentence and Story Headline Match:
+Weather conditions are a factor in the recent poor air quality, as a lack of wind means pollutants can easily accumulate and fail to dissipate, said Pan Xiao Chuan, a professor at Peking University's public health department.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+4 matches: poor, quality, say, air
+
+Source Sentence and Best Story Sentence Match:
+Weather conditions are a factor in the recent poor air quality, as a lack of wind means pollutants can easily accumulate and fail to dissipate, said Pan Xiao Chuan, a professor at Peking University's public health department.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+4 matches: quality, say, fail, air
+
+----------------
+
+sent_21:
+21 out of 27 sentences
+13 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+"Recent pollution doesn't mean there is an increase in the discharge of pollutants," he said.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"Recent pollution doesn't mean there is an increase in the discharge of pollutants," he said.
+Beijing air pollution off the charts.
+1 matches: pollution
+
+Source Sentence and Story Headline Match:
+"Recent pollution doesn't mean there is an increase in the discharge of pollutants," he said.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: say
+
+Source Sentence and Best Story Sentence Match:
+"Recent pollution doesn't mean there is an increase in the discharge of pollutants," he said.
+China's Ministry of Environmental Protection said Feb. 1 that 66 of 74 cities failed to meet air pollution targets in 2014.
+2 matches: pollution, say
+
+----------------
+
+sent_22:
+22 out of 27 sentences
+14 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Experts say they thought the PM2.5 readings were the highest since Beijing started publishing that data early last year.
+1 default entities: GPE Beijing
+1 custom entities: GPE Beijing
+
+Source Sentence and Source Headline Match:
+Experts say they thought the PM2.5 readings were the highest since Beijing started publishing that data early last year.
+Beijing air pollution off the charts.
+1 matches: beijing
+
+Source Sentence and Story Headline Match:
+Experts say they thought the PM2.5 readings were the highest since Beijing started publishing that data early last year.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: say
+
+Source Sentence and Best Story Sentence Match:
+Experts say they thought the PM2.5 readings were the highest since Beijing started publishing that data early last year.
+The Beijing government said it would begin collecting fees from construction sites that contribute to dust pollution in the city starting March 1.
+3 matches: beijing, say, start
+
+----------------
+
+sent_23:
+23 out of 27 sentences
+14 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Public pressure forced the publication of the more detailed air quality data, as a growing Chinese middle class is increasingly vocal about the quality of the environment in which it lives.
+2 default entities: GPE Public, GPE Chinese
+2 custom entities: GPE Public, GPE Chinese
+
+Source Sentence and Source Headline Match:
+Public pressure forced the publication of the more detailed air quality data, as a growing Chinese middle class is increasingly vocal about the quality of the environment in which it lives.
+Beijing air pollution off the charts.
+1 matches: air
+
+Source Sentence and Story Headline Match:
+Public pressure forced the publication of the more detailed air quality data, as a growing Chinese middle class is increasingly vocal about the quality of the environment in which it lives.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+3 matches: chinese, quality, air
+
+Source Sentence and Best Story Sentence Match:
+Public pressure forced the publication of the more detailed air quality data, as a growing Chinese middle class is increasingly vocal about the quality of the environment in which it lives.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+3 matches: air, quality, chinese
+
+----------------
+
+sent_24:
+24 out of 27 sentences
+14 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Hourly air quality updates are now available online for more than 70 cities.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Hourly air quality updates are now available online for more than 70 cities.
+Beijing air pollution off the charts.
+1 matches: air
+
+Source Sentence and Story Headline Match:
+Hourly air quality updates are now available online for more than 70 cities.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+3 matches: quality, city, air
+
+Source Sentence and Best Story Sentence Match:
+Hourly air quality updates are now available online for more than 70 cities.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+3 matches: quality, city, air
+
+----------------
+
+sent_25:
+25 out of 27 sentences
+15 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Air pollution is a major problem in China due to the country's rapid pace of industrialization, reliance on coal power, explosive growth in car ownership and disregard to environmental laws.
+2 default entities: GPE Air, GPE China
+2 custom entities: GPE Air, GPE China
+
+Source Sentence and Source Headline Match:
+Air pollution is a major problem in China due to the country's rapid pace of industrialization, reliance on coal power, explosive growth in car ownership and disregard to environmental laws.
+Beijing air pollution off the charts.
+2 matches: pollution, air
+
+Source Sentence and Story Headline Match:
+Air pollution is a major problem in China due to the country's rapid pace of industrialization, reliance on coal power, explosive growth in car ownership and disregard to environmental laws.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: air
+
+Source Sentence and Best Story Sentence Match:
+Air pollution is a major problem in China due to the country's rapid pace of industrialization, reliance on coal power, explosive growth in car ownership and disregard to environmental laws.
+On March 7, the air pollution film "Under the Dome" was taken down from major streaming video websites in China.
+4 matches: china, major, pollution, air
+
+----------------
+
+sent_26:
+26 out of 27 sentences
+15 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It typically gets worse in the winter because of heating needs.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It typically gets worse in the winter because of heating needs.
+Beijing air pollution off the charts.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It typically gets worse in the winter because of heating needs.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+It typically gets worse in the winter because of heating needs.
+On March 24, IOC officials began a 5-day tour of Beijing, which is bidding for the 2022 Winter Games.
+1 matches: winter
+
+----------------
+
+sent_27:
+27 out of 27 sentences
+16 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Several other cities, including Tianjin on the coast east of Beijing and southern China's Wuhan city, also reported severe pollution over the last several days.
+4 default entities: PERSON Tianjin, GPE Beijing, GPE China, PERSON Wuhan
+2 custom entities: PERSON Tianjin, GPE Beijing
+
+Source Sentence and Source Headline Match:
+Several other cities, including Tianjin on the coast east of Beijing and southern China's Wuhan city, also reported severe pollution over the last several days.
+Beijing air pollution off the charts.
+2 matches: beijing, pollution
+
+Source Sentence and Story Headline Match:
+Several other cities, including Tianjin on the coast east of Beijing and southern China's Wuhan city, also reported severe pollution over the last several days.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: city
+
+Source Sentence and Best Story Sentence Match:
+Several other cities, including Tianjin on the coast east of Beijing and southern China's Wuhan city, also reported severe pollution over the last several days.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+3 matches: report, china's, city
+
+----------------
+

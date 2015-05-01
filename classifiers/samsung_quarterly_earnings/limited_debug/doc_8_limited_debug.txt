@@ -1,0 +1,42 @@
+sent_1:
+
+Samsung Electronics Co. will this year freeze the salaries of all its workers in South Korea as the Galaxy smartphone maker battles slowing sales and plunging earnings.
+Samsung will freeze the salaries of all employees in South Korea this year because business conditions are "not optimistic," the company said Feb. 26.
+6 best matches: samsung, freeze, salary, south, korea, year
+
+----------------
+sent_2:
+
+The freeze is Samsung’s first in six years and is designed to strengthen competitiveness given business conditions are “not optimistic,” the Suwon, South Korea-based company said in a statement Thursday.
+Samsung will freeze the salaries of all employees in South Korea this year because business conditions are "not optimistic," the company said Feb. 26.
+8 best matches: company, freeze, business, south, condition, say, optimistic, year
+
+----------------
+sent_3:
+
+Performance incentives and bonuses aren’t included in the freeze, the company said.
+Samsung will freeze the salaries of all employees in South Korea this year because business conditions are "not optimistic," the company said Feb. 26.
+3 best matches: company, freeze, say
+
+----------------
+sent_4:
+
+Earnings have slumped for three straight quarters as the South Korean company lost its outright lead in the global market and consumers switched to Apple Inc.’s new iPhones and cheaper Chinese handsets running on Google Inc.’s Android operating system.
+"In the second quarter, the company expects its overall earnings to increase compared to the previous quarter."
+3 best matches: quarter, earnings, company
+
+----------------
+sent_5:
+
+Apple rose into a tie with Samsung as the world’s biggest smartphone marker last quarter, with both companies shipping 74.5 million units, Strategy Analytics said Jan. 29.
+Samsung on April 10 released the Galaxy S6, which the company hopes can help turn around its struggling smartphone division.
+3 best matches: samsung, smartphone, company
+
+----------------
+sent_6:
+
+Samsung has 99,556 employees in Korea as of Sept. 30, according to a regulatory filing.
+Samsung had 99,556 employees in South Korea through Sept. 2014.
+5 best matches: samsung, sept, korea, employee, 99,556
+
+----------------

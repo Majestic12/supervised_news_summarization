@@ -1,0 +1,21 @@
+sent_1:
+
+Yemeni foreign minister Riyadh Yaseen called on Monday for Gulf Arab military intervention in Yemen to stop territorial advances by Houthi fighters opposed to President Abd-Rabbu Mansour Hadi.
+Yemeni President Mansour Hadi fled to Saudi Arabia, Saudi state TV reported March 26.
+4 best matches: hadi, mansour, president, yemeni
+
+----------------
+sent_2:
+
+"They're expanding in territory, occupying airports and cities, attacking Aden with planes, detaining whom they please, threatening and gathering their forces," he said in an interview with pan-Arab satellite channel Al Jazeera.
+Although the attack appeared to target a military site, debris flew through the city and reverberations caused significant destruction.
+2 best matches: attack, city
+
+----------------
+sent_3:
+
+"We have expressed to the Gulf Cooperation Council, the United Nations as well as the international community that there should be a no-fly zone, and the use of military aircraft should be prevented at the airports controlled by the Houthis," he told the pan-Arab newspaper al-Sharq al-Awsat.
+The UN Security Council voted April 14 to impose an arms embargo on Houthis, as well as former president Ali Abdullah Saleh.
+3 best matches: council, well, houthis
+
+----------------

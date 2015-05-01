@@ -1,0 +1,54 @@
+sent_1:
+1 out of 2 sentences
+1 out of 2 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Brazil's state-run oil company Petrobras signed a $3.5 billion financing deal with China Development Bank as part of a cooperation agreement covering 2015 and 2016, according to a securities filing on Wednesday.
+3 default entities: GPE Brazil, PERSON Petrobras, GPE China
+2 custom entities: PERSON Petrobras, GPE China
+
+Source Sentence and Source Headline Match:
+Brazil's state-run oil company Petrobras signed a $3.5 billion financing deal with China Development Bank as part of a cooperation agreement covering 2015 and 2016, according to a securities filing on Wednesday.
+Brazil's Petrobras signs $3.5 bln deal with China Development Bank.
+8 matches: brazil's, deal, china, bank, sign, 3.5, petrobras, development
+
+Source Sentence and Story Headline Match:
+Brazil's state-run oil company Petrobras signed a $3.5 billion financing deal with China Development Bank as part of a cooperation agreement covering 2015 and 2016, according to a securities filing on Wednesday.
+Brazil's Petrobras lost $17 billion in 2014.
+3 matches: brazil's, petrobras, billion
+
+Source Sentence and Best Story Sentence Match:
+Brazil's state-run oil company Petrobras signed a $3.5 billion financing deal with China Development Bank as part of a cooperation agreement covering 2015 and 2016, according to a securities filing on Wednesday.
+Petrobras said on April 1 that it had taken $3.5 billion in financing from China Development Bank.
+7 matches: billion, china, bank, 3.5, petrobras, financing, development
+
+----------------
+
+sent_2:
+2 out of 2 sentences
+2 out of 2 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Ivan Monteiro, chief financial officer of the company known as Petroleo Brasileiro SA, signed the accord on a visit to China and confirmed their intention to cooperate in the future, Petrobras said in the filing.
+4 default entities: PERSON Ivan Monteiro, PERSON Petroleo Brasileiro SA, GPE China, PERSON Petrobras
+5 custom entities: PERSON Ivan, ORGANIZATION Monteiro, PERSON Petroleo Brasileiro SA, GPE China, PERSON Petrobras
+
+Source Sentence and Source Headline Match:
+Ivan Monteiro, chief financial officer of the company known as Petroleo Brasileiro SA, signed the accord on a visit to China and confirmed their intention to cooperate in the future, Petrobras said in the filing.
+Brazil's Petrobras signs $3.5 bln deal with China Development Bank.
+3 matches: sign, petrobras, china
+
+Source Sentence and Story Headline Match:
+Ivan Monteiro, chief financial officer of the company known as Petroleo Brasileiro SA, signed the accord on a visit to China and confirmed their intention to cooperate in the future, Petrobras said in the filing.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+Ivan Monteiro, chief financial officer of the company known as Petroleo Brasileiro SA, signed the accord on a visit to China and confirmed their intention to cooperate in the future, Petrobras said in the filing.
+If companies fully cooperate with authorities in the Petrobras investigation, exceptions could be made, de Oliveira said.
+4 matches: cooperate, company, petrobras, say
+
+----------------
+

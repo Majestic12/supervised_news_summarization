@@ -1,0 +1,1462 @@
+sent_1:
+1 out of 54 sentences
+1 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Yemen's President Abd-Rabbu Mansour Hadi left his refuge in Aden for Saudi Arabia on Thursday as Houthi rebels battled with his forces on the outskirts of the southern port city.
+5 default entities: GPE Yemen, PERSON Hadi, GPE Aden, GPE Saudi Arabia, ORGANIZATION Houthi
+4 custom entities: PERSON Hadi, GPE Aden, GPE Saudi Arabia, ORGANIZATION Houthi
+
+Source Sentence and Source Headline Match:
+Yemen's President Abd-Rabbu Mansour Hadi left his refuge in Aden for Saudi Arabia on Thursday as Houthi rebels battled with his forces on the outskirts of the southern port city.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+4 matches: hadi, arabia, saudi, leave
+
+Source Sentence and Story Headline Match:
+Yemen's President Abd-Rabbu Mansour Hadi left his refuge in Aden for Saudi Arabia on Thursday as Houthi rebels battled with his forces on the outskirts of the southern port city.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+3 matches: arabia, city, saudi
+
+Source Sentence and Best Story Sentence Match:
+Yemen's President Abd-Rabbu Mansour Hadi left his refuge in Aden for Saudi Arabia on Thursday as Houthi rebels battled with his forces on the outskirts of the southern port city.
+Yemeni President Mansour Hadi fled to Saudi Arabia, Saudi state TV reported March 26.
+5 matches: hadi, mansour, arabia, president, saudi
+
+----------------
+
+sent_2:
+2 out of 54 sentences
+2 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Throughout the day, warplanes from Saudi Arabia and Arab allies struck at the Shi'ite Houthis and allied army units, who have taken over much of the country and seek to oust Hadi.
+4 default entities: GPE Saudi Arabia, PERSON Arab, ORGANIZATION Houthis, PERSON Hadi
+4 custom entities: GPE Saudi Arabia, PERSON Arab, ORGANIZATION Houthis, PERSON Hadi
+
+Source Sentence and Source Headline Match:
+Throughout the day, warplanes from Saudi Arabia and Arab allies struck at the Shi'ite Houthis and allied army units, who have taken over much of the country and seek to oust Hadi.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+5 matches: hadi, arabia, country, saudi, strike
+
+Source Sentence and Story Headline Match:
+Throughout the day, warplanes from Saudi Arabia and Arab allies struck at the Shi'ite Houthis and allied army units, who have taken over much of the country and seek to oust Hadi.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+2 matches: arabia, saudi
+
+Source Sentence and Best Story Sentence Match:
+Throughout the day, warplanes from Saudi Arabia and Arab allies struck at the Shi'ite Houthis and allied army units, who have taken over much of the country and seek to oust Hadi.
+Saudi Arabia launched military operations including airstrikes against the Houthis and their allies in Yemen on March 25.
+4 matches: arabia, saudi, houthis, ally
+
+----------------
+
+sent_3:
+3 out of 54 sentences
+3 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Warplanes resumed bombing the Houthi-held capital Sanaa on Thursday evening, shaking whole neighborhoods and terrifying residents.
+2 default entities: PERSON Warplanes, PERSON Sanaa
+2 custom entities: PERSON Warplanes, PERSON Sanaa
+
+Source Sentence and Source Headline Match:
+Warplanes resumed bombing the Houthi-held capital Sanaa on Thursday evening, shaking whole neighborhoods and terrifying residents.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Warplanes resumed bombing the Houthi-held capital Sanaa on Thursday evening, shaking whole neighborhoods and terrifying residents.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: bomb
+
+Source Sentence and Best Story Sentence Match:
+Warplanes resumed bombing the Houthi-held capital Sanaa on Thursday evening, shaking whole neighborhoods and terrifying residents.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+1 matches: resident
+
+----------------
+
+sent_4:
+4 out of 54 sentences
+3 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Several civilians have been reported killed in Sanaa.
+1 default entities: GPE Sanaa
+1 custom entities: GPE Sanaa
+
+Source Sentence and Source Headline Match:
+Several civilians have been reported killed in Sanaa.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Several civilians have been reported killed in Sanaa.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Several civilians have been reported killed in Sanaa.
+No one was killed.
+1 matches: kill
+
+----------------
+
+sent_5:
+5 out of 54 sentences
+4 out of 41 paragraphs
+Tagged as a quote
+
+Sentence:
+"My whole family and I are preparing to sleep in the basement, as it's the safest part of the house," said resident Fawzia Nedras.
+1 default entities: PERSON Fawzia Nedras
+1 custom entities: PERSON Fawzia Nedras
+
+Source Sentence and Source Headline Match:
+"My whole family and I are preparing to sleep in the basement, as it's the safest part of the house," said resident Fawzia Nedras.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"My whole family and I are preparing to sleep in the basement, as it's the safest part of the house," said resident Fawzia Nedras.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"My whole family and I are preparing to sleep in the basement, as it's the safest part of the house," said resident Fawzia Nedras.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 matches: say, resident
+
+----------------
+
+sent_6:
+6 out of 54 sentences
+5 out of 41 paragraphs
+Tagged as a quote
+
+Sentence:
+"The windows are rattling and we think they may break.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"The windows are rattling and we think they may break.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"The windows are rattling and we think they may break.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_7:
+7 out of 54 sentences
+5 out of 41 paragraphs
+Tagged as a quote
+
+Sentence:
+We live near the airport, where we think a lot of the Houthi leaders are living and many of the air strikes are."
+1 default entities: ORGANIZATION Houthi
+1 custom entities: ORGANIZATION Houthi
+
+Source Sentence and Source Headline Match:
+We live near the airport, where we think a lot of the Houthi leaders are living and many of the air strikes are."
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+3 matches: leader, strike, air
+
+Source Sentence and Story Headline Match:
+We live near the airport, where we think a lot of the Houthi leaders are living and many of the air strikes are."
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+We live near the airport, where we think a lot of the Houthi leaders are living and many of the air strikes are."
+The Security Council imposed sanctions against several Houthi leaders in February, three months after the UN and U.S. first imposed sanctions in Nov. 2014.
+2 matches: houthi, leader
+
+----------------
+
+sent_8:
+8 out of 54 sentences
+6 out of 41 paragraphs
+Tagged as a quote
+
+Sentence:
+Houthi leader Abdel-Malek al-Houthi said in a televised speech Yemenis would confront the "criminal, unjust and unjustified aggression" by Saudi Arabia.
+3 default entities: GPE Houthi, PERSON Yemenis, GPE Saudi Arabia
+3 custom entities: GPE Houthi, PERSON Yemenis, GPE Saudi Arabia
+
+Source Sentence and Source Headline Match:
+Houthi leader Abdel-Malek al-Houthi said in a televised speech Yemenis would confront the "criminal, unjust and unjustified aggression" by Saudi Arabia.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+4 matches: arabia, leader, saudi, yemeni
+
+Source Sentence and Story Headline Match:
+Houthi leader Abdel-Malek al-Houthi said in a televised speech Yemenis would confront the "criminal, unjust and unjustified aggression" by Saudi Arabia.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+3 matches: arabia, saudi, yemeni
+
+Source Sentence and Best Story Sentence Match:
+Houthi leader Abdel-Malek al-Houthi said in a televised speech Yemenis would confront the "criminal, unjust and unjustified aggression" by Saudi Arabia.
+Yemeni President Mansour Hadi fled to Saudi Arabia, Saudi state TV reported March 26.
+3 matches: arabia, saudi, yemeni
+
+----------------
+
+sent_9:
+9 out of 54 sentences
+7 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Residents and security officials said the second night of air strikes throughout Yemen targeted air and ground force bases loyal to ex-president Ali Abdullah Saleh, whose forces have bolstered the Houthi advance.
+3 default entities: PERSON Yemen, PERSON Abdullah Saleh, ORGANIZATION Houthi
+3 custom entities: PERSON Yemen, PERSON Abdullah Saleh, ORGANIZATION Houthi
+
+Source Sentence and Source Headline Match:
+Residents and security officials said the second night of air strikes throughout Yemen targeted air and ground force bases loyal to ex-president Ali Abdullah Saleh, whose forces have bolstered the Houthi advance.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+2 matches: strike, air
+
+Source Sentence and Story Headline Match:
+Residents and security officials said the second night of air strikes throughout Yemen targeted air and ground force bases loyal to ex-president Ali Abdullah Saleh, whose forces have bolstered the Houthi advance.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Residents and security officials said the second night of air strikes throughout Yemen targeted air and ground force bases loyal to ex-president Ali Abdullah Saleh, whose forces have bolstered the Houthi advance.
+Ex-president and Houthi ally Ali Abdullah Saleh praised the announcement and called for dialogue.
+5 matches: houthi, ali, saleh, abdullah, ex-president
+
+----------------
+
+sent_10:
+10 out of 54 sentences
+8 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Saudi-led military intervention marked a major escalation of the Yemen crisis, in which Iran supports the Shi'ite Muslim Houthis, and Sunni Muslim monarchies in the Gulf back Hadi and his fellow Sunnis in Yemen's south.
+6 default entities: GPE Yemen, GPE Iran, ORGANIZATION Muslim Houthis, ORGANIZATION Sunni Muslim, PERSON Hadi, GPE Yemen
+5 custom entities: GPE Yemen, GPE Iran, ORGANIZATION Muslim Houthis, ORGANIZATION Sunni Muslim, PERSON Hadi
+
+Source Sentence and Source Headline Match:
+The Saudi-led military intervention marked a major escalation of the Yemen crisis, in which Iran supports the Shi'ite Muslim Houthis, and Sunni Muslim monarchies in the Gulf back Hadi and his fellow Sunnis in Yemen's south.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+1 matches: hadi
+
+Source Sentence and Story Headline Match:
+The Saudi-led military intervention marked a major escalation of the Yemen crisis, in which Iran supports the Shi'ite Muslim Houthis, and Sunni Muslim monarchies in the Gulf back Hadi and his fellow Sunnis in Yemen's south.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The Saudi-led military intervention marked a major escalation of the Yemen crisis, in which Iran supports the Shi'ite Muslim Houthis, and Sunni Muslim monarchies in the Gulf back Hadi and his fellow Sunnis in Yemen's south.
+Saudi Arabia launched military operations including airstrikes against the Houthis and their allies in Yemen on March 25.
+3 matches: yemen, houthis, military
+
+----------------
+
+sent_11:
+11 out of 54 sentences
+9 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Iran denounced the surprise assault on the Houthis and demanded an immediate halt to Saudi-led military operations.
+2 default entities: GPE Iran, ORGANIZATION Houthis
+2 custom entities: GPE Iran, ORGANIZATION Houthis
+
+Source Sentence and Source Headline Match:
+Iran denounced the surprise assault on the Houthis and demanded an immediate halt to Saudi-led military operations.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Iran denounced the surprise assault on the Houthis and demanded an immediate halt to Saudi-led military operations.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Iran denounced the surprise assault on the Houthis and demanded an immediate halt to Saudi-led military operations.
+Saudi Arabia launched military operations including airstrikes against the Houthis and their allies in Yemen on March 25.
+3 matches: operation, houthis, military
+
+----------------
+
+sent_12:
+12 out of 54 sentences
+10 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Tehran also made clear Saudi Arabia's deployment of a coalition of Sunni states against its Shi'ite enemies would  inflame the sectarian hatreds already fuelling wars around the Middle East.
+4 default entities: GPE Tehran, GPE Saudi Arabia, GPE Sunni, GPE Middle East
+4 custom entities: GPE Tehran, GPE Saudi, GPE Sunni, GPE Middle East
+
+Source Sentence and Source Headline Match:
+Tehran also made clear Saudi Arabia's deployment of a coalition of Sunni states against its Shi'ite enemies would  inflame the sectarian hatreds already fuelling wars around the Middle East.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+1 matches: saudi
+
+Source Sentence and Story Headline Match:
+Tehran also made clear Saudi Arabia's deployment of a coalition of Sunni states against its Shi'ite enemies would  inflame the sectarian hatreds already fuelling wars around the Middle East.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+Tehran also made clear Saudi Arabia's deployment of a coalition of Sunni states against its Shi'ite enemies would  inflame the sectarian hatreds already fuelling wars around the Middle East.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 matches: would, coalition
+
+----------------
+
+sent_13:
+13 out of 54 sentences
+11 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Hadi's departure under Saudi protection from Aden, his embattled base since fleeing Sanaa in February, could be a turning point.
+4 default entities: GPE Hadi, GPE Saudi, GPE Aden, PERSON Sanaa
+3 custom entities: GPE Saudi, GPE Aden, PERSON Sanaa
+
+Source Sentence and Source Headline Match:
+Hadi's departure under Saudi protection from Aden, his embattled base since fleeing Sanaa in February, could be a turning point.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+1 matches: saudi
+
+Source Sentence and Story Headline Match:
+Hadi's departure under Saudi protection from Aden, his embattled base since fleeing Sanaa in February, could be a turning point.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+Hadi's departure under Saudi protection from Aden, his embattled base since fleeing Sanaa in February, could be a turning point.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 matches: saudi
+
+----------------
+
+sent_14:
+14 out of 54 sentences
+12 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Saudi state news showed pictures of Hadi smiling and holding hands with the Saudi defense minister receiving him at an airport in the capital Riyadh and said he would go on to Egypt to attend an Arab summit on Saturday.
+6 default entities: GPE Saudi, GPE Hadi, GPE Saudi, PERSON Riyadh, GPE Egypt, PERSON Arab
+6 custom entities: GPE Saudi, GPE Hadi, GPE Saudi, PERSON Riyadh, GPE Egypt, PERSON Arab
+
+Source Sentence and Source Headline Match:
+Saudi state news showed pictures of Hadi smiling and holding hands with the Saudi defense minister receiving him at an airport in the capital Riyadh and said he would go on to Egypt to attend an Arab summit on Saturday.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+2 matches: hadi, saudi
+
+Source Sentence and Story Headline Match:
+Saudi state news showed pictures of Hadi smiling and holding hands with the Saudi defense minister receiving him at an airport in the capital Riyadh and said he would go on to Egypt to attend an Arab summit on Saturday.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+Saudi state news showed pictures of Hadi smiling and holding hands with the Saudi defense minister receiving him at an airport in the capital Riyadh and said he would go on to Egypt to attend an Arab summit on Saturday.
+Yemeni President Mansour Hadi fled to Saudi Arabia, Saudi state TV reported March 26.
+3 matches: hadi, state, saudi
+
+----------------
+
+sent_15:
+15 out of 54 sentences
+13 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Mohammed Marem, the director of Hadi's office, confirmed he  would attend the meeting in person, dropping his original plan to address it via video link.
+3 default entities: PERSON Mohammed, GPE Marem, GPE Hadi
+1 custom entities: PERSON Mohammed
+
+Source Sentence and Source Headline Match:
+Mohammed Marem, the director of Hadi's office, confirmed he  would attend the meeting in person, dropping his original plan to address it via video link.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Mohammed Marem, the director of Hadi's office, confirmed he  would attend the meeting in person, dropping his original plan to address it via video link.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Mohammed Marem, the director of Hadi's office, confirmed he  would attend the meeting in person, dropping his original plan to address it via video link.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+1 matches: would
+
+----------------
+
+sent_16:
+16 out of 54 sentences
+14 out of 41 paragraphs
+Tagged as a quote
+
+Sentence:
+Hadi would seek a "Marshall Plan" from Arab leaders to aid his war-torn country, his foreign minister Riyadh Yaseen told pan-Arab Al Jazeera TV, referring to a major economic stimulus for Europe after World War Two.
+6 default entities: GPE Hadi, PERSON Marshall Plan, PERSON Arab, PERSON Riyadh Yaseen, PERSON pan-Arab Al Jazeera TV, GPE Europe
+6 custom entities: GPE Hadi, ORGANIZATION Marshall Plan, PERSON Arab, PERSON Riyadh Yaseen, PERSON pan-Arab Al Jazeera, GPE Europe
+
+Source Sentence and Source Headline Match:
+Hadi would seek a "Marshall Plan" from Arab leaders to aid his war-torn country, his foreign minister Riyadh Yaseen told pan-Arab Al Jazeera TV, referring to a major economic stimulus for Europe after World War Two.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+3 matches: hadi, leader, country
+
+Source Sentence and Story Headline Match:
+Hadi would seek a "Marshall Plan" from Arab leaders to aid his war-torn country, his foreign minister Riyadh Yaseen told pan-Arab Al Jazeera TV, referring to a major economic stimulus for Europe after World War Two.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Hadi would seek a "Marshall Plan" from Arab leaders to aid his war-torn country, his foreign minister Riyadh Yaseen told pan-Arab Al Jazeera TV, referring to a major economic stimulus for Europe after World War Two.
+The Yemeni government-in-exile told Reuters April 18 that it rejected a four-point peace plan submitted by Iran to the UN.
+2 matches: plan, tell
+
+----------------
+
+sent_17:
+17 out of 54 sentences
+15 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It was far from certain whether Hadi would be able to return to Aden.
+2 default entities: PERSON Hadi, GPE Aden
+2 custom entities: PERSON Hadi, GPE Aden
+
+Source Sentence and Source Headline Match:
+It was far from certain whether Hadi would be able to return to Aden.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+1 matches: hadi
+
+Source Sentence and Story Headline Match:
+It was far from certain whether Hadi would be able to return to Aden.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+It was far from certain whether Hadi would be able to return to Aden.
+The conflict's start in Aden appeared to be part of a struggle between Hadi and ex-president Ali Abdullah Saleh.
+2 matches: hadi, aden
+
+----------------
+
+sent_18:
+18 out of 54 sentences
+16 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+On the city's northern outskirts, Houthis and allied troops fought gun battles with militiamen loyal to Hadi.
+2 default entities: ORGANIZATION Houthis, GPE Hadi
+2 custom entities: ORGANIZATION Houthis, GPE Hadi
+
+Source Sentence and Source Headline Match:
+On the city's northern outskirts, Houthis and allied troops fought gun battles with militiamen loyal to Hadi.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+1 matches: hadi
+
+Source Sentence and Story Headline Match:
+On the city's northern outskirts, Houthis and allied troops fought gun battles with militiamen loyal to Hadi.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+On the city's northern outskirts, Houthis and allied troops fought gun battles with militiamen loyal to Hadi.
+Saudi Arabia launched military operations including airstrikes against the Houthis and their allies in Yemen on March 25.
+2 matches: houthis, ally
+
+----------------
+
+sent_19:
+19 out of 54 sentences
+16 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Thirteen pro-Houthi fighters and three militiamen were killed and several others were killed in running street fights in nearby towns.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Thirteen pro-Houthi fighters and three militiamen were killed and several others were killed in running street fights in nearby towns.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Thirteen pro-Houthi fighters and three militiamen were killed and several others were killed in running street fights in nearby towns.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Thirteen pro-Houthi fighters and three militiamen were killed and several others were killed in running street fights in nearby towns.
+The Security Council imposed sanctions against several Houthi leaders in February, three months after the UN and U.S. first imposed sanctions in Nov. 2014.
+2 matches: three, several
+
+----------------
+
+sent_20:
+20 out of 54 sentences
+17 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Pro-Hadi fighters retook Aden airport, a day after it was captured by Houthi forces.
+2 default entities: PERSON Aden, ORGANIZATION Houthi
+2 custom entities: PERSON Aden, ORGANIZATION Houthi
+
+Source Sentence and Source Headline Match:
+Pro-Hadi fighters retook Aden airport, a day after it was captured by Houthi forces.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Pro-Hadi fighters retook Aden airport, a day after it was captured by Houthi forces.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Pro-Hadi fighters retook Aden airport, a day after it was captured by Houthi forces.
+"The coalition will continue to prevent the movement of Houthi militias from moving or undertaking any operations inside Yemen."
+1 matches: houthi
+
+----------------
+
+sent_21:
+21 out of 54 sentences
+17 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The facility remained closed.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The facility remained closed.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The facility remained closed.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The facility remained closed.
+"This is an absolute outrage particularly when one considers that we have shared detailed information with the Coalition on the locations of our offices and storage facilities."
+1 matches: facility
+
+----------------
+
+sent_22:
+22 out of 54 sentences
+18 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Saudi move was a major gamble by the world's top oil exporter to check Iranian influence in its backyard without direct military backing from Washington.
+3 default entities: GPE Saudi, GPE Iranian, GPE Washington
+3 custom entities: GPE Saudi, GPE Iranian, GPE Washington
+
+Source Sentence and Source Headline Match:
+The Saudi move was a major gamble by the world's top oil exporter to check Iranian influence in its backyard without direct military backing from Washington.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+1 matches: saudi
+
+Source Sentence and Story Headline Match:
+The Saudi move was a major gamble by the world's top oil exporter to check Iranian influence in its backyard without direct military backing from Washington.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+The Saudi move was a major gamble by the world's top oil exporter to check Iranian influence in its backyard without direct military backing from Washington.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 matches: saudi, military
+
+----------------
+
+sent_23:
+23 out of 54 sentences
+19 out of 41 paragraphs
+Tagged as a quote
+
+Sentence:
+"We will do whatever it takes in order to protect the legitimate government of Yemen from falling," Saudi Arabia's ambassador to the United States, Adel al-Jubeir, told a news conference in Washington.
+5 default entities: GPE Yemen, GPE Saudi Arabia, GPE United States, PERSON Adel al-Jubeir, GPE Washington
+5 custom entities: GPE Yemen, GPE Saudi, GPE United States, PERSON Adel al-Jubeir, GPE Washington
+
+Source Sentence and Source Headline Match:
+"We will do whatever it takes in order to protect the legitimate government of Yemen from falling," Saudi Arabia's ambassador to the United States, Adel al-Jubeir, told a news conference in Washington.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+1 matches: saudi
+
+Source Sentence and Story Headline Match:
+"We will do whatever it takes in order to protect the legitimate government of Yemen from falling," Saudi Arabia's ambassador to the United States, Adel al-Jubeir, told a news conference in Washington.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+"We will do whatever it takes in order to protect the legitimate government of Yemen from falling," Saudi Arabia's ambassador to the United States, Adel al-Jubeir, told a news conference in Washington.
+Following the announcement, Saudi Arabia's King Salman ordered the country's National Guard to reinforce the border with Yemen.
+4 matches: arabia's, saudi, order, yemen
+
+----------------
+
+sent_24:
+24 out of 54 sentences
+20 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In Sanaa, which the Houthis seized in September, warplanes earlier bombed the main airport and al Dulaimi military air base, residents said.
+2 default entities: GPE Sanaa, ORGANIZATION Houthis
+2 custom entities: GPE Sanaa, ORGANIZATION Houthis
+
+Source Sentence and Source Headline Match:
+In Sanaa, which the Houthis seized in September, warplanes earlier bombed the main airport and al Dulaimi military air base, residents said.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+1 matches: air
+
+Source Sentence and Story Headline Match:
+In Sanaa, which the Houthis seized in September, warplanes earlier bombed the main airport and al Dulaimi military air base, residents said.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: bomb
+
+Source Sentence and Best Story Sentence Match:
+In Sanaa, which the Houthis seized in September, warplanes earlier bombed the main airport and al Dulaimi military air base, residents said.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 matches: say, resident
+
+----------------
+
+sent_25:
+25 out of 54 sentences
+21 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A Reuters witness said four or five houses had been damaged.
+1 default entities: ORGANIZATION Reuters
+1 custom entities: ORGANIZATION Reuters
+
+Source Sentence and Source Headline Match:
+A Reuters witness said four or five houses had been damaged.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+A Reuters witness said four or five houses had been damaged.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+A Reuters witness said four or five houses had been damaged.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+1 matches: say
+
+----------------
+
+sent_26:
+26 out of 54 sentences
+21 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Rescue workers put the death toll at 13, including a doctor pulled from the rubble of his clinic.
+1 default entities: GPE Rescue
+1 custom entities: GPE Rescue
+
+Source Sentence and Source Headline Match:
+Rescue workers put the death toll at 13, including a doctor pulled from the rubble of his clinic.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Rescue workers put the death toll at 13, including a doctor pulled from the rubble of his clinic.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Rescue workers put the death toll at 13, including a doctor pulled from the rubble of his clinic.
+At least 944 people were killed, including 77 children, and 3,487 injured since the start of airstrikes as of April 17, the UN said April 21.
+1 matches: include
+
+----------------
+
+sent_27:
+27 out of 54 sentences
+22 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Warplanes also struck Houthi fighters near Yemen's border with Saudi Arabia, tribal and Houthi sources said.
+4 default entities: ORGANIZATION Houthi, GPE Yemen, GPE Saudi Arabia, ORGANIZATION Houthi
+3 custom entities: ORGANIZATION Houthi, GPE Saudi Arabia, ORGANIZATION Houthi
+
+Source Sentence and Source Headline Match:
+Warplanes also struck Houthi fighters near Yemen's border with Saudi Arabia, tribal and Houthi sources said.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+3 matches: arabia, saudi, strike
+
+Source Sentence and Story Headline Match:
+Warplanes also struck Houthi fighters near Yemen's border with Saudi Arabia, tribal and Houthi sources said.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+2 matches: arabia, saudi
+
+Source Sentence and Best Story Sentence Match:
+Warplanes also struck Houthi fighters near Yemen's border with Saudi Arabia, tribal and Houthi sources said.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 matches: arabia, saudi
+
+----------------
+
+sent_28:
+28 out of 54 sentences
+22 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+There was heavy street fighting in Houta, north of Aden, in which five pro-Houthi fighters and four militiamen were killed.
+2 default entities: GPE Houta, GPE Aden
+2 custom entities: GPE Houta, GPE Aden
+
+Source Sentence and Source Headline Match:
+There was heavy street fighting in Houta, north of Aden, in which five pro-Houthi fighters and four militiamen were killed.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+There was heavy street fighting in Houta, north of Aden, in which five pro-Houthi fighters and four militiamen were killed.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+There was heavy street fighting in Houta, north of Aden, in which five pro-Houthi fighters and four militiamen were killed.
+No one was killed.
+1 matches: kill
+
+----------------
+
+sent_29:
+29 out of 54 sentences
+23 out of 41 paragraphs
+Tagged as a quote
+
+Sentence:
+Thousands of Houthi supporters gathered to condemn the air strikes at the gate to Sanaa's old city, waving Houthi banners and chanting "Death to America!"
+4 default entities: GPE Houthi, PERSON Sanaa, ORGANIZATION Houthi, GPE America
+4 custom entities: GPE Houthi, ORGANIZATION Houthi, PERSON Death, GPE America
+
+Source Sentence and Source Headline Match:
+Thousands of Houthi supporters gathered to condemn the air strikes at the gate to Sanaa's old city, waving Houthi banners and chanting "Death to America!"
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+2 matches: strike, air
+
+Source Sentence and Story Headline Match:
+Thousands of Houthi supporters gathered to condemn the air strikes at the gate to Sanaa's old city, waving Houthi banners and chanting "Death to America!"
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: city
+
+Source Sentence and Best Story Sentence Match:
+Thousands of Houthi supporters gathered to condemn the air strikes at the gate to Sanaa's old city, waving Houthi banners and chanting "Death to America!"
+"The coalition will continue to prevent the movement of Houthi militias from moving or undertaking any operations inside Yemen."
+1 matches: houthi
+
+----------------
+
+sent_30:
+30 out of 54 sentences
+24 out of 41 paragraphs
+Tagged as a quote
+
+Sentence:
+Al-Arabiya said Saudi Arabia was contributing 100 warplanes to operation "Storm of Resolve" and more than 85 were being provided by the United Arab Emirates, Qatar, Bahrain, Kuwait, Jordan, Morocco and Sudan.
+11 default entities: PERSON Al-Arabiya, GPE Saudi, PERSON Arabia, GPE Resolve, ORGANIZATION United Arab Emirates, PERSON Qatar, GPE Bahrain, GPE Kuwait, GPE Jordan, PERSON Morocco, GPE Sudan
+6 custom entities: PERSON Al-Arabiya, GPE Saudi, PERSON Arabia, GPE Resolve, ORGANIZATION United Arab Emirates Qatar Bahrain Kuwait Jordan Morocco, GPE Sudan
+
+Source Sentence and Source Headline Match:
+Al-Arabiya said Saudi Arabia was contributing 100 warplanes to operation "Storm of Resolve" and more than 85 were being provided by the United Arab Emirates, Qatar, Bahrain, Kuwait, Jordan, Morocco and Sudan.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+2 matches: arabia, saudi
+
+Source Sentence and Story Headline Match:
+Al-Arabiya said Saudi Arabia was contributing 100 warplanes to operation "Storm of Resolve" and more than 85 were being provided by the United Arab Emirates, Qatar, Bahrain, Kuwait, Jordan, Morocco and Sudan.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+2 matches: arabia, saudi
+
+Source Sentence and Best Story Sentence Match:
+Al-Arabiya said Saudi Arabia was contributing 100 warplanes to operation "Storm of Resolve" and more than 85 were being provided by the United Arab Emirates, Qatar, Bahrain, Kuwait, Jordan, Morocco and Sudan.
+Saudi Arabia launched military operations including airstrikes against the Houthis and their allies in Yemen on March 25.
+3 matches: arabia, operation, saudi
+
+----------------
+
+sent_31:
+31 out of 54 sentences
+25 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Egyptian air forces were participating and four naval ships headed to secure the Gulf of Aden.
+2 default entities: GPE Egyptian, GPE Aden
+2 custom entities: GPE Egyptian, GPE Aden
+
+Source Sentence and Source Headline Match:
+Egyptian air forces were participating and four naval ships headed to secure the Gulf of Aden.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+1 matches: air
+
+Source Sentence and Story Headline Match:
+Egyptian air forces were participating and four naval ships headed to secure the Gulf of Aden.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Egyptian air forces were participating and four naval ships headed to secure the Gulf of Aden.
+"[Children] are being killed, maimed and forced to flee their homes, their health threatened and their education interrupted."
+1 matches: force
+
+----------------
+
+sent_32:
+32 out of 54 sentences
+25 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Turkey said it might provide logistical support.
+1 default entities: GPE Turkey
+1 custom entities: GPE Turkey
+
+Source Sentence and Source Headline Match:
+Turkey said it might provide logistical support.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Turkey said it might provide logistical support.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Turkey said it might provide logistical support.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+1 matches: say
+
+----------------
+
+sent_33:
+33 out of 54 sentences
+26 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Turkish President Tayyip Erdogan said later Iran had been trying to dominate the Middle East.
+4 default entities: GPE Turkish, PERSON Tayyip Erdogan, GPE Iran, GPE Middle East
+4 custom entities: GPE Turkish, PERSON Tayyip Erdogan, GPE Iran, GPE Middle East
+
+Source Sentence and Source Headline Match:
+Turkish President Tayyip Erdogan said later Iran had been trying to dominate the Middle East.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Turkish President Tayyip Erdogan said later Iran had been trying to dominate the Middle East.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Turkish President Tayyip Erdogan said later Iran had been trying to dominate the Middle East.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+1 matches: say
+
+----------------
+
+sent_34:
+34 out of 54 sentences
+27 out of 41 paragraphs
+Tagged as a quote
+
+Sentence:
+"It is really not possible to tolerate this.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"It is really not possible to tolerate this.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"It is really not possible to tolerate this.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_35:
+35 out of 54 sentences
+27 out of 41 paragraphs
+Tagged as a quote
+
+Sentence:
+Iran has to understand," he said, adding Tehran should withdraw any forces it had in Yemen as well as from Syria and Iraq.
+5 default entities: GPE Iran, PERSON Tehran, GPE Yemen, GSP Syria, GPE Iraq
+5 custom entities: GPE Iran, PERSON Tehran, GPE Yemen, GSP Syria, GPE Iraq
+
+Source Sentence and Source Headline Match:
+Iran has to understand," he said, adding Tehran should withdraw any forces it had in Yemen as well as from Syria and Iraq.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Iran has to understand," he said, adding Tehran should withdraw any forces it had in Yemen as well as from Syria and Iraq.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Iran has to understand," he said, adding Tehran should withdraw any forces it had in Yemen as well as from Syria and Iraq.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 matches: yemen, say
+
+----------------
+
+sent_36:
+36 out of 54 sentences
+28 out of 41 paragraphs
+Tagged as a quote
+
+Sentence:
+Pakistan's Prime Minister Nawaz Sharif said any threat to Saudi Arabia would "evoke a strong response" from Islamabad.
+4 default entities: GPE Pakistan, PERSON Nawaz Sharif, GPE Saudi Arabia, GPE Islamabad
+3 custom entities: PERSON Nawaz Sharif, GPE Saudi Arabia, GPE Islamabad
+
+Source Sentence and Source Headline Match:
+Pakistan's Prime Minister Nawaz Sharif said any threat to Saudi Arabia would "evoke a strong response" from Islamabad.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+2 matches: arabia, saudi
+
+Source Sentence and Story Headline Match:
+Pakistan's Prime Minister Nawaz Sharif said any threat to Saudi Arabia would "evoke a strong response" from Islamabad.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+2 matches: arabia, saudi
+
+Source Sentence and Best Story Sentence Match:
+Pakistan's Prime Minister Nawaz Sharif said any threat to Saudi Arabia would "evoke a strong response" from Islamabad.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 matches: arabia, saudi
+
+----------------
+
+sent_37:
+37 out of 54 sentences
+29 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Pakistan, which borders eastern Iran, said it was considering a Saudi request that it send troops to Yemen.
+4 default entities: GPE Pakistan, GPE Iran, GPE Saudi, GPE Yemen
+4 custom entities: GPE Pakistan, PERSON Iran, GPE Saudi, GPE Yemen
+
+Source Sentence and Source Headline Match:
+Pakistan, which borders eastern Iran, said it was considering a Saudi request that it send troops to Yemen.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+1 matches: saudi
+
+Source Sentence and Story Headline Match:
+Pakistan, which borders eastern Iran, said it was considering a Saudi request that it send troops to Yemen.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+Pakistan, which borders eastern Iran, said it was considering a Saudi request that it send troops to Yemen.
+Following the announcement, Saudi Arabia's King Salman ordered the country's National Guard to reinforce the border with Yemen.
+3 matches: border, yemen, saudi
+
+----------------
+
+sent_38:
+38 out of 54 sentences
+30 out of 41 paragraphs
+Tagged as a quote
+
+Sentence:
+"There are no plans at this stage for ground forces operations, but if the need arises, the Saudi ground forces and those of the friends and sisterly forces are ready and will repel any aggression."
+1 default entities: GPE Saudi
+1 custom entities: GPE Saudi
+
+Source Sentence and Source Headline Match:
+"There are no plans at this stage for ground forces operations, but if the need arises, the Saudi ground forces and those of the friends and sisterly forces are ready and will repel any aggression."
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+1 matches: saudi
+
+Source Sentence and Story Headline Match:
+"There are no plans at this stage for ground forces operations, but if the need arises, the Saudi ground forces and those of the friends and sisterly forces are ready and will repel any aggression."
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+"There are no plans at this stage for ground forces operations, but if the need arises, the Saudi ground forces and those of the friends and sisterly forces are ready and will repel any aggression."
+Saudi Arabia launched military operations including airstrikes against the Houthis and their allies in Yemen on March 25.
+2 matches: operation, saudi
+
+----------------
+
+sent_39:
+39 out of 54 sentences
+31 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Arab foreign ministers agreed in Egypt on Thursday on a draft resolution to form a unified Arab military force.
+3 default entities: PERSON Arab, GPE Egypt, PERSON Arab
+3 custom entities: PERSON Arab, GPE Egypt, PERSON Arab
+
+Source Sentence and Source Headline Match:
+Arab foreign ministers agreed in Egypt on Thursday on a draft resolution to form a unified Arab military force.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Arab foreign ministers agreed in Egypt on Thursday on a draft resolution to form a unified Arab military force.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Arab foreign ministers agreed in Egypt on Thursday on a draft resolution to form a unified Arab military force.
+Yemeni officials requested foreign military support days earlier.
+2 matches: foreign, military
+
+----------------
+
+sent_40:
+40 out of 54 sentences
+32 out of 41 paragraphs
+Tagged as a quote
+
+Sentence:
+"The task of the force will be rapid military intervention to deal with security threats to Arab nations," Arab League Secretary General Nabil Elaraby said.
+3 default entities: PERSON Arab, PERSON Arab League, PERSON Nabil Elaraby
+3 custom entities: PERSON Arab, PERSON Arab League, PERSON Nabil Elaraby
+
+Source Sentence and Source Headline Match:
+"The task of the force will be rapid military intervention to deal with security threats to Arab nations," Arab League Secretary General Nabil Elaraby said.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"The task of the force will be rapid military intervention to deal with security threats to Arab nations," Arab League Secretary General Nabil Elaraby said.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"The task of the force will be rapid military intervention to deal with security threats to Arab nations," Arab League Secretary General Nabil Elaraby said.
+"The warehouse had no military value," Oxfam said.
+2 matches: say, military
+
+----------------
+
+sent_41:
+41 out of 54 sentences
+33 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Russia's President Vladimir Putin called for an immediate cessation of military activities in Yemen in phone conversations with Iran's President Hassan Rouhani, the Kremlin said.
+6 default entities: GPE Russia, PERSON Vladimir Putin, GPE Yemen, GPE Iran, PERSON Hassan Rouhani, FACILITY Kremlin
+5 custom entities: PERSON Vladimir Putin, GPE Yemen, GPE Iran's, PERSON Hassan Rouhani, FACILITY Kremlin
+
+Source Sentence and Source Headline Match:
+Russia's President Vladimir Putin called for an immediate cessation of military activities in Yemen in phone conversations with Iran's President Hassan Rouhani, the Kremlin said.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Russia's President Vladimir Putin called for an immediate cessation of military activities in Yemen in phone conversations with Iran's President Hassan Rouhani, the Kremlin said.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Russia's President Vladimir Putin called for an immediate cessation of military activities in Yemen in phone conversations with Iran's President Hassan Rouhani, the Kremlin said.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 matches: yemen, military
+
+----------------
+
+sent_42:
+42 out of 54 sentences
+34 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+U.S. Secretary of State John Kerry raised Yemen on Thursday with his Iranian counterpart before turning to nuclear negotiations in Switzerland.
+6 default entities: GPE U.S., ORGANIZATION State, PERSON John Kerry, GPE Yemen, GPE Iranian, GPE Switzerland
+5 custom entities: ORGANIZATION State, PERSON John Kerry, GPE Yemen, GPE Iranian, GPE Switzerland
+
+Source Sentence and Source Headline Match:
+U.S. Secretary of State John Kerry raised Yemen on Thursday with his Iranian counterpart before turning to nuclear negotiations in Switzerland.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+U.S. Secretary of State John Kerry raised Yemen on Thursday with his Iranian counterpart before turning to nuclear negotiations in Switzerland.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+U.S. Secretary of State John Kerry raised Yemen on Thursday with his Iranian counterpart before turning to nuclear negotiations in Switzerland.
+U.S. Defense Secretary Ashton Carter also said in a news conference that gains by Al-Qaeda were "of serious concern."
+2 matches: secretary, u.s
+
+----------------
+
+sent_43:
+43 out of 54 sentences
+35 out of 41 paragraphs
+Tagged as a quote
+
+Sentence:
+Iran's Foreign Ministry demanded an immediate halt to the "aggression and air strikes" in Yemen.
+3 default entities: GPE Iran, ORGANIZATION Foreign Ministry, GPE Yemen
+2 custom entities: ORGANIZATION Foreign Ministry, GPE Yemen
+
+Source Sentence and Source Headline Match:
+Iran's Foreign Ministry demanded an immediate halt to the "aggression and air strikes" in Yemen.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+2 matches: strike, air
+
+Source Sentence and Story Headline Match:
+Iran's Foreign Ministry demanded an immediate halt to the "aggression and air strikes" in Yemen.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Iran's Foreign Ministry demanded an immediate halt to the "aggression and air strikes" in Yemen.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 matches: yemen
+
+----------------
+
+sent_44:
+44 out of 54 sentences
+36 out of 41 paragraphs
+Tagged as a quote
+
+Sentence:
+"Military actions in Yemen ... will further complicate the situation," ministry spokeswoman Marzieh Afkham said, quoted by Fars news agency.
+3 default entities: GPE Yemen, PERSON Marzieh Afkham, ORGANIZATION Fars
+3 custom entities: GPE Yemen, PERSON Marzieh Afkham, ORGANIZATION Fars
+
+Source Sentence and Source Headline Match:
+"Military actions in Yemen ... will further complicate the situation," ministry spokeswoman Marzieh Afkham said, quoted by Fars news agency.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"Military actions in Yemen ... will further complicate the situation," ministry spokeswoman Marzieh Afkham said, quoted by Fars news agency.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"Military actions in Yemen ... will further complicate the situation," ministry spokeswoman Marzieh Afkham said, quoted by Fars news agency.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 matches: yemen, military
+
+----------------
+
+sent_45:
+45 out of 54 sentences
+37 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A senior Iranian official told Reuters: "Iran will use all possible political ways to allay tension in Yemen.
+4 default entities: GPE Iranian, PERSON Reuters, GPE Iran, GPE Yemen
+3 custom entities: GPE Iranian, ORGANIZATION Reuters Iran, GPE Yemen
+
+Source Sentence and Source Headline Match:
+A senior Iranian official told Reuters: "Iran will use all possible political ways to allay tension in Yemen.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+A senior Iranian official told Reuters: "Iran will use all possible political ways to allay tension in Yemen.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+A senior Iranian official told Reuters: "Iran will use all possible political ways to allay tension in Yemen.
+The Yemeni government-in-exile told Reuters April 18 that it rejected a four-point peace plan submitted by Iran to the UN.
+3 matches: iran, tell, reuters
+
+----------------
+
+sent_46:
+46 out of 54 sentences
+37 out of 41 paragraphs
+Tagged as a quote
+
+Sentence:
+Military intervention is not an option for Tehran."
+1 default entities: GPE Tehran
+1 custom entities: PERSON Tehran
+
+Source Sentence and Source Headline Match:
+Military intervention is not an option for Tehran."
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Military intervention is not an option for Tehran."
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Military intervention is not an option for Tehran."
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 matches: military
+
+----------------
+
+sent_47:
+47 out of 54 sentences
+38 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Riyadh accuses Iran of stirring up sectarian strife throughout the region and in Yemen with its support for the Houthis.
+4 default entities: GPE Riyadh, GPE Iran, GPE Yemen, ORGANIZATION Houthis
+4 custom entities: GPE Riyadh, GPE Iran, GPE Yemen, ORGANIZATION Houthis
+
+Source Sentence and Source Headline Match:
+Riyadh accuses Iran of stirring up sectarian strife throughout the region and in Yemen with its support for the Houthis.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Riyadh accuses Iran of stirring up sectarian strife throughout the region and in Yemen with its support for the Houthis.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Riyadh accuses Iran of stirring up sectarian strife throughout the region and in Yemen with its support for the Houthis.
+Saudi Arabia launched military operations including airstrikes against the Houthis and their allies in Yemen on March 25.
+2 matches: yemen, houthis
+
+----------------
+
+sent_48:
+48 out of 54 sentences
+38 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Iran denies funding and training the Houthis.
+2 default entities: GPE Iran, ORGANIZATION Houthis
+2 custom entities: GPE Iran, ORGANIZATION Houthis
+
+Source Sentence and Source Headline Match:
+Iran denies funding and training the Houthis.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Iran denies funding and training the Houthis.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Iran denies funding and training the Houthis.
+The Yemeni government-in-exile told Reuters April 18 that it rejected a four-point peace plan submitted by Iran to the UN.
+1 matches: iran
+
+----------------
+
+sent_49:
+49 out of 54 sentences
+39 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Ambassador Jubeir said the assaults were in response to a request by Hadi.
+2 default entities: PERSON Jubeir, PERSON Hadi
+2 custom entities: PERSON Jubeir, PERSON Hadi
+
+Source Sentence and Source Headline Match:
+Ambassador Jubeir said the assaults were in response to a request by Hadi.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+1 matches: hadi
+
+Source Sentence and Story Headline Match:
+Ambassador Jubeir said the assaults were in response to a request by Hadi.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Ambassador Jubeir said the assaults were in response to a request by Hadi.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+1 matches: say
+
+----------------
+
+sent_50:
+50 out of 54 sentences
+39 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Washington said it supported the operation and had authorized U.S. logistical and intelligence support.
+2 default entities: GPE Washington, GPE U.S.
+1 custom entities: GPE Washington
+
+Source Sentence and Source Headline Match:
+Washington said it supported the operation and had authorized U.S. logistical and intelligence support.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Washington said it supported the operation and had authorized U.S. logistical and intelligence support.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Washington said it supported the operation and had authorized U.S. logistical and intelligence support.
+The shift in operations does not signal a ceasefire, Asseri said.
+2 matches: operation, say
+
+----------------
+
+sent_51:
+51 out of 54 sentences
+40 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A widening Yemen conflict could disrupt the narrow Bab el-Mandeb strait, through which nearly 4 million barrels of oil are shipped daily to Europe, the United States and Asia.
+4 default entities: PERSON Bab, GPE Europe, GPE United States, GPE Asia
+4 custom entities: PERSON Bab, GPE Europe, GPE United States, GPE Asia
+
+Source Sentence and Source Headline Match:
+A widening Yemen conflict could disrupt the narrow Bab el-Mandeb strait, through which nearly 4 million barrels of oil are shipped daily to Europe, the United States and Asia.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+A widening Yemen conflict could disrupt the narrow Bab el-Mandeb strait, through which nearly 4 million barrels of oil are shipped daily to Europe, the United States and Asia.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+A widening Yemen conflict could disrupt the narrow Bab el-Mandeb strait, through which nearly 4 million barrels of oil are shipped daily to Europe, the United States and Asia.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 matches: yemen, conflict
+
+----------------
+
+sent_52:
+52 out of 54 sentences
+40 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Oil prices surged as much as 6 percent on Thursday.
+1 default entities: GPE Oil
+1 custom entities: GPE Oil
+
+Source Sentence and Source Headline Match:
+Oil prices surged as much as 6 percent on Thursday.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Oil prices surged as much as 6 percent on Thursday.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Oil prices surged as much as 6 percent on Thursday.
+One of Yemen's largest electricity plants stopped working, as much of the country was already facing extended power cuts, local reports said.
+1 matches: much
+
+----------------
+
+sent_53:
+53 out of 54 sentences
+41 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Yemen closed its main ports.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Yemen closed its main ports.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Yemen closed its main ports.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Yemen closed its main ports.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 matches: yemen
+
+----------------
+
+sent_54:
+54 out of 54 sentences
+41 out of 41 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The U.S. military said it would help ensure the strait at the tip of the Red Sea remains open.
+2 default entities: GPE U.S., ORGANIZATION Red Sea
+1 custom entities: ORGANIZATION Red Sea
+
+Source Sentence and Source Headline Match:
+The U.S. military said it would help ensure the strait at the tip of the Red Sea remains open.
+Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The U.S. military said it would help ensure the strait at the tip of the Red Sea remains open.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The U.S. military said it would help ensure the strait at the tip of the Red Sea remains open.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 matches: would, say
+
+----------------
+

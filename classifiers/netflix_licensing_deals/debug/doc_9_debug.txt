@@ -1,0 +1,218 @@
+sent_1:
+1 out of 8 sentences
+1 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Everywhere you look, everywhere you go, there’s a… classic TV series being reborn.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Everywhere you look, everywhere you go, there’s a… classic TV series being reborn.
+Full House Reunion Series Fuller House Nears 13-Episode Netflix Order.
+1 matches: series
+
+Source Sentence and Story Headline Match:
+Everywhere you look, everywhere you go, there’s a… classic TV series being reborn.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Everywhere you look, everywhere you go, there’s a… classic TV series being reborn.
+"Daredevil" is the first of five Marvel series in development for Netflix, with others including "AKA Jessica Jones" and "Iron Fist."
+1 matches: series
+
+----------------
+
+sent_2:
+2 out of 8 sentences
+1 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+And TVLine can exclusively confirm that the revival craze has extended to the Tanners of San Francisco.
+3 default entities: ORGANIZATION TVLine, ORGANIZATION Tanners, GPE San Francisco
+3 custom entities: ORGANIZATION TVLine, ORGANIZATION Tanners, GPE San
+
+Source Sentence and Source Headline Match:
+And TVLine can exclusively confirm that the revival craze has extended to the Tanners of San Francisco.
+Full House Reunion Series Fuller House Nears 13-Episode Netflix Order.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+And TVLine can exclusively confirm that the revival craze has extended to the Tanners of San Francisco.
+Netflix confirms reboot of "Full House"
+1 matches: confirm
+
+Source Sentence and Best Story Sentence Match:
+And TVLine can exclusively confirm that the revival craze has extended to the Tanners of San Francisco.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+1 matches: confirm
+
+----------------
+
+sent_3:
+3 out of 8 sentences
+2 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+According to sources, Netflix is thisclose to ordering Fuller House, a 13-episode multi-cam continuation of Full House to star Candace Cameron Bure as D.J.
+4 default entities: PERSON Netflix, PERSON Fuller House, ORGANIZATION Full House, PERSON Candace Cameron Bure
+4 custom entities: PERSON Netflix, PERSON Fuller House, ORGANIZATION Full House, PERSON Candace Cameron Bure
+
+Source Sentence and Source Headline Match:
+According to sources, Netflix is thisclose to ordering Fuller House, a 13-episode multi-cam continuation of Full House to star Candace Cameron Bure as D.J.
+Full House Reunion Series Fuller House Nears 13-Episode Netflix Order.
+5 matches: full, 13-episode, fuller, netflix, house
+
+Source Sentence and Story Headline Match:
+According to sources, Netflix is thisclose to ordering Fuller House, a 13-episode multi-cam continuation of Full House to star Candace Cameron Bure as D.J.
+Netflix confirms reboot of "Full House"
+3 matches: full, netflix, house
+
+Source Sentence and Best Story Sentence Match:
+According to sources, Netflix is thisclose to ordering Fuller House, a 13-episode multi-cam continuation of Full House to star Candace Cameron Bure as D.J.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+5 matches: 13-episode, full, fuller, netflix, house
+
+----------------
+
+sent_4:
+4 out of 8 sentences
+2 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+and Andrea Barber as her BFF Kimmy.
+2 default entities: PERSON Andrea Barber, ORGANIZATION BFF Kimmy
+2 custom entities: PERSON Andrea Barber, ORGANIZATION BFF Kimmy
+
+Source Sentence and Source Headline Match:
+and Andrea Barber as her BFF Kimmy.
+Full House Reunion Series Fuller House Nears 13-Episode Netflix Order.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+and Andrea Barber as her BFF Kimmy.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+and Andrea Barber as her BFF Kimmy.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+1 matches: kimmy
+
+----------------
+
+sent_5:
+5 out of 8 sentences
+3 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Fellow Full House vets John Stamos, Bob Saget and Dave Coulier are being eyed to make guest appearances, with Stamos having a producer role, as well.
+6 default entities: PERSON Fellow, PERSON Full House, PERSON John Stamos, PERSON Bob Saget, PERSON Dave Coulier, PERSON Stamos
+5 custom entities: PERSON Fellow, PERSON Full House, PERSON John Stamos Bob Saget, PERSON Dave Coulier, PERSON Stamos
+
+Source Sentence and Source Headline Match:
+Fellow Full House vets John Stamos, Bob Saget and Dave Coulier are being eyed to make guest appearances, with Stamos having a producer role, as well.
+Full House Reunion Series Fuller House Nears 13-Episode Netflix Order.
+2 matches: full, house
+
+Source Sentence and Story Headline Match:
+Fellow Full House vets John Stamos, Bob Saget and Dave Coulier are being eyed to make guest appearances, with Stamos having a producer role, as well.
+Netflix confirms reboot of "Full House"
+2 matches: full, house
+
+Source Sentence and Best Story Sentence Match:
+Fellow Full House vets John Stamos, Bob Saget and Dave Coulier are being eyed to make guest appearances, with Stamos having a producer role, as well.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+3 matches: full, guest, house
+
+----------------
+
+sent_6:
+6 out of 8 sentences
+3 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The project is being shepherded by the original show’s creator, Jeff Franklin, who will exec-produce alongside Thomas L. Miller and Robert L. Boyett (both of whom also EP’d the original).
+3 default entities: PERSON Jeff Franklin, PERSON Thomas L. Miller, PERSON Robert L. Boyett
+3 custom entities: PERSON Jeff Franklin, PERSON Thomas L Miller, PERSON Robert L Boyett
+
+Source Sentence and Source Headline Match:
+The project is being shepherded by the original show’s creator, Jeff Franklin, who will exec-produce alongside Thomas L. Miller and Robert L. Boyett (both of whom also EP’d the original).
+Full House Reunion Series Fuller House Nears 13-Episode Netflix Order.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The project is being shepherded by the original show’s creator, Jeff Franklin, who will exec-produce alongside Thomas L. Miller and Robert L. Boyett (both of whom also EP’d the original).
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The project is being shepherded by the original show’s creator, Jeff Franklin, who will exec-produce alongside Thomas L. Miller and Robert L. Boyett (both of whom also EP’d the original).
+Netflix said April 2 that it had ordered 4, 30-minute episodes of an original series from creators Bob Odenkirk and David Cross.
+2 matches: creator, original
+
+----------------
+
+sent_7:
+7 out of 8 sentences
+4 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Reps for Netflix and Warner Bros. declined to comment for this story.
+2 default entities: PERSON Netflix, PERSON Warner Bros.
+2 custom entities: PERSON Netflix, PERSON Warner Bros
+
+Source Sentence and Source Headline Match:
+Reps for Netflix and Warner Bros. declined to comment for this story.
+Full House Reunion Series Fuller House Nears 13-Episode Netflix Order.
+1 matches: netflix
+
+Source Sentence and Story Headline Match:
+Reps for Netflix and Warner Bros. declined to comment for this story.
+Netflix confirms reboot of "Full House"
+1 matches: netflix
+
+Source Sentence and Best Story Sentence Match:
+Reps for Netflix and Warner Bros. declined to comment for this story.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+1 matches: netflix
+
+----------------
+
+sent_8:
+8 out of 8 sentences
+5 out of 5 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Full House, which wrapped its eight-season ABC run in 1995, joins an exploding TV-revival trend that includes Coach (coming to NBC as early as this fall), The X-Files (returning to Fox next season), Twin Peaks (bowing hopefully on Showtime in 2016) and FH‘s TGIF successor Boy Meets World (currently airing on Disney Channel via Girl Meets World).
+10 default entities: PERSON Full, ORGANIZATION House, ORGANIZATION ABC, ORGANIZATION NBC, PERSON Fox, PERSON Twin Peaks, ORGANIZATION TGIF, ORGANIZATION Boy Meets, ORGANIZATION Disney, ORGANIZATION Girl Meets
+11 custom entities: PERSON Full, ORGANIZATION House, ORGANIZATION ABC, ORGANIZATION NBC, PERSON Fox, PERSON Twin Peaks, ORGANIZATION FH, ORGANIZATION TGIF, ORGANIZATION Boy Meets, ORGANIZATION Disney, ORGANIZATION Girl Meets
+
+Source Sentence and Source Headline Match:
+Full House, which wrapped its eight-season ABC run in 1995, joins an exploding TV-revival trend that includes Coach (coming to NBC as early as this fall), The X-Files (returning to Fox next season), Twin Peaks (bowing hopefully on Showtime in 2016) and FH‘s TGIF successor Boy Meets World (currently airing on Disney Channel via Girl Meets World).
+Full House Reunion Series Fuller House Nears 13-Episode Netflix Order.
+2 matches: full, house
+
+Source Sentence and Story Headline Match:
+Full House, which wrapped its eight-season ABC run in 1995, joins an exploding TV-revival trend that includes Coach (coming to NBC as early as this fall), The X-Files (returning to Fox next season), Twin Peaks (bowing hopefully on Showtime in 2016) and FH‘s TGIF successor Boy Meets World (currently airing on Disney Channel via Girl Meets World).
+Netflix confirms reboot of "Full House"
+2 matches: full, house
+
+Source Sentence and Best Story Sentence Match:
+Full House, which wrapped its eight-season ABC run in 1995, joins an exploding TV-revival trend that includes Coach (coming to NBC as early as this fall), The X-Files (returning to Fox next season), Twin Peaks (bowing hopefully on Showtime in 2016) and FH‘s TGIF successor Boy Meets World (currently airing on Disney Channel via Girl Meets World).
+"Full House" ended its original run in 1995.
+4 matches: full, 1995, run, house
+
+----------------
+

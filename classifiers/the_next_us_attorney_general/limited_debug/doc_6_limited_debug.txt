@@ -1,0 +1,271 @@
+sent_1:
+
+Confronting skeptical Republicans, attorney general nominee Loretta Lynch pledged a new start with Congress and independence from President Barack Obama Wednesday, even as she defended the president's unilateral protections for millions of immigrants in the country illegally.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+5 best matches: lynch, obama, loretta, attorney, president
+
+----------------
+sent_2:
+
+"If confirmed as attorney general, I would be myself.
+The Senate confirmed Lynch to be the next attorney general April 23 in a 56-43 vote.
+3 best matches: attorney, confirm, general
+
+----------------
+sent_3:
+
+I would be Loretta Lynch," the nominee told her Senate confirmation hearing as Republicans showered criticism on the current occupant of the job, Eric Holder.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+5 best matches: lynch, would, loretta, eric, holder
+
+----------------
+sent_4:
+
+They said Holder was contemptuous of Congress and too politically close to Obama, and repeatedly demanded assurances that Lynch would do things differently.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+4 best matches: lynch, would, obama, holder
+
+----------------
+sent_5:
+
+"You're not Eric Holder, are you?"
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+2 best matches: eric, holder
+
+----------------
+sent_6:
+
+Texas Republican John Cornyn, one of the current attorney general's most persistent critics, asked at one point.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+1 best matches: attorney
+
+----------------
+sent_7:
+
+"No, I'm not, sir," Lynch responded with a smile.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+1 best matches: lynch
+
+----------------
+sent_8:
+
+It was a moment that summed up a Senate Judiciary Committee hearing that was often more about Obama and Holder than about Lynch, who is now the top federal prosecutor for parts of New York City and Long Island.
+Lynch was questioned during a confirmation hearing before the Senate Judiciary Committee on Jan. 28.
+5 best matches: lynch, hearing, senate, committee, judiciary
+
+----------------
+sent_9:
+
+If confirmed, she would become the nation's first black female attorney general.
+The Senate confirmed Lynch to be the next attorney general April 23 in a 56-43 vote.
+3 best matches: attorney, confirm, general
+
+----------------
+sent_10:
+
+Holder, Cornyn contended, "operated as a politician using the awesome power conferred by our laws on the attorney general."
+Eric Holder is the country's first African American attorney general, and currently the fourth longest-serving.
+3 best matches: holder, attorney, general
+
+----------------
+sent_11:
+
+Lynch asked the senator to take note of "the independence that I've always brought to every particular matter," and she said that when merited she would say no to Obama.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+3 best matches: lynch, would, obama
+
+----------------
+sent_12:
+
+On immigration, Lynch faced numerous questions from Republicans critical of the administration's new policy granting work permits and temporary deportation relief to some 4 million people who are in the country illegally.
+Lynch, who defended Obama's executive action on immigration, echoed the administration's position that it is not possible to deport millions with limited resources.
+4 best matches: lynch, immigration, million, administration's
+
+----------------
+sent_13:
+
+The committee chairman, Republican Chuck Grassley of Iowa, called the effort "a dangerous abuse of executive authority."
+Republicans had delayed Lynch's nomination after Democrats blocked a human trafficking bill over a provision about abortion.
+1 best matches: republican
+
+----------------
+sent_14:
+
+Lynch said she had no involvement in drafting the measures but called them "a reasonable way to marshal limited resources to deal with the problem" of illegal immigration.
+Lynch, who defended Obama's executive action on immigration, echoed the administration's position that it is not possible to deport millions with limited resources.
+4 best matches: lynch, immigration, limited, resource
+
+----------------
+sent_15:
+
+She said the Homeland Security Department was focusing on removals of "the most dangerous of the undocumented immigrants among us."
+Lynch said she disagrees with President Obama's view that marijuana is not more dangerous than alcohol and that she does not support legalizing it.
+2 best matches: say, dangerous
+
+----------------
+sent_16:
+
+Pressed by Sen. Jeff Sessions of Alabama, a leading immigration hard-liner, she said citizenship was not a right for people in the country illegally but rather a privilege that must be earned.
+"Ms. Lynch is a strong, independent prosecutor who has twice led one of the most important U.S. Attorney's Offices in the country."
+2 best matches: country, lead
+
+----------------
+sent_17:
+
+However, when Sessions asked whether individuals in the country legally or those who are here unlawfully have more of a right to a job, Lynch replied, "The right and the obligation to work is one that's shared by everyone in this country regardless of how they came here."
+"Ms. Lynch is a strong, independent prosecutor who has twice led one of the most important U.S. Attorney's Offices in the country."
+3 best matches: lynch, one, country
+
+----------------
+sent_18:
+
+no story sentence best matches found
+
+----------------
+sent_19:
+
+Under later questioning by Democratic Sen. Chuck Schumer of New York, Lynch clarified it, stating there is no right to work for an immigrant who has no lawful status.
+Lynch, 55, currently serves as U.S. Attorney for Eastern New York, which encompasses Brooklyn, Queens, State Island and Long Island.
+4 best matches: lynch, state, new, york
+
+----------------
+sent_20:
+
+The hearing was the first such proceeding since Republicans retook control of the Senate in January.
+Lynch was questioned during a confirmation hearing before the Senate Judiciary Committee on Jan. 28.
+2 best matches: hearing, senate
+
+----------------
+sent_21:
+
+Although comments from Sessions and Sen. Ted Cruz, R-Texas, as the session neared its conclusion suggested her stance on immigration and presidential authority would cost some Republican support, Lynch is expected to win confirmation with little difficulty, in part because Republicans are so eager to be rid of Holder.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+3 best matches: lynch, would, holder
+
+----------------
+sent_22:
+
+He has been a lightning rod for conservatives over the past six years, clashing continually with lawmakers and becoming the first sitting attorney general to be held in contempt of Congress.
+When she is sworn in by President Obama, Lynch will become the first African-American woman to hold the post.
+3 best matches: become, hold, first
+
+----------------
+sent_23:
+
+Lynch found occasions to differentiate herself from Holder without contradicting him.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+2 best matches: lynch, holder
+
+----------------
+sent_24:
+
+She stated without hesitation under questioning from Sen. Lindsey Graham, R-South Carolina, that she considers the death penalty an effective punishment and has sought it in her district.
+Lynch was questioned during a confirmation hearing before the Senate Judiciary Committee on Jan. 28.
+1 best matches: question
+
+----------------
+sent_25:
+
+That was a rhetorical shift from Holder, who has expressed personal reservations about capital punishment, particularly in light of recent botched executions, but has also periodically authorized it.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+1 best matches: holder
+
+----------------
+sent_26:
+
+On another controversial topic, Lynch said current National Security Agency intelligence-gathering programs are "constitutional and effective."
+Lynch described NSA intelligence gathering as "constitutional and effective."
+3 best matches: lynch, constitutional, effective
+
+----------------
+sent_27:
+
+She said she hopes Congress will renew three expiring provisions in the Foreign Intelligence Surveillance Act, which allows the FBI to obtain search warrants and communications intercepts in intelligence cases.
+Republicans had delayed Lynch's nomination after Democrats blocked a human trafficking bill over a provision about abortion.
+1 best matches: provision
+
+----------------
+sent_28:
+
+Questioned by Graham and other senators who are concerned that the use of civilian courts to try terrorists would give them too many rights, she said both military tribunals and civilian trials should be available for such prosecutions.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+1 best matches: would
+
+----------------
+sent_29:
+
+She also was asked whether she would support efforts to legalize marijuana.
+Lynch said she disagrees with President Obama's view that marijuana is not more dangerous than alcohol and that she does not support legalizing it.
+3 best matches: support, marijuana, legalize
+
+----------------
+sent_30:
+
+She said emphatically that she wouldn't, and refused to endorse a viewpoint offered by Obama in a New Yorker article last year that marijuana was not more dangerous than alcohol.
+Lynch said she disagrees with President Obama's view that marijuana is not more dangerous than alcohol and that she does not support legalizing it.
+4 best matches: marijuana, alcohol, say, dangerous
+
+----------------
+sent_31:
+
+"I certainly think that the president was speaking from his personal experience and personal opinion, neither of which I'm able to share," Lynch said.
+Lynch said she disagrees with President Obama's view that marijuana is not more dangerous than alcohol and that she does not support legalizing it.
+3 best matches: lynch, say, president
+
+----------------
+sent_32:
+
+Beyond his clashes with Congress, Holder has faced accusations from critics that he has aligned himself more with protesters alleging police violence than with members of law enforcement, a contention he and the Justice Department have strongly denied.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+1 best matches: holder
+
+----------------
+sent_33:
+
+It's an area Lynch is familiar with.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+1 best matches: lynch
+
+----------------
+sent_34:
+
+She helped prosecute New York City police officers who beat and sexually assaulted Haitian immigrant Abner Louima in 1997, and her office in New York is currently leading a civil rights investigation into the police chokehold death of Eric Garner in Staten Island last summer.
+Lynch, 55, currently serves as U.S. Attorney for Eastern New York, which encompasses Brooklyn, Queens, State Island and Long Island.
+4 best matches: currently, island, new, york
+
+----------------
+sent_35:
+
+Lynch has been U.S. attorney for the Eastern District of New York since 2010, a role she also held from 1999 to 2001.
+Lynch, 55, currently serves as U.S. Attorney for Eastern New York, which encompasses Brooklyn, Queens, State Island and Long Island.
+6 best matches: new, york, eastern, attorney, lynch, u.s
+
+----------------
+sent_36:
+
+Lynch told senators that one of the most important issues facing the country is "the need to resolve the tensions ... between law enforcement and the communities that we serve."
+"Ms. Lynch is a strong, independent prosecutor who has twice led one of the most important U.S. Attorney's Offices in the country."
+4 best matches: lynch, one, country, important
+
+----------------
+sent_37:
+
+She said the best way to deal with the problem is to get all parties to meet and talk, "helping them see that, in fact, we are all in this together."
+Senators eventually reached a deal on the human trafficking bill, and the bill passed 99-0 on April 23.
+1 best matches: deal
+
+----------------
+sent_38:
+
+Lynch was accompanied at the hearing by about 30 family members and friends.
+Lynch was questioned during a confirmation hearing before the Senate Judiciary Committee on Jan. 28.
+2 best matches: lynch, hearing
+
+----------------
+sent_39:
+
+Her mother was unable to make the trip, but her father, a retired minister, sat behind her throughout the hearing along with her husband, her brother and several members of her college sorority, Delta Sigma Theta, wearing their trademark bright red.
+Lynch was questioned during a confirmation hearing before the Senate Judiciary Committee on Jan. 28.
+1 best matches: hearing
+
+----------------

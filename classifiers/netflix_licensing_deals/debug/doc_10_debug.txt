@@ -1,0 +1,596 @@
+sent_1:
+1 out of 22 sentences
+1 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The streaming service made the long-rumored news official with a 13-episode commitment to 'Fuller House.'
+1 default entities: ORGANIZATION House
+1 custom entities: PERSON Fuller House
+
+Source Sentence and Source Headline Match:
+The streaming service made the long-rumored news official with a 13-episode commitment to 'Fuller House.'
+It's Official: 'Full House' Revival Heading to Netflix.
+2 matches: official, house
+
+Source Sentence and Story Headline Match:
+The streaming service made the long-rumored news official with a 13-episode commitment to 'Fuller House.'
+Netflix confirms reboot of "Full House"
+1 matches: house
+
+Source Sentence and Best Story Sentence Match:
+The streaming service made the long-rumored news official with a 13-episode commitment to 'Fuller House.'
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+3 matches: 13-episode, fuller, house
+
+----------------
+
+sent_2:
+2 out of 22 sentences
+2 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Full House is opening its doors again.
+2 default entities: PERSON Full, ORGANIZATION House
+2 custom entities: PERSON Full, ORGANIZATION House
+
+Source Sentence and Source Headline Match:
+Full House is opening its doors again.
+It's Official: 'Full House' Revival Heading to Netflix.
+2 matches: full, house
+
+Source Sentence and Story Headline Match:
+Full House is opening its doors again.
+Netflix confirms reboot of "Full House"
+2 matches: full, house
+
+Source Sentence and Best Story Sentence Match:
+Full House is opening its doors again.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+2 matches: full, house
+
+----------------
+
+sent_3:
+3 out of 22 sentences
+3 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Following former star John Stamos' announcement on Monday's Jimmy Kimmel Live!, Netflix confirmed Monday that it is reviving the family sitcom, handing out a 13-episode pickup to sequel Fuller House.
+4 default entities: PERSON John Stamos, PERSON Jimmy Kimmel Live, PERSON Netflix, PERSON Fuller House
+3 custom entities: PERSON John Stamos, PERSON Jimmy Kimmel Live Netflix, PERSON Fuller House
+
+Source Sentence and Source Headline Match:
+Following former star John Stamos' announcement on Monday's Jimmy Kimmel Live!, Netflix confirmed Monday that it is reviving the family sitcom, handing out a 13-episode pickup to sequel Fuller House.
+It's Official: 'Full House' Revival Heading to Netflix.
+2 matches: netflix, house
+
+Source Sentence and Story Headline Match:
+Following former star John Stamos' announcement on Monday's Jimmy Kimmel Live!, Netflix confirmed Monday that it is reviving the family sitcom, handing out a 13-episode pickup to sequel Fuller House.
+Netflix confirms reboot of "Full House"
+3 matches: confirm, netflix, house
+
+Source Sentence and Best Story Sentence Match:
+Following former star John Stamos' announcement on Monday's Jimmy Kimmel Live!, Netflix confirmed Monday that it is reviving the family sitcom, handing out a 13-episode pickup to sequel Fuller House.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+6 matches: fuller, confirm, netflix, house, 13-episode, sitcom
+
+----------------
+
+sent_4:
+4 out of 22 sentences
+4 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The new incarnation will star original cast members Candace Cameron-Bure (D.J.
+1 default entities: GPE Candace
+1 custom entities: GPE Candace
+
+Source Sentence and Source Headline Match:
+The new incarnation will star original cast members Candace Cameron-Bure (D.J.
+It's Official: 'Full House' Revival Heading to Netflix.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The new incarnation will star original cast members Candace Cameron-Bure (D.J.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The new incarnation will star original cast members Candace Cameron-Bure (D.J.
+It will star Candace Cameron-Bure playing the role of D.J.
+4 matches: star, cameron-bure, d.j, candace
+
+----------------
+
+sent_5:
+5 out of 22 sentences
+4 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+), her on-screen younger sister, Jodie Sweetin (Stephanie), and Andrea Barber, who played her best friend, Kimmy Gibbler.
+4 default entities: PERSON Jodie Sweetin, PERSON Stephanie, PERSON Andrea Barber, PERSON Kimmy Gibbler
+3 custom entities: PERSON Jodie Sweetin Stephanie, PERSON Andrea Barber, PERSON Kimmy Gibbler
+
+Source Sentence and Source Headline Match:
+), her on-screen younger sister, Jodie Sweetin (Stephanie), and Andrea Barber, who played her best friend, Kimmy Gibbler.
+It's Official: 'Full House' Revival Heading to Netflix.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+), her on-screen younger sister, Jodie Sweetin (Stephanie), and Andrea Barber, who played her best friend, Kimmy Gibbler.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+), her on-screen younger sister, Jodie Sweetin (Stephanie), and Andrea Barber, who played her best friend, Kimmy Gibbler.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+1 matches: kimmy
+
+----------------
+
+sent_6:
+6 out of 22 sentences
+4 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Stamos will produce and reprise his role as Uncle Jesse in a guest role, while talks are under way to bring back fellow original stars Bob Saget, Mary-Kate  and Ashley Olsen, Dave Coulier and Lori Loughlin.
+5 default entities: PERSON Uncle Jesse, PERSON Bob Saget, PERSON Ashley Olsen, PERSON Dave Coulier, PERSON Lori Loughlin
+4 custom entities: PERSON Uncle Jesse, PERSON Bob Saget, PERSON Ashley Olsen Dave Coulier, PERSON Lori Loughlin
+
+Source Sentence and Source Headline Match:
+Stamos will produce and reprise his role as Uncle Jesse in a guest role, while talks are under way to bring back fellow original stars Bob Saget, Mary-Kate  and Ashley Olsen, Dave Coulier and Lori Loughlin.
+It's Official: 'Full House' Revival Heading to Netflix.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Stamos will produce and reprise his role as Uncle Jesse in a guest role, while talks are under way to bring back fellow original stars Bob Saget, Mary-Kate  and Ashley Olsen, Dave Coulier and Lori Loughlin.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Stamos will produce and reprise his role as Uncle Jesse in a guest role, while talks are under way to bring back fellow original stars Bob Saget, Mary-Kate  and Ashley Olsen, Dave Coulier and Lori Loughlin.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+3 matches: star, guest, original
+
+----------------
+
+sent_7:
+7 out of 22 sentences
+5 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The revival will premiere on Netflix in 2016 and finds D.J.
+1 default entities: GPE Netflix
+1 custom entities: GPE Netflix
+
+Source Sentence and Source Headline Match:
+The revival will premiere on Netflix in 2016 and finds D.J.
+It's Official: 'Full House' Revival Heading to Netflix.
+2 matches: revival, netflix
+
+Source Sentence and Story Headline Match:
+The revival will premiere on Netflix in 2016 and finds D.J.
+Netflix confirms reboot of "Full House"
+1 matches: netflix
+
+Source Sentence and Best Story Sentence Match:
+The revival will premiere on Netflix in 2016 and finds D.J.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+1 matches: netflix
+
+----------------
+
+sent_8:
+8 out of 22 sentences
+5 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Tanner-Fuller employed as a vet, pregnant and recently widowed, and living in San Francisco.
+1 default entities: GPE San Francisco
+1 custom entities: GPE San
+
+Source Sentence and Source Headline Match:
+Tanner-Fuller employed as a vet, pregnant and recently widowed, and living in San Francisco.
+It's Official: 'Full House' Revival Heading to Netflix.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Tanner-Fuller employed as a vet, pregnant and recently widowed, and living in San Francisco.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_9:
+9 out of 22 sentences
+5 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Stephanie, now an aspiring musician, and single mother Kimmy — along with Kimmy’s feisty teenage daughter, Ramona — all move in to help take care of D.J.’s two boys — the rebellious 12-year-old J.D.
+4 default entities: PERSON Stephanie, PERSON Kimmy, PERSON Kimmy, PERSON Ramona
+3 custom entities: PERSON Stephanie, PERSON Kimmy, PERSON Ramona
+
+Source Sentence and Source Headline Match:
+Stephanie, now an aspiring musician, and single mother Kimmy — along with Kimmy’s feisty teenage daughter, Ramona — all move in to help take care of D.J.’s two boys — the rebellious 12-year-old J.D.
+It's Official: 'Full House' Revival Heading to Netflix.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Stephanie, now an aspiring musician, and single mother Kimmy — along with Kimmy’s feisty teenage daughter, Ramona — all move in to help take care of D.J.’s two boys — the rebellious 12-year-old J.D.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Stephanie, now an aspiring musician, and single mother Kimmy — along with Kimmy’s feisty teenage daughter, Ramona — all move in to help take care of D.J.’s two boys — the rebellious 12-year-old J.D.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+1 matches: kimmy
+
+----------------
+
+sent_10:
+10 out of 22 sentences
+5 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+and neurotic 7-year-old Max — and her soon-to-arrive baby.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+and neurotic 7-year-old Max — and her soon-to-arrive baby.
+It's Official: 'Full House' Revival Heading to Netflix.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+and neurotic 7-year-old Max — and her soon-to-arrive baby.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_11:
+11 out of 22 sentences
+6 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The multicamera comedy hails from Warner Horizon Television, Miller-Boyett Productions and Jeff Franklin Productions.
+2 default entities: PERSON Warner Horizon Television, PERSON Jeff Franklin
+2 custom entities: PERSON Warner Horizon Television, PERSON Jeff Franklin
+
+Source Sentence and Source Headline Match:
+The multicamera comedy hails from Warner Horizon Television, Miller-Boyett Productions and Jeff Franklin Productions.
+It's Official: 'Full House' Revival Heading to Netflix.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The multicamera comedy hails from Warner Horizon Television, Miller-Boyett Productions and Jeff Franklin Productions.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The multicamera comedy hails from Warner Horizon Television, Miller-Boyett Productions and Jeff Franklin Productions.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+1 matches: comedy
+
+----------------
+
+sent_12:
+12 out of 22 sentences
+6 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Full House creator Jeff Franklin will return to oversee Fuller House alongside exec producers Robert L. Boyett and Thomas L. Miller.
+6 default entities: PERSON Full, ORGANIZATION House, PERSON Jeff Franklin, PERSON Fuller House, PERSON Robert L. Boyett, PERSON Thomas L. Miller
+6 custom entities: PERSON Full, ORGANIZATION House, PERSON Jeff Franklin, PERSON Fuller House, PERSON Robert L Boyett, PERSON Thomas L Miller
+
+Source Sentence and Source Headline Match:
+Full House creator Jeff Franklin will return to oversee Fuller House alongside exec producers Robert L. Boyett and Thomas L. Miller.
+It's Official: 'Full House' Revival Heading to Netflix.
+2 matches: full, house
+
+Source Sentence and Story Headline Match:
+Full House creator Jeff Franklin will return to oversee Fuller House alongside exec producers Robert L. Boyett and Thomas L. Miller.
+Netflix confirms reboot of "Full House"
+2 matches: full, house
+
+Source Sentence and Best Story Sentence Match:
+Full House creator Jeff Franklin will return to oversee Fuller House alongside exec producers Robert L. Boyett and Thomas L. Miller.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+3 matches: full, fuller, house
+
+----------------
+
+sent_13:
+13 out of 22 sentences
+7 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The series originally aired on ABC from 1987 to 1995.
+1 default entities: ORGANIZATION ABC
+1 custom entities: ORGANIZATION ABC
+
+Source Sentence and Source Headline Match:
+The series originally aired on ABC from 1987 to 1995.
+It's Official: 'Full House' Revival Heading to Netflix.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The series originally aired on ABC from 1987 to 1995.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The series originally aired on ABC from 1987 to 1995.
+"Full House" ended its original run in 1995.
+1 matches: 1995
+
+----------------
+
+sent_14:
+14 out of 22 sentences
+7 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Full House is the latest in a long string of revivals popping up across the TV landscape as broadcast networks and streaming services alike look to known brands to cut through the clutter.
+2 default entities: PERSON Full, ORGANIZATION House
+2 custom entities: PERSON Full, ORGANIZATION House
+
+Source Sentence and Source Headline Match:
+Full House is the latest in a long string of revivals popping up across the TV landscape as broadcast networks and streaming services alike look to known brands to cut through the clutter.
+It's Official: 'Full House' Revival Heading to Netflix.
+3 matches: full, revival, house
+
+Source Sentence and Story Headline Match:
+Full House is the latest in a long string of revivals popping up across the TV landscape as broadcast networks and streaming services alike look to known brands to cut through the clutter.
+Netflix confirms reboot of "Full House"
+2 matches: full, house
+
+Source Sentence and Best Story Sentence Match:
+Full House is the latest in a long string of revivals popping up across the TV landscape as broadcast networks and streaming services alike look to known brands to cut through the clutter.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+2 matches: full, house
+
+----------------
+
+sent_15:
+15 out of 22 sentences
+7 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Fox recently ordered a six-episode event series for The X Files, and NBC announced a straight-to-series order for a Coach revival starring Craig T. Nelson, with several others in the works.
+3 default entities: PERSON Fox, ORGANIZATION NBC, PERSON Craig T. Nelson
+3 custom entities: PERSON Fox, ORGANIZATION NBC, PERSON Craig T Nelson
+
+Source Sentence and Source Headline Match:
+Fox recently ordered a six-episode event series for The X Files, and NBC announced a straight-to-series order for a Coach revival starring Craig T. Nelson, with several others in the works.
+It's Official: 'Full House' Revival Heading to Netflix.
+1 matches: revival
+
+Source Sentence and Story Headline Match:
+Fox recently ordered a six-episode event series for The X Files, and NBC announced a straight-to-series order for a Coach revival starring Craig T. Nelson, with several others in the works.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Fox recently ordered a six-episode event series for The X Files, and NBC announced a straight-to-series order for a Coach revival starring Craig T. Nelson, with several others in the works.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+2 matches: star, others
+
+----------------
+
+sent_16:
+16 out of 22 sentences
+8 out of 10 paragraphs
+Tagged as a quote
+
+Sentence:
+"The continued support of  Full House fans of all ages for the last 28 years has been astounding," Franklin, Boyett and Miller said in a joint statement confirming the news.
+4 default entities: ORGANIZATION Full House, GPE Franklin, PERSON Boyett, PERSON Miller
+3 custom entities: ORGANIZATION Full House, PERSON Franklin Boyett, PERSON Miller
+
+Source Sentence and Source Headline Match:
+"The continued support of  Full House fans of all ages for the last 28 years has been astounding," Franklin, Boyett and Miller said in a joint statement confirming the news.
+It's Official: 'Full House' Revival Heading to Netflix.
+2 matches: full, house
+
+Source Sentence and Story Headline Match:
+"The continued support of  Full House fans of all ages for the last 28 years has been astounding," Franklin, Boyett and Miller said in a joint statement confirming the news.
+Netflix confirms reboot of "Full House"
+3 matches: full, confirm, house
+
+Source Sentence and Best Story Sentence Match:
+"The continued support of  Full House fans of all ages for the last 28 years has been astounding," Franklin, Boyett and Miller said in a joint statement confirming the news.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+3 matches: full, confirm, house
+
+----------------
+
+sent_17:
+17 out of 22 sentences
+8 out of 10 paragraphs
+Tagged as a quote
+
+Sentence:
+"It is an honor and a thrill to catch up with these beloved characters and explore their lives today.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"It is an honor and a thrill to catch up with these beloved characters and explore their lives today.
+It's Official: 'Full House' Revival Heading to Netflix.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"It is an honor and a thrill to catch up with these beloved characters and explore their lives today.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"It is an honor and a thrill to catch up with these beloved characters and explore their lives today.
+"Daredevil," which stars British actor Charlie Cox as the title character, debuted on Netflix on April 10.
+1 matches: character
+
+----------------
+
+sent_18:
+18 out of 22 sentences
+8 out of 10 paragraphs
+Tagged as a quote
+
+Sentence:
+The love you saw on the show was real.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The love you saw on the show was real.
+It's Official: 'Full House' Revival Heading to Netflix.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The love you saw on the show was real.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The love you saw on the show was real.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+1 matches: show
+
+----------------
+
+sent_19:
+19 out of 22 sentences
+8 out of 10 paragraphs
+Tagged as a quote
+
+Sentence:
+The cast has remained a loving family off screen all these years.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The cast has remained a loving family off screen all these years.
+It's Official: 'Full House' Revival Heading to Netflix.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The cast has remained a loving family off screen all these years.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The cast has remained a loving family off screen all these years.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+1 matches: cast
+
+----------------
+
+sent_20:
+20 out of 22 sentences
+8 out of 10 paragraphs
+Tagged as a quote
+
+Sentence:
+We are as excited as our fans to finally bring Full House back to life.”
+1 default entities: PERSON Full House
+1 custom entities: PERSON Full House
+
+Source Sentence and Source Headline Match:
+We are as excited as our fans to finally bring Full House back to life.”
+It's Official: 'Full House' Revival Heading to Netflix.
+2 matches: full, house
+
+Source Sentence and Story Headline Match:
+We are as excited as our fans to finally bring Full House back to life.”
+Netflix confirms reboot of "Full House"
+2 matches: full, house
+
+Source Sentence and Best Story Sentence Match:
+We are as excited as our fans to finally bring Full House back to life.”
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+2 matches: full, house
+
+----------------
+
+sent_21:
+21 out of 22 sentences
+9 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+For Netflix, Fuller House comes as the streaming service has already revived Wet Hot American Summer, as well as Arrested Development, with another round of the cult comedy considered likely.
+4 default entities: PERSON Netflix, PERSON Fuller House, PERSON Wet Hot American Summer, ORGANIZATION Arrested Development
+3 custom entities: PERSON Netflix Fuller House, PERSON Wet Hot American Summer, ORGANIZATION Arrested
+
+Source Sentence and Source Headline Match:
+For Netflix, Fuller House comes as the streaming service has already revived Wet Hot American Summer, as well as Arrested Development, with another round of the cult comedy considered likely.
+It's Official: 'Full House' Revival Heading to Netflix.
+2 matches: netflix, house
+
+Source Sentence and Story Headline Match:
+For Netflix, Fuller House comes as the streaming service has already revived Wet Hot American Summer, as well as Arrested Development, with another round of the cult comedy considered likely.
+Netflix confirms reboot of "Full House"
+2 matches: netflix, house
+
+Source Sentence and Best Story Sentence Match:
+For Netflix, Fuller House comes as the streaming service has already revived Wet Hot American Summer, as well as Arrested Development, with another round of the cult comedy considered likely.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+3 matches: fuller, netflix, house
+
+----------------
+
+sent_22:
+22 out of 22 sentences
+10 out of 10 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The series joins a roster of original comedies at Netflix that also includes Grace and Frankie, Love, Unbreakable Kimmy Schmidt, Will Arnett's Bojack Horseman and Flaked and more.
+8 default entities: ORGANIZATION Netflix, PERSON Grace, GPE Frankie, PERSON Love, PERSON Unbreakable Kimmy Schmidt, PERSON Will Arnett, PERSON Bojack Horseman, PERSON Flaked
+4 custom entities: ORGANIZATION Netflix, PERSON Grace, PERSON Frankie Love Unbreakable Kimmy Schmidt Will, PERSON Flaked
+
+Source Sentence and Source Headline Match:
+The series joins a roster of original comedies at Netflix that also includes Grace and Frankie, Love, Unbreakable Kimmy Schmidt, Will Arnett's Bojack Horseman and Flaked and more.
+It's Official: 'Full House' Revival Heading to Netflix.
+1 matches: netflix
+
+Source Sentence and Story Headline Match:
+The series joins a roster of original comedies at Netflix that also includes Grace and Frankie, Love, Unbreakable Kimmy Schmidt, Will Arnett's Bojack Horseman and Flaked and more.
+Netflix confirms reboot of "Full House"
+1 matches: netflix
+
+Source Sentence and Best Story Sentence Match:
+The series joins a roster of original comedies at Netflix that also includes Grace and Frankie, Love, Unbreakable Kimmy Schmidt, Will Arnett's Bojack Horseman and Flaked and more.
+Other recent additions to Netflix include Tina Fey's critically acclaimed comedy "Unbreakable Kimmy Schmidt," which debuted on March 6, and the third season of "House of Cards," which debuted on Feb. 27.
+6 matches: include, netflix, comedy, kimmy, unbreakable, schmidt
+
+----------------
+

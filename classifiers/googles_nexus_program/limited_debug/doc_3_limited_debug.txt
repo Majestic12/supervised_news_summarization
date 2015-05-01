@@ -1,0 +1,330 @@
+sent_1:
+
+no story sentence best matches found
+
+----------------
+sent_2:
+
+A few years ago, we had the thought that phones (and stuff that hadn’t even been invented yet like tablets and smart watches) would be way more interesting if everyone could build new things together.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 best matches: build
+
+----------------
+sent_3:
+
+So we created Android as an open platform, and put it out there for everyone to imagine, invent, make, or buy whatever they wanted. 
+That's why we've always introduced Nexus devices alongside our platform releases.
+1 best matches: platform
+
+----------------
+sent_4:
+
+Since then, all kinds of people—from companies big and small to folks on Kickstarter, kids in schools, and crazy smart developers—have been innovating faster, together, more than we ever could alone.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 best matches: small
+
+----------------
+sent_5:
+
+And the best part is that every time someone new joins in, things get more interesting, unexpected, and wonderful for all of us.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 best matches: best
+
+----------------
+sent_6:
+
+Getting everyone in on the party is the same spirit behind Android One—an effort recently launched in India (coming to other countries soon) to make great smartphones available to the billions of people around the world who aren’t yet online.
+The Nexus 7 is no longer available from Google's official online store.
+2 best matches: online, available
+
+----------------
+sent_7:
+
+It’s also why we’re excited about Lollipop, our newest software release, which is designed to meet the diverse needs of the billion-plus people who already use Android today.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+3 best matches: android, release, lollipop
+
+----------------
+sent_8:
+
+As previewed at Google I/O, Lollipop is our largest, most ambitious release on Android with over 5,000 new APIs for developers.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+3 best matches: android, release, lollipop
+
+----------------
+sent_9:
+
+Lollipop is designed to be flexible, to work on all your devices and to be customized for you the way you see fit.
+Rather than creating software in the abstract, we work with hardware partners to build Nexus devices to help push the boundaries of what's possible."
+2 best matches: work, device
+
+----------------
+sent_10:
+
+And just like Android has always been, it’s designed to be shared.
+That's why we've always introduced Nexus devices alongside our platform releases.
+1 best matches: always
+
+----------------
+sent_11:
+
+Lollipop is made for a world where moving throughout the day means interacting with a bunch of different screens—from phones and tablets to TVs.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: tablet
+
+----------------
+sent_12:
+
+With more devices connecting together, your expectation is that things just work.
+Rather than creating software in the abstract, we work with hardware partners to build Nexus devices to help push the boundaries of what's possible."
+2 best matches: work, device
+
+----------------
+sent_13:
+
+With Lollipop, it’s easier than ever to pick up where you left off, so the songs, photos, apps, and even recent searches from one of your Android devices can be immediately enjoyed across all the other ones.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+3 best matches: android, lollipop, device
+
+----------------
+sent_14:
+
+As you switch from one screen to another, the experience should feel the same.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 best matches: screen
+
+----------------
+sent_15:
+
+So Lollipop has a consistent design across devices—an approach we call Material Design.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 best matches: call
+
+----------------
+sent_16:
+
+no story sentence best matches found
+
+----------------
+sent_17:
+
+Lollipop also gives you more control over your device.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+2 best matches: lollipop, device
+
+----------------
+sent_18:
+
+no story sentence best matches found
+
+----------------
+sent_19:
+
+no story sentence best matches found
+
+----------------
+sent_20:
+
+And because we’re using our devices a lot more, there’s a new battery saver feature that extends the life of your device by up to 90 minutes—helpful if you’re far from a power outlet.
+That's why we've always introduced Nexus devices alongside our platform releases.
+1 best matches: device
+
+----------------
+sent_21:
+
+no story sentence best matches found
+
+----------------
+sent_22:
+
+And you can now secure your device with a PIN, password, pattern, or even by pairing your phone to a trusted device like your watch or car with Smart Lock.
+That's why we've always introduced Nexus devices alongside our platform releases.
+1 best matches: device
+
+----------------
+sent_23:
+
+But this is just a small taste of Lollipop.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 best matches: small
+
+----------------
+sent_24:
+
+no story sentence best matches found
+
+----------------
+sent_25:
+
+Advances in computing are driven at the intersection of hardware and software.
+"Advances in computing are driven at the intersection of hardware and software.
+6 best matches: hardware, advance, drive, software, intersection, computing
+
+----------------
+sent_26:
+
+That's why we’ve always introduced Nexus devices alongside our platform releases.
+That's why we've always introduced Nexus devices alongside our platform releases.
+8 best matches: alongside, nexus, introduce, that's, release, device, always, platform
+
+----------------
+sent_27:
+
+Rather than creating software in the abstract, we work with hardware partners to build Nexus devices to help push the boundaries of what's possible.
+Rather than creating software in the abstract, we work with hardware partners to build Nexus devices to help push the boundaries of what's possible."
+15 best matches: hardware, work, build, boundary, nexus, push, possible, software, help, rather, create, abstract, partner, device, what's
+
+----------------
+sent_28:
+
+Nexus devices also serve as a reference for the ecosystem as they develop on our newest release.
+That's why we've always introduced Nexus devices alongside our platform releases.
+3 best matches: release, nexus, device
+
+----------------
+sent_29:
+
+And for Lollipop, we have a few new Nexus treats to share with you.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 best matches: nexus
+
+----------------
+sent_30:
+
+First, with Motorola, we developed the Nexus 6.
+Google in Oct. 2014 announced the Nexus 9 and Nexus 6 smartphone.
+2 best matches: 6, nexus
+
+----------------
+sent_31:
+
+no story sentence best matches found
+
+----------------
+sent_32:
+
+The large screen is complemented by dual front-facing stereo speakers that deliver high-fidelity sound, making it as great for movies and gaming as it is for doing work.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: screen, large
+
+----------------
+sent_33:
+
+no story sentence best matches found
+
+----------------
+sent_34:
+
+Next, a new tablet built in partnership with HTC.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 best matches: build
+
+----------------
+sent_35:
+
+Nexus 9, with brushed metal sides and 8.9-inch screen, is small enough to easily carry around in one hand, yet big enough to work on.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+3 best matches: screen, 9, nexus
+
+----------------
+sent_36:
+
+And since more and more people want to have the same simple experience they have on their tablets when they have to do real work, we designed a keyboard folio that magnetically attaches to the Nexus 9, folds into two different angles and rests securely on your lap like a laptop.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: 9, nexus
+
+----------------
+sent_37:
+
+Finally, we’re releasing the first device running Android TV: Nexus Player, a collaboration with Asus, is a streaming media player for movies, music and videos.
+That's why we've always introduced Nexus devices alongside our platform releases.
+2 best matches: nexus, device
+
+----------------
+sent_38:
+
+It's also a first-of-its-kind Android gaming device.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+2 best matches: android, device
+
+----------------
+sent_39:
+
+With Nexus Player you can play Android games on your HDTV with a gamepad, then keep playing on your phone while you're on the road.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 best matches: nexus
+
+----------------
+sent_40:
+
+Nexus Player is Google Cast Ready so you can cast your favorite entertainment from almost any Chromebook or Android or iOS phone or tablet to your TV.
+Google in Oct. 2014 announced the Nexus 9 and Nexus 6 smartphone.
+2 best matches: google, nexus
+
+----------------
+sent_41:
+
+Nexus 9 and Nexus Player will be available for pre-order on October 17.
+The Nexus 7 is no longer available from Google's official online store.
+2 best matches: available, nexus
+
+----------------
+sent_42:
+
+Nexus 9 will be in stores starting November 3.
+The Nexus 7 is no longer available from Google's official online store.
+2 best matches: store, nexus
+
+----------------
+sent_43:
+
+Nexus 6 will be available for pre-order in late October and in stores in November—with options for an unlocked version through Play store, or a monthly contract or installment plan through carriers, including AT&T, Sprint, T-Mobile, U.S. Cellular, and Verizon.
+The Nexus 7 is no longer available from Google's official online store.
+3 best matches: store, available, nexus
+
+----------------
+sent_44:
+
+no story sentence best matches found
+
+----------------
+sent_45:
+
+Check out google.com/nexus for more details on availability.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 best matches: nexus
+
+----------------
+sent_46:
+
+Android 5.0 Lollipop, which comes on Nexus 6, Nexus 9 and Nexus Player, will also be available on Nexus 4, 5, 7, 10 and Google Play edition devices in the coming weeks.
+Google in Oct. 2014 announced the Nexus 9 and Nexus 6 smartphone.
+4 best matches: google, 9, nexus, 6
+
+----------------
+sent_47:
+
+With this latest release of Android Lollipop, we're excited to continue working with our developer community, hardware partners, and all of you.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+4 best matches: late, android, release, lollipop
+
+----------------
+sent_48:
+
+More ideas and more creators is what gets us all to better ideas faster.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 best matches: fast
+
+----------------
+sent_49:
+
+And since everyone's invited to the party, we hope you'll join in the fun by creating and sharing an Android character that captures a little bit of who you are—one of a kind.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+1 best matches: android
+
+----------------
+sent_50:
+
+no story sentence best matches found
+
+----------------

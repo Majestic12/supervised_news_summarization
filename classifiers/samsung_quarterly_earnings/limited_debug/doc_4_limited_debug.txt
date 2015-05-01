@@ -1,0 +1,175 @@
+sent_1:
+
+Smartphone Sales Slipped Amid Intense Competition.
+Samsung has been increasing its reliance on its display and semiconductor divisions in the face of increased smartphone competition.
+2 best matches: smartphone, competition
+
+----------------
+sent_2:
+
+Samsung Electronics Co. offered signs Thursday that the worst was likely over for its mobile division, as the company turns to mobile chips and cheaper smartphones to spur a recovery in profit.
+Samsung on April 10 released the Galaxy S6, which the company hopes can help turn around its struggling smartphone division.
+4 best matches: turn, samsung, company, division
+
+----------------
+sent_3:
+
+Samsung said its fourth-quarter profit fell to 5.35 trillion won ($4.9 billion), down 27% from a year earlier and marking a third straight quarter of decline as its mobile division’s operating profit plunged 64%.
+While Samsung did earn $4.9 billion in profit (down 27% from a year earlier), smartphone rival Apple earned $18 billion in profit.
+7 best matches: samsung, billion, profit, 4.9, early, year, 27
+
+----------------
+sent_4:
+
+The slide came amid intense competition.
+Samsung has been increasing its reliance on its display and semiconductor divisions in the face of increased smartphone competition.
+1 best matches: competition
+
+----------------
+sent_5:
+
+Data from researchers showed Samsung lost significant smartphone market share in key markets, including China, following rival Apple Inc.’s launch last September of bigger-screen iPhones that have sold well globally.
+While Samsung did earn $4.9 billion in profit (down 27% from a year earlier), smartphone rival Apple earned $18 billion in profit.
+4 best matches: samsung, smartphone, apple, rival
+
+----------------
+sent_6:
+
+Data tracker Counterpoint Technology Market Research said that Samsung fell to fifth place among mobile-phone manufacturers in China in the fourth quarter, with just 9% of smartphone sales.
+Samsung in Q2 2014 was overtaken by Chinese smartphone maker Xioami (pictured) as the top smartphone vendor in China.
+3 best matches: samsung, smartphone, china
+
+----------------
+sent_7:
+
+A year earlier, Samsung had 17% of the market, but has been surpassed by market leader Apple, as well as Chinese rivals Xiaomi Corp., Lenovo Group Ltd. and Huawei Technologies Co.
+While Samsung did earn $4.9 billion in profit (down 27% from a year earlier), smartphone rival Apple earned $18 billion in profit.
+5 best matches: samsung, year, apple, early, rival
+
+----------------
+sent_8:
+
+But Samsung managed to limit the damage to profit margin at the company’s mobile division, which clocked in at 7.5%.
+Its operating profit was $5.64 billion, down 29.6% year-on-year, with operating profit from its mobile division down 57%.
+3 best matches: division, mobile, profit
+
+----------------
+sent_9:
+
+While that is a far cry from the almost 20% profit margin that the mobile division enjoyed for several years, it is a slight improvement from the previous quarter’s 7.1%.
+Its operating profit was $5.64 billion, down 29.6% year-on-year, with operating profit from its mobile division down 57%.
+3 best matches: division, mobile, profit
+
+----------------
+sent_10:
+
+The 27% decline in fourth-quarter net profit from a year earlier was also an improvement from the 49% year-over-year slump the company suffered in the third quarter.
+While Samsung did earn $4.9 billion in profit (down 27% from a year earlier), smartphone rival Apple earned $18 billion in profit.
+4 best matches: early, year, 27, profit
+
+----------------
+sent_11:
+
+Robert Yi, the company’s head of investor relations, said on a conference call with analysts that 2015 would be a year of “stability, recovery or growth” among its various businesses.
+Samsung will freeze the salaries of all employees in South Korea this year because business conditions are "not optimistic," the company said Feb. 26.
+3 best matches: business, year, say
+
+----------------
+sent_12:
+
+Samsung, meanwhile, lifted its 2014 dividend by 40%, its latest move to appease shareholders and government regulators who have called on South Korea’s biggest companies to loosen their grip on their cash.
+Samsung will freeze the salaries of all employees in South Korea this year because business conditions are "not optimistic," the company said Feb. 26.
+3 best matches: samsung, south, company
+
+----------------
+sent_13:
+
+Executives said on the call that it was too soon to offer guidance on dividends for 2015.
+Samsung posted its Q1 2015 results April 29.
+1 best matches: 2015
+
+----------------
+sent_14:
+
+The company is pinning its hopes on new phones and processing chips in smartphones to reverse its fortunes as it readies its new flagship phone for launch.
+One analyst said the new division suggests the two companies are getting along better than they had in the past."
+2 best matches: company, new
+
+----------------
+sent_15:
+
+Analysts expect a modest recovery in the company’s bottom line this year on demand for its memory chips and processors.
+However, Samsung said that its chip business will "see demand" moving forward.
+2 best matches: chip, demand
+
+----------------
+sent_16:
+
+Samsung could start rolling out a successor to its Galaxy S5 model as early as March, analysts say, in a bid to bolster smartphone sales.
+Samsung on April 10 released the Galaxy S6, which the company hopes can help turn around its struggling smartphone division.
+3 best matches: samsung, smartphone, galaxy
+
+----------------
+sent_17:
+
+A large number of the new phones could come equipped with an internally designed mobile processor, said a person familiar with the matter, unlike previous models that relied heavily on processors from Qualcomm Inc.
+"Bloomberg reported April 15, citing a person with 'direct knowledge' of the matter, that Samsung earlier this month created a division that's dedicated to working with Apple to create displays for that company's devices.
+2 best matches: person, matter
+
+----------------
+sent_18:
+
+The change will help Samsung lift its mobile profit—albeit modestly—and boost the chip unit that makes mobile processors, analysts say.
+However, Samsung said that its chip business will "see demand" moving forward.
+3 best matches: samsung, chip, say
+
+----------------
+sent_19:
+
+Samsung has been cutting costs to protect its profit margins.
+While Samsung did earn $4.9 billion in profit (down 27% from a year earlier), smartphone rival Apple earned $18 billion in profit.
+2 best matches: samsung, profit
+
+----------------
+sent_20:
+
+On Tuesday, it said it was expanding a cellphone manufacturing plant in the northern Indian city of Noida.
+However, Samsung said that its chip business will "see demand" moving forward.
+1 best matches: say
+
+----------------
+sent_21:
+
+The Indian facility will oversee production of Samsung’s new Z1 smartphone, which its first to be powered by its homegrown operating system, Tizen, an alternative to Google Inc.’s Android platform.
+Samsung has been increasing its reliance on its display and semiconductor divisions in the face of increased smartphone competition.
+1 best matches: smartphone
+
+----------------
+sent_22:
+
+The company said it sold 95 million handsets in the fourth quarter, of which 71 million to 76 million of them were smartphones.
+"In the second quarter, the company expects its overall earnings to increase compared to the previous quarter."
+2 best matches: quarter, company
+
+----------------
+sent_23:
+
+Rival Apple sold 74.5 million iPhones in its fiscal first quarter, up 46% from a year earlier.
+While Samsung did earn $4.9 billion in profit (down 27% from a year earlier), smartphone rival Apple earned $18 billion in profit.
+4 best matches: year, apple, early, rival
+
+----------------
+sent_24:
+
+Fourth-quarter operating profit fell 36% to 5.3 trillion won on an 11% drop in revenue to 52.7 trillion won, Samsung said.
+Its operating profit was $5.64 billion, down 29.6% year-on-year, with operating profit from its mobile division down 57%.
+2 best matches: operating, profit
+
+----------------
+sent_25:
+
+The figures were in line with the company’s previous guidance.
+"In the second quarter, the company expects its overall earnings to increase compared to the previous quarter."
+1 best matches: previous
+
+----------------

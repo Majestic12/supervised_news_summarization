@@ -1,0 +1,835 @@
+sent_1:
+1 out of 31 sentences
+1 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+S&P 500 sets intraday all-time high, closes below previous record.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+S&P 500 sets intraday all-time high, closes below previous record.
+Nasdaq posts first record close in 15 years.
+2 matches: record, close
+
+Source Sentence and Story Headline Match:
+S&P 500 sets intraday all-time high, closes below previous record.
+Tech stocks push Nasdaq, S&P500 to record highs.
+2 matches: record, high
+
+Source Sentence and Best Story Sentence Match:
+S&P 500 sets intraday all-time high, closes below previous record.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+3 matches: high, close, record
+
+----------------
+
+sent_2:
+2 out of 31 sentences
+2 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+U.S. stocks posted records on Thursday on the back of relatively modest gains, which saw the Nasdaq Composite close at its highest level ever as the S&P 500 flirted with a record close.
+2 default entities: GPE U.S., ORGANIZATION Nasdaq Composite
+1 custom entities: ORGANIZATION Nasdaq Composite
+
+Source Sentence and Source Headline Match:
+U.S. stocks posted records on Thursday on the back of relatively modest gains, which saw the Nasdaq Composite close at its highest level ever as the S&P 500 flirted with a record close.
+Nasdaq posts first record close in 15 years.
+4 matches: nasdaq, post, record, close
+
+Source Sentence and Story Headline Match:
+U.S. stocks posted records on Thursday on the back of relatively modest gains, which saw the Nasdaq Composite close at its highest level ever as the S&P 500 flirted with a record close.
+Tech stocks push Nasdaq, S&P500 to record highs.
+4 matches: high, nasdaq, stock, record
+
+Source Sentence and Best Story Sentence Match:
+U.S. stocks posted records on Thursday on the back of relatively modest gains, which saw the Nasdaq Composite close at its highest level ever as the S&P 500 flirted with a record close.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+5 matches: high, nasdaq, composite, close, record
+
+----------------
+
+sent_3:
+3 out of 31 sentences
+3 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The record-setting Nasdaq Composite COMP, +0.71% end up 20.89 points, or 0.4%, at 5,056, surpassing a 15-year closing high set March 10, 2000 during the dot-com boom.
+1 default entities: ORGANIZATION Nasdaq Composite
+1 custom entities: ORGANIZATION Nasdaq Composite
+
+Source Sentence and Source Headline Match:
+The record-setting Nasdaq Composite COMP, +0.71% end up 20.89 points, or 0.4%, at 5,056, surpassing a 15-year closing high set March 10, 2000 during the dot-com boom.
+Nasdaq posts first record close in 15 years.
+1 matches: nasdaq
+
+Source Sentence and Story Headline Match:
+The record-setting Nasdaq Composite COMP, +0.71% end up 20.89 points, or 0.4%, at 5,056, surpassing a 15-year closing high set March 10, 2000 during the dot-com boom.
+Tech stocks push Nasdaq, S&P500 to record highs.
+2 matches: nasdaq, high
+
+Source Sentence and Best Story Sentence Match:
+The record-setting Nasdaq Composite COMP, +0.71% end up 20.89 points, or 0.4%, at 5,056, surpassing a 15-year closing high set March 10, 2000 during the dot-com boom.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+4 matches: nasdaq, composite, point, high
+
+----------------
+
+sent_4:
+4 out of 31 sentences
+4 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The S&P 500 SPX, +0.23%  ended 4.97 points, or 0.2%, higher at 2,112.93, retreating from an intraday record of 2,120.52 set on Thursday, while the Dow Jones Industrial Average DJIA, +0.12%  added a relatively mundane 20.42 points, or 0.1%, to close higher at 18,058.69.
+2 default entities: ORGANIZATION SPX, ORGANIZATION Dow Jones Industrial Average
+1 custom entities: ORGANIZATION Dow Jones Industrial Average
+
+Source Sentence and Source Headline Match:
+The S&P 500 SPX, +0.23%  ended 4.97 points, or 0.2%, higher at 2,112.93, retreating from an intraday record of 2,120.52 set on Thursday, while the Dow Jones Industrial Average DJIA, +0.12%  added a relatively mundane 20.42 points, or 0.1%, to close higher at 18,058.69.
+Nasdaq posts first record close in 15 years.
+2 matches: record, close
+
+Source Sentence and Story Headline Match:
+The S&P 500 SPX, +0.23%  ended 4.97 points, or 0.2%, higher at 2,112.93, retreating from an intraday record of 2,120.52 set on Thursday, while the Dow Jones Industrial Average DJIA, +0.12%  added a relatively mundane 20.42 points, or 0.1%, to close higher at 18,058.69.
+Tech stocks push Nasdaq, S&P500 to record highs.
+2 matches: record, high
+
+Source Sentence and Best Story Sentence Match:
+The S&P 500 SPX, +0.23%  ended 4.97 points, or 0.2%, higher at 2,112.93, retreating from an intraday record of 2,120.52 set on Thursday, while the Dow Jones Industrial Average DJIA, +0.12%  added a relatively mundane 20.42 points, or 0.1%, to close higher at 18,058.69.
+The Dow Jones Industrial Average added 21 points and closed at 18,080.
+7 matches: add, dow, average, close, point, industrial, jones
+
+----------------
+
+sent_5:
+5 out of 31 sentences
+5 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The afternoon gains for stocks came as investors weighed a cascade of mixed earnings reports and weaker-than-forecast economic reports.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The afternoon gains for stocks came as investors weighed a cascade of mixed earnings reports and weaker-than-forecast economic reports.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The afternoon gains for stocks came as investors weighed a cascade of mixed earnings reports and weaker-than-forecast economic reports.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: stock
+
+Source Sentence and Best Story Sentence Match:
+The afternoon gains for stocks came as investors weighed a cascade of mixed earnings reports and weaker-than-forecast economic reports.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+2 matches: report, earnings
+
+----------------
+
+sent_6:
+6 out of 31 sentences
+6 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Randy Frederick, Managing Director of Trading and Derivatives at the Schwab Center for Financial Research, said today’s gains are due to a combination of bullish factors: higher oil prices, weakening dollar and very low volatility.
+5 default entities: PERSON Randy Frederick, GPE Trading, ORGANIZATION Derivatives, ORGANIZATION Schwab Center, ORGANIZATION Financial Research
+6 custom entities: PERSON Randy, PERSON Frederick Managing Director, GPE Trading, ORGANIZATION Derivatives, ORGANIZATION Schwab Center, ORGANIZATION Financial Research
+
+Source Sentence and Source Headline Match:
+Randy Frederick, Managing Director of Trading and Derivatives at the Schwab Center for Financial Research, said today’s gains are due to a combination of bullish factors: higher oil prices, weakening dollar and very low volatility.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Randy Frederick, Managing Director of Trading and Derivatives at the Schwab Center for Financial Research, said today’s gains are due to a combination of bullish factors: higher oil prices, weakening dollar and very low volatility.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: high
+
+Source Sentence and Best Story Sentence Match:
+Randy Frederick, Managing Director of Trading and Derivatives at the Schwab Center for Financial Research, said today’s gains are due to a combination of bullish factors: higher oil prices, weakening dollar and very low volatility.
+The Nasdaq has had two consecutive days of record highs.
+1 matches: high
+
+----------------
+
+sent_7:
+7 out of 31 sentences
+6 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+“There is also a seasonal bias, as second half of April tends to be bullish,” he noted.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“There is also a seasonal bias, as second half of April tends to be bullish,” he noted.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“There is also a seasonal bias, as second half of April tends to be bullish,” he noted.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“There is also a seasonal bias, as second half of April tends to be bullish,” he noted.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+1 matches: april
+
+----------------
+
+sent_8:
+8 out of 31 sentences
+7 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Indeed, energy, utilities and telecommunications stocks were among the biggest gainers in the S&P 500.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Indeed, energy, utilities and telecommunications stocks were among the biggest gainers in the S&P 500.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Indeed, energy, utilities and telecommunications stocks were among the biggest gainers in the S&P 500.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: stock
+
+Source Sentence and Best Story Sentence Match:
+Indeed, energy, utilities and telecommunications stocks were among the biggest gainers in the S&P 500.
+The index lagged behind the Nasdaq and S&P500 due to poor performances from some of its heavier weighted stocks.
+1 matches: stock
+
+----------------
+
+sent_9:
+9 out of 31 sentences
+8 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+As for the softness that has been the case with some earnings reports, Kim Caughey Forrest, senior analyst at Fort Pitt Capital, said expectations going into the earnings season may not have been low enough.
+2 default entities: PERSON Kim Caughey Forrest, ORGANIZATION Fort Pitt Capital
+2 custom entities: PERSON Kim Caughey Forrest, ORGANIZATION Fort Pitt Capital
+
+Source Sentence and Source Headline Match:
+As for the softness that has been the case with some earnings reports, Kim Caughey Forrest, senior analyst at Fort Pitt Capital, said expectations going into the earnings season may not have been low enough.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+As for the softness that has been the case with some earnings reports, Kim Caughey Forrest, senior analyst at Fort Pitt Capital, said expectations going into the earnings season may not have been low enough.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+As for the softness that has been the case with some earnings reports, Kim Caughey Forrest, senior analyst at Fort Pitt Capital, said expectations going into the earnings season may not have been low enough.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+2 matches: report, earnings
+
+----------------
+
+sent_10:
+10 out of 31 sentences
+9 out of 21 paragraphs
+Tagged as a quote
+
+Sentence:
+“Some companies are beating expectations by a narrow margin, but even the ones who are missing estimates are not punished as much because of low-interest-rate environment,” Forrest said suggesting that companies’ continued ability to service their debt is covering up their poor performance.
+1 default entities: PERSON Forrest
+1 custom entities: PERSON Forrest
+
+Source Sentence and Source Headline Match:
+“Some companies are beating expectations by a narrow margin, but even the ones who are missing estimates are not punished as much because of low-interest-rate environment,” Forrest said suggesting that companies’ continued ability to service their debt is covering up their poor performance.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“Some companies are beating expectations by a narrow margin, but even the ones who are missing estimates are not punished as much because of low-interest-rate environment,” Forrest said suggesting that companies’ continued ability to service their debt is covering up their poor performance.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“Some companies are beating expectations by a narrow margin, but even the ones who are missing estimates are not punished as much because of low-interest-rate environment,” Forrest said suggesting that companies’ continued ability to service their debt is covering up their poor performance.
+The index lagged behind the Nasdaq and S&P500 due to poor performances from some of its heavier weighted stocks.
+2 matches: performance, poor
+
+----------------
+
+sent_11:
+11 out of 31 sentences
+10 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Data: Sales of new single-family homes tumbled 11.4% to an annual rate of 481,000 in March, pulling back from a seven-year high reached a month earlier and hitting the slowest pace since November, according to government data released Thursday.
+2 default entities: GPE Data, GPE March
+3 custom entities: PERSON Data, ORGANIZATION Sales, GPE March
+
+Source Sentence and Source Headline Match:
+Data: Sales of new single-family homes tumbled 11.4% to an annual rate of 481,000 in March, pulling back from a seven-year high reached a month earlier and hitting the slowest pace since November, according to government data released Thursday.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Data: Sales of new single-family homes tumbled 11.4% to an annual rate of 481,000 in March, pulling back from a seven-year high reached a month earlier and hitting the slowest pace since November, according to government data released Thursday.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: high
+
+Source Sentence and Best Story Sentence Match:
+Data: Sales of new single-family homes tumbled 11.4% to an annual rate of 481,000 in March, pulling back from a seven-year high reached a month earlier and hitting the slowest pace since November, according to government data released Thursday.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+2 matches: new, high
+
+----------------
+
+sent_12:
+12 out of 31 sentences
+10 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+However, economists caution that the large margin of error make single-month readings less reliable.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+However, economists caution that the large margin of error make single-month readings less reliable.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+However, economists caution that the large margin of error make single-month readings less reliable.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_13:
+13 out of 31 sentences
+11 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The number of people who applied for regular state unemployment-insurance benefits ticked up 1,000 to 295,000 in the week that ended April 18, signaling a low level of layoffs, according to government data released Thursday.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The number of people who applied for regular state unemployment-insurance benefits ticked up 1,000 to 295,000 in the week that ended April 18, signaling a low level of layoffs, according to government data released Thursday.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The number of people who applied for regular state unemployment-insurance benefits ticked up 1,000 to 295,000 in the week that ended April 18, signaling a low level of layoffs, according to government data released Thursday.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The number of people who applied for regular state unemployment-insurance benefits ticked up 1,000 to 295,000 in the week that ended April 18, signaling a low level of layoffs, according to government data released Thursday.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+1 matches: april
+
+----------------
+
+sent_14:
+14 out of 31 sentences
+12 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Markit’s preliminary report on the manufacturing purchasing managers index for April fell to 54.2 in April from 55.7 in March.
+2 default entities: PERSON Markit, PERSON April
+1 custom entities: PERSON April
+
+Source Sentence and Source Headline Match:
+Markit’s preliminary report on the manufacturing purchasing managers index for April fell to 54.2 in April from 55.7 in March.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Markit’s preliminary report on the manufacturing purchasing managers index for April fell to 54.2 in April from 55.7 in March.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Markit’s preliminary report on the manufacturing purchasing managers index for April fell to 54.2 in April from 55.7 in March.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+2 matches: index, report
+
+----------------
+
+sent_15:
+15 out of 31 sentences
+12 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Flash PMIs out of Europe released earlier on Thursday showed growth weakened at the start of the second quarter.
+3 default entities: PERSON Flash, GPE PMIs, GPE Europe
+3 custom entities: PERSON Flash, GPE PMIs, GPE Europe
+
+Source Sentence and Source Headline Match:
+Flash PMIs out of Europe released earlier on Thursday showed growth weakened at the start of the second quarter.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Flash PMIs out of Europe released earlier on Thursday showed growth weakened at the start of the second quarter.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_16:
+16 out of 31 sentences
+13 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Earnings: On an exceptionally busy day for earnings, shares of eBay Inc. EBAY, +0.53%  jumped 3.8% after earnings showed its PayPal unit brought more revenue that its core marketplace division.
+2 default entities: ORGANIZATION eBay Inc., ORGANIZATION PayPal
+2 custom entities: ORGANIZATION eBay Inc, ORGANIZATION PayPal
+
+Source Sentence and Source Headline Match:
+Earnings: On an exceptionally busy day for earnings, shares of eBay Inc. EBAY, +0.53%  jumped 3.8% after earnings showed its PayPal unit brought more revenue that its core marketplace division.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Earnings: On an exceptionally busy day for earnings, shares of eBay Inc. EBAY, +0.53%  jumped 3.8% after earnings showed its PayPal unit brought more revenue that its core marketplace division.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Earnings: On an exceptionally busy day for earnings, shares of eBay Inc. EBAY, +0.53%  jumped 3.8% after earnings showed its PayPal unit brought more revenue that its core marketplace division.
+The Nasdaq has had two consecutive days of record highs.
+1 matches: day
+
+----------------
+
+sent_17:
+17 out of 31 sentences
+14 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+General Motors GM, -0.92%  earnings disappointed, hurt by stronger currency and weaker overseas performance.
+1 default entities: ORGANIZATION General Motors
+1 custom entities: ORGANIZATION General Motors
+
+Source Sentence and Source Headline Match:
+General Motors GM, -0.92%  earnings disappointed, hurt by stronger currency and weaker overseas performance.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+General Motors GM, -0.92%  earnings disappointed, hurt by stronger currency and weaker overseas performance.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+General Motors GM, -0.92%  earnings disappointed, hurt by stronger currency and weaker overseas performance.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+1 matches: earnings
+
+----------------
+
+sent_18:
+18 out of 31 sentences
+14 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Shares fell 3.3%, making it the top decliner on the S&P 500.
+1 default entities: PERSON Shares
+1 custom entities: PERSON Shares
+
+Source Sentence and Source Headline Match:
+Shares fell 3.3%, making it the top decliner on the S&P 500.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Shares fell 3.3%, making it the top decliner on the S&P 500.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_19:
+19 out of 31 sentences
+15 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Caterpillar Inc. CAT, -0.22%  posted much better-than-expected earnings and lifted its full-year outlook.
+1 default entities: ORGANIZATION Caterpillar Inc.
+1 custom entities: ORGANIZATION Inc
+
+Source Sentence and Source Headline Match:
+Caterpillar Inc. CAT, -0.22%  posted much better-than-expected earnings and lifted its full-year outlook.
+Nasdaq posts first record close in 15 years.
+1 matches: post
+
+Source Sentence and Story Headline Match:
+Caterpillar Inc. CAT, -0.22%  posted much better-than-expected earnings and lifted its full-year outlook.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Caterpillar Inc. CAT, -0.22%  posted much better-than-expected earnings and lifted its full-year outlook.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+1 matches: earnings
+
+----------------
+
+sent_20:
+20 out of 31 sentences
+15 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Shares initially rose as much 2%, but closed nearly flat.
+1 default entities: PERSON Shares
+1 custom entities: PERSON Shares
+
+Source Sentence and Source Headline Match:
+Shares initially rose as much 2%, but closed nearly flat.
+Nasdaq posts first record close in 15 years.
+1 matches: close
+
+Source Sentence and Story Headline Match:
+Shares initially rose as much 2%, but closed nearly flat.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Shares initially rose as much 2%, but closed nearly flat.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+1 matches: close
+
+----------------
+
+sent_21:
+21 out of 31 sentences
+16 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Dunkin’ Brands Group Inc. DNKN, +4.89% reported first-quarter earnings above analyst forecasts and boosted its 2015 outlook, sending the shares up 7.9%.
+2 default entities: PERSON Dunkin, PERSON Brands Group
+2 custom entities: PERSON Dunkin, PERSON Brands Group Inc
+
+Source Sentence and Source Headline Match:
+Dunkin’ Brands Group Inc. DNKN, +4.89% reported first-quarter earnings above analyst forecasts and boosted its 2015 outlook, sending the shares up 7.9%.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Dunkin’ Brands Group Inc. DNKN, +4.89% reported first-quarter earnings above analyst forecasts and boosted its 2015 outlook, sending the shares up 7.9%.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Dunkin’ Brands Group Inc. DNKN, +4.89% reported first-quarter earnings above analyst forecasts and boosted its 2015 outlook, sending the shares up 7.9%.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+2 matches: report, earnings
+
+----------------
+
+sent_22:
+22 out of 31 sentences
+17 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Tech giants fill out the results docket after the market closes.
+1 default entities: GPE Tech
+1 custom entities: GPE Tech
+
+Source Sentence and Source Headline Match:
+Tech giants fill out the results docket after the market closes.
+Nasdaq posts first record close in 15 years.
+1 matches: close
+
+Source Sentence and Story Headline Match:
+Tech giants fill out the results docket after the market closes.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: tech
+
+Source Sentence and Best Story Sentence Match:
+Tech giants fill out the results docket after the market closes.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+1 matches: close
+
+----------------
+
+sent_23:
+23 out of 31 sentences
+17 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Google Inc. GOOGL, +2.91%  is forecast to post first-quarter earnings of $6.61 a share, while Microsoft Corp. MSFT, +10.45%  is expected to report earnings of 51 cents a share in the first quarter.
+3 default entities: PERSON Google, ORGANIZATION Inc., ORGANIZATION Microsoft Corp.
+3 custom entities: PERSON Google, ORGANIZATION Inc, PERSON Microsoft Corp
+
+Source Sentence and Source Headline Match:
+Google Inc. GOOGL, +2.91%  is forecast to post first-quarter earnings of $6.61 a share, while Microsoft Corp. MSFT, +10.45%  is expected to report earnings of 51 cents a share in the first quarter.
+Nasdaq posts first record close in 15 years.
+2 matches: post, first
+
+Source Sentence and Story Headline Match:
+Google Inc. GOOGL, +2.91%  is forecast to post first-quarter earnings of $6.61 a share, while Microsoft Corp. MSFT, +10.45%  is expected to report earnings of 51 cents a share in the first quarter.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Google Inc. GOOGL, +2.91%  is forecast to post first-quarter earnings of $6.61 a share, while Microsoft Corp. MSFT, +10.45%  is expected to report earnings of 51 cents a share in the first quarter.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+4 matches: google, report, earnings, microsoft
+
+----------------
+
+sent_24:
+24 out of 31 sentences
+18 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Amazon.com Inc. AMZN, +14.13%  is likely to post a loss of 16 cents a share in the first quarter.
+1 default entities: ORGANIZATION Amazon.com Inc.
+1 custom entities: ORGANIZATION Amazon.com Inc
+
+Source Sentence and Source Headline Match:
+Amazon.com Inc. AMZN, +14.13%  is likely to post a loss of 16 cents a share in the first quarter.
+Nasdaq posts first record close in 15 years.
+2 matches: post, first
+
+Source Sentence and Story Headline Match:
+Amazon.com Inc. AMZN, +14.13%  is likely to post a loss of 16 cents a share in the first quarter.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_25:
+25 out of 31 sentences
+19 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+AT&T Inc. T, -0.64%  rose 2.7% on a slightly better-than-expected earnings report issued on Wednesday.
+1 default entities: PERSON T Inc. T
+1 custom entities: ORGANIZATION AT&T Inc
+
+Source Sentence and Source Headline Match:
+AT&T Inc. T, -0.64%  rose 2.7% on a slightly better-than-expected earnings report issued on Wednesday.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+AT&T Inc. T, -0.64%  rose 2.7% on a slightly better-than-expected earnings report issued on Wednesday.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+AT&T Inc. T, -0.64%  rose 2.7% on a slightly better-than-expected earnings report issued on Wednesday.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+2 matches: report, earnings
+
+----------------
+
+sent_26:
+26 out of 31 sentences
+20 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Other markets: European stocks traded mostly lower after the disappointing PMIs.
+2 default entities: GPE European, ORGANIZATION PMIs
+2 custom entities: GPE European, ORGANIZATION PMIs
+
+Source Sentence and Source Headline Match:
+Other markets: European stocks traded mostly lower after the disappointing PMIs.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Other markets: European stocks traded mostly lower after the disappointing PMIs.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: stock
+
+Source Sentence and Best Story Sentence Match:
+Other markets: European stocks traded mostly lower after the disappointing PMIs.
+The index lagged behind the Nasdaq and S&P500 due to poor performances from some of its heavier weighted stocks.
+1 matches: stock
+
+----------------
+
+sent_27:
+27 out of 31 sentences
+20 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Investors are also closely monitoring news about Greece’s reform talks ahead of a key meeting of eurozone finance ministers on Friday.
+1 default entities: GPE Greece
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Investors are also closely monitoring news about Greece’s reform talks ahead of a key meeting of eurozone finance ministers on Friday.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Investors are also closely monitoring news about Greece’s reform talks ahead of a key meeting of eurozone finance ministers on Friday.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_28:
+28 out of 31 sentences
+20 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Greek Prime Minister Alexis Tsipras is due to meet German Chancellor Angela Merkel in Brussels on Thursday.
+4 default entities: GPE Greek, PERSON Alexis Tsipras, PERSON German Chancellor Angela Merkel, GPE Brussels
+4 custom entities: GPE Greek, PERSON Alexis Tsipras, PERSON German Chancellor Angela Merkel, GPE Brussels
+
+Source Sentence and Source Headline Match:
+Greek Prime Minister Alexis Tsipras is due to meet German Chancellor Angela Merkel in Brussels on Thursday.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Greek Prime Minister Alexis Tsipras is due to meet German Chancellor Angela Merkel in Brussels on Thursday.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Greek Prime Minister Alexis Tsipras is due to meet German Chancellor Angela Merkel in Brussels on Thursday.
+The index lagged behind the Nasdaq and S&P500 due to poor performances from some of its heavier weighted stocks.
+1 matches: due
+
+----------------
+
+sent_29:
+29 out of 31 sentences
+21 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Asian markets closed mixed, while metals traded higher.
+1 default entities: GPE Asian
+1 custom entities: GPE Asian
+
+Source Sentence and Source Headline Match:
+Asian markets closed mixed, while metals traded higher.
+Nasdaq posts first record close in 15 years.
+1 matches: close
+
+Source Sentence and Story Headline Match:
+Asian markets closed mixed, while metals traded higher.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: high
+
+Source Sentence and Best Story Sentence Match:
+Asian markets closed mixed, while metals traded higher.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+2 matches: close, high
+
+----------------
+
+sent_30:
+30 out of 31 sentences
+21 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Oil prices CLM5, -0.55%  rose to settle at their highest levels of the year, up 2.8% at $57.74.
+2 default entities: GPE Oil, ORGANIZATION CLM5
+1 custom entities: GPE Oil
+
+Source Sentence and Source Headline Match:
+Oil prices CLM5, -0.55%  rose to settle at their highest levels of the year, up 2.8% at $57.74.
+Nasdaq posts first record close in 15 years.
+1 matches: year
+
+Source Sentence and Story Headline Match:
+Oil prices CLM5, -0.55%  rose to settle at their highest levels of the year, up 2.8% at $57.74.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: high
+
+Source Sentence and Best Story Sentence Match:
+Oil prices CLM5, -0.55%  rose to settle at their highest levels of the year, up 2.8% at $57.74.
+The Nasdaq has had two consecutive days of record highs.
+1 matches: high
+
+----------------
+
+sent_31:
+31 out of 31 sentences
+21 out of 21 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The ICE dollar index DXY, -0.46%  inched lower.
+2 default entities: ORGANIZATION ICE, ORGANIZATION DXY
+1 custom entities: ORGANIZATION ICE
+
+Source Sentence and Source Headline Match:
+The ICE dollar index DXY, -0.46%  inched lower.
+Nasdaq posts first record close in 15 years.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The ICE dollar index DXY, -0.46%  inched lower.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The ICE dollar index DXY, -0.46%  inched lower.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+1 matches: index
+
+----------------
+

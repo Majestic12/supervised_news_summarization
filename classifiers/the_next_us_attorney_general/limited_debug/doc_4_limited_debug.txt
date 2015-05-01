@@ -1,0 +1,77 @@
+sent_1:
+
+Asked about Obama’s remark that pot is no more dangerous than alcohol, Lynch responds: ‘I certainly don’t hold that view.’
+Lynch said she disagrees with President Obama's view that marijuana is not more dangerous than alcohol and that she does not support legalizing it.
+4 best matches: lynch, view, alcohol, dangerous
+
+----------------
+sent_2:
+
+Loretta Lynch made her first significant break from President Barack Obama on Wednesday on the issue of marijuana as the attorney general nominee disputed Obama’s view that the drug is no more dangerous than alcohol.
+Lynch said she disagrees with President Obama's view that marijuana is not more dangerous than alcohol and that she does not support legalizing it.
+6 best matches: view, marijuana, alcohol, president, dangerous, lynch
+
+----------------
+sent_3:
+
+Those answers came during questioning from Sen. Jeff Sessions (R-Ala.), who read aloud Obama’s comments from an interview with The New Yorker during Lynch’s confirmation hearing before the Senate Judiciary Committee.
+Lynch was questioned during a confirmation hearing before the Senate Judiciary Committee on Jan. 28.
+5 best matches: confirmation, hearing, senate, committee, judiciary
+
+----------------
+sent_4:
+
+“As has been well documented, I smoked pot as a kid, and I view it as a bad habit and a vice, not very different from the cigarettes that I smoked as a young person up through a big chunk of my adult life.
+Lynch said she disagrees with President Obama's view that marijuana is not more dangerous than alcohol and that she does not support legalizing it.
+1 best matches: view
+
+----------------
+sent_5:
+
+I don’t think it is more dangerous than alcohol,” Obama told magazine editor David Remnick in the interview, published in January 2014.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+2 best matches: obama, 2014
+
+----------------
+sent_6:
+
+Lynch testified that she does not agree.
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+1 best matches: lynch
+
+----------------
+sent_7:
+
+“I certainly don’t hold that view and don’t agree with that view of marijuana,” she said.
+Lynch said she disagrees with President Obama's view that marijuana is not more dangerous than alcohol and that she does not support legalizing it.
+3 best matches: view, marijuana, say
+
+----------------
+sent_8:
+
+“I certainly think the president was speaking from his personal experience, personal opinion, neither of which I am able to share.”
+In Nov. 2014, President Obama nominated U.S. Attorney Loretta Lynch to replace Eric Holder after Holder announced he would step down.
+1 best matches: president
+
+----------------
+sent_9:
+
+She added that she does not support legalizing the substance.
+Lynch said she disagrees with President Obama's view that marijuana is not more dangerous than alcohol and that she does not support legalizing it.
+2 best matches: support, legalize
+
+----------------
+sent_10:
+
+“I can tell you that not only do I not support the legalization of marijuana, it is not the position of the Department of Justice currently to support the legalization,” Lynch said.
+Lynch said she disagrees with President Obama's view that marijuana is not more dangerous than alcohol and that she does not support legalizing it.
+4 best matches: lynch, support, marijuana, say
+
+----------------
+sent_11:
+
+“Nor will it be the position should I be confirmed as attorney general.”
+The Senate confirmed Lynch to be the next attorney general April 23 in a 56-43 vote.
+3 best matches: attorney, confirm, general
+
+----------------

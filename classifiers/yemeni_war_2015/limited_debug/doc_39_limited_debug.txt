@@ -1,0 +1,124 @@
+sent_1:
+
+Iranian President Hassan Rouhani harshly criticized Saudi Arabia Saturday, warning that the Saudi royal family in Riyadh will harvest the hatred it is sowing in Yemen through its airstrike campaign.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+4 best matches: arabia, campaign, saudi, yemen
+
+----------------
+sent_2:
+
+Since March 26, the Saudi-led coalition has been attacking Shiite rebels known as Houthis and allied fighters loyal to Yemen's ousted President Ali Abdullah Saleh.
+The UN Security Council voted April 14 to impose an arms embargo on Houthis, as well as former president Ali Abdullah Saleh.
+5 best matches: ali, saleh, houthis, president, abdullah
+
+----------------
+sent_3:
+
+Iran supports the rebels but denies providing any military support.
+Yemeni officials requested foreign military support days earlier.
+2 best matches: support, military
+
+----------------
+sent_4:
+
+Addressing an army parade in Tehran, in a speech broadcast live on state TV Saturday, Rouhani said killing civilians in Yemen will bring neither power nor pride for Saudi Arabia.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+4 best matches: arabia, yemen, saudi, power
+
+----------------
+sent_5:
+
+"What does bombing the innocent ... Yemeni people mean?
+An April 20 Saudi airstrike on a hillside tore through the Yemeni capital, killing at least 25 people and wounding nearly 400 people, according to witnesses and medics.
+2 best matches: people, yemeni
+
+----------------
+sent_6:
+
+no story sentence best matches found
+
+----------------
+sent_7:
+
+Will killing children bring power to you?
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 best matches: power
+
+----------------
+sent_8:
+
+You planted the seeds of hatred in this region and you will see the response sooner or later," Rouhani said.
+One of Yemen's largest electricity plants stopped working, as much of the country was already facing extended power cuts, local reports said.
+2 best matches: plant, say
+
+----------------
+sent_9:
+
+"Don't bomb children, elderly men and women in Yemen.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 best matches: yemen
+
+----------------
+sent_10:
+
+Attacking the oppressed will bring disgrace ... for the aggressors."
+Although the attack appeared to target a military site, debris flew through the city and reverberations caused significant destruction.
+1 best matches: attack
+
+----------------
+sent_11:
+
+Iran's Supreme Leader Ayatollah Ali Khamenei has already called the Saudi-led airstrikes in Yemen "genocide" and a "major crime."
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+3 best matches: saudi-led, yemen, airstrikes
+
+----------------
+sent_12:
+
+Iran has presented a four-point plan to end the conflict that includes humanitarian aid, dialogue and the formation of a broad-based Yemeni unity government after a proposed cease-fire was already rejected by Saudi Arabia.
+The Iranian plan calls for a ceasefire, humanitarian aid, resuming a national dialogue and "an inclusive national unity government."
+6 best matches: plan, aid, unity, government, dialogue, humanitarian
+
+----------------
+sent_13:
+
+Rouhani also accused Saudi Arabia of providing weapons and funding to terrorist groups in the Middle East.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+3 best matches: arabia, saudi, group
+
+----------------
+sent_14:
+
+"What does providing financial assistance and weapons to terrorists in Syria, Lebanon and Iraq mean," he asked.
+Benomar was the UN's envoy to Yemen, but stepped down April 15 and asked for a reassignment.
+1 best matches: ask
+
+----------------
+sent_15:
+
+Iran is supporting both Syrian President Bashar Assad and the Iraqi government in its fight against Sunni Muslim extremists, including the Islamic State group.
+Yemeni President Mansour Hadi fled to Saudi Arabia, Saudi state TV reported March 26.
+2 best matches: state, president
+
+----------------
+sent_16:
+
+Tehran says Saudi Arabia and several other Middle East governments support the Islamic State group.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+3 best matches: arabia, saudi, group
+
+----------------
+sent_17:
+
+Prominent lawmaker Alaeddin Boroujerdi, who heads the parliamentary national security and foreign policy committees, predicted that Saudi Arabia will find itself trapped in the Yemeni "quagmire."
+Yemeni President Mansour Hadi fled to Saudi Arabia, Saudi state TV reported March 26.
+3 best matches: arabia, saudi, yemeni
+
+----------------
+sent_18:
+
+"We are so sorry that today Saudi Arabia and (its allies) have placed themselves in a quagmire and leaving it will definitely not be an easy task," he told reporters Saturday.
+Saudi Arabia launched military operations including airstrikes against the Houthis and their allies in Yemen on March 25.
+3 best matches: arabia, saudi, ally
+
+----------------

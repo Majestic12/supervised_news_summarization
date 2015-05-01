@@ -1,0 +1,436 @@
+sent_1:
+1 out of 16 sentences
+1 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Leaders of Beijing's bid for the 2022 Winter Olympics said Wednesday the capital's notorious air pollution will be much improved by the time of the games.
+1 default entities: GPE Beijing
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Leaders of Beijing's bid for the 2022 Winter Olympics said Wednesday the capital's notorious air pollution will be much improved by the time of the games.
+Beijing renews 2022 Winter Olympics air quality assurances.
+4 matches: olympics, 2022, winter, air
+
+Source Sentence and Story Headline Match:
+Leaders of Beijing's bid for the 2022 Winter Olympics said Wednesday the capital's notorious air pollution will be much improved by the time of the games.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+2 matches: say, air
+
+Source Sentence and Best Story Sentence Match:
+Leaders of Beijing's bid for the 2022 Winter Olympics said Wednesday the capital's notorious air pollution will be much improved by the time of the games.
+Zhang Jiandong, vice-chair of Beijing's bid committee said that the city has "the confidence" that it can reduce pollution before the Games.
+5 matches: bid, pollution, beijing's, say, game
+
+----------------
+
+sent_2:
+2 out of 16 sentences
+2 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The vice president of the bid committee, Zhang Jiandong, told reporters that air quality at the rural sites for the skiing and sliding events was already very good.
+1 default entities: PERSON Zhang Jiandong
+1 custom entities: PERSON Zhang Jiandong
+
+Source Sentence and Source Headline Match:
+The vice president of the bid committee, Zhang Jiandong, told reporters that air quality at the rural sites for the skiing and sliding events was already very good.
+Beijing renews 2022 Winter Olympics air quality assurances.
+2 matches: quality, air
+
+Source Sentence and Story Headline Match:
+The vice president of the bid committee, Zhang Jiandong, told reporters that air quality at the rural sites for the skiing and sliding events was already very good.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+2 matches: quality, air
+
+Source Sentence and Best Story Sentence Match:
+The vice president of the bid committee, Zhang Jiandong, told reporters that air quality at the rural sites for the skiing and sliding events was already very good.
+Zhang Jiandong, vice-chair of Beijing's bid committee said that the city has "the confidence" that it can reduce pollution before the Games.
+4 matches: bid, committee, jiandong, zhang
+
+----------------
+
+sent_3:
+3 out of 16 sentences
+2 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The problem, he said, was Beijing's urban core where the main athletes' village will be located, along with the indoor arenas for skating, hockey and curling.
+1 default entities: GPE Beijing
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The problem, he said, was Beijing's urban core where the main athletes' village will be located, along with the indoor arenas for skating, hockey and curling.
+Beijing renews 2022 Winter Olympics air quality assurances.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The problem, he said, was Beijing's urban core where the main athletes' village will be located, along with the indoor arenas for skating, hockey and curling.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: say
+
+Source Sentence and Best Story Sentence Match:
+The problem, he said, was Beijing's urban core where the main athletes' village will be located, along with the indoor arenas for skating, hockey and curling.
+Zhang Jiandong, vice-chair of Beijing's bid committee said that the city has "the confidence" that it can reduce pollution before the Games.
+2 matches: beijing's, say
+
+----------------
+
+sent_4:
+4 out of 16 sentences
+3 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Zhang said Beijing's urban center expects a 25 percent reduction in the very small and extremely unhealthy PM2.5 pollutants under a five-year plan begun in 2013 to close coal-fired power plants and other major polluters.
+2 default entities: PERSON Zhang, GPE Beijing
+1 custom entities: PERSON Zhang
+
+Source Sentence and Source Headline Match:
+Zhang said Beijing's urban center expects a 25 percent reduction in the very small and extremely unhealthy PM2.5 pollutants under a five-year plan begun in 2013 to close coal-fired power plants and other major polluters.
+Beijing renews 2022 Winter Olympics air quality assurances.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Zhang said Beijing's urban center expects a 25 percent reduction in the very small and extremely unhealthy PM2.5 pollutants under a five-year plan begun in 2013 to close coal-fired power plants and other major polluters.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: say
+
+Source Sentence and Best Story Sentence Match:
+Zhang said Beijing's urban center expects a 25 percent reduction in the very small and extremely unhealthy PM2.5 pollutants under a five-year plan begun in 2013 to close coal-fired power plants and other major polluters.
+Chinese cities often have unsafe levels of PM2.5 particles, which come mostly from vehicles and power plants burning fuels.
+3 matches: power, plant, pm2.5
+
+----------------
+
+sent_5:
+5 out of 16 sentences
+4 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+"All in all, we have the confidence, the capability and the appropriate measures to constantly improve air quality in Beijing," Zhang said.
+2 default entities: GPE Beijing, PERSON Zhang
+2 custom entities: GPE Beijing, PERSON Zhang
+
+Source Sentence and Source Headline Match:
+"All in all, we have the confidence, the capability and the appropriate measures to constantly improve air quality in Beijing," Zhang said.
+Beijing renews 2022 Winter Olympics air quality assurances.
+3 matches: quality, beijing, air
+
+Source Sentence and Story Headline Match:
+"All in all, we have the confidence, the capability and the appropriate measures to constantly improve air quality in Beijing," Zhang said.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+3 matches: quality, say, air
+
+Source Sentence and Best Story Sentence Match:
+"All in all, we have the confidence, the capability and the appropriate measures to constantly improve air quality in Beijing," Zhang said.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+3 matches: quality, say, air
+
+----------------
+
+sent_6:
+6 out of 16 sentences
+5 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+By 2017, Beijing will have reduced the amount of coal burned in the city to 10 million tons from 23 million tons in 2013 and taken whole fleets of old, polluting vehicles off city roads, Zhang said.
+2 default entities: GPE Beijing, PERSON Zhang
+2 custom entities: GPE Beijing, PERSON Zhang
+
+Source Sentence and Source Headline Match:
+By 2017, Beijing will have reduced the amount of coal burned in the city to 10 million tons from 23 million tons in 2013 and taken whole fleets of old, polluting vehicles off city roads, Zhang said.
+Beijing renews 2022 Winter Olympics air quality assurances.
+1 matches: beijing
+
+Source Sentence and Story Headline Match:
+By 2017, Beijing will have reduced the amount of coal burned in the city to 10 million tons from 23 million tons in 2013 and taken whole fleets of old, polluting vehicles off city roads, Zhang said.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+2 matches: city, say
+
+Source Sentence and Best Story Sentence Match:
+By 2017, Beijing will have reduced the amount of coal burned in the city to 10 million tons from 23 million tons in 2013 and taken whole fleets of old, polluting vehicles off city roads, Zhang said.
+Zhang Jiandong, vice-chair of Beijing's bid committee said that the city has "the confidence" that it can reduce pollution before the Games.
+4 matches: city, zhang, say, reduce
+
+----------------
+
+sent_7:
+7 out of 16 sentences
+6 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Beijing city government alone is devoting 48 billion yuan ($7.8 billion) to the effort and plans to close another 200 heavily polluting factories this year in addition to the 400 that were shuttered in 2014, Zhang said.
+2 default entities: GPE Beijing, PERSON Zhang
+2 custom entities: GPE Beijing, PERSON Zhang
+
+Source Sentence and Source Headline Match:
+The Beijing city government alone is devoting 48 billion yuan ($7.8 billion) to the effort and plans to close another 200 heavily polluting factories this year in addition to the 400 that were shuttered in 2014, Zhang said.
+Beijing renews 2022 Winter Olympics air quality assurances.
+1 matches: beijing
+
+Source Sentence and Story Headline Match:
+The Beijing city government alone is devoting 48 billion yuan ($7.8 billion) to the effort and plans to close another 200 heavily polluting factories this year in addition to the 400 that were shuttered in 2014, Zhang said.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+2 matches: city, say
+
+Source Sentence and Best Story Sentence Match:
+The Beijing city government alone is devoting 48 billion yuan ($7.8 billion) to the effort and plans to close another 200 heavily polluting factories this year in addition to the 400 that were shuttered in 2014, Zhang said.
+The Beijing government said it would begin collecting fees from construction sites that contribute to dust pollution in the city starting March 1.
+4 matches: beijing, government, city, say
+
+----------------
+
+sent_8:
+8 out of 16 sentences
+6 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The authorities will also seek to reduce the burning of coal for fuel and heat in small villages on the city's outskirts that produce a disproportionately high impact on air quality because of a total lack of filtering of any sort.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The authorities will also seek to reduce the burning of coal for fuel and heat in small villages on the city's outskirts that produce a disproportionately high impact on air quality because of a total lack of filtering of any sort.
+Beijing renews 2022 Winter Olympics air quality assurances.
+2 matches: quality, air
+
+Source Sentence and Story Headline Match:
+The authorities will also seek to reduce the burning of coal for fuel and heat in small villages on the city's outskirts that produce a disproportionately high impact on air quality because of a total lack of filtering of any sort.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+2 matches: quality, air
+
+Source Sentence and Best Story Sentence Match:
+The authorities will also seek to reduce the burning of coal for fuel and heat in small villages on the city's outskirts that produce a disproportionately high impact on air quality because of a total lack of filtering of any sort.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+2 matches: quality, air
+
+----------------
+
+sent_9:
+9 out of 16 sentences
+7 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+On the second day of a five-day inspection tour, IOC evaluators visited the Beijing suburb of Yanqing where the Alpine skiing and sliding events would be held.
+4 default entities: ORGANIZATION IOC, GPE Beijing, ORGANIZATION Yanqing, GPE Alpine
+4 custom entities: ORGANIZATION IOC, GPE Beijing, ORGANIZATION Yanqing, GPE Alpine
+
+Source Sentence and Source Headline Match:
+On the second day of a five-day inspection tour, IOC evaluators visited the Beijing suburb of Yanqing where the Alpine skiing and sliding events would be held.
+Beijing renews 2022 Winter Olympics air quality assurances.
+1 matches: beijing
+
+Source Sentence and Story Headline Match:
+On the second day of a five-day inspection tour, IOC evaluators visited the Beijing suburb of Yanqing where the Alpine skiing and sliding events would be held.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+On the second day of a five-day inspection tour, IOC evaluators visited the Beijing suburb of Yanqing where the Alpine skiing and sliding events would be held.
+On March 24, IOC officials began a 5-day tour of Beijing, which is bidding for the 2022 Winter Games.
+3 matches: ioc, beijing, tour
+
+----------------
+
+sent_10:
+10 out of 16 sentences
+8 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The International Olympic Committee inspection is a key test of Beijing's status as a front-runner in the bid race against Almaty, Kazakhstan.
+4 default entities: ORGANIZATION International, GPE Beijing, GPE Almaty, GPE Kazakhstan
+2 custom entities: ORGANIZATION International, PERSON Almaty Kazakhstan
+
+Source Sentence and Source Headline Match:
+The International Olympic Committee inspection is a key test of Beijing's status as a front-runner in the bid race against Almaty, Kazakhstan.
+Beijing renews 2022 Winter Olympics air quality assurances.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The International Olympic Committee inspection is a key test of Beijing's status as a front-runner in the bid race against Almaty, Kazakhstan.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The International Olympic Committee inspection is a key test of Beijing's status as a front-runner in the bid race against Almaty, Kazakhstan.
+Zhang Jiandong, vice-chair of Beijing's bid committee said that the city has "the confidence" that it can reduce pollution before the Games.
+3 matches: bid, committee, beijing's
+
+----------------
+
+sent_11:
+11 out of 16 sentences
+8 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Beijing is seeking to become the first city to host both the summer and winter games.
+1 default entities: GPE Beijing
+1 custom entities: GPE Beijing
+
+Source Sentence and Source Headline Match:
+Beijing is seeking to become the first city to host both the summer and winter games.
+Beijing renews 2022 Winter Olympics air quality assurances.
+2 matches: beijing, winter
+
+Source Sentence and Story Headline Match:
+Beijing is seeking to become the first city to host both the summer and winter games.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: city
+
+Source Sentence and Best Story Sentence Match:
+Beijing is seeking to become the first city to host both the summer and winter games.
+On March 24, IOC officials began a 5-day tour of Beijing, which is bidding for the 2022 Winter Games.
+3 matches: beijing, winter, game
+
+----------------
+
+sent_12:
+12 out of 16 sentences
+9 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Inside the city, PM2.5 readings topped 150 around on Wednesday, more than six times what the World Health Organization considers safe.
+1 default entities: ORGANIZATION World
+1 custom entities: ORGANIZATION World
+
+Source Sentence and Source Headline Match:
+Inside the city, PM2.5 readings topped 150 around on Wednesday, more than six times what the World Health Organization considers safe.
+Beijing renews 2022 Winter Olympics air quality assurances.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Inside the city, PM2.5 readings topped 150 around on Wednesday, more than six times what the World Health Organization considers safe.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: city
+
+Source Sentence and Best Story Sentence Match:
+Inside the city, PM2.5 readings topped 150 around on Wednesday, more than six times what the World Health Organization considers safe.
+Chinese cities often have unsafe levels of PM2.5 particles, which come mostly from vehicles and power plants burning fuels.
+2 matches: city, pm2.5
+
+----------------
+
+sent_13:
+13 out of 16 sentences
+10 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Along with pollution, Beijing is looking to assuage concerns over a lack of natural snow and the roughly 200-kilometer (125-mile) distance between Beijing's indoor venues and those where Nordic skiing and other outdoor events will be held.
+3 default entities: GPE Beijing, GPE Beijing, GPE Nordic
+2 custom entities: GPE Beijing, GPE Nordic
+
+Source Sentence and Source Headline Match:
+Along with pollution, Beijing is looking to assuage concerns over a lack of natural snow and the roughly 200-kilometer (125-mile) distance between Beijing's indoor venues and those where Nordic skiing and other outdoor events will be held.
+Beijing renews 2022 Winter Olympics air quality assurances.
+1 matches: beijing
+
+Source Sentence and Story Headline Match:
+Along with pollution, Beijing is looking to assuage concerns over a lack of natural snow and the roughly 200-kilometer (125-mile) distance between Beijing's indoor venues and those where Nordic skiing and other outdoor events will be held.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Along with pollution, Beijing is looking to assuage concerns over a lack of natural snow and the roughly 200-kilometer (125-mile) distance between Beijing's indoor venues and those where Nordic skiing and other outdoor events will be held.
+Beijing's air pollution went "beyond index" on Jan. 15, meaning it exceeded the scale's highest reading of 500, according to the U.S. Embassy in Beijing.
+3 matches: pollution, beijing, beijing's
+
+----------------
+
+sent_14:
+14 out of 16 sentences
+10 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Work has already begun on a high-speed rail line that will reduce travel time from Beijing's northern suburbs to just 50 minutes.
+2 default entities: GPE Work, GPE Beijing
+2 custom entities: GPE Work, GPE Beijing's
+
+Source Sentence and Source Headline Match:
+Work has already begun on a high-speed rail line that will reduce travel time from Beijing's northern suburbs to just 50 minutes.
+Beijing renews 2022 Winter Olympics air quality assurances.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Work has already begun on a high-speed rail line that will reduce travel time from Beijing's northern suburbs to just 50 minutes.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Work has already begun on a high-speed rail line that will reduce travel time from Beijing's northern suburbs to just 50 minutes.
+Zhang Jiandong, vice-chair of Beijing's bid committee said that the city has "the confidence" that it can reduce pollution before the Games.
+2 matches: beijing's, reduce
+
+----------------
+
+sent_15:
+15 out of 16 sentences
+11 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The IOC inspectors concluded a visit to Almaty last month, after which Kazakh organizers announced venue changes they say will save more than $500 million.
+3 default entities: ORGANIZATION IOC, GPE Almaty, GPE Kazakh
+3 custom entities: ORGANIZATION IOC, GPE Almaty, GPE Kazakh
+
+Source Sentence and Source Headline Match:
+The IOC inspectors concluded a visit to Almaty last month, after which Kazakh organizers announced venue changes they say will save more than $500 million.
+Beijing renews 2022 Winter Olympics air quality assurances.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The IOC inspectors concluded a visit to Almaty last month, after which Kazakh organizers announced venue changes they say will save more than $500 million.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: say
+
+Source Sentence and Best Story Sentence Match:
+The IOC inspectors concluded a visit to Almaty last month, after which Kazakh organizers announced venue changes they say will save more than $500 million.
+An April 21 report by Greenpeace says 90% of 360 Chinese cities it studied failed to meet China's air quality standards in the previous 12 months.
+2 matches: say, month
+
+----------------
+
+sent_16:
+16 out of 16 sentences
+12 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The IOC will select the host city on July 31 in Kuala Lumpur, Malaysia.
+3 default entities: ORGANIZATION IOC, GPE Kuala Lumpur, GPE Malaysia
+3 custom entities: ORGANIZATION IOC, GPE Kuala, GPE Malaysia
+
+Source Sentence and Source Headline Match:
+The IOC will select the host city on July 31 in Kuala Lumpur, Malaysia.
+Beijing renews 2022 Winter Olympics air quality assurances.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The IOC will select the host city on July 31 in Kuala Lumpur, Malaysia.
+Air quality in 90% of Chinese cities is poor, Greenpeace says.
+1 matches: city
+
+Source Sentence and Best Story Sentence Match:
+The IOC will select the host city on July 31 in Kuala Lumpur, Malaysia.
+"Despite modest improvements in high profile cities like Beijing, the figures paint a grim picture overall."
+1 matches: city
+
+----------------
+

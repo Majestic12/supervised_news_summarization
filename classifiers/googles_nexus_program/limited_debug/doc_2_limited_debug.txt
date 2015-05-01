@@ -1,0 +1,178 @@
+sent_1:
+
+Analysis Google was close to getting its latest flagship smartphone on all of the carriers, with only Verizon Wireless opting out of selling the device.
+Google in Oct. 2014 announced the Nexus 9 and Nexus 6 smartphone.
+2 best matches: google, smartphone
+
+----------------
+sent_2:
+
+The Nexus franchise is finally getting a little respect.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 best matches: nexus
+
+----------------
+sent_3:
+
+Google on Thursday pulled the wraps off its latest marquee smartphone, the Nexus 5, which comes loaded with high-end specifications and Android 4.4, or KitKat.
+Google in Oct. 2014 announced the Nexus 9 and Nexus 6 smartphone.
+3 best matches: google, smartphone, nexus
+
+----------------
+sent_4:
+
+But perhaps just as important is the confirmation that the phone will be broadly available in carrier stores across the nation.
+The Nexus 7 is no longer available from Google's official online store.
+2 best matches: store, available
+
+----------------
+sent_5:
+
+That's right, the Nexus 5 will be sold through Sprint and T-Mobile, with only Verizon Wireless opting out of carrying the device.
+That's why we've always introduced Nexus devices alongside our platform releases.
+3 best matches: that's, nexus, device
+
+----------------
+sent_6:
+
+Updated at 3:26 p.m. PT: Google came back and confirmed that AT&T won't be selling the Nexus 5, but it will be able to run on its network.
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+5 best matches: google, sell, confirm, nexus, 5
+
+----------------
+sent_7:
+
+Broader distribution is critical at a time when all of the big flagship smartphones, from the iPhone 5S to the Galaxy S4, are sold on every carrier in the nation.
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+2 best matches: sell, 5
+
+----------------
+sent_8:
+
+The industry has shifted away from exclusives with nearly every player pushing a universal device with multiple partners.
+Rather than creating software in the abstract, we work with hardware partners to build Nexus devices to help push the boundaries of what's possible."
+3 best matches: device, push, partner
+
+----------------
+sent_9:
+
+The Nexus 5 multi-carrier push is a far cry from the launch of the Nexus One, Google's first attempt to get into the phone business.
+The Nexus 7 is no longer available from Google's official online store.
+2 best matches: google's, nexus
+
+----------------
+sent_10:
+
+It was sold through its own store, which eventually shut down amid complaints of poor customer service.
+The Nexus 7 is no longer available from Google's official online store.
+1 best matches: store
+
+----------------
+sent_11:
+
+Subsequent Nexus phones had one or two carrier partners, but little carrier support.
+Rather than creating software in the abstract, we work with hardware partners to build Nexus devices to help push the boundaries of what's possible."
+2 best matches: nexus, partner
+
+----------------
+sent_12:
+
+That was one of the knocks on the older Nexus phones -- devices that were highly coveted by hardcore Android fans, but tough to get because of the select carrier support.
+That's why we've always introduced Nexus devices alongside our platform releases.
+2 best matches: nexus, device
+
+----------------
+sent_13:
+
+no story sentence best matches found
+
+----------------
+sent_14:
+
+The unlocked Nexus One would only work on AT&T or T-Mobile; the Nexus S was a Sprint exclusive; the Galaxy Nexus was available on Verizon Wireless -- with its Google Wallet capability stripped out -- and Sprint; and the Nexus 4 was only available through T-Mobile or unlocked.
+The Nexus 7 is no longer available from Google's official online store.
+2 best matches: available, nexus
+
+----------------
+sent_15:
+
+A Nexus fan would have to jump through some hoops if that person wanted to keep upgrading from one Nexus device to another.
+That's why we've always introduced Nexus devices alongside our platform releases.
+2 best matches: nexus, device
+
+----------------
+sent_16:
+
+The Nexus 5 at least attempts to solve some of that confusion by offering a nearly universal single device able to run on all bands supported by the big three carriers.
+That's why we've always introduced Nexus devices alongside our platform releases.
+2 best matches: nexus, device
+
+----------------
+sent_17:
+
+It will sell for the attractive unsubsidized price of $349, which comes with 16 gigabytes, and $399 for the 32GB version.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 best matches: price
+
+----------------
+sent_18:
+
+It is available today unlocked in 10 countries through Google Play.
+The Nexus 7 is no longer available from Google's official online store.
+1 best matches: available
+
+----------------
+sent_19:
+
+More importantly, the Nexus 5 will also sell in carrier stores.
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+3 best matches: sell, nexus, 5
+
+----------------
+sent_20:
+
+Despite Google's attempts to shift the smartphone retail paradigm toward its online model, most people still buy their smartphones in retail stores, and largely run by carriers.
+The Nexus 7 is no longer available from Google's official online store.
+3 best matches: online, store, google's
+
+----------------
+sent_21:
+
+Google maintained it had a strong relationship with Verizon, and hinted at projects that it was working on for next year.
+Rather than creating software in the abstract, we work with hardware partners to build Nexus devices to help push the boundaries of what's possible."
+1 best matches: work
+
+----------------
+sent_22:
+
+The Nexus 5 may not benefit from the same kind of marketing support that a Samsung will throw at the Galaxy Note 3 or Apple at the iPhone 5S, but it represents a step in the right direction.
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+2 best matches: nexus, 5
+
+----------------
+sent_23:
+
+Sprint, meanwhile, confirmed that it would subsidize the Nexus 5, bringing it down to $150 with a two-year contract (T-Mobile has eliminated subsidies).
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+3 best matches: confirm, nexus, 5
+
+----------------
+sent_24:
+
+The lower price could further entice buyers not normally familiar with the Nexus brand or not obsessed with the latest version of Android.
+The Nexus 7 won critical praise for its high build quality and low price.
+3 best matches: low, nexus, price
+
+----------------
+sent_25:
+
+Perennially a favorite of Android fans, the Nexus franchise could reach the kind of mainstream awareness that the Galaxy S and iPhone family enjoys.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 best matches: nexus
+
+----------------
+sent_26:
+
+no story sentence best matches found
+
+----------------

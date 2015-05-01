@@ -1,0 +1,2012 @@
+sent_1:
+1 out of 75 sentences
+1 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+U.S. stocks closed near highs on Thursday, with the Nasdaq at a record, as investors cheered corporate reports.
+2 default entities: GPE U.S., ORGANIZATION Nasdaq
+1 custom entities: ORGANIZATION Nasdaq
+
+Source Sentence and Source Headline Match:
+U.S. stocks closed near highs on Thursday, with the Nasdaq at a record, as investors cheered corporate reports.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+2 matches: nasdaq, record
+
+Source Sentence and Story Headline Match:
+U.S. stocks closed near highs on Thursday, with the Nasdaq at a record, as investors cheered corporate reports.
+Tech stocks push Nasdaq, S&P500 to record highs.
+4 matches: high, nasdaq, stock, record
+
+Source Sentence and Best Story Sentence Match:
+U.S. stocks closed near highs on Thursday, with the Nasdaq at a record, as investors cheered corporate reports.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+4 matches: high, nasdaq, close, record
+
+----------------
+
+sent_2:
+2 out of 75 sentences
+2 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nasdaq Composite outperformed the major indices to set a new, all-time closing record, topping the previous high of 5,048.62 set in March 2000.
+1 default entities: ORGANIZATION Nasdaq Composite
+1 custom entities: ORGANIZATION Nasdaq Composite
+
+Source Sentence and Source Headline Match:
+The Nasdaq Composite outperformed the major indices to set a new, all-time closing record, topping the previous high of 5,048.62 set in March 2000.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+3 matches: nasdaq, set, record
+
+Source Sentence and Story Headline Match:
+The Nasdaq Composite outperformed the major indices to set a new, all-time closing record, topping the previous high of 5,048.62 set in March 2000.
+Tech stocks push Nasdaq, S&P500 to record highs.
+3 matches: nasdaq, record, high
+
+Source Sentence and Best Story Sentence Match:
+The Nasdaq Composite outperformed the major indices to set a new, all-time closing record, topping the previous high of 5,048.62 set in March 2000.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+5 matches: nasdaq, composite, new, record, high
+
+----------------
+
+sent_3:
+3 out of 75 sentences
+3 out of 43 paragraphs
+Tagged as a quote
+
+Sentence:
+"Earnings for the most part have come in better than expected," said Ryan Larson, head of U.S. equity trading for RBC Global Asset Management (U.S.).
+4 default entities: PERSON Ryan Larson, GPE U.S., ORGANIZATION RBC Global Asset Management, GPE U.S.
+2 custom entities: PERSON Ryan Larson, ORGANIZATION RBC Global Asset
+
+Source Sentence and Source Headline Match:
+"Earnings for the most part have come in better than expected," said Ryan Larson, head of U.S. equity trading for RBC Global Asset Management (U.S.).
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"Earnings for the most part have come in better than expected," said Ryan Larson, head of U.S. equity trading for RBC Global Asset Management (U.S.).
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"Earnings for the most part have come in better than expected," said Ryan Larson, head of U.S. equity trading for RBC Global Asset Management (U.S.).
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+1 matches: earnings
+
+----------------
+
+sent_4:
+4 out of 75 sentences
+3 out of 43 paragraphs
+Tagged as a quote
+
+Sentence:
+Despite headwinds from the strong dollar and low oil prices, companies have mostly delivered on expectations, which "has led credence to the U.S. market that we're able to move higher from here."
+1 default entities: GPE U.S.
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Despite headwinds from the strong dollar and low oil prices, companies have mostly delivered on expectations, which "has led credence to the U.S. market that we're able to move higher from here."
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Despite headwinds from the strong dollar and low oil prices, companies have mostly delivered on expectations, which "has led credence to the U.S. market that we're able to move higher from here."
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: high
+
+Source Sentence and Best Story Sentence Match:
+Despite headwinds from the strong dollar and low oil prices, companies have mostly delivered on expectations, which "has led credence to the U.S. market that we're able to move higher from here."
+The Nasdaq has had two consecutive days of record highs.
+1 matches: high
+
+----------------
+
+sent_5:
+5 out of 75 sentences
+4 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The economic data also points to moderate growth that supports gradual normalization by the Federal Reserve, Larson said.
+2 default entities: ORGANIZATION Federal Reserve, PERSON Larson
+2 custom entities: ORGANIZATION Federal Reserve, PERSON Larson
+
+Source Sentence and Source Headline Match:
+The economic data also points to moderate growth that supports gradual normalization by the Federal Reserve, Larson said.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The economic data also points to moderate growth that supports gradual normalization by the Federal Reserve, Larson said.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The economic data also points to moderate growth that supports gradual normalization by the Federal Reserve, Larson said.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+1 matches: point
+
+----------------
+
+sent_6:
+6 out of 75 sentences
+4 out of 43 paragraphs
+Tagged as a quote
+
+Sentence:
+"That continues to lend credence back into the U.S. market for stocks."
+1 default entities: GPE U.S.
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"That continues to lend credence back into the U.S. market for stocks."
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"That continues to lend credence back into the U.S. market for stocks."
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: stock
+
+Source Sentence and Best Story Sentence Match:
+"That continues to lend credence back into the U.S. market for stocks."
+The index lagged behind the Nasdaq and S&P500 due to poor performances from some of its heavier weighted stocks.
+1 matches: stock
+
+----------------
+
+sent_7:
+7 out of 75 sentences
+5 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The S&P 500 closed up 4.97 points, or 0.24 percent, at 2,112.93, with telecommunications leading eight sectors higher and consumer staples and industrials the only two lagging sectors.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The S&P 500 closed up 4.97 points, or 0.24 percent, at 2,112.93, with telecommunications leading eight sectors higher and consumer staples and industrials the only two lagging sectors.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The S&P 500 closed up 4.97 points, or 0.24 percent, at 2,112.93, with telecommunications leading eight sectors higher and consumer staples and industrials the only two lagging sectors.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: high
+
+Source Sentence and Best Story Sentence Match:
+The S&P 500 closed up 4.97 points, or 0.24 percent, at 2,112.93, with telecommunications leading eight sectors higher and consumer staples and industrials the only two lagging sectors.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+3 matches: point, close, high
+
+----------------
+
+sent_8:
+8 out of 75 sentences
+5 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Earlier, the index briefly gained to above its intraday record of 2,119.59, after earlier topping its record close of 2,117.39 set in March.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Earlier, the index briefly gained to above its intraday record of 2,119.59, after earlier topping its record close of 2,117.39 set in March.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+2 matches: set, record
+
+Source Sentence and Story Headline Match:
+Earlier, the index briefly gained to above its intraday record of 2,119.59, after earlier topping its record close of 2,117.39 set in March.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: record
+
+Source Sentence and Best Story Sentence Match:
+Earlier, the index briefly gained to above its intraday record of 2,119.59, after earlier topping its record close of 2,117.39 set in March.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+2 matches: close, record
+
+----------------
+
+sent_9:
+9 out of 75 sentences
+6 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Dow Jones industrial average closed up 20.42 points, or 0.11 percent, or 18,058.69, with IBM leading advancers and 3M the greatest laggard.
+2 default entities: ORGANIZATION Dow Jones, ORGANIZATION IBM
+2 custom entities: ORGANIZATION Dow Jones, ORGANIZATION IBM
+
+Source Sentence and Source Headline Match:
+The Dow Jones industrial average closed up 20.42 points, or 0.11 percent, or 18,058.69, with IBM leading advancers and 3M the greatest laggard.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+1 matches: ibm
+
+Source Sentence and Story Headline Match:
+The Dow Jones industrial average closed up 20.42 points, or 0.11 percent, or 18,058.69, with IBM leading advancers and 3M the greatest laggard.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The Dow Jones industrial average closed up 20.42 points, or 0.11 percent, or 18,058.69, with IBM leading advancers and 3M the greatest laggard.
+The Dow Jones Industrial Average added 21 points and closed at 18,080.
+6 matches: close, average, dow, point, industrial, jones
+
+----------------
+
+sent_10:
+10 out of 75 sentences
+6 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The blue chip index came within 1 percent of its record close in intraday trade before paring gains.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The blue chip index came within 1 percent of its record close in intraday trade before paring gains.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+1 matches: record
+
+Source Sentence and Story Headline Match:
+The blue chip index came within 1 percent of its record close in intraday trade before paring gains.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: record
+
+Source Sentence and Best Story Sentence Match:
+The blue chip index came within 1 percent of its record close in intraday trade before paring gains.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+2 matches: close, record
+
+----------------
+
+sent_11:
+11 out of 75 sentences
+7 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nasdaq closed up 20.89 points, or 0.41 percent, at 5,056.06.
+1 default entities: ORGANIZATION Nasdaq
+1 custom entities: ORGANIZATION Nasdaq
+
+Source Sentence and Source Headline Match:
+The Nasdaq closed up 20.89 points, or 0.41 percent, at 5,056.06.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+1 matches: nasdaq
+
+Source Sentence and Story Headline Match:
+The Nasdaq closed up 20.89 points, or 0.41 percent, at 5,056.06.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: nasdaq
+
+Source Sentence and Best Story Sentence Match:
+The Nasdaq closed up 20.89 points, or 0.41 percent, at 5,056.06.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+3 matches: nasdaq, point, close
+
+----------------
+
+sent_12:
+12 out of 75 sentences
+8 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Apple closed up nearly 1 percent to lead the Nasdaq higher ahead of the release of the Apple Watch on Friday.
+3 default entities: PERSON Apple, ORGANIZATION Nasdaq, ORGANIZATION Apple Watch
+3 custom entities: PERSON Apple, ORGANIZATION Nasdaq, ORGANIZATION Apple Watch
+
+Source Sentence and Source Headline Match:
+Apple closed up nearly 1 percent to lead the Nasdaq higher ahead of the release of the Apple Watch on Friday.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+2 matches: nearly, nasdaq
+
+Source Sentence and Story Headline Match:
+Apple closed up nearly 1 percent to lead the Nasdaq higher ahead of the release of the Apple Watch on Friday.
+Tech stocks push Nasdaq, S&P500 to record highs.
+2 matches: nasdaq, high
+
+Source Sentence and Best Story Sentence Match:
+Apple closed up nearly 1 percent to lead the Nasdaq higher ahead of the release of the Apple Watch on Friday.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+3 matches: nasdaq, close, high
+
+----------------
+
+sent_13:
+13 out of 75 sentences
+8 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The iPhone maker also posts quarterly results on Monday after the bell.
+1 default entities: ORGANIZATION iPhone
+1 custom entities: ORGANIZATION iPhone
+
+Source Sentence and Source Headline Match:
+The iPhone maker also posts quarterly results on Monday after the bell.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The iPhone maker also posts quarterly results on Monday after the bell.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_14:
+14 out of 75 sentences
+9 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Nasdaq iShares biotechnology ETF (IBB) gained more than 1 percent in another boost to the Nasdaq.
+4 default entities: ORGANIZATION Nasdaq, ORGANIZATION ETF, ORGANIZATION IBB, ORGANIZATION Nasdaq
+3 custom entities: ORGANIZATION Nasdaq, ORGANIZATION ETF, ORGANIZATION Nasdaq
+
+Source Sentence and Source Headline Match:
+The Nasdaq iShares biotechnology ETF (IBB) gained more than 1 percent in another boost to the Nasdaq.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+1 matches: nasdaq
+
+Source Sentence and Story Headline Match:
+The Nasdaq iShares biotechnology ETF (IBB) gained more than 1 percent in another boost to the Nasdaq.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: nasdaq
+
+Source Sentence and Best Story Sentence Match:
+The Nasdaq iShares biotechnology ETF (IBB) gained more than 1 percent in another boost to the Nasdaq.
+The Nasdaq has had two consecutive days of record highs.
+1 matches: nasdaq
+
+----------------
+
+sent_15:
+15 out of 75 sentences
+10 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Comcast shares spiked to a new intraday high on reports the firm could drop its bid for Time Warner Cable as early as Friday.
+2 default entities: GPE Comcast, ORGANIZATION Time Warner Cable
+2 custom entities: GPE Comcast, ORGANIZATION Time Warner Cable
+
+Source Sentence and Source Headline Match:
+Comcast shares spiked to a new intraday high on reports the firm could drop its bid for Time Warner Cable as early as Friday.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+1 matches: time
+
+Source Sentence and Story Headline Match:
+Comcast shares spiked to a new intraday high on reports the firm could drop its bid for Time Warner Cable as early as Friday.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: high
+
+Source Sentence and Best Story Sentence Match:
+Comcast shares spiked to a new intraday high on reports the firm could drop its bid for Time Warner Cable as early as Friday.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+2 matches: new, high
+
+----------------
+
+sent_16:
+16 out of 75 sentences
+10 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Other media stocks also moved on the news.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Other media stocks also moved on the news.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Other media stocks also moved on the news.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: stock
+
+Source Sentence and Best Story Sentence Match:
+Other media stocks also moved on the news.
+The index lagged behind the Nasdaq and S&P500 due to poor performances from some of its heavier weighted stocks.
+1 matches: stock
+
+----------------
+
+sent_17:
+17 out of 75 sentences
+11 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Leading the blue chips, IBM closed up 2.95 percent after spiking more than 3.5 percent on positive follow-through from its earnings report on Monday.
+1 default entities: ORGANIZATION IBM
+1 custom entities: ORGANIZATION IBM
+
+Source Sentence and Source Headline Match:
+Leading the blue chips, IBM closed up 2.95 percent after spiking more than 3.5 percent on positive follow-through from its earnings report on Monday.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+1 matches: ibm
+
+Source Sentence and Story Headline Match:
+Leading the blue chips, IBM closed up 2.95 percent after spiking more than 3.5 percent on positive follow-through from its earnings report on Monday.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Leading the blue chips, IBM closed up 2.95 percent after spiking more than 3.5 percent on positive follow-through from its earnings report on Monday.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+3 matches: report, earnings, positive
+
+----------------
+
+sent_18:
+18 out of 75 sentences
+11 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Overall revenue fell 12 percent in a continuing downward trend, but sales in the cloud and analytics segments rose 60 and 12 percent year over year, respectively.
+1 default entities: GPE Overall
+1 custom entities: GPE Overall
+
+Source Sentence and Source Headline Match:
+Overall revenue fell 12 percent in a continuing downward trend, but sales in the cloud and analytics segments rose 60 and 12 percent year over year, respectively.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+1 matches: year
+
+Source Sentence and Story Headline Match:
+Overall revenue fell 12 percent in a continuing downward trend, but sales in the cloud and analytics segments rose 60 and 12 percent year over year, respectively.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_19:
+19 out of 75 sentences
+12 out of 43 paragraphs
+Tagged as a quote
+
+Sentence:
+Investors are "looking at it as a company that's turning around and showing some progress as it's turning around," said Paul Nolte, portfolio manager at Kingsview Asset Management.
+2 default entities: PERSON Paul Nolte, ORGANIZATION Kingsview Asset Management
+2 custom entities: PERSON Paul Nolte, ORGANIZATION Kingsview Asset
+
+Source Sentence and Source Headline Match:
+Investors are "looking at it as a company that's turning around and showing some progress as it's turning around," said Paul Nolte, portfolio manager at Kingsview Asset Management.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Investors are "looking at it as a company that's turning around and showing some progress as it's turning around," said Paul Nolte, portfolio manager at Kingsview Asset Management.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_20:
+20 out of 75 sentences
+13 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In the S&P 500, AT&T jumped more than 4 percent after reporting earnings after the close Wednesday that beat estimates on revenue that came in slightly below expectations.
+1 default entities: ORGANIZATION AT
+1 custom entities: ORGANIZATION AT&T
+
+Source Sentence and Source Headline Match:
+In the S&P 500, AT&T jumped more than 4 percent after reporting earnings after the close Wednesday that beat estimates on revenue that came in slightly below expectations.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+In the S&P 500, AT&T jumped more than 4 percent after reporting earnings after the close Wednesday that beat estimates on revenue that came in slightly below expectations.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+In the S&P 500, AT&T jumped more than 4 percent after reporting earnings after the close Wednesday that beat estimates on revenue that came in slightly below expectations.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+2 matches: report, earnings
+
+----------------
+
+sent_21:
+21 out of 75 sentences
+13 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The telecommunications firm said subscribers switched to other networks at a lower rate.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The telecommunications firm said subscribers switched to other networks at a lower rate.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The telecommunications firm said subscribers switched to other networks at a lower rate.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_22:
+22 out of 75 sentences
+13 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The company also launched a $17.5 billion six-tranche bond to finance its acquisition of DirecTV.
+1 default entities: ORGANIZATION DirecTV
+1 custom entities: ORGANIZATION DirecTV
+
+Source Sentence and Source Headline Match:
+The company also launched a $17.5 billion six-tranche bond to finance its acquisition of DirecTV.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The company also launched a $17.5 billion six-tranche bond to finance its acquisition of DirecTV.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_23:
+23 out of 75 sentences
+14 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Corporate news and the highest settlement in crude for 2015 sent telecommunications and energy higher to trade among the advancers in the S&P 500.
+1 default entities: ORGANIZATION Corporate
+1 custom entities: ORGANIZATION Corporate
+
+Source Sentence and Source Headline Match:
+Corporate news and the highest settlement in crude for 2015 sent telecommunications and energy higher to trade among the advancers in the S&P 500.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Corporate news and the highest settlement in crude for 2015 sent telecommunications and energy higher to trade among the advancers in the S&P 500.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: high
+
+Source Sentence and Best Story Sentence Match:
+Corporate news and the highest settlement in crude for 2015 sent telecommunications and energy higher to trade among the advancers in the S&P 500.
+The Nasdaq has had two consecutive days of record highs.
+1 matches: high
+
+----------------
+
+sent_24:
+24 out of 75 sentences
+15 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Earlier, stocks traded mildly lower, following a negative lead from index futures.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Earlier, stocks traded mildly lower, following a negative lead from index futures.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Earlier, stocks traded mildly lower, following a negative lead from index futures.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: stock
+
+Source Sentence and Best Story Sentence Match:
+Earlier, stocks traded mildly lower, following a negative lead from index futures.
+The index lagged behind the Nasdaq and S&P500 due to poor performances from some of its heavier weighted stocks.
+2 matches: index, stock
+
+----------------
+
+sent_25:
+25 out of 75 sentences
+16 out of 43 paragraphs
+Tagged as a quote
+
+Sentence:
+"I think the market, in the absence of anything, is trading off technicals," said Mark Luschini, chief investment strategist at Janney Montgomery Scott.
+2 default entities: PERSON Mark Luschini, ORGANIZATION Janney Montgomery Scott
+2 custom entities: PERSON Mark Luschini, ORGANIZATION Janney Montgomery Scott
+
+Source Sentence and Source Headline Match:
+"I think the market, in the absence of anything, is trading off technicals," said Mark Luschini, chief investment strategist at Janney Montgomery Scott.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"I think the market, in the absence of anything, is trading off technicals," said Mark Luschini, chief investment strategist at Janney Montgomery Scott.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_26:
+26 out of 75 sentences
+16 out of 43 paragraphs
+Tagged as a quote
+
+Sentence:
+"The market I think is looking at the various technical levels and is looking at whether it is going to break up or break down.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"The market I think is looking at the various technical levels and is looking at whether it is going to break up or break down.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"The market I think is looking at the various technical levels and is looking at whether it is going to break up or break down.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_27:
+27 out of 75 sentences
+16 out of 43 paragraphs
+Tagged as a quote
+
+Sentence:
+It seems to want to go higher but every time it reaches the 2,108 level it breaks down."
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It seems to want to go higher but every time it reaches the 2,108 level it breaks down."
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+1 matches: time
+
+Source Sentence and Story Headline Match:
+It seems to want to go higher but every time it reaches the 2,108 level it breaks down."
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: high
+
+Source Sentence and Best Story Sentence Match:
+It seems to want to go higher but every time it reaches the 2,108 level it breaks down."
+The Nasdaq has had two consecutive days of record highs.
+1 matches: high
+
+----------------
+
+sent_28:
+28 out of 75 sentences
+17 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Katie Stockton, chief technical strategist at BTIG, said in a note that "we expect upside follow-through in the days ahead to allow the SPX to break out from its triangle formation to a new all-time high.
+3 default entities: PERSON Katie Stockton, ORGANIZATION BTIG, ORGANIZATION SPX
+4 custom entities: PERSON Katie, ORGANIZATION Stockton, ORGANIZATION BTIG, ORGANIZATION SPX
+
+Source Sentence and Source Headline Match:
+Katie Stockton, chief technical strategist at BTIG, said in a note that "we expect upside follow-through in the days ahead to allow the SPX to break out from its triangle formation to a new all-time high.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Katie Stockton, chief technical strategist at BTIG, said in a note that "we expect upside follow-through in the days ahead to allow the SPX to break out from its triangle formation to a new all-time high.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: high
+
+Source Sentence and Best Story Sentence Match:
+Katie Stockton, chief technical strategist at BTIG, said in a note that "we expect upside follow-through in the days ahead to allow the SPX to break out from its triangle formation to a new all-time high.
+The Nasdaq has had two consecutive days of record highs.
+2 matches: day, high
+
+----------------
+
+sent_29:
+29 out of 75 sentences
+17 out of 43 paragraphs
+Tagged as a quote
+
+Sentence:
+So far, earnings season is driving more breakouts on the charts than breakdowns, so we think it is only a matter of time before this is reflected by the major indices."
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+So far, earnings season is driving more breakouts on the charts than breakdowns, so we think it is only a matter of time before this is reflected by the major indices."
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+1 matches: time
+
+Source Sentence and Story Headline Match:
+So far, earnings season is driving more breakouts on the charts than breakdowns, so we think it is only a matter of time before this is reflected by the major indices."
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+So far, earnings season is driving more breakouts on the charts than breakdowns, so we think it is only a matter of time before this is reflected by the major indices."
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+2 matches: index, earnings
+
+----------------
+
+sent_30:
+30 out of 75 sentences
+18 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+On Wednesday, the Nasdaq closed up within 15 points of its all-time closing high of 5,048.62.
+1 default entities: ORGANIZATION Nasdaq
+1 custom entities: ORGANIZATION Nasdaq
+
+Source Sentence and Source Headline Match:
+On Wednesday, the Nasdaq closed up within 15 points of its all-time closing high of 5,048.62.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+2 matches: 15, nasdaq
+
+Source Sentence and Story Headline Match:
+On Wednesday, the Nasdaq closed up within 15 points of its all-time closing high of 5,048.62.
+Tech stocks push Nasdaq, S&P500 to record highs.
+2 matches: nasdaq, high
+
+Source Sentence and Best Story Sentence Match:
+On Wednesday, the Nasdaq closed up within 15 points of its all-time closing high of 5,048.62.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+4 matches: nasdaq, point, close, high
+
+----------------
+
+sent_31:
+31 out of 75 sentences
+18 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The S&P 500 closed within 10 points of its closing high of 2,117.39.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The S&P 500 closed within 10 points of its closing high of 2,117.39.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The S&P 500 closed within 10 points of its closing high of 2,117.39.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: high
+
+Source Sentence and Best Story Sentence Match:
+The S&P 500 closed within 10 points of its closing high of 2,117.39.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+3 matches: point, close, high
+
+----------------
+
+sent_32:
+32 out of 75 sentences
+19 out of 43 paragraphs
+Tagged as a quote
+
+Sentence:
+"I think we're in a period of consolidation," said Terry Sandven, chief equity strategist at U.S. Bank Wealth Management.
+2 default entities: PERSON Terry Sandven, ORGANIZATION U.S. Bank Wealth Management
+2 custom entities: PERSON Terry Sandven, ORGANIZATION U.S Bank Wealth
+
+Source Sentence and Source Headline Match:
+"I think we're in a period of consolidation," said Terry Sandven, chief equity strategist at U.S. Bank Wealth Management.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"I think we're in a period of consolidation," said Terry Sandven, chief equity strategist at U.S. Bank Wealth Management.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_33:
+33 out of 75 sentences
+19 out of 43 paragraphs
+Tagged as a quote
+
+Sentence:
+"Equities have been grinding higher.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"Equities have been grinding higher.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"Equities have been grinding higher.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: high
+
+Source Sentence and Best Story Sentence Match:
+"Equities have been grinding higher.
+The Nasdaq has had two consecutive days of record highs.
+1 matches: high
+
+----------------
+
+sent_34:
+34 out of 75 sentences
+19 out of 43 paragraphs
+Tagged as a quote
+
+Sentence:
+Companies are looking for clarity into whether or not earnings have been set too low."
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Companies are looking for clarity into whether or not earnings have been set too low."
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+1 matches: set
+
+Source Sentence and Story Headline Match:
+Companies are looking for clarity into whether or not earnings have been set too low."
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Companies are looking for clarity into whether or not earnings have been set too low."
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+1 matches: earnings
+
+----------------
+
+sent_35:
+35 out of 75 sentences
+20 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Among the slew of industrial earnings reports before the bell, Caterpillar surprised analysts by beating expectations on both earnings per share and revenue.
+1 default entities: PERSON Caterpillar
+1 custom entities: PERSON Caterpillar
+
+Source Sentence and Source Headline Match:
+Among the slew of industrial earnings reports before the bell, Caterpillar surprised analysts by beating expectations on both earnings per share and revenue.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Among the slew of industrial earnings reports before the bell, Caterpillar surprised analysts by beating expectations on both earnings per share and revenue.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Among the slew of industrial earnings reports before the bell, Caterpillar surprised analysts by beating expectations on both earnings per share and revenue.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+2 matches: report, earnings
+
+----------------
+
+sent_36:
+36 out of 75 sentences
+20 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The stock spiked 1.5 percent in morning trade.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The stock spiked 1.5 percent in morning trade.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The stock spiked 1.5 percent in morning trade.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: stock
+
+Source Sentence and Best Story Sentence Match:
+The stock spiked 1.5 percent in morning trade.
+The index lagged behind the Nasdaq and S&P500 due to poor performances from some of its heavier weighted stocks.
+1 matches: stock
+
+----------------
+
+sent_37:
+37 out of 75 sentences
+21 out of 43 paragraphs
+Tagged as a quote
+
+Sentence:
+CEO Doug Oberhelman said on CNBC's "Squawk Box" that the United States was a bright spot in terms of construction growth.
+4 default entities: PERSON Doug Oberhelman, ORGANIZATION CNBC, PERSON Squawk Box, GPE United States
+3 custom entities: PERSON Doug Oberhelman, PERSON Squawk Box, GPE United States
+
+Source Sentence and Source Headline Match:
+CEO Doug Oberhelman said on CNBC's "Squawk Box" that the United States was a bright spot in terms of construction growth.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+CEO Doug Oberhelman said on CNBC's "Squawk Box" that the United States was a bright spot in terms of construction growth.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_38:
+38 out of 75 sentences
+21 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+However, he said investors should not expect a repeat of this quarter.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+However, he said investors should not expect a repeat of this quarter.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+However, he said investors should not expect a repeat of this quarter.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_39:
+39 out of 75 sentences
+21 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The firm raised its earnings forecast while maintaining its revenue outlook.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The firm raised its earnings forecast while maintaining its revenue outlook.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The firm raised its earnings forecast while maintaining its revenue outlook.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The firm raised its earnings forecast while maintaining its revenue outlook.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+1 matches: earnings
+
+----------------
+
+sent_40:
+40 out of 75 sentences
+22 out of 43 paragraphs
+Tagged as a quote
+
+Sentence:
+"I don't extrapolate anything out of Caterpillar," said Peter Boockvar, chief market analyst at The Lindsey Group, noting negative reports from other industrials.
+3 default entities: GPE Caterpillar, PERSON Peter Boockvar, FACILITY The Lindsey Group
+3 custom entities: PERSON Caterpillar, PERSON Peter Boockvar, FACILITY The Lindsey Group
+
+Source Sentence and Source Headline Match:
+"I don't extrapolate anything out of Caterpillar," said Peter Boockvar, chief market analyst at The Lindsey Group, noting negative reports from other industrials.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"I don't extrapolate anything out of Caterpillar," said Peter Boockvar, chief market analyst at The Lindsey Group, noting negative reports from other industrials.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"I don't extrapolate anything out of Caterpillar," said Peter Boockvar, chief market analyst at The Lindsey Group, noting negative reports from other industrials.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+1 matches: report
+
+----------------
+
+sent_41:
+41 out of 75 sentences
+22 out of 43 paragraphs
+Tagged as a quote
+
+Sentence:
+"Not one of them is going to drive the market.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"Not one of them is going to drive the market.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"Not one of them is going to drive the market.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_42:
+42 out of 75 sentences
+22 out of 43 paragraphs
+Tagged as a quote
+
+Sentence:
+...
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+...
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+...
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_43:
+43 out of 75 sentences
+22 out of 43 paragraphs
+Tagged as a quote
+
+Sentence:
+It's very much a mixed bag.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It's very much a mixed bag.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It's very much a mixed bag.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_44:
+44 out of 75 sentences
+22 out of 43 paragraphs
+Tagged as a quote
+
+Sentence:
+The market is looking for direction and we may have to wait until next week's Fed meeting."
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The market is looking for direction and we may have to wait until next week's Fed meeting."
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The market is looking for direction and we may have to wait until next week's Fed meeting."
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_45:
+45 out of 75 sentences
+23 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Federal Reserve meets next Tuesday and Wednesday but will not hold a press conference.
+1 default entities: ORGANIZATION Federal Reserve
+1 custom entities: ORGANIZATION Federal Reserve
+
+Source Sentence and Source Headline Match:
+The Federal Reserve meets next Tuesday and Wednesday but will not hold a press conference.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Federal Reserve meets next Tuesday and Wednesday but will not hold a press conference.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_46:
+46 out of 75 sentences
+24 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Dunkin' Brands jumped more than 8.5 percent after the firm reported better-than-expected first-quarter revenue and profit.
+2 default entities: PERSON Dunkin, PERSON Brands
+2 custom entities: PERSON Dunkin, PERSON Brands
+
+Source Sentence and Source Headline Match:
+Dunkin' Brands jumped more than 8.5 percent after the firm reported better-than-expected first-quarter revenue and profit.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Dunkin' Brands jumped more than 8.5 percent after the firm reported better-than-expected first-quarter revenue and profit.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Dunkin' Brands jumped more than 8.5 percent after the firm reported better-than-expected first-quarter revenue and profit.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+1 matches: report
+
+----------------
+
+sent_47:
+47 out of 75 sentences
+25 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+3M fell more than 3 percent after reporting earnings that missed expectations on both the top and bottom line.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+3M fell more than 3 percent after reporting earnings that missed expectations on both the top and bottom line.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+1 matches: 3
+
+Source Sentence and Story Headline Match:
+3M fell more than 3 percent after reporting earnings that missed expectations on both the top and bottom line.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+3M fell more than 3 percent after reporting earnings that missed expectations on both the top and bottom line.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+2 matches: report, earnings
+
+----------------
+
+sent_48:
+48 out of 75 sentences
+25 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The company cited the impact of the strong dollar and cut its profit forecast for the year.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The company cited the impact of the strong dollar and cut its profit forecast for the year.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+1 matches: year
+
+Source Sentence and Story Headline Match:
+The company cited the impact of the strong dollar and cut its profit forecast for the year.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_49:
+49 out of 75 sentences
+26 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+General Motors closed down 3.3 percent after the firm delivered quarterly profit and revenue that missed expectations.
+2 default entities: ORGANIZATION General, PERSON Motors
+2 custom entities: ORGANIZATION General, PERSON Motors
+
+Source Sentence and Source Headline Match:
+General Motors closed down 3.3 percent after the firm delivered quarterly profit and revenue that missed expectations.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+General Motors closed down 3.3 percent after the firm delivered quarterly profit and revenue that missed expectations.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+General Motors closed down 3.3 percent after the firm delivered quarterly profit and revenue that missed expectations.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+1 matches: close
+
+----------------
+
+sent_50:
+50 out of 75 sentences
+26 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Weaker volume in Brazil and Russia hurt sales, as well as the impact of weakening currencies in South America due to the strong U.S. dollar.
+5 default entities: GPE Weaker, GPE Brazil, GPE Russia, GPE South America, GPE U.S.
+4 custom entities: GPE Weaker, GPE Brazil, GPE Russia, GPE South America
+
+Source Sentence and Source Headline Match:
+Weaker volume in Brazil and Russia hurt sales, as well as the impact of weakening currencies in South America due to the strong U.S. dollar.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Weaker volume in Brazil and Russia hurt sales, as well as the impact of weakening currencies in South America due to the strong U.S. dollar.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Weaker volume in Brazil and Russia hurt sales, as well as the impact of weakening currencies in South America due to the strong U.S. dollar.
+The index lagged behind the Nasdaq and S&P500 due to poor performances from some of its heavier weighted stocks.
+1 matches: due
+
+----------------
+
+sent_51:
+51 out of 75 sentences
+27 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+PepsiCo closed down about 1.6 percent after reporting a revenue decline of 3.2 percent to $12.22 billion in the first quarter ended March 21, from $12.62 billion a year earlier, largely due to a strong dollar.
+1 default entities: ORGANIZATION PepsiCo
+1 custom entities: ORGANIZATION PepsiCo
+
+Source Sentence and Source Headline Match:
+PepsiCo closed down about 1.6 percent after reporting a revenue decline of 3.2 percent to $12.22 billion in the first quarter ended March 21, from $12.62 billion a year earlier, largely due to a strong dollar.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+2 matches: year, first
+
+Source Sentence and Story Headline Match:
+PepsiCo closed down about 1.6 percent after reporting a revenue decline of 3.2 percent to $12.22 billion in the first quarter ended March 21, from $12.62 billion a year earlier, largely due to a strong dollar.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+PepsiCo closed down about 1.6 percent after reporting a revenue decline of 3.2 percent to $12.22 billion in the first quarter ended March 21, from $12.62 billion a year earlier, largely due to a strong dollar.
+The Dow Jones Industrial Average added 21 points and closed at 18,080.
+2 matches: close, 21
+
+----------------
+
+sent_52:
+52 out of 75 sentences
+27 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+However, quarterly earnings topped analysts' expectations.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+However, quarterly earnings topped analysts' expectations.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+However, quarterly earnings topped analysts' expectations.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+However, quarterly earnings topped analysts' expectations.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+1 matches: earnings
+
+----------------
+
+sent_53:
+53 out of 75 sentences
+28 out of 43 paragraphs
+Tagged as a quote
+
+Sentence:
+"Eventually, missing revenues and the increased warnings outlook from major companies, I think it eventually will affect stocks," said Peter Cardillo, chief market economist at Rockwell Global Capital.
+2 default entities: PERSON Peter Cardillo, ORGANIZATION Rockwell Global Capital
+2 custom entities: PERSON Peter Cardillo, ORGANIZATION Rockwell Global Capital
+
+Source Sentence and Source Headline Match:
+"Eventually, missing revenues and the increased warnings outlook from major companies, I think it eventually will affect stocks," said Peter Cardillo, chief market economist at Rockwell Global Capital.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"Eventually, missing revenues and the increased warnings outlook from major companies, I think it eventually will affect stocks," said Peter Cardillo, chief market economist at Rockwell Global Capital.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: stock
+
+Source Sentence and Best Story Sentence Match:
+"Eventually, missing revenues and the increased warnings outlook from major companies, I think it eventually will affect stocks," said Peter Cardillo, chief market economist at Rockwell Global Capital.
+The index lagged behind the Nasdaq and S&P500 due to poor performances from some of its heavier weighted stocks.
+1 matches: stock
+
+----------------
+
+sent_54:
+54 out of 75 sentences
+28 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He expects stocks to eventually move lower.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+He expects stocks to eventually move lower.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+He expects stocks to eventually move lower.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: stock
+
+Source Sentence and Best Story Sentence Match:
+He expects stocks to eventually move lower.
+The index lagged behind the Nasdaq and S&P500 due to poor performances from some of its heavier weighted stocks.
+1 matches: stock
+
+----------------
+
+sent_55:
+55 out of 75 sentences
+29 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+After the market close, Amazon.com, Google, Microsoft, Starbucks, Capital One are all due.
+5 default entities: ORGANIZATION Amazon.com, GPE Google, PERSON Microsoft, PERSON Starbucks, ORGANIZATION Capital
+1 custom entities: PERSON Google Microsoft Starbucks
+
+Source Sentence and Source Headline Match:
+After the market close, Amazon.com, Google, Microsoft, Starbucks, Capital One are all due.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+After the market close, Amazon.com, Google, Microsoft, Starbucks, Capital One are all due.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+After the market close, Amazon.com, Google, Microsoft, Starbucks, Capital One are all due.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+2 matches: google, microsoft
+
+----------------
+
+sent_56:
+56 out of 75 sentences
+30 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The CBOE Volatility Index (VIX), widely considered the best gauge of fear in the market, traded near 12.
+2 default entities: ORGANIZATION CBOE Volatility Index, ORGANIZATION VIX
+1 custom entities: ORGANIZATION CBOE Volatility Index
+
+Source Sentence and Source Headline Match:
+The CBOE Volatility Index (VIX), widely considered the best gauge of fear in the market, traded near 12.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The CBOE Volatility Index (VIX), widely considered the best gauge of fear in the market, traded near 12.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The CBOE Volatility Index (VIX), widely considered the best gauge of fear in the market, traded near 12.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+1 matches: index
+
+----------------
+
+sent_57:
+57 out of 75 sentences
+31 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+About two stocks advanced for every decliner on the New York Stock Exchange, with an exchange volume of 797 million and a composite volume of 3.6 billion in the close.
+1 default entities: GPE New York
+1 custom entities: GPE New York
+
+Source Sentence and Source Headline Match:
+About two stocks advanced for every decliner on the New York Stock Exchange, with an exchange volume of 797 million and a composite volume of 3.6 billion in the close.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+About two stocks advanced for every decliner on the New York Stock Exchange, with an exchange volume of 797 million and a composite volume of 3.6 billion in the close.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: stock
+
+Source Sentence and Best Story Sentence Match:
+About two stocks advanced for every decliner on the New York Stock Exchange, with an exchange volume of 797 million and a composite volume of 3.6 billion in the close.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+3 matches: composite, new, close
+
+----------------
+
+sent_58:
+58 out of 75 sentences
+32 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Crude oil futures settled up $1.58, or 2.81 percent, at $57.74 a barrel on the New York Mercantile Exchange.
+2 default entities: GPE Crude, GPE New York
+2 custom entities: GPE Crude, GPE New York
+
+Source Sentence and Source Headline Match:
+Crude oil futures settled up $1.58, or 2.81 percent, at $57.74 a barrel on the New York Mercantile Exchange.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Crude oil futures settled up $1.58, or 2.81 percent, at $57.74 a barrel on the New York Mercantile Exchange.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Crude oil futures settled up $1.58, or 2.81 percent, at $57.74 a barrel on the New York Mercantile Exchange.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+1 matches: new
+
+----------------
+
+sent_59:
+59 out of 75 sentences
+32 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Gold futures ended up $7.40 at $1,194.30 an ounce.
+1 default entities: GPE Gold
+1 custom entities: GPE Gold
+
+Source Sentence and Source Headline Match:
+Gold futures ended up $7.40 at $1,194.30 an ounce.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Gold futures ended up $7.40 at $1,194.30 an ounce.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_60:
+60 out of 75 sentences
+33 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The U.S. 10-year Treasury yield fell to trade near 1.94 percent.
+2 default entities: GPE U.S., ORGANIZATION Treasury
+1 custom entities: ORGANIZATION Treasury
+
+Source Sentence and Source Headline Match:
+The U.S. 10-year Treasury yield fell to trade near 1.94 percent.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The U.S. 10-year Treasury yield fell to trade near 1.94 percent.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_61:
+61 out of 75 sentences
+33 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The U.S. dollar fell more than half a percent, with the euro near $1.08.
+1 default entities: GPE U.S.
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The U.S. dollar fell more than half a percent, with the euro near $1.08.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The U.S. dollar fell more than half a percent, with the euro near $1.08.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_62:
+62 out of 75 sentences
+34 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+New home sales for March came in weaker than expected, at 481,000 in March, versus the 510,000 unitestimate.
+3 default entities: GPE New, PERSON March, GPE March
+2 custom entities: GPE New, PERSON March
+
+Source Sentence and Source Headline Match:
+New home sales for March came in weaker than expected, at 481,000 in March, versus the 510,000 unitestimate.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+New home sales for March came in weaker than expected, at 481,000 in March, versus the 510,000 unitestimate.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+New home sales for March came in weaker than expected, at 481,000 in March, versus the 510,000 unitestimate.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+1 matches: new
+
+----------------
+
+sent_63:
+63 out of 75 sentences
+35 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The 11.4 percent decline follows a 7.8 percent month-on-month jump in February that brought sales to a near-seven-year high of 539,000, according to Robert Kuenzel at Daiwa Capital Markets.
+2 default entities: PERSON Robert Kuenzel, ORGANIZATION Daiwa Capital Markets
+2 custom entities: PERSON Robert Kuenzel, ORGANIZATION Daiwa Capital Markets
+
+Source Sentence and Source Headline Match:
+The 11.4 percent decline follows a 7.8 percent month-on-month jump in February that brought sales to a near-seven-year high of 539,000, according to Robert Kuenzel at Daiwa Capital Markets.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The 11.4 percent decline follows a 7.8 percent month-on-month jump in February that brought sales to a near-seven-year high of 539,000, according to Robert Kuenzel at Daiwa Capital Markets.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: high
+
+Source Sentence and Best Story Sentence Match:
+The 11.4 percent decline follows a 7.8 percent month-on-month jump in February that brought sales to a near-seven-year high of 539,000, according to Robert Kuenzel at Daiwa Capital Markets.
+The Nasdaq has had two consecutive days of record highs.
+1 matches: high
+
+----------------
+
+sent_64:
+64 out of 75 sentences
+36 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Weekly jobless claims showed an increase of 1,000 to 295,000.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Weekly jobless claims showed an increase of 1,000 to 295,000.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Weekly jobless claims showed an increase of 1,000 to 295,000.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_65:
+65 out of 75 sentences
+37 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Manufacturing PMI showed that growth in the U.S. manufacturing sector dipped more than expected in April, with factory activity showing the slowest momentum since January, according to financial data firm Markit.
+4 default entities: ORGANIZATION PMI, GPE U.S., GPE April, PERSON Markit
+2 custom entities: ORGANIZATION PMI, PERSON Markit
+
+Source Sentence and Source Headline Match:
+Manufacturing PMI showed that growth in the U.S. manufacturing sector dipped more than expected in April, with factory activity showing the slowest momentum since January, according to financial data firm Markit.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Manufacturing PMI showed that growth in the U.S. manufacturing sector dipped more than expected in April, with factory activity showing the slowest momentum since January, according to financial data firm Markit.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Manufacturing PMI showed that growth in the U.S. manufacturing sector dipped more than expected in April, with factory activity showing the slowest momentum since January, according to financial data firm Markit.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+1 matches: april
+
+----------------
+
+sent_66:
+66 out of 75 sentences
+38 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The preliminary U.S.Manufacturing Purchasing Managers' Index fell to 54.2 in April from the final March read of 55.7.
+1 default entities: PERSON Index
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The preliminary U.S.Manufacturing Purchasing Managers' Index fell to 54.2 in April from the final March read of 55.7.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The preliminary U.S.Manufacturing Purchasing Managers' Index fell to 54.2 in April from the final March read of 55.7.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The preliminary U.S.Manufacturing Purchasing Managers' Index fell to 54.2 in April from the final March read of 55.7.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+1 matches: april
+
+----------------
+
+sent_67:
+67 out of 75 sentences
+38 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Economists polled by Reuters had forecast the April figure would come in at 55.5.
+1 default entities: ORGANIZATION Reuters
+1 custom entities: ORGANIZATION Reuters
+
+Source Sentence and Source Headline Match:
+Economists polled by Reuters had forecast the April figure would come in at 55.5.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Economists polled by Reuters had forecast the April figure would come in at 55.5.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Economists polled by Reuters had forecast the April figure would come in at 55.5.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+1 matches: april
+
+----------------
+
+sent_68:
+68 out of 75 sentences
+39 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Manufacturing data overseas was also weak.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Manufacturing data overseas was also weak.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Manufacturing data overseas was also weak.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_69:
+69 out of 75 sentences
+39 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+HSBC's preliminary reading of China's factory activity for April came in at 49.2, compared with a Reuters forecast for a 49.6 print.
+4 default entities: ORGANIZATION HSBC, GPE China, PERSON April, ORGANIZATION Reuters
+2 custom entities: PERSON April, ORGANIZATION Reuters
+
+Source Sentence and Source Headline Match:
+HSBC's preliminary reading of China's factory activity for April came in at 49.2, compared with a Reuters forecast for a 49.6 print.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+HSBC's preliminary reading of China's factory activity for April came in at 49.2, compared with a Reuters forecast for a 49.6 print.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+HSBC's preliminary reading of China's factory activity for April came in at 49.2, compared with a Reuters forecast for a 49.6 print.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+1 matches: april
+
+----------------
+
+sent_70:
+70 out of 75 sentences
+40 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Markit's German flash composite PMI, which tracks manufacturing and services activity, fell to 54.2 in April from an eight-month peak of 55.4 in March.
+3 default entities: PERSON Markit, GPE German, ORGANIZATION PMI
+2 custom entities: GPE German, ORGANIZATION PMI
+
+Source Sentence and Source Headline Match:
+Markit's German flash composite PMI, which tracks manufacturing and services activity, fell to 54.2 in April from an eight-month peak of 55.4 in March.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Markit's German flash composite PMI, which tracks manufacturing and services activity, fell to 54.2 in April from an eight-month peak of 55.4 in March.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Markit's German flash composite PMI, which tracks manufacturing and services activity, fell to 54.2 in April from an eight-month peak of 55.4 in March.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+2 matches: composite, april
+
+----------------
+
+sent_71:
+71 out of 75 sentences
+41 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The negative data weighed on European equities but sent Asian stocks in Tokyo and Seoul to multi-year highs.
+4 default entities: GPE European, GPE Asian, GPE Tokyo, GPE Seoul
+4 custom entities: GPE European, GPE Asian, GPE Tokyo, GPE Seoul
+
+Source Sentence and Source Headline Match:
+The negative data weighed on European equities but sent Asian stocks in Tokyo and Seoul to multi-year highs.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The negative data weighed on European equities but sent Asian stocks in Tokyo and Seoul to multi-year highs.
+Tech stocks push Nasdaq, S&P500 to record highs.
+2 matches: stock, high
+
+Source Sentence and Best Story Sentence Match:
+The negative data weighed on European equities but sent Asian stocks in Tokyo and Seoul to multi-year highs.
+The Nasdaq has had two consecutive days of record highs.
+1 matches: high
+
+----------------
+
+sent_72:
+72 out of 75 sentences
+41 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Despite the PMI figures that indicated contraction in China, the Shanghai Composite ended mildly higher, up 0.4 percent, while the Hang Seng closed down 0.4 percent.
+4 default entities: ORGANIZATION PMI, GPE China, ORGANIZATION Shanghai Composite, ORGANIZATION Hang Seng
+4 custom entities: ORGANIZATION PMI, GPE China, ORGANIZATION Shanghai Composite, ORGANIZATION Hang Seng
+
+Source Sentence and Source Headline Match:
+Despite the PMI figures that indicated contraction in China, the Shanghai Composite ended mildly higher, up 0.4 percent, while the Hang Seng closed down 0.4 percent.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Despite the PMI figures that indicated contraction in China, the Shanghai Composite ended mildly higher, up 0.4 percent, while the Hang Seng closed down 0.4 percent.
+Tech stocks push Nasdaq, S&P500 to record highs.
+1 matches: high
+
+Source Sentence and Best Story Sentence Match:
+Despite the PMI figures that indicated contraction in China, the Shanghai Composite ended mildly higher, up 0.4 percent, while the Hang Seng closed down 0.4 percent.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+3 matches: composite, close, high
+
+----------------
+
+sent_73:
+73 out of 75 sentences
+42 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Greek Prime Minister Alexis Tsipras called for a speeding up of work to conclude a reform-for-cash deal with euro zone creditors to keep his country afloat after talks with German Chancellor Angela Merkel on Thursday.
+3 default entities: GPE Greek, PERSON Alexis Tsipras, PERSON German Chancellor Angela Merkel
+3 custom entities: GPE Greek, PERSON Alexis Tsipras, PERSON German Chancellor Angela Merkel
+
+Source Sentence and Source Headline Match:
+Greek Prime Minister Alexis Tsipras called for a speeding up of work to conclude a reform-for-cash deal with euro zone creditors to keep his country afloat after talks with German Chancellor Angela Merkel on Thursday.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Greek Prime Minister Alexis Tsipras called for a speeding up of work to conclude a reform-for-cash deal with euro zone creditors to keep his country afloat after talks with German Chancellor Angela Merkel on Thursday.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_74:
+74 out of 75 sentences
+42 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Both sides called the discussions constructive.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Both sides called the discussions constructive.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Both sides called the discussions constructive.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_75:
+75 out of 75 sentences
+43 out of 43 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The leftist Greek premier met the conservative German leader before an emergency European Union summit on migration, a day before euro zone finance ministers meet in Riga to review the negotiations between Greece and its international lenders.
+5 default entities: GPE Greek, GPE German, ORGANIZATION European Union, GPE Riga, GPE Greece
+5 custom entities: GPE Greek, GPE German, ORGANIZATION European Union, GPE Riga, GPE Greece
+
+Source Sentence and Source Headline Match:
+The leftist Greek premier met the conservative German leader before an emergency European Union summit on migration, a day before euro zone finance ministers meet in Riga to review the negotiations between Greece and its international lenders.
+Nasdaq sets record for the first time in 15 years; IBM surges nearly 3%.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The leftist Greek premier met the conservative German leader before an emergency European Union summit on migration, a day before euro zone finance ministers meet in Riga to review the negotiations between Greece and its international lenders.
+Tech stocks push Nasdaq, S&P500 to record highs.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The leftist Greek premier met the conservative German leader before an emergency European Union summit on migration, a day before euro zone finance ministers meet in Riga to review the negotiations between Greece and its international lenders.
+The Nasdaq has had two consecutive days of record highs.
+1 matches: day
+
+----------------
+

@@ -1,0 +1,169 @@
+sent_1:
+
+Full House is coming back.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+2 best matches: full, house
+
+----------------
+sent_2:
+
+Uncle Jesse says so.
+Netflix said April 21 that it has renewed "Daredevil" for a second season.
+1 best matches: say
+
+----------------
+sent_3:
+
+John Stamos, who played Jesse Katsopolis on the popular ABC family comedy of the late 1980s and early 1990s, confirmed rumors of the show's reboot Monday on ABC's Jimmy Kimmel Live, telling the host Netflix had ordered 13 episodes of the new comedy.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+4 best matches: order, confirm, netflix, reboot
+
+----------------
+sent_4:
+
+He said the series would kick off with a one-hour special.
+Netflix said April 2 that it had ordered 4, 30-minute episodes of an original series from creators Bob Odenkirk and David Cross.
+2 best matches: series, say
+
+----------------
+sent_5:
+
+Later in the evening, the streaming service put out its own announcement, saying Fuller House, as the new series will be called, will premiere in 2016.
+"Fuller House" is expected to be released in 2016.
+3 best matches: 2016, fuller, house
+
+----------------
+sent_6:
+
+The spinoff will star Full House veterans Candace Cameron-Bure, Jodie Sweetin and Andrea Barber, with Stamos set to produce and guest star.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+4 best matches: full, star, guest, house
+
+----------------
+sent_7:
+
+Netflix says it is talking to other Full House stars, including Bob Saget, Mary-Kate and Ashley Olsen, Dave Coulier and Lori Loughlin, about participating as guest stars.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+4 best matches: full, star, guest, house
+
+----------------
+sent_8:
+
+Warner Horizon Television will produce the new series, with Full House creator Jeff Franklin serving as creator and an executive producer.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+2 best matches: full, house
+
+----------------
+sent_9:
+
+Stamos told Kimmel that Fuller House will focus on D.J.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+2 best matches: fuller, house
+
+----------------
+sent_10:
+
+Tanner-Fuller (Cameron-Bure) and her children; her sister, Stephanie Tanner (Sweetin); and their memorable kooky neighbor, Kimmy Gibbler (Barber).
+It will star Candace Cameron-Bure playing the role of D.J.
+1 best matches: cameron-bure
+
+----------------
+sent_11:
+
+The new series, filmed in the multi-camera style of Full House, will be a group-raising-a-family endeavor, as the original was.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+3 best matches: full, original, house
+
+----------------
+sent_12:
+
+According to the Netflix announcement, Fuller House will continue the adventures that began in the original, eight-season comedy, "with veterinarian D.J.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+3 best matches: fuller, netflix, house
+
+----------------
+sent_13:
+
+no story sentence best matches found
+
+----------------
+sent_14:
+
+D.J.
+It will star Candace Cameron-Bure playing the role of D.J.
+1 best matches: d.j
+
+----------------
+sent_15:
+
+'s younger sister/aspiring musician Stephanie Tanner and D.J.
+It will star Candace Cameron-Bure playing the role of D.J.
+1 best matches: d.j
+
+----------------
+sent_16:
+
+'s lifelong best friend/fellow single mother Kimmy Gibbler, along with Kimmy's feisty teenage daughter Ramona, all move in to help take care of D.J.
+It will star Candace Cameron-Bure playing the role of D.J.
+1 best matches: d.j
+
+----------------
+sent_17:
+
+no story sentence best matches found
+
+----------------
+sent_18:
+
+no story sentence best matches found
+
+----------------
+sent_19:
+
+Netflix acknowledged the large fan base of the original series, which premiered in 1987.
+Netflix said April 2 that it had ordered 4, 30-minute episodes of an original series from creators Bob Odenkirk and David Cross.
+3 best matches: series, original, netflix
+
+----------------
+sent_20:
+
+"As big fans of the original Full House, we are thrilled to be able to introduce Fuller House's new narrative to existing fans worldwide, who grew up on the original, as well as a new generation of global viewers that have grown up with the Tanners in syndication," Cindy Holland, Netflix vice president of original content, said in a statement.
+Netflix confirmed April 20 that it ordered a 13-episode reboot of the sitcom "Full House," entitled "Fuller House."
+4 best matches: full, fuller, netflix, house
+
+----------------
+sent_21:
+
+Franklin and fellow executive producers Robert L. Boyett and Thomas L. Miller, who also worked on the original, said: "The continued support of Full House fans of all ages for the last 28 years has been astounding.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+3 best matches: full, original, house
+
+----------------
+sent_22:
+
+It is an honor and a thrill to catch up with these beloved characters and explore their lives today.
+"Daredevil," which stars British actor Charlie Cox as the title character, debuted on Netflix on April 10.
+1 best matches: character
+
+----------------
+sent_23:
+
+The love you saw on the show was real.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+1 best matches: show
+
+----------------
+sent_24:
+
+The cast has remained a loving family off screen all these years.
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+1 best matches: cast
+
+----------------
+sent_25:
+
+We are as excited as our fans to finally bring Full House back to life."
+Some of the original cast of "Full House" will star in the show, while others will guest star.
+2 best matches: full, house
+
+----------------

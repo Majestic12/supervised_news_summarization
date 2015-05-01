@@ -1,0 +1,191 @@
+sent_1:
+
+The Nasdaq Composite, the U.S. market index most closely associated with technology stocks, closed at an all-time high on Thursday, surpassing a 2000 record set just before the dotcom crash.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+5 best matches: high, nasdaq, composite, close, record
+
+----------------
+sent_2:
+
+Its new record close of 5,056.06 capped a slow, unsteady climb since it touched a 2002 low of 1,114.11, that spanned an economic recession, the rise of biotech and social media and the explosive growth of mobile phones that has helped make Apple Inc (AAPL.O) the most valuable company in the United States.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+3 best matches: new, close, record
+
+----------------
+sent_3:
+
+The Nasdaq traded as high as 5,073.091 on Thursday, led by shares of Apple, which has been among the biggest positive influences on the index in recent years.
+The Nasdaq has had two consecutive days of record highs.
+2 best matches: nasdaq, high
+
+----------------
+sent_4:
+
+The index's last record close of 5,048.62 was hit on March 10, 2000.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+2 best matches: close, record
+
+----------------
+sent_5:
+
+The benchmark S&P 500 index .SPX also set an intraday high, but closed shy of a new record.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+4 best matches: high, new, close, record
+
+----------------
+sent_6:
+
+Rapid growth in biotechnology companies such as Gilead Sciences Inc (GILD.O) and social media firms like Facebook Inc (FB.O), driven by the popularity of mobile computing, also helped lift the Nasdaq to its current levels.
+The Nasdaq has had two consecutive days of record highs.
+1 best matches: nasdaq
+
+----------------
+sent_7:
+
+Strategists say there is still room for the Nasdaq to rise.
+The Nasdaq has had two consecutive days of record highs.
+1 best matches: nasdaq
+
+----------------
+sent_8:
+
+"Now that it's making a new high, I don't think it's just going to stop.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+2 best matches: new, high
+
+----------------
+sent_9:
+
+no story sentence best matches found
+
+----------------
+sent_10:
+
+no story sentence best matches found
+
+----------------
+sent_11:
+
+In 2000, "a lot of the high-growth companies were selling at 200 or 300 times next year's earnings.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+1 best matches: earnings
+
+----------------
+sent_12:
+
+no story sentence best matches found
+
+----------------
+sent_13:
+
+no story sentence best matches found
+
+----------------
+sent_14:
+
+no story sentence best matches found
+
+----------------
+sent_15:
+
+Shares of Apple were up 0.8 percent at $129.67, while Google Inc (GOOGL.O) was up 1.5 percent at $557.46.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+1 best matches: google
+
+----------------
+sent_16:
+
+They are the two top components by market cap in the Nasdaq.
+The Nasdaq has had two consecutive days of record highs.
+2 best matches: two, nasdaq
+
+----------------
+sent_17:
+
+Microsoft Corp (MSFT.O), which was the top component in March 2000, is now third, followed by Facebook.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+1 best matches: microsoft
+
+----------------
+sent_18:
+
+The Dow Jones industrial average .DJI rose 20.42 points, or 0.11 percent, to end at 18,058.69, the S&P 500 gained 4.97 points, or 0.24 percent, to 2,112.93 and the Nasdaq Composite added 20.89 points, or 0.41 percent, to 5,056.06.
+The Dow Jones Industrial Average added 21 points and closed at 18,080.
+6 best matches: add, dow, average, point, industrial, jones
+
+----------------
+sent_19:
+
+After the close, Nasdaq 100 e-mini futures NQc1 jumped as Google, Microsoft and Amazon.com (AMZN.O) reported results.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+3 best matches: google, report, microsoft
+
+----------------
+sent_20:
+
+Google shares were up 3.7 percent after the bell, while Microsoft was up 3.1 percent and Amazon was up 7.4 percent.
+Both indices were pushed by a positive reaction to earnings reports from Amazon, Google and Microsoft.
+3 best matches: google, amazon, microsoft
+
+----------------
+sent_21:
+
+The Nasdaq shed 78.4 percent of its value from the 2000 peak to its 2002 low 31 months later.
+The Nasdaq has had two consecutive days of record highs.
+1 best matches: nasdaq
+
+----------------
+sent_22:
+
+From the March 2009 trough to today's record, the index gained 300 percent.
+The Nasdaq has had two consecutive days of record highs.
+1 best matches: record
+
+----------------
+sent_23:
+
+The Nasdaq Composite's market capitalization is $8.2 trillion, compared with a $19.5 trillion market cap for the S&P 500, according to Thomson Reuters data.
+The Nasdaq has had two consecutive days of record highs.
+1 best matches: nasdaq
+
+----------------
+sent_24:
+
+no story sentence best matches found
+
+----------------
+sent_25:
+
+"It shows the strength in technology and biotechnology and the M&A going on in both those areas, but especially in biotech," said Tim Ghriskey, chief investment officer of Solaris Group in Bedford Hills, New York.
+The Nasdaq Composite added 36 points, closing at 5,092, April 24, a new record high.
+1 best matches: new
+
+----------------
+sent_26:
+
+Though the Nasdaq is heavily associated with technology, the S&P 500 technology sector .SPLRCT is actually down about 21 percent since March 10, 2000, according to S&P-Dow Jones Indices analyst Howard Silverblatt.
+The Dow Jones Industrial Average added 21 points and closed at 18,080.
+2 best matches: jones, 21
+
+----------------
+sent_27:
+
+On Thursday, eight of the 10 major S&P sectors were higher.
+The Nasdaq has had two consecutive days of record highs.
+1 best matches: high
+
+----------------
+sent_28:
+
+Advancing issues outnumbered declining ones on the NYSE by 2,039 to 956, for a 2.13-to-1 ratio on the upside; on the Nasdaq, 1,659 issues rose and 1,061 fell, for a 1.56-to-1 ratio favoring advancers.
+The Nasdaq has had two consecutive days of record highs.
+1 best matches: nasdaq
+
+----------------
+sent_29:
+
+About 6.6 billion shares changed hands on U.S. exchanges, compared with the daily average of 6.2 billion for the month to date, according to data from BATS Global Markets.
+The Dow Jones Industrial Average added 21 points and closed at 18,080.
+1 best matches: average
+
+----------------

@@ -1,0 +1,707 @@
+sent_1:
+1 out of 26 sentences
+1 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Support includes deliveries of precision-guided munitions, intelligence and logistical aid.
+1 default entities: GPE Support
+1 custom entities: GPE Support
+
+Source Sentence and Source Headline Match:
+Support includes deliveries of precision-guided munitions, intelligence and logistical aid.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+2 matches: munition, delivery
+
+Source Sentence and Story Headline Match:
+Support includes deliveries of precision-guided munitions, intelligence and logistical aid.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Support includes deliveries of precision-guided munitions, intelligence and logistical aid.
+The U.S. has "expedited weapons deliveries" and "increased intelligence" to Saudi Arabia, U.S. Deputy Sec.
+2 matches: intelligence, delivery
+
+----------------
+
+sent_2:
+2 out of 26 sentences
+2 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The U.S. said on Tuesday that it is expediting deliveries of munitions and building on intelligence and logistical aid that it is already providing for the Saudi-led military campaign against Houthi rebels in Yemen.
+3 default entities: GPE U.S., GPE Houthi, GPE Yemen
+3 custom entities: ORGANIZATION U.S, GPE Houthi, GPE Yemen
+
+Source Sentence and Source Headline Match:
+The U.S. said on Tuesday that it is expediting deliveries of munitions and building on intelligence and logistical aid that it is already providing for the Saudi-led military campaign against Houthi rebels in Yemen.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+5 matches: expedite, munition, yemen, u.s, delivery
+
+Source Sentence and Story Headline Match:
+The U.S. said on Tuesday that it is expediting deliveries of munitions and building on intelligence and logistical aid that it is already providing for the Saudi-led military campaign against Houthi rebels in Yemen.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The U.S. said on Tuesday that it is expediting deliveries of munitions and building on intelligence and logistical aid that it is already providing for the Saudi-led military campaign against Houthi rebels in Yemen.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+4 matches: saudi-led, campaign, say, yemen
+
+----------------
+
+sent_3:
+3 out of 26 sentences
+3 out of 20 paragraphs
+Tagged as a quote
+
+Sentence:
+Deputy Secretary of State Tony Blinken told reporters at a briefing in Riyadh that Saudi Arabia “is sending a strong message to the Houthis and their allies that they cannot overrun Yemen by force.”
+6 default entities: ORGANIZATION State Tony Blinken, GPE Riyadh, GPE Saudi, PERSON Arabia, ORGANIZATION Houthis, GPE Yemen
+5 custom entities: ORGANIZATION State Tony Blinken, GPE Riyadh, GPE Saudi Arabia, ORGANIZATION Houthis, GPE Yemen
+
+Source Sentence and Source Headline Match:
+Deputy Secretary of State Tony Blinken told reporters at a briefing in Riyadh that Saudi Arabia “is sending a strong message to the Houthis and their allies that they cannot overrun Yemen by force.”
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+1 matches: yemen
+
+Source Sentence and Story Headline Match:
+Deputy Secretary of State Tony Blinken told reporters at a briefing in Riyadh that Saudi Arabia “is sending a strong message to the Houthis and their allies that they cannot overrun Yemen by force.”
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+2 matches: arabia, saudi
+
+Source Sentence and Best Story Sentence Match:
+Deputy Secretary of State Tony Blinken told reporters at a briefing in Riyadh that Saudi Arabia “is sending a strong message to the Houthis and their allies that they cannot overrun Yemen by force.”
+Saudi Arabia launched military operations including airstrikes against the Houthis and their allies in Yemen on March 25.
+5 matches: arabia, yemen, saudi, houthis, ally
+
+----------------
+
+sent_4:
+4 out of 26 sentences
+4 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The support, which includes deliveries of precision-guided munitions, comes almost two weeks after a Saudi-led coalition of mostly Arab states began a campaign of airstrikes against the Shiite-linked Houthis.
+1 default entities: PERSON Arab
+1 custom entities: PERSON Arab
+
+Source Sentence and Source Headline Match:
+The support, which includes deliveries of precision-guided munitions, comes almost two weeks after a Saudi-led coalition of mostly Arab states began a campaign of airstrikes against the Shiite-linked Houthis.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+2 matches: munition, delivery
+
+Source Sentence and Story Headline Match:
+The support, which includes deliveries of precision-guided munitions, comes almost two weeks after a Saudi-led coalition of mostly Arab states began a campaign of airstrikes against the Shiite-linked Houthis.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The support, which includes deliveries of precision-guided munitions, comes almost two weeks after a Saudi-led coalition of mostly Arab states began a campaign of airstrikes against the Shiite-linked Houthis.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+4 matches: coalition, saudi-led, campaign, airstrikes
+
+----------------
+
+sent_5:
+5 out of 26 sentences
+5 out of 20 paragraphs
+Tagged as a quote
+
+Sentence:
+In Washington, Col. Steve Warren, the chief Pentagon spokesman, said the shipments were “a combination of pre-existing orders made by our partner nations and some new requirements as they expend munitions.” He didn’t provide details.
+3 default entities: GPE Washington, PERSON Steve Warren, PERSON Pentagon
+3 custom entities: GPE Washington, PERSON Steve Warren, PERSON Pentagon
+
+Source Sentence and Source Headline Match:
+In Washington, Col. Steve Warren, the chief Pentagon spokesman, said the shipments were “a combination of pre-existing orders made by our partner nations and some new requirements as they expend munitions.” He didn’t provide details.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+1 matches: munition
+
+Source Sentence and Story Headline Match:
+In Washington, Col. Steve Warren, the chief Pentagon spokesman, said the shipments were “a combination of pre-existing orders made by our partner nations and some new requirements as they expend munitions.” He didn’t provide details.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+In Washington, Col. Steve Warren, the chief Pentagon spokesman, said the shipments were “a combination of pre-existing orders made by our partner nations and some new requirements as they expend munitions.” He didn’t provide details.
+The weapons include existing orders and "some new requirements" said the Pentagon.
+5 matches: requirement, order, new, say, pentagon
+
+----------------
+
+sent_6:
+6 out of 26 sentences
+6 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Houthi militants overtook Yemen’s capital, San’a, in September and took control of the government in February, leading the Saudi-backed President Abed Rabbo Mansour Hadi to flee to Saudi Arabia.
+5 default entities: GPE Houthi, PERSON Yemen, GPE San'a, PERSON Abed Rabbo Mansour Hadi, GPE Saudi Arabia
+3 custom entities: GPE Houthi, PERSON Abed Rabbo Mansour Hadi, GPE Saudi Arabia
+
+Source Sentence and Source Headline Match:
+Houthi militants overtook Yemen’s capital, San’a, in September and took control of the government in February, leading the Saudi-backed President Abed Rabbo Mansour Hadi to flee to Saudi Arabia.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Houthi militants overtook Yemen’s capital, San’a, in September and took control of the government in February, leading the Saudi-backed President Abed Rabbo Mansour Hadi to flee to Saudi Arabia.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+2 matches: arabia, saudi
+
+Source Sentence and Best Story Sentence Match:
+Houthi militants overtook Yemen’s capital, San’a, in September and took control of the government in February, leading the Saudi-backed President Abed Rabbo Mansour Hadi to flee to Saudi Arabia.
+Yemeni President Mansour Hadi fled to Saudi Arabia, Saudi state TV reported March 26.
+6 matches: president, flee, mansour, arabia, saudi, hadi
+
+----------------
+
+sent_7:
+7 out of 26 sentences
+7 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Mr. Blinken, who met with Mr. Hadi and senior Saudi officials on Tuesday, said the U.S. and the Gulf Cooperation Council states are working to push all parties in Yemen to commit to a political solution.
+6 default entities: PERSON Mr. Blinken, PERSON Mr. Hadi, GPE Saudi, GPE U.S., ORGANIZATION Gulf Cooperation Council, GPE Yemen
+3 custom entities: GPE Saudi, ORGANIZATION Gulf Cooperation Council, GPE Yemen
+
+Source Sentence and Source Headline Match:
+Mr. Blinken, who met with Mr. Hadi and senior Saudi officials on Tuesday, said the U.S. and the Gulf Cooperation Council states are working to push all parties in Yemen to commit to a political solution.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+2 matches: yemen, u.s
+
+Source Sentence and Story Headline Match:
+Mr. Blinken, who met with Mr. Hadi and senior Saudi officials on Tuesday, said the U.S. and the Gulf Cooperation Council states are working to push all parties in Yemen to commit to a political solution.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+Mr. Blinken, who met with Mr. Hadi and senior Saudi officials on Tuesday, said the U.S. and the Gulf Cooperation Council states are working to push all parties in Yemen to commit to a political solution.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+3 matches: official, yemen, say
+
+----------------
+
+sent_8:
+8 out of 26 sentences
+8 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Also on Tuesday, the Education Ministry in Ibb province, near the contested southern port city of Aden, said three students were killed and six were injured in a series of explosions that rocked a military base next to a school.
+3 default entities: ORGANIZATION Education Ministry, GPE Ibb, GPE Aden
+3 custom entities: ORGANIZATION Education Ministry, GPE Ibb, PERSON Aden
+
+Source Sentence and Source Headline Match:
+Also on Tuesday, the Education Ministry in Ibb province, near the contested southern port city of Aden, said three students were killed and six were injured in a series of explosions that rocked a military base next to a school.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Also on Tuesday, the Education Ministry in Ibb province, near the contested southern port city of Aden, said three students were killed and six were injured in a series of explosions that rocked a military base next to a school.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: city
+
+Source Sentence and Best Story Sentence Match:
+Also on Tuesday, the Education Ministry in Ibb province, near the contested southern port city of Aden, said three students were killed and six were injured in a series of explosions that rocked a military base next to a school.
+At least 944 people were killed, including 77 children, and 3,487 injured since the start of airstrikes as of April 17, the UN said April 21.
+3 matches: kill, say, injure
+
+----------------
+
+sent_9:
+9 out of 26 sentences
+9 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The ministry attributed the explosions at the Al Hamza military base to the Saudi-led air campaign, but that couldn’t be independently confirmed.
+1 default entities: ORGANIZATION Al Hamza
+1 custom entities: ORGANIZATION Al Hamza
+
+Source Sentence and Source Headline Match:
+The ministry attributed the explosions at the Al Hamza military base to the Saudi-led air campaign, but that couldn’t be independently confirmed.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The ministry attributed the explosions at the Al Hamza military base to the Saudi-led air campaign, but that couldn’t be independently confirmed.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The ministry attributed the explosions at the Al Hamza military base to the Saudi-led air campaign, but that couldn’t be independently confirmed.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 matches: campaign, military
+
+----------------
+
+sent_10:
+10 out of 26 sentences
+10 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Aided by the airstrikes, forces aligned with Mr. Hadi have made tentative gains in Aden and other southern areas in the past week.
+2 default entities: PERSON Mr. Hadi, GPE Aden
+1 custom entities: GPE Aden
+
+Source Sentence and Source Headline Match:
+Aided by the airstrikes, forces aligned with Mr. Hadi have made tentative gains in Aden and other southern areas in the past week.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Aided by the airstrikes, forces aligned with Mr. Hadi have made tentative gains in Aden and other southern areas in the past week.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Aided by the airstrikes, forces aligned with Mr. Hadi have made tentative gains in Aden and other southern areas in the past week.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 matches: southern, airstrikes
+
+----------------
+
+sent_11:
+11 out of 26 sentences
+11 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+On Tuesday, officials in Aden said that the Houthis held about two-thirds of the city, but that they had lost their grip on the port, a key target, to Mr. Hadi’s forces.
+3 default entities: PERSON Aden, ORGANIZATION Houthis, PERSON Mr. Hadi
+2 custom entities: PERSON Aden, ORGANIZATION Houthis
+
+Source Sentence and Source Headline Match:
+On Tuesday, officials in Aden said that the Houthis held about two-thirds of the city, but that they had lost their grip on the port, a key target, to Mr. Hadi’s forces.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+On Tuesday, officials in Aden said that the Houthis held about two-thirds of the city, but that they had lost their grip on the port, a key target, to Mr. Hadi’s forces.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: city
+
+Source Sentence and Best Story Sentence Match:
+On Tuesday, officials in Aden said that the Houthis held about two-thirds of the city, but that they had lost their grip on the port, a key target, to Mr. Hadi’s forces.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 matches: official, say
+
+----------------
+
+sent_12:
+12 out of 26 sentences
+12 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+As the air campaign continues, aid agencies are raising concern about shortages of medicine, electricity, potable water and food in Aden and San’a.
+1 default entities: GPE Aden
+1 custom entities: GPE Aden
+
+Source Sentence and Source Headline Match:
+As the air campaign continues, aid agencies are raising concern about shortages of medicine, electricity, potable water and food in Aden and San’a.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+As the air campaign continues, aid agencies are raising concern about shortages of medicine, electricity, potable water and food in Aden and San’a.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+As the air campaign continues, aid agencies are raising concern about shortages of medicine, electricity, potable water and food in Aden and San’a.
+Food, water and electricity shortages occur nationwide.
+4 matches: water, food, electricity, shortage
+
+----------------
+
+sent_13:
+13 out of 26 sentences
+13 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The International Committee of the Red Cross began to fly in aid on Tuesday, and the World Health Organization has supplied health kits from local warehouses to 240,000 beneficiaries since March 19.
+3 default entities: ORGANIZATION International Committee, ORGANIZATION Red Cross, ORGANIZATION World
+3 custom entities: ORGANIZATION International Committee, ORGANIZATION Red Cross, ORGANIZATION World
+
+Source Sentence and Source Headline Match:
+The International Committee of the Red Cross began to fly in aid on Tuesday, and the World Health Organization has supplied health kits from local warehouses to 240,000 beneficiaries since March 19.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The International Committee of the Red Cross began to fly in aid on Tuesday, and the World Health Organization has supplied health kits from local warehouses to 240,000 beneficiaries since March 19.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The International Committee of the Red Cross began to fly in aid on Tuesday, and the World Health Organization has supplied health kits from local warehouses to 240,000 beneficiaries since March 19.
+"Health facilities are struggling to function as they face increasing shortages of life-saving medicines and vital health supplies, frequent disruptions in power supply and lack of fuel for generators.
+2 matches: health, supply
+
+----------------
+
+sent_14:
+14 out of 26 sentences
+14 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Agencies said they have been trying to coordinate cease-fires with Saudi Arabia and local authorities to safely send in supplies.
+2 default entities: PERSON Agencies, GPE Saudi Arabia
+2 custom entities: PERSON Agencies, GPE Saudi Arabia
+
+Source Sentence and Source Headline Match:
+Agencies said they have been trying to coordinate cease-fires with Saudi Arabia and local authorities to safely send in supplies.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Agencies said they have been trying to coordinate cease-fires with Saudi Arabia and local authorities to safely send in supplies.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+2 matches: arabia, saudi
+
+Source Sentence and Best Story Sentence Match:
+Agencies said they have been trying to coordinate cease-fires with Saudi Arabia and local authorities to safely send in supplies.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 matches: arabia, saudi
+
+----------------
+
+sent_15:
+15 out of 26 sentences
+15 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Saudi Brig.
+2 default entities: GPE Saudi, ORGANIZATION Brig
+2 custom entities: GPE Saudi, ORGANIZATION Brig
+
+Source Sentence and Source Headline Match:
+Saudi Brig.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Saudi Brig.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+Saudi Brig.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 matches: saudi
+
+----------------
+
+sent_16:
+16 out of 26 sentences
+15 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Gen. Ahmed Asiri, a spokesman for the coalition carrying out the strikes, said that they were working with humanitarian organizations to facilitate aid deliveries, adding that permission had been given to dock a medical-supply ship heading from Djibouti to Aden.
+3 default entities: PERSON Ahmed Asiri, GPE Djibouti, GPE Aden
+3 custom entities: PERSON Ahmed Asiri, GPE Djibouti, GPE Aden
+
+Source Sentence and Source Headline Match:
+Gen. Ahmed Asiri, a spokesman for the coalition carrying out the strikes, said that they were working with humanitarian organizations to facilitate aid deliveries, adding that permission had been given to dock a medical-supply ship heading from Djibouti to Aden.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+1 matches: delivery
+
+Source Sentence and Story Headline Match:
+Gen. Ahmed Asiri, a spokesman for the coalition carrying out the strikes, said that they were working with humanitarian organizations to facilitate aid deliveries, adding that permission had been given to dock a medical-supply ship heading from Djibouti to Aden.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Gen. Ahmed Asiri, a spokesman for the coalition carrying out the strikes, said that they were working with humanitarian organizations to facilitate aid deliveries, adding that permission had been given to dock a medical-supply ship heading from Djibouti to Aden.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 matches: coalition, say
+
+----------------
+
+sent_17:
+17 out of 26 sentences
+16 out of 20 paragraphs
+Tagged as a quote
+
+Sentence:
+“The needs are huge and the sooner we are allowed to send additional supplies into the country without restrictions in access, the more lives we can save,” said Ahmed Shadoul, WHO’s representative in Yemen.
+3 default entities: PERSON Ahmed Shadoul, ORGANIZATION WHO, GPE Yemen
+2 custom entities: PERSON Ahmed Shadoul, GPE Yemen
+
+Source Sentence and Source Headline Match:
+“The needs are huge and the sooner we are allowed to send additional supplies into the country without restrictions in access, the more lives we can save,” said Ahmed Shadoul, WHO’s representative in Yemen.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+1 matches: yemen
+
+Source Sentence and Story Headline Match:
+“The needs are huge and the sooner we are allowed to send additional supplies into the country without restrictions in access, the more lives we can save,” said Ahmed Shadoul, WHO’s representative in Yemen.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“The needs are huge and the sooner we are allowed to send additional supplies into the country without restrictions in access, the more lives we can save,” said Ahmed Shadoul, WHO’s representative in Yemen.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 matches: yemen, say
+
+----------------
+
+sent_18:
+18 out of 26 sentences
+17 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+According to the Houthi-controlled Health Ministry, more than 650 civilians have been killed by the Saudi-led airstrikes.
+1 default entities: ORGANIZATION Health Ministry
+1 custom entities: ORGANIZATION Health Ministry
+
+Source Sentence and Source Headline Match:
+According to the Houthi-controlled Health Ministry, more than 650 civilians have been killed by the Saudi-led airstrikes.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+According to the Houthi-controlled Health Ministry, more than 650 civilians have been killed by the Saudi-led airstrikes.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+According to the Houthi-controlled Health Ministry, more than 650 civilians have been killed by the Saudi-led airstrikes.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+3 matches: saudi-led, accord, airstrikes
+
+----------------
+
+sent_19:
+19 out of 26 sentences
+17 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+An additional 1,350 have been injured, the ministry said.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+An additional 1,350 have been injured, the ministry said.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+An additional 1,350 have been injured, the ministry said.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+An additional 1,350 have been injured, the ministry said.
+At least 944 people were killed, including 77 children, and 3,487 injured since the start of airstrikes as of April 17, the UN said April 21.
+2 matches: say, injure
+
+----------------
+
+sent_20:
+20 out of 26 sentences
+18 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Mr. Blinken said the U.S. was working closely with the Saudis to limit civilian casualties.
+4 default entities: PERSON Mr., PERSON Blinken, GPE U.S., GPE Saudis
+2 custom entities: PERSON Blinken, GPE Saudis
+
+Source Sentence and Source Headline Match:
+Mr. Blinken said the U.S. was working closely with the Saudis to limit civilian casualties.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+1 matches: u.s
+
+Source Sentence and Story Headline Match:
+Mr. Blinken said the U.S. was working closely with the Saudis to limit civilian casualties.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+Mr. Blinken said the U.S. was working closely with the Saudis to limit civilian casualties.
+Blinken also warned of the consequences of "unintended civilian casualties."
+3 matches: casualty, blinken, civilian
+
+----------------
+
+sent_21:
+21 out of 26 sentences
+18 out of 20 paragraphs
+Tagged as a quote
+
+Sentence:
+“If there are even unintended civilian casualties, you risk alienating the very people you’re trying to help and who you need on your side,” he said.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“If there are even unintended civilian casualties, you risk alienating the very people you’re trying to help and who you need on your side,” he said.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“If there are even unintended civilian casualties, you risk alienating the very people you’re trying to help and who you need on your side,” he said.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“If there are even unintended civilian casualties, you risk alienating the very people you’re trying to help and who you need on your side,” he said.
+Blinken also warned of the consequences of "unintended civilian casualties."
+3 matches: casualty, civilian, unintended
+
+----------------
+
+sent_22:
+22 out of 26 sentences
+19 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Col. Warren said U.S. personnel have been assigned to a joint U.S.-Saudi coordination cell and are helping provide intelligence for use in the war effort in Yemen, but declined to provide specifics of the aid.
+3 default entities: PERSON Warren, GPE U.S., GPE Yemen
+4 custom entities: PERSON Col, PERSON Warren, GPE U.S, GPE Yemen
+
+Source Sentence and Source Headline Match:
+Col. Warren said U.S. personnel have been assigned to a joint U.S.-Saudi coordination cell and are helping provide intelligence for use in the war effort in Yemen, but declined to provide specifics of the aid.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+2 matches: yemen, u.s
+
+Source Sentence and Story Headline Match:
+Col. Warren said U.S. personnel have been assigned to a joint U.S.-Saudi coordination cell and are helping provide intelligence for use in the war effort in Yemen, but declined to provide specifics of the aid.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Col. Warren said U.S. personnel have been assigned to a joint U.S.-Saudi coordination cell and are helping provide intelligence for use in the war effort in Yemen, but declined to provide specifics of the aid.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 matches: yemen, say
+
+----------------
+
+sent_23:
+23 out of 26 sentences
+19 out of 20 paragraphs
+Tagged as a quote
+
+Sentence:
+“We are providing them intelligence as we are able,” Col. Warren said.
+1 default entities: PERSON Warren
+1 custom entities: PERSON Warren
+
+Source Sentence and Source Headline Match:
+“We are providing them intelligence as we are able,” Col. Warren said.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“We are providing them intelligence as we are able,” Col. Warren said.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“We are providing them intelligence as we are able,” Col. Warren said.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+1 matches: say
+
+----------------
+
+sent_24:
+24 out of 26 sentences
+20 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Col. Warren also said Saudi officials have requested that they have the opportunity to use American air-refueling tankers as needed.
+3 default entities: PERSON Warren, GPE Saudi, GPE American
+4 custom entities: PERSON Col, PERSON Warren, GPE Saudi, GPE American
+
+Source Sentence and Source Headline Match:
+Col. Warren also said Saudi officials have requested that they have the opportunity to use American air-refueling tankers as needed.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Col. Warren also said Saudi officials have requested that they have the opportunity to use American air-refueling tankers as needed.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+Col. Warren also said Saudi officials have requested that they have the opportunity to use American air-refueling tankers as needed.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 matches: official, say
+
+----------------
+
+sent_25:
+25 out of 26 sentences
+20 out of 20 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Members of the coalition using air refueling tankers will have to reimburse the U.S. for the cost of any fuel used.
+1 default entities: GPE U.S.
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Members of the coalition using air refueling tankers will have to reimburse the U.S. for the cost of any fuel used.
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+1 matches: u.s
+
+Source Sentence and Story Headline Match:
+Members of the coalition using air refueling tankers will have to reimburse the U.S. for the cost of any fuel used.
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Members of the coalition using air refueling tankers will have to reimburse the U.S. for the cost of any fuel used.
+"The coalition will continue to prevent the movement of Houthi militias from moving or undertaking any operations inside Yemen."
+1 matches: coalition
+
+----------------
+
+sent_26:
+26 out of 26 sentences
+20 out of 20 paragraphs
+Tagged as a quote
+
+Sentence:
+The Saudis have not yet used American tankers, Col. Warren said, but “they have requested that this capability be made available.”
+3 default entities: GPE Saudis, GPE American, PERSON Warren
+3 custom entities: GPE Saudis, GPE American, PERSON Col Warren
+
+Source Sentence and Source Headline Match:
+The Saudis have not yet used American tankers, Col. Warren said, but “they have requested that this capability be made available.”
+U.S. to Expedite Munition Deliveries for Yemen Fight.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Saudis have not yet used American tankers, Col. Warren said, but “they have requested that this capability be made available.”
+Airstrike hits Yemeni city after Saudi Arabia announces end to bombing.
+1 matches: saudi
+
+Source Sentence and Best Story Sentence Match:
+The Saudis have not yet used American tankers, Col. Warren said, but “they have requested that this capability be made available.”
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 matches: saudi
+
+----------------
+

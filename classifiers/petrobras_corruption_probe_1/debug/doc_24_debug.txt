@@ -1,0 +1,520 @@
+sent_1:
+1 out of 19 sentences
+1 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Petrobras scandal explained.
+1 default entities: ORGANIZATION Petrobras
+1 custom entities: ORGANIZATION Petrobras
+
+Source Sentence and Source Headline Match:
+The Petrobras scandal explained.
+The big oily.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Petrobras scandal explained.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+The Petrobras scandal explained.
+Brazilian Workers' Party ex-treasurer Joao Vaccari was arrested April 15 in connection with the Petrobras scandal.
+2 matches: petrobras, scandal
+
+----------------
+
+sent_2:
+2 out of 19 sentences
+2 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+NEARLY as ominous as the economic cloud hovering over Dilma Rousseff is the scandal surrounding Petrobras, the state-controlled oil company.
+2 default entities: PERSON Dilma Rousseff, PERSON Petrobras
+1 custom entities: PERSON Dilma Rousseff
+
+Source Sentence and Source Headline Match:
+NEARLY as ominous as the economic cloud hovering over Dilma Rousseff is the scandal surrounding Petrobras, the state-controlled oil company.
+The big oily.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+NEARLY as ominous as the economic cloud hovering over Dilma Rousseff is the scandal surrounding Petrobras, the state-controlled oil company.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+NEARLY as ominous as the economic cloud hovering over Dilma Rousseff is the scandal surrounding Petrobras, the state-controlled oil company.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+3 matches: company, petrobras, oil
+
+----------------
+
+sent_3:
+3 out of 19 sentences
+2 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It nearly cost her re-election, and could yet spoil her second term as Brazil’s president.
+1 default entities: PERSON Brazil
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+It nearly cost her re-election, and could yet spoil her second term as Brazil’s president.
+The big oily.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+It nearly cost her re-election, and could yet spoil her second term as Brazil’s president.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+It nearly cost her re-election, and could yet spoil her second term as Brazil’s president.
+The bribery and corruption scandal alone, dubbed "Operation Car Wash," cost the company $2.1 billion.
+1 matches: cost
+
+----------------
+
+sent_4:
+4 out of 19 sentences
+3 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The affair began in March, when federal police arrested Paulo Roberto Costa, Petrobras’s chief of refining from 2004 to 2012, in a money-laundering investigation.
+3 default entities: GPE March, PERSON Paulo Roberto Costa, PERSON Petrobras
+1 custom entities: PERSON Paulo Roberto Costa
+
+Source Sentence and Source Headline Match:
+The affair began in March, when federal police arrested Paulo Roberto Costa, Petrobras’s chief of refining from 2004 to 2012, in a money-laundering investigation.
+The big oily.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The affair began in March, when federal police arrested Paulo Roberto Costa, Petrobras’s chief of refining from 2004 to 2012, in a money-laundering investigation.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The affair began in March, when federal police arrested Paulo Roberto Costa, Petrobras’s chief of refining from 2004 to 2012, in a money-laundering investigation.
+A wide-ranging corruption probe launched after the March 2014 arrest of Paulo Roberto Costa, Petrobras' former chief of refining.
+7 matches: march, refining, costa, paulo, chief, arrest, roberto
+
+----------------
+
+sent_5:
+5 out of 19 sentences
+3 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Mr Costa, seeking leniency, confessed to far more than that.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Mr Costa, seeking leniency, confessed to far more than that.
+The big oily.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Mr Costa, seeking leniency, confessed to far more than that.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Mr Costa, seeking leniency, confessed to far more than that.
+Seeking leniency, Costa shed light on $3.7 billion in questionable payments Petrobras made from slush funds to Brazil's Workers' Party and other political parties.
+3 matches: costa, leniency, seek
+
+----------------
+
+sent_6:
+6 out of 19 sentences
+3 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Construction companies that won contracts from his division diverted 3% of their value into slush funds for political parties, he said.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Construction companies that won contracts from his division diverted 3% of their value into slush funds for political parties, he said.
+The big oily.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Construction companies that won contracts from his division diverted 3% of their value into slush funds for political parties, he said.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Construction companies that won contracts from his division diverted 3% of their value into slush funds for political parties, he said.
+Seeking leniency, Costa shed light on $3.7 billion in questionable payments Petrobras made from slush funds to Brazil's Workers' Party and other political parties.
+4 matches: political, party, slush, fund
+
+----------------
+
+sent_7:
+7 out of 19 sentences
+3 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+Police identified 10 billion reais ($3.7 billion) of suspicious payments, making the petrolão (the “big oily”) Brazil’s biggest corruption scandal.
+1 default entities: PERSON Brazil
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Police identified 10 billion reais ($3.7 billion) of suspicious payments, making the petrolão (the “big oily”) Brazil’s biggest corruption scandal.
+The big oily.
+2 matches: oily, big
+
+Source Sentence and Story Headline Match:
+Police identified 10 billion reais ($3.7 billion) of suspicious payments, making the petrolão (the “big oily”) Brazil’s biggest corruption scandal.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: billion
+
+Source Sentence and Best Story Sentence Match:
+Police identified 10 billion reais ($3.7 billion) of suspicious payments, making the petrolão (the “big oily”) Brazil’s biggest corruption scandal.
+Seeking leniency, Costa shed light on $3.7 billion in questionable payments Petrobras made from slush funds to Brazil's Workers' Party and other political parties.
+4 matches: make, payment, billion, 3.7
+
+----------------
+
+sent_8:
+8 out of 19 sentences
+4 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In November police arrested two dozen executives from Brazil’s six largest construction firms and another former Petrobras bigwig; 30 people have been indicted.
+2 default entities: GPE Brazil, GPE Petrobras
+1 custom entities: GPE Petrobras
+
+Source Sentence and Source Headline Match:
+In November police arrested two dozen executives from Brazil’s six largest construction firms and another former Petrobras bigwig; 30 people have been indicted.
+The big oily.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+In November police arrested two dozen executives from Brazil’s six largest construction firms and another former Petrobras bigwig; 30 people have been indicted.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+In November police arrested two dozen executives from Brazil’s six largest construction firms and another former Petrobras bigwig; 30 people have been indicted.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+3 matches: dozen, petrobras, indict
+
+----------------
+
+sent_9:
+9 out of 19 sentences
+4 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Most of the alleged bribe-takers belong to the Workers’ Party, which Ms Rouseff leads, or to her coalition allies.
+2 default entities: ORGANIZATION Workers, PERSON Party
+1 custom entities: ORGANIZATION Workers Party
+
+Source Sentence and Source Headline Match:
+Most of the alleged bribe-takers belong to the Workers’ Party, which Ms Rouseff leads, or to her coalition allies.
+The big oily.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Most of the alleged bribe-takers belong to the Workers’ Party, which Ms Rouseff leads, or to her coalition allies.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Most of the alleged bribe-takers belong to the Workers’ Party, which Ms Rouseff leads, or to her coalition allies.
+Seeking leniency, Costa shed light on $3.7 billion in questionable payments Petrobras made from slush funds to Brazil's Workers' Party and other political parties.
+2 matches: party, worker
+
+----------------
+
+sent_10:
+10 out of 19 sentences
+5 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+There is no evidence that Ms Rousseff knew of the mischief, but much of it took place while she was energy minister and chairman of Petrobras during the presidency of Luiz Inácio Lula da Silva, her predecessor.
+3 default entities: GPE Petrobras, PERSON Luiz Inácio Lula, PERSON Silva
+2 custom entities: GPE Petrobras, PERSON Luiz Inácio Lula
+
+Source Sentence and Source Headline Match:
+There is no evidence that Ms Rousseff knew of the mischief, but much of it took place while she was energy minister and chairman of Petrobras during the presidency of Luiz Inácio Lula da Silva, her predecessor.
+The big oily.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+There is no evidence that Ms Rousseff knew of the mischief, but much of it took place while she was energy minister and chairman of Petrobras during the presidency of Luiz Inácio Lula da Silva, her predecessor.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+There is no evidence that Ms Rousseff knew of the mischief, but much of it took place while she was energy minister and chairman of Petrobras during the presidency of Luiz Inácio Lula da Silva, her predecessor.
+Protesters insist Rousseff must have known about the accusations of corruption and political bribes at Petrobras while she chaired its board.
+3 matches: know, petrobras, rousseff
+
+----------------
+
+sent_11:
+11 out of 19 sentences
+5 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A former manager claims to have alerted Petrobras’s current boss, Maria das Graças Foster, and other executives about the irregularities.
+3 default entities: PERSON Petrobras, PERSON Maria, PERSON Graças Foster
+2 custom entities: PERSON Maria, PERSON Graças Foster
+
+Source Sentence and Source Headline Match:
+A former manager claims to have alerted Petrobras’s current boss, Maria das Graças Foster, and other executives about the irregularities.
+The big oily.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+A former manager claims to have alerted Petrobras’s current boss, Maria das Graças Foster, and other executives about the irregularities.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+A former manager claims to have alerted Petrobras’s current boss, Maria das Graças Foster, and other executives about the irregularities.
+A wide-ranging corruption probe launched after the March 2014 arrest of Paulo Roberto Costa, Petrobras' former chief of refining.
+1 matches: former
+
+----------------
+
+sent_12:
+12 out of 19 sentences
+5 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The company denies that Ms Foster, a friend of the president, had any knowledge of them.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The company denies that Ms Foster, a friend of the president, had any knowledge of them.
+The big oily.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The company denies that Ms Foster, a friend of the president, had any knowledge of them.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The company denies that Ms Foster, a friend of the president, had any knowledge of them.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+1 matches: company
+
+----------------
+
+sent_13:
+13 out of 19 sentences
+6 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The scandal will produce damning headlines for months to come.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The scandal will produce damning headlines for months to come.
+The big oily.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The scandal will produce damning headlines for months to come.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The scandal will produce damning headlines for months to come.
+The bribery and corruption scandal alone, dubbed "Operation Car Wash," cost the company $2.1 billion.
+1 matches: scandal
+
+----------------
+
+sent_14:
+14 out of 19 sentences
+6 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Most of the 28 politicians named by Mr Costa enjoy parliamentary privilege; only the Supreme Court may try them.
+1 default entities: ORGANIZATION Supreme Court
+1 custom entities: ORGANIZATION Supreme Court
+
+Source Sentence and Source Headline Match:
+Most of the 28 politicians named by Mr Costa enjoy parliamentary privilege; only the Supreme Court may try them.
+The big oily.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Most of the 28 politicians named by Mr Costa enjoy parliamentary privilege; only the Supreme Court may try them.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Most of the 28 politicians named by Mr Costa enjoy parliamentary privilege; only the Supreme Court may try them.
+A wide-ranging corruption probe launched after the March 2014 arrest of Paulo Roberto Costa, Petrobras' former chief of refining.
+1 matches: costa
+
+----------------
+
+sent_15:
+15 out of 19 sentences
+6 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Shares in Petrobras have dropped by more than half since their peak in September (in part because of falling oil prices).
+2 default entities: GPE Shares, GPE Petrobras
+2 custom entities: GPE Shares, GPE Petrobras
+
+Source Sentence and Source Headline Match:
+Shares in Petrobras have dropped by more than half since their peak in September (in part because of falling oil prices).
+The big oily.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Shares in Petrobras have dropped by more than half since their peak in September (in part because of falling oil prices).
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+Shares in Petrobras have dropped by more than half since their peak in September (in part because of falling oil prices).
+In its first audited financial results since Aug. 2014, Petrobras reported on April 22 that it lost $8.8 billion in Q4 2014 due to corruption, oil price pressures, refinery cost overruns, and other factors.
+4 matches: price, since, petrobras, oil
+
+----------------
+
+sent_16:
+16 out of 19 sentences
+7 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Minority shareholders are furious.
+1 default entities: GPE Minority
+1 custom entities: GPE Minority
+
+Source Sentence and Source Headline Match:
+Minority shareholders are furious.
+The big oily.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Minority shareholders are furious.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_17:
+17 out of 19 sentences
+7 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+On December 24th the city of Providence, Rhode Island, one of several aggrieved investors, filed a case in New York naming Ms Rousseff as a potential witness.
+3 default entities: GPE Providence, PERSON Rhode Island, GPE New York
+2 custom entities: ORGANIZATION Providence Rhode, GPE New York
+
+Source Sentence and Source Headline Match:
+On December 24th the city of Providence, Rhode Island, one of several aggrieved investors, filed a case in New York naming Ms Rousseff as a potential witness.
+The big oily.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+On December 24th the city of Providence, Rhode Island, one of several aggrieved investors, filed a case in New York naming Ms Rousseff as a potential witness.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+On December 24th the city of Providence, Rhode Island, one of several aggrieved investors, filed a case in New York naming Ms Rousseff as a potential witness.
+On March 15, almost 1 million Brazilians marched in protests in more than 50 cities calling for the ouster of President Rousseff.
+2 matches: city, rousseff
+
+----------------
+
+sent_18:
+18 out of 19 sentences
+7 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Securities and Exchange Commission is investigating whether Petrobras violated anti-corruption laws.
+3 default entities: ORGANIZATION Securities, ORGANIZATION Exchange Commission, PERSON Petrobras
+3 custom entities: ORGANIZATION Securities, ORGANIZATION Exchange Commission, PERSON Petrobras
+
+Source Sentence and Source Headline Match:
+The Securities and Exchange Commission is investigating whether Petrobras violated anti-corruption laws.
+The big oily.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Securities and Exchange Commission is investigating whether Petrobras violated anti-corruption laws.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+The Securities and Exchange Commission is investigating whether Petrobras violated anti-corruption laws.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+1 matches: petrobras
+
+----------------
+
+sent_19:
+19 out of 19 sentences
+7 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Expect more storms in 2015.
+1 default entities: GPE Expect
+1 custom entities: GPE Expect
+
+Source Sentence and Source Headline Match:
+Expect more storms in 2015.
+The big oily.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Expect more storms in 2015.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Expect more storms in 2015.
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+1 matches: expect
+
+----------------
+

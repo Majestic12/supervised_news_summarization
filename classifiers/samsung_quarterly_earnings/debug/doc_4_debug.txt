@@ -1,0 +1,689 @@
+sent_1:
+1 out of 25 sentences
+1 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Smartphone Sales Slipped Amid Intense Competition.
+2 default entities: PERSON Smartphone, PERSON Sales Slipped Amid Intense
+2 custom entities: PERSON Smartphone, PERSON Sales Slipped Amid Intense
+
+Source Sentence and Source Headline Match:
+Smartphone Sales Slipped Amid Intense Competition.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Smartphone Sales Slipped Amid Intense Competition.
+Samsung net profit falls 39% from same quarter in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Smartphone Sales Slipped Amid Intense Competition.
+Samsung has been increasing its reliance on its display and semiconductor divisions in the face of increased smartphone competition.
+2 matches: smartphone, competition
+
+----------------
+
+sent_2:
+2 out of 25 sentences
+2 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Samsung Electronics Co. offered signs Thursday that the worst was likely over for its mobile division, as the company turns to mobile chips and cheaper smartphones to spur a recovery in profit.
+2 default entities: PERSON Samsung, ORGANIZATION Electronics
+2 custom entities: PERSON Samsung, ORGANIZATION Electronics Co
+
+Source Sentence and Source Headline Match:
+Samsung Electronics Co. offered signs Thursday that the worst was likely over for its mobile division, as the company turns to mobile chips and cheaper smartphones to spur a recovery in profit.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+3 matches: samsung, chip, mobile
+
+Source Sentence and Story Headline Match:
+Samsung Electronics Co. offered signs Thursday that the worst was likely over for its mobile division, as the company turns to mobile chips and cheaper smartphones to spur a recovery in profit.
+Samsung net profit falls 39% from same quarter in 2014.
+2 matches: samsung, profit
+
+Source Sentence and Best Story Sentence Match:
+Samsung Electronics Co. offered signs Thursday that the worst was likely over for its mobile division, as the company turns to mobile chips and cheaper smartphones to spur a recovery in profit.
+Samsung on April 10 released the Galaxy S6, which the company hopes can help turn around its struggling smartphone division.
+4 matches: turn, samsung, company, division
+
+----------------
+
+sent_3:
+3 out of 25 sentences
+3 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Samsung said its fourth-quarter profit fell to 5.35 trillion won ($4.9 billion), down 27% from a year earlier and marking a third straight quarter of decline as its mobile division’s operating profit plunged 64%.
+1 default entities: PERSON Samsung
+1 custom entities: PERSON Samsung
+
+Source Sentence and Source Headline Match:
+Samsung said its fourth-quarter profit fell to 5.35 trillion won ($4.9 billion), down 27% from a year earlier and marking a third straight quarter of decline as its mobile division’s operating profit plunged 64%.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+2 matches: samsung, mobile
+
+Source Sentence and Story Headline Match:
+Samsung said its fourth-quarter profit fell to 5.35 trillion won ($4.9 billion), down 27% from a year earlier and marking a third straight quarter of decline as its mobile division’s operating profit plunged 64%.
+Samsung net profit falls 39% from same quarter in 2014.
+3 matches: quarter, samsung, profit
+
+Source Sentence and Best Story Sentence Match:
+Samsung said its fourth-quarter profit fell to 5.35 trillion won ($4.9 billion), down 27% from a year earlier and marking a third straight quarter of decline as its mobile division’s operating profit plunged 64%.
+While Samsung did earn $4.9 billion in profit (down 27% from a year earlier), smartphone rival Apple earned $18 billion in profit.
+7 matches: samsung, billion, profit, 4.9, early, year, 27
+
+----------------
+
+sent_4:
+4 out of 25 sentences
+4 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The slide came amid intense competition.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The slide came amid intense competition.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The slide came amid intense competition.
+Samsung net profit falls 39% from same quarter in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The slide came amid intense competition.
+Samsung has been increasing its reliance on its display and semiconductor divisions in the face of increased smartphone competition.
+1 matches: competition
+
+----------------
+
+sent_5:
+5 out of 25 sentences
+4 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Data from researchers showed Samsung lost significant smartphone market share in key markets, including China, following rival Apple Inc.’s launch last September of bigger-screen iPhones that have sold well globally.
+4 default entities: GPE Data, PERSON Samsung, GPE China, PERSON Apple Inc.
+4 custom entities: GPE Data, PERSON Samsung, GPE China, PERSON Apple
+
+Source Sentence and Source Headline Match:
+Data from researchers showed Samsung lost significant smartphone market share in key markets, including China, following rival Apple Inc.’s launch last September of bigger-screen iPhones that have sold well globally.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+1 matches: samsung
+
+Source Sentence and Story Headline Match:
+Data from researchers showed Samsung lost significant smartphone market share in key markets, including China, following rival Apple Inc.’s launch last September of bigger-screen iPhones that have sold well globally.
+Samsung net profit falls 39% from same quarter in 2014.
+1 matches: samsung
+
+Source Sentence and Best Story Sentence Match:
+Data from researchers showed Samsung lost significant smartphone market share in key markets, including China, following rival Apple Inc.’s launch last September of bigger-screen iPhones that have sold well globally.
+While Samsung did earn $4.9 billion in profit (down 27% from a year earlier), smartphone rival Apple earned $18 billion in profit.
+4 matches: samsung, smartphone, apple, rival
+
+----------------
+
+sent_6:
+6 out of 25 sentences
+5 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Data tracker Counterpoint Technology Market Research said that Samsung fell to fifth place among mobile-phone manufacturers in China in the fourth quarter, with just 9% of smartphone sales.
+4 default entities: GPE Data, PERSON Market Research, PERSON Samsung, GPE China
+4 custom entities: GPE Data, PERSON Market Research, PERSON Samsung, GPE China
+
+Source Sentence and Source Headline Match:
+Data tracker Counterpoint Technology Market Research said that Samsung fell to fifth place among mobile-phone manufacturers in China in the fourth quarter, with just 9% of smartphone sales.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+1 matches: samsung
+
+Source Sentence and Story Headline Match:
+Data tracker Counterpoint Technology Market Research said that Samsung fell to fifth place among mobile-phone manufacturers in China in the fourth quarter, with just 9% of smartphone sales.
+Samsung net profit falls 39% from same quarter in 2014.
+2 matches: quarter, samsung
+
+Source Sentence and Best Story Sentence Match:
+Data tracker Counterpoint Technology Market Research said that Samsung fell to fifth place among mobile-phone manufacturers in China in the fourth quarter, with just 9% of smartphone sales.
+Samsung in Q2 2014 was overtaken by Chinese smartphone maker Xioami (pictured) as the top smartphone vendor in China.
+3 matches: samsung, smartphone, china
+
+----------------
+
+sent_7:
+7 out of 25 sentences
+5 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A year earlier, Samsung had 17% of the market, but has been surpassed by market leader Apple, as well as Chinese rivals Xiaomi Corp., Lenovo Group Ltd. and Huawei Technologies Co.
+6 default entities: PERSON Samsung, PERSON Apple, GPE Chinese, PERSON Xiaomi Corp., PERSON Lenovo Group, ORGANIZATION Huawei Technologies Co
+5 custom entities: PERSON Samsung, PERSON Apple, GPE Chinese, PERSON Xiaomi Corp Lenovo Group Ltd, ORGANIZATION Huawei Technologies Co
+
+Source Sentence and Source Headline Match:
+A year earlier, Samsung had 17% of the market, but has been surpassed by market leader Apple, as well as Chinese rivals Xiaomi Corp., Lenovo Group Ltd. and Huawei Technologies Co.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+1 matches: samsung
+
+Source Sentence and Story Headline Match:
+A year earlier, Samsung had 17% of the market, but has been surpassed by market leader Apple, as well as Chinese rivals Xiaomi Corp., Lenovo Group Ltd. and Huawei Technologies Co.
+Samsung net profit falls 39% from same quarter in 2014.
+1 matches: samsung
+
+Source Sentence and Best Story Sentence Match:
+A year earlier, Samsung had 17% of the market, but has been surpassed by market leader Apple, as well as Chinese rivals Xiaomi Corp., Lenovo Group Ltd. and Huawei Technologies Co.
+While Samsung did earn $4.9 billion in profit (down 27% from a year earlier), smartphone rival Apple earned $18 billion in profit.
+5 matches: samsung, year, apple, early, rival
+
+----------------
+
+sent_8:
+8 out of 25 sentences
+6 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But Samsung managed to limit the damage to profit margin at the company’s mobile division, which clocked in at 7.5%.
+1 default entities: PERSON Samsung
+1 custom entities: PERSON Samsung
+
+Source Sentence and Source Headline Match:
+But Samsung managed to limit the damage to profit margin at the company’s mobile division, which clocked in at 7.5%.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+2 matches: samsung, mobile
+
+Source Sentence and Story Headline Match:
+But Samsung managed to limit the damage to profit margin at the company’s mobile division, which clocked in at 7.5%.
+Samsung net profit falls 39% from same quarter in 2014.
+2 matches: samsung, profit
+
+Source Sentence and Best Story Sentence Match:
+But Samsung managed to limit the damage to profit margin at the company’s mobile division, which clocked in at 7.5%.
+Its operating profit was $5.64 billion, down 29.6% year-on-year, with operating profit from its mobile division down 57%.
+3 matches: division, mobile, profit
+
+----------------
+
+sent_9:
+9 out of 25 sentences
+6 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+While that is a far cry from the almost 20% profit margin that the mobile division enjoyed for several years, it is a slight improvement from the previous quarter’s 7.1%.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+While that is a far cry from the almost 20% profit margin that the mobile division enjoyed for several years, it is a slight improvement from the previous quarter’s 7.1%.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+1 matches: mobile
+
+Source Sentence and Story Headline Match:
+While that is a far cry from the almost 20% profit margin that the mobile division enjoyed for several years, it is a slight improvement from the previous quarter’s 7.1%.
+Samsung net profit falls 39% from same quarter in 2014.
+1 matches: profit
+
+Source Sentence and Best Story Sentence Match:
+While that is a far cry from the almost 20% profit margin that the mobile division enjoyed for several years, it is a slight improvement from the previous quarter’s 7.1%.
+Its operating profit was $5.64 billion, down 29.6% year-on-year, with operating profit from its mobile division down 57%.
+3 matches: division, mobile, profit
+
+----------------
+
+sent_10:
+10 out of 25 sentences
+7 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The 27% decline in fourth-quarter net profit from a year earlier was also an improvement from the 49% year-over-year slump the company suffered in the third quarter.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The 27% decline in fourth-quarter net profit from a year earlier was also an improvement from the 49% year-over-year slump the company suffered in the third quarter.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The 27% decline in fourth-quarter net profit from a year earlier was also an improvement from the 49% year-over-year slump the company suffered in the third quarter.
+Samsung net profit falls 39% from same quarter in 2014.
+3 matches: net, quarter, profit
+
+Source Sentence and Best Story Sentence Match:
+The 27% decline in fourth-quarter net profit from a year earlier was also an improvement from the 49% year-over-year slump the company suffered in the third quarter.
+While Samsung did earn $4.9 billion in profit (down 27% from a year earlier), smartphone rival Apple earned $18 billion in profit.
+4 matches: early, year, 27, profit
+
+----------------
+
+sent_11:
+11 out of 25 sentences
+8 out of 15 paragraphs
+Tagged as a quote
+
+Sentence:
+Robert Yi, the company’s head of investor relations, said on a conference call with analysts that 2015 would be a year of “stability, recovery or growth” among its various businesses.
+1 default entities: PERSON Robert Yi
+1 custom entities: PERSON Robert
+
+Source Sentence and Source Headline Match:
+Robert Yi, the company’s head of investor relations, said on a conference call with analysts that 2015 would be a year of “stability, recovery or growth” among its various businesses.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Robert Yi, the company’s head of investor relations, said on a conference call with analysts that 2015 would be a year of “stability, recovery or growth” among its various businesses.
+Samsung net profit falls 39% from same quarter in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Robert Yi, the company’s head of investor relations, said on a conference call with analysts that 2015 would be a year of “stability, recovery or growth” among its various businesses.
+Samsung will freeze the salaries of all employees in South Korea this year because business conditions are "not optimistic," the company said Feb. 26.
+3 matches: business, year, say
+
+----------------
+
+sent_12:
+12 out of 25 sentences
+9 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Samsung, meanwhile, lifted its 2014 dividend by 40%, its latest move to appease shareholders and government regulators who have called on South Korea’s biggest companies to loosen their grip on their cash.
+2 default entities: GPE Samsung, GPE South Korea
+2 custom entities: PERSON Samsung, GPE South
+
+Source Sentence and Source Headline Match:
+Samsung, meanwhile, lifted its 2014 dividend by 40%, its latest move to appease shareholders and government regulators who have called on South Korea’s biggest companies to loosen their grip on their cash.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+1 matches: samsung
+
+Source Sentence and Story Headline Match:
+Samsung, meanwhile, lifted its 2014 dividend by 40%, its latest move to appease shareholders and government regulators who have called on South Korea’s biggest companies to loosen their grip on their cash.
+Samsung net profit falls 39% from same quarter in 2014.
+2 matches: samsung, 2014
+
+Source Sentence and Best Story Sentence Match:
+Samsung, meanwhile, lifted its 2014 dividend by 40%, its latest move to appease shareholders and government regulators who have called on South Korea’s biggest companies to loosen their grip on their cash.
+Samsung will freeze the salaries of all employees in South Korea this year because business conditions are "not optimistic," the company said Feb. 26.
+3 matches: samsung, south, company
+
+----------------
+
+sent_13:
+13 out of 25 sentences
+9 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Executives said on the call that it was too soon to offer guidance on dividends for 2015.
+1 default entities: PERSON Executives
+1 custom entities: PERSON Executives
+
+Source Sentence and Source Headline Match:
+Executives said on the call that it was too soon to offer guidance on dividends for 2015.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Executives said on the call that it was too soon to offer guidance on dividends for 2015.
+Samsung net profit falls 39% from same quarter in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Executives said on the call that it was too soon to offer guidance on dividends for 2015.
+Samsung posted its Q1 2015 results April 29.
+1 matches: 2015
+
+----------------
+
+sent_14:
+14 out of 25 sentences
+10 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The company is pinning its hopes on new phones and processing chips in smartphones to reverse its fortunes as it readies its new flagship phone for launch.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The company is pinning its hopes on new phones and processing chips in smartphones to reverse its fortunes as it readies its new flagship phone for launch.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+3 matches: chip, hope, phone
+
+Source Sentence and Story Headline Match:
+The company is pinning its hopes on new phones and processing chips in smartphones to reverse its fortunes as it readies its new flagship phone for launch.
+Samsung net profit falls 39% from same quarter in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The company is pinning its hopes on new phones and processing chips in smartphones to reverse its fortunes as it readies its new flagship phone for launch.
+One analyst said the new division suggests the two companies are getting along better than they had in the past."
+2 matches: company, new
+
+----------------
+
+sent_15:
+15 out of 25 sentences
+10 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Analysts expect a modest recovery in the company’s bottom line this year on demand for its memory chips and processors.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Analysts expect a modest recovery in the company’s bottom line this year on demand for its memory chips and processors.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+1 matches: chip
+
+Source Sentence and Story Headline Match:
+Analysts expect a modest recovery in the company’s bottom line this year on demand for its memory chips and processors.
+Samsung net profit falls 39% from same quarter in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Analysts expect a modest recovery in the company’s bottom line this year on demand for its memory chips and processors.
+However, Samsung said that its chip business will "see demand" moving forward.
+2 matches: chip, demand
+
+----------------
+
+sent_16:
+16 out of 25 sentences
+11 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Samsung could start rolling out a successor to its Galaxy S5 model as early as March, analysts say, in a bid to bolster smartphone sales.
+3 default entities: PERSON Samsung, PERSON Galaxy S5, PERSON March
+2 custom entities: PERSON Samsung, PERSON Galaxy S5
+
+Source Sentence and Source Headline Match:
+Samsung could start rolling out a successor to its Galaxy S5 model as early as March, analysts say, in a bid to bolster smartphone sales.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+1 matches: samsung
+
+Source Sentence and Story Headline Match:
+Samsung could start rolling out a successor to its Galaxy S5 model as early as March, analysts say, in a bid to bolster smartphone sales.
+Samsung net profit falls 39% from same quarter in 2014.
+1 matches: samsung
+
+Source Sentence and Best Story Sentence Match:
+Samsung could start rolling out a successor to its Galaxy S5 model as early as March, analysts say, in a bid to bolster smartphone sales.
+Samsung on April 10 released the Galaxy S6, which the company hopes can help turn around its struggling smartphone division.
+3 matches: samsung, smartphone, galaxy
+
+----------------
+
+sent_17:
+17 out of 25 sentences
+11 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A large number of the new phones could come equipped with an internally designed mobile processor, said a person familiar with the matter, unlike previous models that relied heavily on processors from Qualcomm Inc.
+1 default entities: ORGANIZATION Qualcomm Inc
+1 custom entities: ORGANIZATION Qualcomm Inc
+
+Source Sentence and Source Headline Match:
+A large number of the new phones could come equipped with an internally designed mobile processor, said a person familiar with the matter, unlike previous models that relied heavily on processors from Qualcomm Inc.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+2 matches: phone, mobile
+
+Source Sentence and Story Headline Match:
+A large number of the new phones could come equipped with an internally designed mobile processor, said a person familiar with the matter, unlike previous models that relied heavily on processors from Qualcomm Inc.
+Samsung net profit falls 39% from same quarter in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+A large number of the new phones could come equipped with an internally designed mobile processor, said a person familiar with the matter, unlike previous models that relied heavily on processors from Qualcomm Inc.
+"Bloomberg reported April 15, citing a person with 'direct knowledge' of the matter, that Samsung earlier this month created a division that's dedicated to working with Apple to create displays for that company's devices.
+2 matches: person, matter
+
+----------------
+
+sent_18:
+18 out of 25 sentences
+12 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The change will help Samsung lift its mobile profit—albeit modestly—and boost the chip unit that makes mobile processors, analysts say.
+1 default entities: PERSON Samsung
+1 custom entities: PERSON Samsung
+
+Source Sentence and Source Headline Match:
+The change will help Samsung lift its mobile profit—albeit modestly—and boost the chip unit that makes mobile processors, analysts say.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+3 matches: samsung, chip, mobile
+
+Source Sentence and Story Headline Match:
+The change will help Samsung lift its mobile profit—albeit modestly—and boost the chip unit that makes mobile processors, analysts say.
+Samsung net profit falls 39% from same quarter in 2014.
+1 matches: samsung
+
+Source Sentence and Best Story Sentence Match:
+The change will help Samsung lift its mobile profit—albeit modestly—and boost the chip unit that makes mobile processors, analysts say.
+However, Samsung said that its chip business will "see demand" moving forward.
+3 matches: samsung, chip, say
+
+----------------
+
+sent_19:
+19 out of 25 sentences
+13 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Samsung has been cutting costs to protect its profit margins.
+1 default entities: GPE Samsung
+1 custom entities: GPE Samsung
+
+Source Sentence and Source Headline Match:
+Samsung has been cutting costs to protect its profit margins.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+1 matches: samsung
+
+Source Sentence and Story Headline Match:
+Samsung has been cutting costs to protect its profit margins.
+Samsung net profit falls 39% from same quarter in 2014.
+2 matches: samsung, profit
+
+Source Sentence and Best Story Sentence Match:
+Samsung has been cutting costs to protect its profit margins.
+While Samsung did earn $4.9 billion in profit (down 27% from a year earlier), smartphone rival Apple earned $18 billion in profit.
+2 matches: samsung, profit
+
+----------------
+
+sent_20:
+20 out of 25 sentences
+13 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+On Tuesday, it said it was expanding a cellphone manufacturing plant in the northern Indian city of Noida.
+2 default entities: GPE Indian, GPE Noida
+2 custom entities: GPE Indian, GPE Noida
+
+Source Sentence and Source Headline Match:
+On Tuesday, it said it was expanding a cellphone manufacturing plant in the northern Indian city of Noida.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+On Tuesday, it said it was expanding a cellphone manufacturing plant in the northern Indian city of Noida.
+Samsung net profit falls 39% from same quarter in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+On Tuesday, it said it was expanding a cellphone manufacturing plant in the northern Indian city of Noida.
+However, Samsung said that its chip business will "see demand" moving forward.
+1 matches: say
+
+----------------
+
+sent_21:
+21 out of 25 sentences
+13 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Indian facility will oversee production of Samsung’s new Z1 smartphone, which its first to be powered by its homegrown operating system, Tizen, an alternative to Google Inc.’s Android platform.
+5 default entities: GPE Indian, ORGANIZATION Samsung, PERSON Tizen, ORGANIZATION Google Inc., PERSON Android
+2 custom entities: GPE Indian, PERSON Google
+
+Source Sentence and Source Headline Match:
+The Indian facility will oversee production of Samsung’s new Z1 smartphone, which its first to be powered by its homegrown operating system, Tizen, an alternative to Google Inc.’s Android platform.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The Indian facility will oversee production of Samsung’s new Z1 smartphone, which its first to be powered by its homegrown operating system, Tizen, an alternative to Google Inc.’s Android platform.
+Samsung net profit falls 39% from same quarter in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The Indian facility will oversee production of Samsung’s new Z1 smartphone, which its first to be powered by its homegrown operating system, Tizen, an alternative to Google Inc.’s Android platform.
+Samsung has been increasing its reliance on its display and semiconductor divisions in the face of increased smartphone competition.
+1 matches: smartphone
+
+----------------
+
+sent_22:
+22 out of 25 sentences
+14 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The company said it sold 95 million handsets in the fourth quarter, of which 71 million to 76 million of them were smartphones.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The company said it sold 95 million handsets in the fourth quarter, of which 71 million to 76 million of them were smartphones.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The company said it sold 95 million handsets in the fourth quarter, of which 71 million to 76 million of them were smartphones.
+Samsung net profit falls 39% from same quarter in 2014.
+1 matches: quarter
+
+Source Sentence and Best Story Sentence Match:
+The company said it sold 95 million handsets in the fourth quarter, of which 71 million to 76 million of them were smartphones.
+"In the second quarter, the company expects its overall earnings to increase compared to the previous quarter."
+2 matches: quarter, company
+
+----------------
+
+sent_23:
+23 out of 25 sentences
+14 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Rival Apple sold 74.5 million iPhones in its fiscal first quarter, up 46% from a year earlier.
+2 default entities: PERSON Rival, PERSON Apple
+2 custom entities: PERSON Rival, PERSON Apple
+
+Source Sentence and Source Headline Match:
+Rival Apple sold 74.5 million iPhones in its fiscal first quarter, up 46% from a year earlier.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Rival Apple sold 74.5 million iPhones in its fiscal first quarter, up 46% from a year earlier.
+Samsung net profit falls 39% from same quarter in 2014.
+1 matches: quarter
+
+Source Sentence and Best Story Sentence Match:
+Rival Apple sold 74.5 million iPhones in its fiscal first quarter, up 46% from a year earlier.
+While Samsung did earn $4.9 billion in profit (down 27% from a year earlier), smartphone rival Apple earned $18 billion in profit.
+4 matches: year, apple, early, rival
+
+----------------
+
+sent_24:
+24 out of 25 sentences
+15 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Fourth-quarter operating profit fell 36% to 5.3 trillion won on an 11% drop in revenue to 52.7 trillion won, Samsung said.
+1 default entities: PERSON Samsung
+1 custom entities: PERSON Samsung
+
+Source Sentence and Source Headline Match:
+Fourth-quarter operating profit fell 36% to 5.3 trillion won on an 11% drop in revenue to 52.7 trillion won, Samsung said.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+1 matches: samsung
+
+Source Sentence and Story Headline Match:
+Fourth-quarter operating profit fell 36% to 5.3 trillion won on an 11% drop in revenue to 52.7 trillion won, Samsung said.
+Samsung net profit falls 39% from same quarter in 2014.
+2 matches: samsung, profit
+
+Source Sentence and Best Story Sentence Match:
+Fourth-quarter operating profit fell 36% to 5.3 trillion won on an 11% drop in revenue to 52.7 trillion won, Samsung said.
+Its operating profit was $5.64 billion, down 29.6% year-on-year, with operating profit from its mobile division down 57%.
+2 matches: operating, profit
+
+----------------
+
+sent_25:
+25 out of 25 sentences
+15 out of 15 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The figures were in line with the company’s previous guidance.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The figures were in line with the company’s previous guidance.
+Samsung Pegs Rebound Hopes on Mobile Chips, Cheaper Phones.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The figures were in line with the company’s previous guidance.
+Samsung net profit falls 39% from same quarter in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The figures were in line with the company’s previous guidance.
+"In the second quarter, the company expects its overall earnings to increase compared to the previous quarter."
+1 matches: previous
+
+----------------
+

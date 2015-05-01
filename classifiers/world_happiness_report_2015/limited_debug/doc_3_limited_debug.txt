@@ -1,0 +1,138 @@
+sent_1:
+
+Happiness scores rose worldwide, but not in the USA or countries hit hard by economic and political upheaval.
+The UN's Sustainable Development Solutions Network, in partnership with Columbia University's Earth Institute, released the third annual "World Happiness Report" on April 23 for 158 countries.
+2 best matches: country, happiness
+
+----------------
+sent_2:
+
+no story sentence best matches found
+
+----------------
+sent_3:
+
+Americans are not the happiest people on earth, but we do rank a respectable No.
+The UN's Sustainable Development Solutions Network, in partnership with Columbia University's Earth Institute, released the third annual "World Happiness Report" on April 23 for 158 countries.
+1 best matches: earth
+
+----------------
+sent_4:
+
+17, among 156 countries evaluated for a new United Nations report.
+The third annual World Happiness Report has been released by the United Nations.
+3 best matches: report, nation, united
+
+----------------
+sent_5:
+
+The second annual World Happiness Report, released Monday, finds the highest levels of happiness in Denmark, Norway, Switzerland, the Netherlands and Sweden, all in northern Europe.
+The third annual World Happiness Report has been released by the United Nations.
+5 best matches: release, report, world, annual, happiness
+
+----------------
+sent_6:
+
+The lowest ranked were Rwanda, Burundi, the Central African Republic, Benin and Togo, all in Africa.
+The least happy nations in the world, according the report, are Togo, Burundi, Benin, Rwanda, and Syria.
+4 best matches: benin, togo, rwanda, burundi
+
+----------------
+sent_7:
+
+The report, from the U.N.
+The third annual World Happiness Report has been released by the United Nations.
+1 best matches: report
+
+----------------
+sent_8:
+
+Sustainable Development Solutions Network, is based on how people around the world rate their overall satisfaction with life, not just on how they feel at any moment.
+The UN's Sustainable Development Solutions Network, in partnership with Columbia University's Earth Institute, released the third annual "World Happiness Report" on April 23 for 158 countries.
+5 best matches: sustainable, solution, world, development, network
+
+----------------
+sent_9:
+
+It shows that while economic conditions matter, factors such as life expectancy, freedom and social support do, too.
+The report endeavors to measure overall life satisfaction country-by-country, factoring in conditions such as freedom, life expectancy and social support services.
+7 best matches: support, freedom, expectancy, factor, condition, life, social
+
+----------------
+sent_10:
+
+The report says human happiness should be a more important part of how we measure nation-by-nation progress.
+The third annual World Happiness Report has been released by the United Nations.
+2 best matches: report, happiness
+
+----------------
+sent_11:
+
+"There is now a rising worldwide demand that policy be more closely aligned with what really matters to people, as they themselves characterize their well-being," report co-editor Jeffrey Sachs said in a statement.
+They reflect a new worldwide demand for more attention to happiness as a criteria for government policy."
+3 best matches: worldwide, policy, demand
+
+----------------
+sent_12:
+
+Sachs is director of the Earth Institute at Columbia University, New York.
+The UN's Sustainable Development Solutions Network, in partnership with Columbia University's Earth Institute, released the third annual "World Happiness Report" on April 23 for 158 countries.
+3 best matches: earth, columbia, institute
+
+----------------
+sent_13:
+
+And the world may be getting just a little happier: Data for the new report, collected between 2010 and 2012, showed overall increases in happiness from the first round, collected between 2005 and 2011.
+"The reports review the state of happiness in the world today and show how the new science of happiness explains personal and national variations in happiness.
+5 best matches: report, show, world, happiness, new
+
+----------------
+sent_14:
+
+Happiness was up most in Latin America and sub-Saharan Africa, but down in countries struck by economic upheaval (Greece, Italy, Portugal and Spain) or political convulsions (Egypt).
+The UN's Sustainable Development Solutions Network, in partnership with Columbia University's Earth Institute, released the third annual "World Happiness Report" on April 23 for 158 countries.
+2 best matches: country, happiness
+
+----------------
+sent_15:
+
+Happiness in the United States fell slightly, but Americans remained happier than people in the United Kingdom (ranked 22nd), France (25th) or Japan (43rd).
+The third annual World Happiness Report has been released by the United Nations.
+2 best matches: united, happiness
+
+----------------
+sent_16:
+
+Countries ranked higher than the USA include Canada (6th), Costa Rica (12th) and Mexico (16th).
+The UN's Sustainable Development Solutions Network, in partnership with Columbia University's Earth Institute, released the third annual "World Happiness Report" on April 23 for 158 countries.
+1 best matches: country
+
+----------------
+sent_17:
+
+One reason the USA lags behind leading countries is "a relatively mediocre life expectancy," Sachs said in an e-mail.
+The report endeavors to measure overall life satisfaction country-by-country, factoring in conditions such as freedom, life expectancy and social support services.
+2 best matches: life, expectancy
+
+----------------
+sent_18:
+
+The USA also lost points, and fell from 11th to 17th, because of perceived declines in "freedom to make life choices," which might be linked to poverty or unemployment, he said.
+The report endeavors to measure overall life satisfaction country-by-country, factoring in conditions such as freedom, life expectancy and social support services.
+2 best matches: freedom, life
+
+----------------
+sent_19:
+
+The report notes that mental illnesses, such as depression and anxiety, are major contributors to unhappiness around the world.
+The third annual World Happiness Report has been released by the United Nations.
+2 best matches: report, world
+
+----------------
+sent_20:
+
+But it says that, even in rich countries, fewer than a third of people with such illnesses are in treatment.
+The UN's Sustainable Development Solutions Network, in partnership with Columbia University's Earth Institute, released the third annual "World Happiness Report" on April 23 for 158 countries.
+2 best matches: third, country
+
+----------------

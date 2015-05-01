@@ -1,0 +1,357 @@
+sent_1:
+1 out of 13 sentences
+1 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Brazil had its investment grade status affirmed by Standard & Poor’s, which last year gave the country its first sovereign downgrade in more than a decade.
+3 default entities: PERSON Brazil, PERSON Standard, PERSON Poor
+2 custom entities: PERSON Brazil, PERSON Standard
+
+Source Sentence and Source Headline Match:
+Brazil had its investment grade status affirmed by Standard & Poor’s, which last year gave the country its first sovereign downgrade in more than a decade.
+S&P Affirms Brazil Rating as Fiscal Measures to Boost Confidence.
+1 matches: brazil
+
+Source Sentence and Story Headline Match:
+Brazil had its investment grade status affirmed by Standard & Poor’s, which last year gave the country its first sovereign downgrade in more than a decade.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Brazil had its investment grade status affirmed by Standard & Poor’s, which last year gave the country its first sovereign downgrade in more than a decade.
+Credit ratings firm Standard & Poor's on March 23 cut its outlook on Petrobras to negative from stable after affirming the company's BBB-, or "junk," status.
+2 matches: standard, status
+
+----------------
+
+sent_2:
+2 out of 13 sentences
+2 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+S&P affirmed the nation at BBB-, the lowest investment grade, the ratings company said in a statement Monday.
+1 default entities: PERSON P
+1 custom entities: ORGANIZATION BBB
+
+Source Sentence and Source Headline Match:
+S&P affirmed the nation at BBB-, the lowest investment grade, the ratings company said in a statement Monday.
+S&P Affirms Brazil Rating as Fiscal Measures to Boost Confidence.
+2 matches: rating, s&p
+
+Source Sentence and Story Headline Match:
+S&P affirmed the nation at BBB-, the lowest investment grade, the ratings company said in a statement Monday.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+S&P affirmed the nation at BBB-, the lowest investment grade, the ratings company said in a statement Monday.
+Bern-based federal prosecutors said in a March 18 statement that the frozen assets were identified in more than 300 accounts in 30 banks and were used for bribery in Brazil.
+2 matches: say, statement
+
+----------------
+
+sent_3:
+3 out of 13 sentences
+2 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The outlook is stable.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The outlook is stable.
+S&P Affirms Brazil Rating as Fiscal Measures to Boost Confidence.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The outlook is stable.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The outlook is stable.
+Credit ratings firm Standard & Poor's on March 23 cut its outlook on Petrobras to negative from stable after affirming the company's BBB-, or "junk," status.
+2 matches: stable, outlook
+
+----------------
+
+sent_4:
+4 out of 13 sentences
+3 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+While Brazil’s economic growth outlook and fiscal debt numbers have weakened over the last year, S&P expects President Dilma Rousseff to continue implementing fiscal measures to shrink a record budget deficit and restore investor confidence.
+3 default entities: PERSON Brazil, PERSON P, PERSON Dilma Rousseff
+1 custom entities: PERSON Dilma Rousseff
+
+Source Sentence and Source Headline Match:
+While Brazil’s economic growth outlook and fiscal debt numbers have weakened over the last year, S&P expects President Dilma Rousseff to continue implementing fiscal measures to shrink a record budget deficit and restore investor confidence.
+S&P Affirms Brazil Rating as Fiscal Measures to Boost Confidence.
+4 matches: measure, s&p, fiscal, confidence
+
+Source Sentence and Story Headline Match:
+While Brazil’s economic growth outlook and fiscal debt numbers have weakened over the last year, S&P expects President Dilma Rousseff to continue implementing fiscal measures to shrink a record budget deficit and restore investor confidence.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+While Brazil’s economic growth outlook and fiscal debt numbers have weakened over the last year, S&P expects President Dilma Rousseff to continue implementing fiscal measures to shrink a record budget deficit and restore investor confidence.
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+2 matches: expect, year
+
+----------------
+
+sent_5:
+5 out of 13 sentences
+3 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+S&P says the correction in policy direction will pave the way for stronger growth, and forecasts a 2 percent expansion for Latin’s America largest economy following a 1 percent contraction in 2015.
+3 default entities: PERSON P, PERSON Latin, ORGANIZATION America
+1 custom entities: GPE America
+
+Source Sentence and Source Headline Match:
+S&P says the correction in policy direction will pave the way for stronger growth, and forecasts a 2 percent expansion for Latin’s America largest economy following a 1 percent contraction in 2015.
+S&P Affirms Brazil Rating as Fiscal Measures to Boost Confidence.
+1 matches: s&p
+
+Source Sentence and Story Headline Match:
+S&P says the correction in policy direction will pave the way for stronger growth, and forecasts a 2 percent expansion for Latin’s America largest economy following a 1 percent contraction in 2015.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+S&P says the correction in policy direction will pave the way for stronger growth, and forecasts a 2 percent expansion for Latin’s America largest economy following a 1 percent contraction in 2015.
+Petrobras said on April 1 that it had taken $3.5 billion in financing from China Development Bank.
+2 matches: say, 1
+
+----------------
+
+sent_6:
+6 out of 13 sentences
+4 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+“Rousseff faces an extremely challenging political and economic backdrop,” analysts led by Lisa Schineller wrote.
+1 default entities: PERSON Lisa Schineller
+2 custom entities: GPE Rousseff, PERSON Lisa Schineller
+
+Source Sentence and Source Headline Match:
+“Rousseff faces an extremely challenging political and economic backdrop,” analysts led by Lisa Schineller wrote.
+S&P Affirms Brazil Rating as Fiscal Measures to Boost Confidence.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“Rousseff faces an extremely challenging political and economic backdrop,” analysts led by Lisa Schineller wrote.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“Rousseff faces an extremely challenging political and economic backdrop,” analysts led by Lisa Schineller wrote.
+Protesters insist Rousseff must have known about the accusations of corruption and political bribes at Petrobras while she chaired its board.
+2 matches: rousseff, political
+
+----------------
+
+sent_7:
+7 out of 13 sentences
+4 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+“However, at the same time, economic policy signaling has changed markedly, which was not part of our base-case expectations.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“However, at the same time, economic policy signaling has changed markedly, which was not part of our base-case expectations.
+S&P Affirms Brazil Rating as Fiscal Measures to Boost Confidence.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“However, at the same time, economic policy signaling has changed markedly, which was not part of our base-case expectations.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“However, at the same time, economic policy signaling has changed markedly, which was not part of our base-case expectations.
+Details were not given other than that the money is part of a two-year cooperation agreement.
+1 matches: part
+
+----------------
+
+sent_8:
+8 out of 13 sentences
+4 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+A broad-based correction in policy is under way.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+A broad-based correction in policy is under way.”
+S&P Affirms Brazil Rating as Fiscal Measures to Boost Confidence.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+A broad-based correction in policy is under way.”
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_9:
+9 out of 13 sentences
+5 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+After being elected for a second term by the smallest margin in at least 45 years, Rousseff appointed a new economic team led by Joaquim Levy.
+2 default entities: PERSON Rousseff, PERSON Joaquim Levy
+2 custom entities: PERSON Rousseff, PERSON Joaquim Levy
+
+Source Sentence and Source Headline Match:
+After being elected for a second term by the smallest margin in at least 45 years, Rousseff appointed a new economic team led by Joaquim Levy.
+S&P Affirms Brazil Rating as Fiscal Measures to Boost Confidence.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+After being elected for a second term by the smallest margin in at least 45 years, Rousseff appointed a new economic team led by Joaquim Levy.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+After being elected for a second term by the smallest margin in at least 45 years, Rousseff appointed a new economic team led by Joaquim Levy.
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+2 matches: year, second
+
+----------------
+
+sent_10:
+10 out of 13 sentences
+5 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The government is facing opposition as it tries to implement austerity measures to stop gross debt, which last year surged to 63 percent of gross domestic product from 57 percent in 2013, from expanding.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The government is facing opposition as it tries to implement austerity measures to stop gross debt, which last year surged to 63 percent of gross domestic product from 57 percent in 2013, from expanding.
+S&P Affirms Brazil Rating as Fiscal Measures to Boost Confidence.
+1 matches: measure
+
+Source Sentence and Story Headline Match:
+The government is facing opposition as it tries to implement austerity measures to stop gross debt, which last year surged to 63 percent of gross domestic product from 57 percent in 2013, from expanding.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The government is facing opposition as it tries to implement austerity measures to stop gross debt, which last year surged to 63 percent of gross domestic product from 57 percent in 2013, from expanding.
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+1 matches: year
+
+----------------
+
+sent_11:
+11 out of 13 sentences
+6 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+S&P cut Brazil one step on March 2014, saying sluggish economic expansion and Rousseff’s expansionary fiscal policies were fueling an increase in debt levels.
+3 default entities: PERSON P, ORGANIZATION Brazil, PERSON Rousseff
+1 custom entities: ORGANIZATION Brazil
+
+Source Sentence and Source Headline Match:
+S&P cut Brazil one step on March 2014, saying sluggish economic expansion and Rousseff’s expansionary fiscal policies were fueling an increase in debt levels.
+S&P Affirms Brazil Rating as Fiscal Measures to Boost Confidence.
+3 matches: s&p, brazil, fiscal
+
+Source Sentence and Story Headline Match:
+S&P cut Brazil one step on March 2014, saying sluggish economic expansion and Rousseff’s expansionary fiscal policies were fueling an increase in debt levels.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: 2014
+
+Source Sentence and Best Story Sentence Match:
+S&P cut Brazil one step on March 2014, saying sluggish economic expansion and Rousseff’s expansionary fiscal policies were fueling an increase in debt levels.
+Bern-based federal prosecutors said in a March 18 statement that the frozen assets were identified in more than 300 accounts in 30 banks and were used for bribery in Brazil.
+3 matches: say, brazil, march
+
+----------------
+
+sent_12:
+12 out of 13 sentences
+6 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Moody’s Investors Service, which rates Brazil one level higher at Baa2, put the country on negative outlook in September.
+3 default entities: GPE Moody, ORGANIZATION Investors Service, ORGANIZATION Baa2
+1 custom entities: ORGANIZATION Baa2
+
+Source Sentence and Source Headline Match:
+Moody’s Investors Service, which rates Brazil one level higher at Baa2, put the country on negative outlook in September.
+S&P Affirms Brazil Rating as Fiscal Measures to Boost Confidence.
+1 matches: brazil
+
+Source Sentence and Story Headline Match:
+Moody’s Investors Service, which rates Brazil one level higher at Baa2, put the country on negative outlook in September.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Moody’s Investors Service, which rates Brazil one level higher at Baa2, put the country on negative outlook in September.
+Credit ratings firm Standard & Poor's on March 23 cut its outlook on Petrobras to negative from stable after affirming the company's BBB-, or "junk," status.
+2 matches: negative, outlook
+
+----------------
+
+sent_13:
+13 out of 13 sentences
+7 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+S&P said it expects the government to present a medium-term growth agenda later this year, which would help boost business sentiment, the analysts wrote.
+1 default entities: PERSON P
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+S&P said it expects the government to present a medium-term growth agenda later this year, which would help boost business sentiment, the analysts wrote.
+S&P Affirms Brazil Rating as Fiscal Measures to Boost Confidence.
+2 matches: boost, s&p
+
+Source Sentence and Story Headline Match:
+S&P said it expects the government to present a medium-term growth agenda later this year, which would help boost business sentiment, the analysts wrote.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+S&P said it expects the government to present a medium-term growth agenda later this year, which would help boost business sentiment, the analysts wrote.
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+4 matches: business, year, expect, say
+
+----------------
+

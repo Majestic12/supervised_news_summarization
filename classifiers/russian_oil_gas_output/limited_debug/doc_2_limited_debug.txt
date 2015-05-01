@@ -1,0 +1,63 @@
+sent_1:
+
+WORLD energy power Russia says its 2012 oil output hit a post-Soviet record high while natural gas production declined amid stalling European sales.
+Russia's oil output hit a post-Soviet high in 2014, averaging 10.58 million barrels per day, up 0.7% from 2013, according to Energy Ministry data.
+6 best matches: output, high, energy, post-soviet, oil, hit
+
+----------------
+sent_2:
+
+The energy ministry's reporting unit said on Wednesday oil and gas condensate production grew by 1.3 per cent last year to reach 518.0 million tonnes or 10.4 million barrels per day.
+Russia's oil output hit a post-Soviet high in 2014, averaging 10.58 million barrels per day, up 0.7% from 2013, according to Energy Ministry data.
+6 best matches: per, barrel, day, million, energy, oil
+
+----------------
+sent_3:
+
+Russia had established its previous post-Soviet high in 2011 when output stood at 10.28 million barrels per day.
+Russia's oil output hit a post-Soviet high in 2014, averaging 10.58 million barrels per day, up 0.7% from 2013, according to Energy Ministry data.
+7 best matches: per, barrel, day, million, output, high, post-soviet
+
+----------------
+sent_4:
+
+Its current rate outpaces that of Saudi Arabia and clinches for Russia the title of the world's biggest oil producer.
+Regulators claim the world's biggest gasoline producer is abusing its dominance while stifling movement and manipulating the price of oil.
+3 best matches: producer, world's, oil
+
+----------------
+sent_5:
+
+But Russia lacks the quick ability of Saudi Arabia to boost output in case of a global economic rebound or more serious turmoil in the Middle East.
+The charges amount to a challenge of Russian President Vladimir Putin's geopolitical and economic strategy.
+1 best matches: economic
+
+----------------
+sent_6:
+
+The state-owned oil firm Rosneft accounted for 22.8 per cent of Russia's oil market - its share this year expected to reach more than 40 per cent following its October acquisition of the Anglo-Russian venture TNK-BP.
+Russia's oil output hit a post-Soviet high in 2014, averaging 10.58 million barrels per day, up 0.7% from 2013, according to Energy Ministry data.
+3 best matches: russia's, per, oil
+
+----------------
+sent_7:
+
+But Russia's natural gas production fell by 2.3 per cent to 655.0 billion cubic metres as its European sales shrivelled up.
+In 2014, Gazprom produced only 432 billion cubic meters of natural gas, an all-time low.
+4 best matches: cubic, natural, gas, billion
+
+----------------
+sent_8:
+
+Production of the state natural gas giant Gazprom was reported at 478.8 billion cubic metres - well off its 2011 figure of 513.1 billion cubic metres.
+In 2014, Gazprom produced only 432 billion cubic meters of natural gas, an all-time low.
+5 best matches: cubic, natural, gazprom, gas, billion
+
+----------------
+sent_9:
+
+The drop reflects the reality that almost all of Gazprom's foreign sales are focused on European and post-Soviet countries which are now experiencing some of the slowest growth rates in the world.
+Several Eastern European countries have noted a drop in deliveries from Gazprom, Reuters reported Sept. 17.
+3 best matches: drop, country, european
+
+----------------

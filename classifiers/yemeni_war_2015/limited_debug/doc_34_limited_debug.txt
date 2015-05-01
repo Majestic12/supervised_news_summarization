@@ -1,0 +1,98 @@
+sent_1:
+
+Saudi Arabia, which is leading an air campaign against rebels in Yemen, has pledged to provide exactly the amount of emergency aid to the country as called for in a UN appeal on Friday.
+The UN on April 17 launched an emergency appeal of $273.7 million for Yemen as Saudi airstrikes were pounding most of the country.
+6 best matches: yemen, appeal, saudi, emergency, country, un
+
+----------------
+sent_2:
+
+The official Saudi news agency said it has promised $274m (£183m; €255m) in humanitarian aid.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 best matches: official, say
+
+----------------
+sent_3:
+
+Yemen has been wracked by fighting between Houthi rebels and government troops.
+"The coalition will continue to prevent the movement of Houthi militias from moving or undertaking any operations inside Yemen."
+2 best matches: houthi, yemen
+
+----------------
+sent_4:
+
+The UN says 150,000 people have been displaced by fighting.
+About 115,000 people have been displaced, the UN said.
+4 best matches: un, people, say, displace
+
+----------------
+sent_5:
+
+It also says 12 million are short of food.
+U.S. Defense Secretary Ashton Carter also said in a news conference that gains by Al-Qaeda were "of serious concern."
+2 best matches: say, also
+
+----------------
+sent_6:
+
+Saudi King Salman bin Abdulaziz al-Saud announced the aid late on Friday, saying his country would "stand fully by the brotherly people of Yemen".
+Following the announcement, Saudi Arabia's King Salman ordered the country's National Guard to reinforce the border with Yemen.
+4 best matches: salman, yemen, saudi, king
+
+----------------
+sent_7:
+
+A Saudi-led coalition has been launching air strikes against the rebels in 18 of Yemen's 22 provinces, exacerbating an existing humanitarian crisis.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+3 best matches: 22, coalition, saudi-led
+
+----------------
+sent_8:
+
+The UN said 731 people had been killed and 2,754 injured - many of them civilians - in three weeks between March and April.
+At least 944 people were killed, including 77 children, and 3,487 injured since the start of airstrikes as of April 17, the UN said April 21.
+6 best matches: people, april, kill, say, injure, un
+
+----------------
+sent_9:
+
+The numbers were likely to be an underestimate, it warned.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 best matches: number
+
+----------------
+sent_10:
+
+A land, sea and air blockade has made it hard not just to assess the damage but to get aid to where it is needed, the BBC's Arab affairs editor Sebastian Usher says.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+1 best matches: say
+
+----------------
+sent_11:
+
+Even before the current conflict, 15.9 million people - 61% of the population - were estimated to require some kind of humanitarian aid, according to the UN.
+The conflict occurs amid "a humanitarian crisis that was already one of the largest and most complex in the world," the UN said.
+3 best matches: humanitarian, conflict, un
+
+----------------
+sent_12:
+
+Al-Qaeda in the Arabian Peninsula (AQAP), which is fighting both the rebels and government troops, has also exploited the chaos gripping the country.
+Lack of fuel has also disrupted functionality of ambulances and the delivery of health supplies across the country."
+2 best matches: country, also
+
+----------------
+sent_13:
+
+AQAP fighters took control of a massive weapons depot in the eastern Hadramawt province on Friday.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 best matches: control
+
+----------------
+sent_14:
+
+Earlier this month, they seized an airport in southern Yemen, and overran the port city of Mukalla.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 best matches: yemen, southern
+
+----------------

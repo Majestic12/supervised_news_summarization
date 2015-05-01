@@ -1,0 +1,161 @@
+sent_1:
+1 out of 6 sentences
+1 out of 4 paragraphs
+Tagged as a quote
+
+Sentence:
+Netflix has ordered the sketch comedy show, With Bob and David, 4-half-hour episodes and one 60-minute “making-of” special from Bob Odenkirk (Better Call Saul) and David Cross (Arrested Development).
+5 default entities: GPE Netflix, PERSON Bob, PERSON David, PERSON Bob Odenkirk, PERSON David Cross
+5 custom entities: GPE Netflix, PERSON Bob, PERSON David, PERSON Bob Odenkirk Better Call Saul, PERSON David Cross Arrested
+
+Source Sentence and Source Headline Match:
+Netflix has ordered the sketch comedy show, With Bob and David, 4-half-hour episodes and one 60-minute “making-of” special from Bob Odenkirk (Better Call Saul) and David Cross (Arrested Development).
+Netflix has ordered the sketch comedy show With Bob and David.
+7 matches: netflix, comedy, bob, order, david, sketch, show
+
+Source Sentence and Story Headline Match:
+Netflix has ordered the sketch comedy show, With Bob and David, 4-half-hour episodes and one 60-minute “making-of” special from Bob Odenkirk (Better Call Saul) and David Cross (Arrested Development).
+Netflix confirms reboot of "Full House"
+1 matches: netflix
+
+Source Sentence and Best Story Sentence Match:
+Netflix has ordered the sketch comedy show, With Bob and David, 4-half-hour episodes and one 60-minute “making-of” special from Bob Odenkirk (Better Call Saul) and David Cross (Arrested Development).
+Netflix said April 2 that it had ordered 4, 30-minute episodes of an original series from creators Bob Odenkirk and David Cross.
+7 matches: netflix, episode, bob, order, odenkirk, david, cross
+
+----------------
+
+sent_2:
+2 out of 6 sentences
+2 out of 4 paragraphs
+Tagged as not being a quote
+
+Sentence:
+After being dishonorably discharged from the Navy Seals, Bob and David are back serving our country the way they do best, making sketch comedy.
+3 default entities: ORGANIZATION Navy Seals, PERSON Bob, PERSON David
+2 custom entities: ORGANIZATION Navy Seals Bob, PERSON David
+
+Source Sentence and Source Headline Match:
+After being dishonorably discharged from the Navy Seals, Bob and David are back serving our country the way they do best, making sketch comedy.
+Netflix has ordered the sketch comedy show With Bob and David.
+4 matches: comedy, bob, david, sketch
+
+Source Sentence and Story Headline Match:
+After being dishonorably discharged from the Navy Seals, Bob and David are back serving our country the way they do best, making sketch comedy.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+After being dishonorably discharged from the Navy Seals, Bob and David are back serving our country the way they do best, making sketch comedy.
+The series, called "With Bob and David," will be a sketch comedy show.
+4 matches: comedy, bob, david, sketch
+
+----------------
+
+sent_3:
+3 out of 6 sentences
+2 out of 4 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Four half-hours of brand new comedy featuring all new characters, all new scenes, and most importantly, all new wigs.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Four half-hours of brand new comedy featuring all new characters, all new scenes, and most importantly, all new wigs.
+Netflix has ordered the sketch comedy show With Bob and David.
+1 matches: comedy
+
+Source Sentence and Story Headline Match:
+Four half-hours of brand new comedy featuring all new characters, all new scenes, and most importantly, all new wigs.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Four half-hours of brand new comedy featuring all new characters, all new scenes, and most importantly, all new wigs.
+"Daredevil," which stars British actor Charlie Cox as the title character, debuted on Netflix on April 10.
+1 matches: character
+
+----------------
+
+sent_4:
+4 out of 6 sentences
+3 out of 4 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Odenkirk and Cross are writing and starring in the series, and also serve as executive producers along with Marc Provissiero, Naomi Odenkirk,Tim Sarkes, Dave Kneebone Tim Heidecker, and Eric Wareheim.
+7 default entities: GPE Odenkirk, GPE Cross, PERSON Marc Provissiero, PERSON Naomi Odenkirk, PERSON Tim Sarkes, PERSON Dave Kneebone Tim Heidecker, PERSON Eric Wareheim
+5 custom entities: GPE Odenkirk, GPE Cross, PERSON Marc Provissiero Naomi, PERSON Sarkes Dave Kneebone Tim Heidecker, PERSON Eric Wareheim
+
+Source Sentence and Source Headline Match:
+Odenkirk and Cross are writing and starring in the series, and also serve as executive producers along with Marc Provissiero, Naomi Odenkirk,Tim Sarkes, Dave Kneebone Tim Heidecker, and Eric Wareheim.
+Netflix has ordered the sketch comedy show With Bob and David.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Odenkirk and Cross are writing and starring in the series, and also serve as executive producers along with Marc Provissiero, Naomi Odenkirk,Tim Sarkes, Dave Kneebone Tim Heidecker, and Eric Wareheim.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Odenkirk and Cross are writing and starring in the series, and also serve as executive producers along with Marc Provissiero, Naomi Odenkirk,Tim Sarkes, Dave Kneebone Tim Heidecker, and Eric Wareheim.
+Netflix said April 2 that it had ordered 4, 30-minute episodes of an original series from creators Bob Odenkirk and David Cross.
+3 matches: series, cross, odenkirk
+
+----------------
+
+sent_5:
+5 out of 6 sentences
+4 out of 4 paragraphs
+Tagged as not being a quote
+
+Sentence:
+With Bob and David is an original Netflix Production.
+3 default entities: PERSON Bob, PERSON David, PERSON Netflix Production
+3 custom entities: PERSON Bob, PERSON David, PERSON Netflix
+
+Source Sentence and Source Headline Match:
+With Bob and David is an original Netflix Production.
+Netflix has ordered the sketch comedy show With Bob and David.
+3 matches: bob, david, netflix
+
+Source Sentence and Story Headline Match:
+With Bob and David is an original Netflix Production.
+Netflix confirms reboot of "Full House"
+1 matches: netflix
+
+Source Sentence and Best Story Sentence Match:
+With Bob and David is an original Netflix Production.
+Netflix said April 2 that it had ordered 4, 30-minute episodes of an original series from creators Bob Odenkirk and David Cross.
+4 matches: bob, original, netflix, david
+
+----------------
+
+sent_6:
+6 out of 6 sentences
+4 out of 4 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Abso Lutely Productions is providing production services.
+2 default entities: PERSON Abso, ORGANIZATION Lutely Productions
+2 custom entities: PERSON Abso, ORGANIZATION Lutely Productions
+
+Source Sentence and Source Headline Match:
+Abso Lutely Productions is providing production services.
+Netflix has ordered the sketch comedy show With Bob and David.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Abso Lutely Productions is providing production services.
+Netflix confirms reboot of "Full House"
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+

@@ -1,0 +1,63 @@
+sent_1:
+
+Google has stopped selling the Nexus 5, the company's 2014 flagship Android smartphone.
+Google said it stopped selling the Nexus 5 to focus on the Nexus 6.
+5 best matches: google, stop, sell, nexus, 5
+
+----------------
+sent_2:
+
+A Google spokesperson told The Verge today that "while some inventory of Nexus 5 still exists (with our retail and carrier partners), our focus is on the Nexus 6 at this time."
+Google said it stopped selling the Nexus 5 to focus on the Nexus 6.
+5 best matches: google, focus, 6, nexus, 5
+
+----------------
+sent_3:
+
+Searches for the older model on Google's new hardware store show that the Nexus 5 is no longer available for purchase direct from Google.
+The Nexus 7 is no longer available from Google's official online store.
+5 best matches: store, available, google's, longer, nexus
+
+----------------
+sent_4:
+
+The news corroborates a report released at the tail end of 2014 that said Google had discontinued production of the well-liked phone, and once stocks were depleted, it was "gone."
+Google in Oct. 2014 announced the Nexus 9 and Nexus 6 smartphone.
+2 best matches: google, 2014
+
+----------------
+sent_5:
+
+Google disputed the claim at the time, telling The Verge that the Nexus 5 would "continue to be available for sale on Google Play and through select retailers in Q1 2015."
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+3 best matches: google, nexus, 5
+
+----------------
+sent_6:
+
+The timing of this new statement means both were correct — Google did indeed plan to stop selling the Nexus 5, but its supplies kept it in stock for the first quarter of 2015.
+Google said it stopped selling the Nexus 5 to focus on the Nexus 6.
+4 best matches: google, stop, nexus, 5
+
+----------------
+sent_7:
+
+The effective retirement of the Nexus 5 comes as Google tweaks its storefront to separate hardware and digital products.
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+3 best matches: google, nexus, 5
+
+----------------
+sent_8:
+
+Previously the Nexus 5 — along with other Google and Android devices such as smartwatches and Chromebooks — was sold by the Google Play Store, alongside digital products like apps, music, and movies.
+Google confirmed March 12 that it is no longer selling the Nexus 5 (pictured).
+4 best matches: google, sell, nexus, 5
+
+----------------
+sent_9:
+
+As of today, the search giant has split software and hardware up, moving the latter to a new destination simply called the Google Store.
+"Advances in computing are driven at the intersection of hardware and software.
+2 best matches: hardware, software
+
+----------------

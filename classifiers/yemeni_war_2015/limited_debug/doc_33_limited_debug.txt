@@ -1,0 +1,227 @@
+sent_1:
+
+DOWAAN, Al Qaeda’s branch in Yemen took control of a major airport and an oil export terminal in the southern part of the country on Thursday, expanding the resurgent militant group’s reach just two weeks after it seized the  nearby city of Al Mukalla and emptied its bank and prison.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 best matches: yemen, control
+
+----------------
+sent_2:
+
+Local officials said that fighters belonging to the group Al Qaeda in the Arabian Peninsula, also known as AQAP, took control of the Riyan Airport and a nearby military base outside Al Mukalla, the fifth-largest city in Yemen.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+4 best matches: group, yemen, control, military
+
+----------------
+sent_3:
+
+The group also seized the Dhabah oil terminal on the Arabian Sea coast, which the group had tried to capture before, according to Yemeni officials.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 best matches: official, accord
+
+----------------
+sent_4:
+
+Al Qaeda is capitalizing on the expanding multisided war in Yemen and the collapse of its government to carve out territory for itself.
+An April 21 WHO statement warns of "an imminent collapse of health care services in Yemen."
+2 best matches: collapse, yemen
+
+----------------
+sent_5:
+
+When its fighters stormed Al Mukalla, the capital of Hadhramaut Province, they seized government buildings, looted the central bank office and freed hundreds of inmates from the city penitentiary, including a senior leader of the group.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 best matches: group
+
+----------------
+sent_6:
+
+Al Qaeda’s adversaries in Yemen are largely in disarray or distracted by other fighting.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 best matches: yemen
+
+----------------
+sent_7:
+
+Military units have melted away or put up little resistance as Al Qaeda has advanced.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 best matches: military
+
+----------------
+sent_8:
+
+The Houthis, a militia movement from northern Yemen that is considered Al Qaeda’s most determined foe, have been preoccupied with battles against rival militias across the country, and their fighters have been battered by aerial assaults from the Saudi-led Arab coalition, which is trying to restore the exiled government to power.
+"The coalition will continue to prevent the movement of Houthi militias from moving or undertaking any operations inside Yemen."
+4 best matches: coalition, movement, yemen, militia
+
+----------------
+sent_9:
+
+Saudi Arabia has focused on crippling the Houthis, leaving Al Qaeda all but unopposed around Al Mukalla, though the group was dealt a setback this week when a top figure and several other members were killed in an American drone strike.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+4 best matches: group, arabia, saudi, figure
+
+----------------
+sent_10:
+
+Still, the Saudi assaults on the Houthis have indirectly helped empower Al Qaeda in ways the group had not enjoyed before.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+2 best matches: saudi, group
+
+----------------
+sent_11:
+
+Its fighters are now developing relations with Yemeni tribal leaders who share antipathy for the Houthis and their allies, said Jamal Benomar, the United Nations diplomat who had unsuccessfully sought to achieve a political reconciliation in Yemen.
+Saudi Arabia launched military operations including airstrikes against the Houthis and their allies in Yemen on March 25.
+3 best matches: yemen, houthis, ally
+
+----------------
+sent_12:
+
+“For the first time, Al Qaeda is building a strategic alliance with the tribes,” Mr. Benomar, who has requested a reassignment, said in an interview at The New York Times on Wednesday.
+"For the first time, Al-Qaeda is building a strategic alliance with the tribes.
+6 best matches: build, strategic, tribe, time, first, alliance
+
+----------------
+sent_13:
+
+“It is a strengthened and dangerous Al Qaeda.
+It is a strengthened and dangerous Al-Qaeda."
+2 best matches: dangerous, strengthen
+
+----------------
+sent_14:
+
+no story sentence best matches found
+
+----------------
+sent_15:
+
+In Washington, Pentagon officials acknowledged that the American-backed Saudi airstrikes have created more space for Al Qaeda to gain territory.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 best matches: official, airstrikes
+
+----------------
+sent_16:
+
+Defense Secretary Ashton B. Carter, in a news conference, called gains by the group “of serious concern” to the United States.
+U.S. Defense Secretary Ashton Carter also said in a news conference that gains by Al-Qaeda were "of serious concern."
+9 best matches: serious, secretary, concern, defense, conference, ashton, carter, news, gain
+
+----------------
+sent_17:
+
+“It’s obvious that it’s easier to do our counterterror operations when there’s a settled government” in Yemen, he said.
+"The coalition will continue to prevent the movement of Houthi militias from moving or undertaking any operations inside Yemen."
+2 best matches: operation, yemen
+
+----------------
+sent_18:
+
+no story sentence best matches found
+
+----------------
+sent_19:
+
+Because they are dangerous.”
+It is a strengthened and dangerous Al-Qaeda."
+1 best matches: dangerous
+
+----------------
+sent_20:
+
+Gen. Lloyd Austin, head of the United States Central Command, was in Riyadh, Saudi Arabia, on Thursday for meetings with Saudi officials.
+Yemeni President Mansour Hadi fled to Saudi Arabia, Saudi state TV reported March 26.
+3 best matches: arabia, state, saudi
+
+----------------
+sent_21:
+
+Mr. Carter said that the United States would continue to support the Saudi campaign, calling the kingdom “a longstanding friend and ally,” and that the United States was trying to “help them protect themselves and their own border.” Mr. Carter characterized the Saudi objective in Yemen as restoring “a political process there in which a legitimate government can be established.”
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+5 best matches: would, continue, campaign, say, yemen
+
+----------------
+sent_22:
+
+With growing alarm over the extremists’ gains and the rapidly deteriorating humanitarian situation, Khaled Bahah, a top official in the exiled government, called on Thursday for the Houthis to halt their offensive as a condition for peace talks.
+The Iranian plan calls for a ceasefire, humanitarian aid, resuming a national dialogue and "an inclusive national unity government."
+3 best matches: government, call, humanitarian
+
+----------------
+sent_23:
+
+Speaking in Saudi Arabia, where the government has taken refuge, Mr. Bahah said the “language of reason and dialogue must be given priority.” But first, he said, the Houthis must halt their attacks and “stop tampering with the destiny of the nation and destroying its institutions.”
+Saudi Arabia launched military operations including airstrikes against the Houthis and their allies in Yemen on March 25.
+3 best matches: arabia, saudi, houthis
+
+----------------
+sent_24:
+
+Mr. Bahah was appointed vice president on Sunday by President Abdu Rabbu Mansour Hadi, who fled Yemen shortly before the Saudis began bombing.
+Yemeni President Mansour Hadi fled to Saudi Arabia, Saudi state TV reported March 26.
+5 best matches: hadi, mansour, president, flee, saudi
+
+----------------
+sent_25:
+
+Mr. Bahah, who served as Yemen’s last prime minister, is widely viewed as a conciliatory figure among the country’s increasingly fractured and polarized political elite.
+Saudi Arabia launched a military campaign in Yemen while a number of rival figures and groups are vying for power as years of sporadic conflict spiraled out of control.
+1 best matches: figure
+
+----------------
+sent_26:
+
+His appointment as vice president was seen as an attempt to bridge the divisions fueling the war and to provide alternative leadership to that of Mr. Hadi, who lacks any significant base of support.
+"Health facilities are struggling to function as they face increasing shortages of life-saving medicines and vital health supplies, frequent disruptions in power supply and lack of fuel for generators.
+2 best matches: lack, fuel
+
+----------------
+sent_27:
+
+But a senior Houthi official, responding to Mr. Bahah’s comments on Thursday, told Reuters that the Saudi-led bombing campaign had to stop “immediately and without conditions.”
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+4 best matches: official, saudi-led, bombing, campaign
+
+----------------
+sent_28:
+
+The political deadlock has contributed to increasingly dire assessments from international aid agencies about the toll on civilians in Yemen, a country that must import nearly all of its food.
+The UN on April 17 launched an emergency appeal of $273.7 million for Yemen as Saudi airstrikes were pounding most of the country.
+2 best matches: country, yemen
+
+----------------
+sent_29:
+
+The Saudi-led military coalition has imposed an air and sea blockade, which, along with the fighting, has caused critical shortages of food and fuel in many cities, including Sana, the capital, and Aden, a southern port gripped by combat for weeks.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+3 best matches: coalition, saudi-led, southern
+
+----------------
+sent_30:
+
+The World Food Program said Thursday that it would distribute food to 105,000 displaced people around Aden in the next few days, but that conditions were so unsafe it was “struggling to reach people.” The World Health Organization said on Thursday that it had delivered more than 18 tons of medicine and surgical supplies to Sana.
+"Health facilities are struggling to function as they face increasing shortages of life-saving medicines and vital health supplies, frequent disruptions in power supply and lack of fuel for generators.
+4 best matches: health, supply, struggle, medicine
+
+----------------
+sent_31:
+
+According to the United Nations, hundreds of people have been killed in the fighting, including at least 364 civilians.
+An April 20 Saudi airstrike on a hillside tore through the Yemeni capital, killing at least 25 people and wounding nearly 400 people, according to witnesses and medics.
+4 best matches: people, kill, least, accord
+
+----------------
+sent_32:
+
+On Thursday, Human Rights Watch called for an investigation into airstrikes last month that it said had killed at least 31 civilian workers at a dairy factory outside the port city of Hodeida.
+At least 944 people were killed, including 77 children, and 3,487 injured since the start of airstrikes as of April 17, the UN said April 21.
+4 best matches: least, kill, say, airstrikes
+
+----------------
+sent_33:
+
+Also on Thursday, Doctors Without Borders, the medical charity, said that physicians at a hospital it helps administer had treated 30 civilians wounded in airstrikes overnight in northern Amran Province.
+Asseri said April 21 that the Saudi-led coalition would end its bombing campaign in Yemen by the end of day, but airstrikes continued April 22, according to residents and an official in Taiz in southern Yemen.
+2 best matches: say, airstrikes
+
+----------------

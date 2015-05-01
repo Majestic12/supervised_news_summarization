@@ -1,0 +1,939 @@
+sent_1:
+
+Big screens are nice.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 best matches: screen
+
+----------------
+sent_2:
+
+no story sentence best matches found
+
+----------------
+sent_3:
+
+If tablets are considered mobile devices, they should be easy to take with you, right?
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: tablet
+
+----------------
+sent_4:
+
+That's the idea behind a new class of small tablets with screens measuring roughly 7 inches diagonally.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+2 best matches: small, tablet
+
+----------------
+sent_5:
+
+Over the last six months, some really, really good products have come out in this category.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+1 best matches: month
+
+----------------
+sent_6:
+
+In a test of four big ones, we found high notes, low points, and a clear overall winner.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 best matches: low, high
+
+----------------
+sent_7:
+
+We gathered up four of the top small tablets of 2012 and used each of them for weeks.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+2 best matches: small, tablet
+
+----------------
+sent_8:
+
+no story sentence best matches found
+
+----------------
+sent_9:
+
+no story sentence best matches found
+
+----------------
+sent_10:
+
+We did our standard battery rundown test: endlessly streaming Nyan Cat over wi-fi, screen on full, volume at half, Bluetooth off.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 best matches: screen
+
+----------------
+sent_11:
+
+no story sentence best matches found
+
+----------------
+sent_12:
+
+For each tablet we tested the cheapest, Wi-Fi only option.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: tablet
+
+----------------
+sent_13:
+
+The Nook HD has some nice things going for it on the hardware side.
+"Advances in computing are driven at the intersection of hardware and software.
+1 best matches: hardware
+
+----------------
+sent_14:
+
+Most notably, the seven-inch screen is 1440x900, which nets you 243 pixels per inch, the highest PPI in this category.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 best matches: high
+
+----------------
+sent_15:
+
+no story sentence best matches found
+
+----------------
+sent_16:
+
+no story sentence best matches found
+
+----------------
+sent_17:
+
+no story sentence best matches found
+
+----------------
+sent_18:
+
+That, plus its textured back, make this tablet the easiest to hold in one hand over an extended period.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: tablet
+
+----------------
+sent_19:
+
+It's also the only tablet in this category that features a Micro SD card slot for expanding your storage—significant if you're downloading HD movies for a long, internet-less trip.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: tablet
+
+----------------
+sent_20:
+
+You can hook it up to a TV and push video to it, but you'll need an adapter, which is sold separately.
+Rather than creating software in the abstract, we work with hardware partners to build Nexus devices to help push the boundaries of what's possible."
+1 best matches: push
+
+----------------
+sent_21:
+
+On the software side, it runs Android software (version 4.0, a.k.a.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+2 best matches: android, version
+
+----------------
+sent_22:
+
+Ice Cream Sandwich), but virtually nothing you see would be recognizable to an Android user.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+1 best matches: android
+
+----------------
+sent_23:
+
+This is a heavily-customized experience, the goal being to focus on Barnes & Noble's sizable library of books, video, magazines and other media.
+Google said it stopped selling the Nexus 5 to focus on the Nexus 6.
+1 best matches: focus
+
+----------------
+sent_24:
+
+The experience is somewhere in between the Kindle's UI and Android's, and you can customize desktop spaces with apps, shortcuts, and widgets, which is handy for fast access to frequently used items.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 best matches: fast
+
+----------------
+sent_25:
+
+Downsides start with the thick plastic back, which makes the $200 device feel cheap, and almost toy-like.
+That's why we've always introduced Nexus devices alongside our platform releases.
+1 best matches: device
+
+----------------
+sent_26:
+
+The screen, while sharp, has a distinct orange tint to it.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 best matches: screen
+
+----------------
+sent_27:
+
+no story sentence best matches found
+
+----------------
+sent_28:
+
+no story sentence best matches found
+
+----------------
+sent_29:
+
+no story sentence best matches found
+
+----------------
+sent_30:
+
+no story sentence best matches found
+
+----------------
+sent_31:
+
+The Wi-Fi radio struggled more than the others, and it doesn't have a 3G or 4G option available.
+The Nexus 7 is no longer available from Google's official online store.
+1 best matches: available
+
+----------------
+sent_32:
+
+It fared by far the worst in our battery rundown test, throwing in the towel after 4 hours and 20 minutes of streaming Nyan Cat (not that I blame it).
+The Nexus 6 largely resembles the Moto X (2014), Motorola's 5.2-inch smartphone, and is the largest smartphone so far produced by Google.
+1 best matches: far
+
+----------------
+sent_33:
+
+no story sentence best matches found
+
+----------------
+sent_34:
+
+The more serious issues are on of the software.
+"Advances in computing are driven at the intersection of hardware and software.
+1 best matches: software
+
+----------------
+sent_35:
+
+While it's certainly improved since the original Nook, it still feels cobbled together.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: still
+
+----------------
+sent_36:
+
+There's a lack of consistency throughout the UI, which requires memorized behaviors, rather than just being intuitive.
+Rather than creating software in the abstract, we work with hardware partners to build Nexus devices to help push the boundaries of what's possible."
+1 best matches: rather
+
+----------------
+sent_37:
+
+no story sentence best matches found
+
+----------------
+sent_38:
+
+Not only are there no Google apps (Gmail, Chrome, Maps, Drive, etc) but the apps from third-party developers are sorely lacking, too.
+"Advances in computing are driven at the intersection of hardware and software.
+1 best matches: drive
+
+----------------
+sent_39:
+
+Yeah, you can put widgets on your desktop, but there are hardly any widgets you can download from the Nook's app store.
+The Nexus 7 is no longer available from Google's official online store.
+1 best matches: store
+
+----------------
+sent_40:
+
+Some of the best tablet games aren't available here—but the tablet struggles under heavy loads anyway.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+3 best matches: best, tablet, available
+
+----------------
+sent_41:
+
+Despite coming in fourth, it's worth noting that this is still a pretty good tablet.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+2 best matches: tablet, still
+
+----------------
+sent_42:
+
+no story sentence best matches found
+
+----------------
+sent_43:
+
+no story sentence best matches found
+
+----------------
+sent_44:
+
+This generation of Kindle's improvements start with the hardware.
+"Advances in computing are driven at the intersection of hardware and software.
+1 best matches: hardware
+
+----------------
+sent_45:
+
+The bright, seven-inch screen with 216 PPI is sharp enough for reading and viewing HD content.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 best matches: screen
+
+----------------
+sent_46:
+
+no story sentence best matches found
+
+----------------
+sent_47:
+
+The stereo speakers are hands-down the best in the category.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 best matches: best
+
+----------------
+sent_48:
+
+no story sentence best matches found
+
+----------------
+sent_49:
+
+no story sentence best matches found
+
+----------------
+sent_50:
+
+no story sentence best matches found
+
+----------------
+sent_51:
+
+no story sentence best matches found
+
+----------------
+sent_52:
+
+Like the Nook, the Fire HD runs version of Android that's really just a face for Amazon's gigantic content library.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+2 best matches: android, version
+
+----------------
+sent_53:
+
+Amazon's app store is more robust than Barnes & Noble's (though weak compared to iOS and Android).
+The Nexus 7 is no longer available from Google's official online store.
+1 best matches: store
+
+----------------
+sent_54:
+
+The Kindle's big, important advantage is Amazon Prime.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: amazon
+
+----------------
+sent_55:
+
+Beyond free two-day shipping on Amazon orders, Prime members get thousands of free movies, TV shows, and books.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: amazon
+
+----------------
+sent_56:
+
+no story sentence best matches found
+
+----------------
+sent_57:
+
+Beyond content, some good software features include "Immersive Reading," in which an audiobook plays while highlighting the text on-screen as it's read.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: include
+
+----------------
+sent_58:
+
+The solid build is at the beginning of the Fire HD's drawbacks, though—it's the heaviest, widest, least portable, and least comfortable to hold.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 best matches: build
+
+----------------
+sent_59:
+
+no story sentence best matches found
+
+----------------
+sent_60:
+
+You won't find a jacket pocket that it can fit into, which is mandatory for tablets in this category.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: tablet
+
+----------------
+sent_61:
+
+The buttons are so flush with the body that you really have to fumble around (or, God forbid, use your eyes) to turn the screen on/off or the adjust the volume.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 best matches: screen
+
+----------------
+sent_62:
+
+no story sentence best matches found
+
+----------------
+sent_63:
+
+The Fire HD does not have a cellular version or expandable storage.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+1 best matches: version
+
+----------------
+sent_64:
+
+The worst offender, though is the software.
+"Advances in computing are driven at the intersection of hardware and software.
+1 best matches: software
+
+----------------
+sent_65:
+
+no story sentence best matches found
+
+----------------
+sent_66:
+
+Kyle aptly described the Kindle's software as more more like a backpack than a desktop—as you put more stuff in, it gets harder to find what you're looking for.
+"Advances in computing are driven at the intersection of hardware and software.
+1 best matches: software
+
+----------------
+sent_67:
+
+Amazon did a good job of making things look good, but just because it looks good doesn't mean it is good.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: amazon
+
+----------------
+sent_68:
+
+no story sentence best matches found
+
+----------------
+sent_69:
+
+Amazon (and Barnes & Noble) ostensibly want to simplify Android, using a customized interface that's good-looking, but cumbersome, and wildly inconsistent.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: amazon
+
+----------------
+sent_70:
+
+Basic Android 4.0 (Ice Cream Sandwich) is actually a lot more easy to navigate.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+1 best matches: android
+
+----------------
+sent_71:
+
+Both of these first two tablets would have been a lot better if they just ran straight-up Android and added gigantic widgets to promote their content.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+2 best matches: tablet, first
+
+----------------
+sent_72:
+
+(Note: People do root and install custom software on the Kindle and Nook for just this reason, but you have to know what you're doing).
+"Advances in computing are driven at the intersection of hardware and software.
+1 best matches: software
+
+----------------
+sent_73:
+
+That said, if you just want a tablet for watching movies and reading, and you don't mind the extra bulk, this is your pick.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: tablet
+
+----------------
+sent_74:
+
+It feels more like a $200 "media displayer" than a real tablet.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: tablet
+
+----------------
+sent_75:
+
+no story sentence best matches found
+
+----------------
+sent_76:
+
+no story sentence best matches found
+
+----------------
+sent_77:
+
+no story sentence best matches found
+
+----------------
+sent_78:
+
+The screen is the brightest of the group, and it's the only one with a 4:3 ratio.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 best matches: screen
+
+----------------
+sent_79:
+
+no story sentence best matches found
+
+----------------
+sent_80:
+
+no story sentence best matches found
+
+----------------
+sent_81:
+
+no story sentence best matches found
+
+----------------
+sent_82:
+
+no story sentence best matches found
+
+----------------
+sent_83:
+
+The mini runs iOS 6, and its stark minimalism and gesture-based shortcuts are familiar to anyone with an iPhone or iPad.
+Google in Oct. 2014 announced the Nexus 9 and Nexus 6 smartphone.
+1 best matches: 6
+
+----------------
+sent_84:
+
+The device is a giant folder for apps, and iOS is unequaled in that arena, with more tablet-optimized apps than any other mobile OS.
+That's why we've always introduced Nexus devices alongside our platform releases.
+1 best matches: device
+
+----------------
+sent_85:
+
+Android has more apps, total, and they stretch for tablets, but the iOS apps are generally of a higher quality.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 best matches: quality, high
+
+----------------
+sent_86:
+
+no story sentence best matches found
+
+----------------
+sent_87:
+
+Apple also has a ton of content to choose from—music, movies, books, and magazines—though prices are typically higher than they are in the other ecosystems.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 best matches: price, high
+
+----------------
+sent_88:
+
+What holds it back is the hardware.
+"Advances in computing are driven at the intersection of hardware and software.
+1 best matches: hardware
+
+----------------
+sent_89:
+
+The brightest screen in the test has easily the worst resolution, with measly 163 pixels per inch, versus 216 PPI on the Kindle Fire HD and Nexus 7.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+3 best matches: 7, screen, nexus
+
+----------------
+sent_90:
+
+no story sentence best matches found
+
+----------------
+sent_91:
+
+no story sentence best matches found
+
+----------------
+sent_92:
+
+no story sentence best matches found
+
+----------------
+sent_93:
+
+Gigantic black letterbox bars take up almost as much of the screen as the picture.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+2 best matches: screen, picture
+
+----------------
+sent_94:
+
+no story sentence best matches found
+
+----------------
+sent_95:
+
+no story sentence best matches found
+
+----------------
+sent_96:
+
+I always felt like it would slip and fall (and I have reasonably big hands).
+That's why we've always introduced Nexus devices alongside our platform releases.
+1 best matches: always
+
+----------------
+sent_97:
+
+no story sentence best matches found
+
+----------------
+sent_98:
+
+On battery life, the iPad mini was second-worst in the test, coming in at 6 hours 35 minutes.
+Google in Oct. 2014 announced the Nexus 9 and Nexus 6 smartphone.
+1 best matches: 6
+
+----------------
+sent_99:
+
+Then there's the software.
+"Advances in computing are driven at the intersection of hardware and software.
+1 best matches: software
+
+----------------
+sent_100:
+
+It seems like Apple said, "Eh, we'll just shrink the iPad, but keep the ratios the same, and all the iPad optimized apps should work just fine."
+Rather than creating software in the abstract, we work with hardware partners to build Nexus devices to help push the boundaries of what's possible."
+1 best matches: work
+
+----------------
+sent_101:
+
+no story sentence best matches found
+
+----------------
+sent_102:
+
+As Brian Barrett said in his review, "If you have iPad magazine subscriptions, you should cancel them before you squint yourself to death trying to read the tiny, non-adjustable typefaces here.
+Google said it stopped selling the Nexus 5 to focus on the Nexus 6.
+1 best matches: say
+
+----------------
+sent_103:
+
+no story sentence best matches found
+
+----------------
+sent_104:
+
+no story sentence best matches found
+
+----------------
+sent_105:
+
+no story sentence best matches found
+
+----------------
+sent_106:
+
+no story sentence best matches found
+
+----------------
+sent_107:
+
+no story sentence best matches found
+
+----------------
+sent_108:
+
+Settings generally take more clicks to get to, apps easily get lost in the homogenous-looking home screen, and there isn't much in the way of customization—if you don't like the way that Apple has decided something should be, you're stuck with it more often than not.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 best matches: screen
+
+----------------
+sent_109:
+
+no story sentence best matches found
+
+----------------
+sent_110:
+
+no story sentence best matches found
+
+----------------
+sent_111:
+
+But I'd wait at least until Apple optimizes its core apps for the smaller screen.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 best matches: small
+
+----------------
+sent_112:
+
+We were torn between putting this in second or third place, but it beat out the Kindle by simply being able to do more, and by being able to do it faster.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 best matches: fast
+
+----------------
+sent_113:
+
+The Nexus 7 has an understated look.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 best matches: 7, nexus
+
+----------------
+sent_114:
+
+The bezels on the long sides are extremely thin, making it the narrowest of the small tablets.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+2 best matches: small, tablet
+
+----------------
+sent_115:
+
+no story sentence best matches found
+
+----------------
+sent_116:
+
+no story sentence best matches found
+
+----------------
+sent_117:
+
+The seven-inch 216 PPI screen is very good.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 best matches: screen
+
+----------------
+sent_118:
+
+no story sentence best matches found
+
+----------------
+sent_119:
+
+The Nexus 7 aced the battery rundown test, at 9 hours 1 minute, stomping the second best by two hours.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+3 best matches: 7, 9, nexus
+
+----------------
+sent_120:
+
+With a quad-core 1.5GHz Tegra 3 processor and a gig of RAM, it has the best guts of the lot, and even the most graphically-intensive games and apps open quickly and play smoothly.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 best matches: best
+
+----------------
+sent_121:
+
+no story sentence best matches found
+
+----------------
+sent_122:
+
+The Nexus 7 runs Android's new version 4.2 (Jelly Bean), which is an extremely fluid experience.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 best matches: 7, nexus
+
+----------------
+sent_123:
+
+no story sentence best matches found
+
+----------------
+sent_124:
+
+Jelly Bean includes Google Now, which tells you when you need to leave for meetings and how to get there, updates sports scores, or alerts you if your flight is delayed.
+Google in Oct. 2014 announced the Nexus 9 and Nexus 6 smartphone.
+1 best matches: google
+
+----------------
+sent_125:
+
+The keyboard is the best I've used on a mobile device (70 percent of this review was typed on it).
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 best matches: best
+
+----------------
+sent_126:
+
+Google's voice-to-text works astonishingly well, and you don't even need an internet connection to use it.
+The Nexus 7 is no longer available from Google's official online store.
+1 best matches: google's
+
+----------------
+sent_127:
+
+iOS may have more tablet-optimized apps, but because Android devices come in so many different sizes, developers are used to scaling.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+2 best matches: android, device
+
+----------------
+sent_128:
+
+no story sentence best matches found
+
+----------------
+sent_129:
+
+Google has a ton of books, movies, and music, often at lower prices than its competitors, and you can store up to 20,000 songs for free in the cloud to stream on any device.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 best matches: low, price
+
+----------------
+sent_130:
+
+It has the best integration with Google services like Gmail, Calendar, Voice, and Maps (though iOS is now nearly as good).
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 best matches: best
+
+----------------
+sent_131:
+
+Chrome is the best mobile browser I've used, and it syncs with Chrome on your desktop.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 best matches: best
+
+----------------
+sent_132:
+
+Plus, there are a lot of really great games available.
+The Nexus 7 is no longer available from Google's official online store.
+1 best matches: available
+
+----------------
+sent_133:
+
+The biggest hardware drawback to the Nexus 7 is the speaker.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 best matches: 7, nexus
+
+----------------
+sent_134:
+
+It's just ahead of the Nook HD in terms of volume and sound quality, but it has the same annoying one-sided placement.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 best matches: quality
+
+----------------
+sent_135:
+
+It's solidly built, the plastic back feels cheap next to the Fire HD or the iPad mini.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 best matches: build
+
+----------------
+sent_136:
+
+The Wi-Fi radio is definitely not as strong as the Fire's or the iPad's; it struggles as you move away from the router, and speeds aren't as high, either.
+The Nexus 7 won critical praise for its high build quality and low price.
+1 best matches: high
+
+----------------
+sent_137:
+
+no story sentence best matches found
+
+----------------
+sent_138:
+
+If you feel like springing for the cellular version, you'll be limited to HSPA+, aka "faux-G," which is not as fast as the LTE on the iPad mini.
+The Nexus 7 was superseded in Nov. 2014 by the Nexus 9 (pictured), which has a larger screen and faster internals.
+1 best matches: fast
+
+----------------
+sent_139:
+
+On the software side, something weird happened when the Nexus 7 upgraded from Android 4.1 to 4.2.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 best matches: 7, nexus
+
+----------------
+sent_140:
+
+no story sentence best matches found
+
+----------------
+sent_141:
+
+Android still lacks visual coherence, and UI flow is inconsistent.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: still
+
+----------------
+sent_142:
+
+no story sentence best matches found
+
+----------------
+sent_143:
+
+no story sentence best matches found
+
+----------------
+sent_144:
+
+no story sentence best matches found
+
+----------------
+sent_145:
+
+Companies still tend to develop for iOS first, and then Android.
+Its removal was first reported on April 24.
+1 best matches: first
+
+----------------
+sent_146:
+
+Frequently, the Android app isn't as good as its iOS counterpart.
+Both devices were released the following month alongside Lollipop, the latest version of Android.
+1 best matches: android
+
+----------------
+sent_147:
+
+no story sentence best matches found
+
+----------------
+sent_148:
+
+This situation has certainly improved, but it's definitely still a thing, and if you're wanting to stay up on the latest trends in mobile apps, you may experience some iEnvy.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: still
+
+----------------
+sent_149:
+
+All that said, the Nexus 7 is a legit, high-performance tablet for 200 bucks.
+The Nexus 7 won critical praise for its high build quality and low price.
+2 best matches: 7, nexus
+
+----------------
+sent_150:
+
+In fact, it's the only one of the bunch that feels like a high-performance tablet.
+The tablet is still available in limited quantities from other retailers, including Amazon and eBay.
+1 best matches: tablet
+
+----------------
+sent_151:
+
+Regardless of whether you just want to consume media, or HD games, or actually really get stuff done, this is hands-down the best and most versatile of the group.
+When they were first released, Gizmodo called them the best small form-factor tablets available.
+1 best matches: best
+
+----------------

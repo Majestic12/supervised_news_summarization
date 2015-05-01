@@ -1,0 +1,244 @@
+sent_1:
+1 out of 9 sentences
+1 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+International ratings agency Moody's said it had downgraded all ratings for scandal-plagued Brazilian oil giant Petrobras.
+3 default entities: PERSON Moody, GPE Brazilian, PERSON Petrobras
+2 custom entities: GPE Brazilian, PERSON Petrobras
+
+Source Sentence and Source Headline Match:
+International ratings agency Moody's said it had downgraded all ratings for scandal-plagued Brazilian oil giant Petrobras.
+Moody's downgrades ratings for scandal-hit Petrobras.
+4 matches: rating, petrobras, moody's, downgrade
+
+Source Sentence and Story Headline Match:
+International ratings agency Moody's said it had downgraded all ratings for scandal-plagued Brazilian oil giant Petrobras.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+International ratings agency Moody's said it had downgraded all ratings for scandal-plagued Brazilian oil giant Petrobras.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+3 matches: brazilian, petrobras, oil
+
+----------------
+
+sent_2:
+2 out of 9 sentences
+2 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Until recently, Petrobras had been considered one of the best and most prestigious businesses in Brazil.
+2 default entities: PERSON Petrobras, GPE Brazil
+2 custom entities: PERSON Petrobras, GPE Brazil
+
+Source Sentence and Source Headline Match:
+Until recently, Petrobras had been considered one of the best and most prestigious businesses in Brazil.
+Moody's downgrades ratings for scandal-hit Petrobras.
+1 matches: petrobras
+
+Source Sentence and Story Headline Match:
+Until recently, Petrobras had been considered one of the best and most prestigious businesses in Brazil.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+Until recently, Petrobras had been considered one of the best and most prestigious businesses in Brazil.
+Bendine said Petrobras' "second challenge" will be to draft a five year business plan, expected to be released within 30 days.
+2 matches: business, petrobras
+
+----------------
+
+sent_3:
+3 out of 9 sentences
+2 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But Moody's dropped its unsecured debt rating from Baa3 to Ba2.
+3 default entities: PERSON Moody, GPE Baa3, GPE Ba2
+2 custom entities: GPE Baa3, PERSON Ba2
+
+Source Sentence and Source Headline Match:
+But Moody's dropped its unsecured debt rating from Baa3 to Ba2.
+Moody's downgrades ratings for scandal-hit Petrobras.
+2 matches: rating, moody's
+
+Source Sentence and Story Headline Match:
+But Moody's dropped its unsecured debt rating from Baa3 to Ba2.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+But Moody's dropped its unsecured debt rating from Baa3 to Ba2.
+Credit ratings firm Standard & Poor's on March 23 cut its outlook on Petrobras to negative from stable after affirming the company's BBB-, or "junk," status.
+1 matches: rating
+
+----------------
+
+sent_4:
+4 out of 9 sentences
+3 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+"These rating actions reflect increasing concern about corruption investigations and liquidity pressures that might result from delays in delivering audited financial statements, as well as Moody's expectation that the company will be challenged to make meaningful reduction in its very high debt burden over the next several years," Moody's said in a statement.
+2 default entities: PERSON Moody, PERSON Moody
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"These rating actions reflect increasing concern about corruption investigations and liquidity pressures that might result from delays in delivering audited financial statements, as well as Moody's expectation that the company will be challenged to make meaningful reduction in its very high debt burden over the next several years," Moody's said in a statement.
+Moody's downgrades ratings for scandal-hit Petrobras.
+2 matches: rating, moody's
+
+Source Sentence and Story Headline Match:
+"These rating actions reflect increasing concern about corruption investigations and liquidity pressures that might result from delays in delivering audited financial statements, as well as Moody's expectation that the company will be challenged to make meaningful reduction in its very high debt burden over the next several years," Moody's said in a statement.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"These rating actions reflect increasing concern about corruption investigations and liquidity pressures that might result from delays in delivering audited financial statements, as well as Moody's expectation that the company will be challenged to make meaningful reduction in its very high debt burden over the next several years," Moody's said in a statement.
+In its first audited financial results since Aug. 2014, Petrobras reported on April 22 that it lost $8.8 billion in Q4 2014 due to corruption, oil price pressures, refinery cost overruns, and other factors.
+5 matches: result, financial, corruption, audit, pressure
+
+----------------
+
+sent_5:
+5 out of 9 sentences
+4 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+It is the fourth time Moody's has downgraded Petrobras since October and it warned the oil giant's ratings remain on review for further downgrade.
+2 default entities: PERSON Moody, PERSON Petrobras
+1 custom entities: PERSON Petrobras
+
+Source Sentence and Source Headline Match:
+It is the fourth time Moody's has downgraded Petrobras since October and it warned the oil giant's ratings remain on review for further downgrade.
+Moody's downgrades ratings for scandal-hit Petrobras.
+4 matches: rating, petrobras, moody's, downgrade
+
+Source Sentence and Story Headline Match:
+It is the fourth time Moody's has downgraded Petrobras since October and it warned the oil giant's ratings remain on review for further downgrade.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+It is the fourth time Moody's has downgraded Petrobras since October and it warned the oil giant's ratings remain on review for further downgrade.
+In its first audited financial results since Aug. 2014, Petrobras reported on April 22 that it lost $8.8 billion in Q4 2014 due to corruption, oil price pressures, refinery cost overruns, and other factors.
+3 matches: since, petrobras, oil
+
+----------------
+
+sent_6:
+6 out of 9 sentences
+4 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Some 48 percent of the company is controlled by the Brazilian state.
+1 default entities: GPE Brazilian
+1 custom entities: GPE Brazilian
+
+Source Sentence and Source Headline Match:
+Some 48 percent of the company is controlled by the Brazilian state.
+Moody's downgrades ratings for scandal-hit Petrobras.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Some 48 percent of the company is controlled by the Brazilian state.
+Brazil's Petrobras lost $17 billion in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Some 48 percent of the company is controlled by the Brazilian state.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+2 matches: brazilian, company
+
+----------------
+
+sent_7:
+7 out of 9 sentences
+5 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Petrobras is reeling from allegations of corruption on a massive scale with kickbacks and political payoffs costing Brazil's biggest company an estimated $3.8 billion.
+2 default entities: GPE Petrobras, PERSON Brazil
+1 custom entities: GPE Petrobras
+
+Source Sentence and Source Headline Match:
+Petrobras is reeling from allegations of corruption on a massive scale with kickbacks and political payoffs costing Brazil's biggest company an estimated $3.8 billion.
+Moody's downgrades ratings for scandal-hit Petrobras.
+1 matches: petrobras
+
+Source Sentence and Story Headline Match:
+Petrobras is reeling from allegations of corruption on a massive scale with kickbacks and political payoffs costing Brazil's biggest company an estimated $3.8 billion.
+Brazil's Petrobras lost $17 billion in 2014.
+3 matches: brazil's, petrobras, billion
+
+Source Sentence and Best Story Sentence Match:
+Petrobras is reeling from allegations of corruption on a massive scale with kickbacks and political payoffs costing Brazil's biggest company an estimated $3.8 billion.
+The bribery and corruption scandal alone, dubbed "Operation Car Wash," cost the company $2.1 billion.
+4 matches: company, corruption, cost, billion
+
+----------------
+
+sent_8:
+8 out of 9 sentences
+6 out of 7 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Also on Tuesday, former president Luiz Inacio Lula da Silva visited oil workers at a union meeting and told them to stand up for Petrobras.
+3 default entities: PERSON Luiz Inacio Lula, PERSON Silva, PERSON Petrobras
+3 custom entities: PERSON Luiz Inacio Lula, PERSON Silva, PERSON Petrobras
+
+Source Sentence and Source Headline Match:
+Also on Tuesday, former president Luiz Inacio Lula da Silva visited oil workers at a union meeting and told them to stand up for Petrobras.
+Moody's downgrades ratings for scandal-hit Petrobras.
+1 matches: petrobras
+
+Source Sentence and Story Headline Match:
+Also on Tuesday, former president Luiz Inacio Lula da Silva visited oil workers at a union meeting and told them to stand up for Petrobras.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+Also on Tuesday, former president Luiz Inacio Lula da Silva visited oil workers at a union meeting and told them to stand up for Petrobras.
+Dozens of Brazilians have been indicted in a wide-ranging corruption probe involving the state-owned oil company Petrobras.
+2 matches: petrobras, oil
+
+----------------
+
+sent_9:
+9 out of 9 sentences
+7 out of 7 paragraphs
+Tagged as a quote
+
+Sentence:
+"We must punish those guilty of corruption but we mustn't throw Petrobras in the trash," Lula said.
+2 default entities: PERSON Petrobras, PERSON Lula
+2 custom entities: PERSON Petrobras, PERSON Lula
+
+Source Sentence and Source Headline Match:
+"We must punish those guilty of corruption but we mustn't throw Petrobras in the trash," Lula said.
+Moody's downgrades ratings for scandal-hit Petrobras.
+1 matches: petrobras
+
+Source Sentence and Story Headline Match:
+"We must punish those guilty of corruption but we mustn't throw Petrobras in the trash," Lula said.
+Brazil's Petrobras lost $17 billion in 2014.
+1 matches: petrobras
+
+Source Sentence and Best Story Sentence Match:
+"We must punish those guilty of corruption but we mustn't throw Petrobras in the trash," Lula said.
+Protesters insist Rousseff must have known about the accusations of corruption and political bribes at Petrobras while she chaired its board.
+3 matches: corruption, petrobras, must
+
+----------------
+

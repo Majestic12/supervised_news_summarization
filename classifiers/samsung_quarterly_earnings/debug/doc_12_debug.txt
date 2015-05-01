@@ -1,0 +1,412 @@
+sent_1:
+1 out of 15 sentences
+1 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Samsung Electronics Co Ltd (005930.KS) on Wednesday said it expects earnings to rise in the second quarter after posting its highest profit in three quarters in January-March, boosted by strong demand for its new Galaxy S6 flagship smartphones.
+3 default entities: PERSON Samsung, ORGANIZATION Electronics Co Ltd, PERSON Galaxy S6
+3 custom entities: PERSON Samsung, ORGANIZATION Electronics Co, PERSON Galaxy S6
+
+Source Sentence and Source Headline Match:
+Samsung Electronics Co Ltd (005930.KS) on Wednesday said it expects earnings to rise in the second quarter after posting its highest profit in three quarters in January-March, boosted by strong demand for its new Galaxy S6 flagship smartphones.
+Samsung Elec tips higher second quarter profit on Galaxy S6 sales.
+7 matches: samsung, profit, second, high, galaxy, quarter, s6
+
+Source Sentence and Story Headline Match:
+Samsung Electronics Co Ltd (005930.KS) on Wednesday said it expects earnings to rise in the second quarter after posting its highest profit in three quarters in January-March, boosted by strong demand for its new Galaxy S6 flagship smartphones.
+Samsung net profit falls 39% from same quarter in 2014.
+3 matches: quarter, samsung, profit
+
+Source Sentence and Best Story Sentence Match:
+Samsung Electronics Co Ltd (005930.KS) on Wednesday said it expects earnings to rise in the second quarter after posting its highest profit in three quarters in January-March, boosted by strong demand for its new Galaxy S6 flagship smartphones.
+"In the second quarter, the company expects its overall earnings to increase compared to the previous quarter."
+4 matches: quarter, expect, second, earnings
+
+----------------
+
+sent_2:
+2 out of 15 sentences
+2 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Samsung's renewed focus on design after a period of stagnation in its smartphone range appears to be paying dividends, with researcher Strategy Analytics saying the South Korean giant overtook Apple Inc (AAPL.O) as the world's top smartphone maker in the first quarter.
+4 default entities: PERSON Samsung, PERSON Strategy Analytics, LOCATION South Korean, PERSON Apple Inc
+3 custom entities: PERSON Strategy Analytics, LOCATION South Korean, PERSON Apple Inc
+
+Source Sentence and Source Headline Match:
+Samsung's renewed focus on design after a period of stagnation in its smartphone range appears to be paying dividends, with researcher Strategy Analytics saying the South Korean giant overtook Apple Inc (AAPL.O) as the world's top smartphone maker in the first quarter.
+Samsung Elec tips higher second quarter profit on Galaxy S6 sales.
+1 matches: quarter
+
+Source Sentence and Story Headline Match:
+Samsung's renewed focus on design after a period of stagnation in its smartphone range appears to be paying dividends, with researcher Strategy Analytics saying the South Korean giant overtook Apple Inc (AAPL.O) as the world's top smartphone maker in the first quarter.
+Samsung net profit falls 39% from same quarter in 2014.
+1 matches: quarter
+
+Source Sentence and Best Story Sentence Match:
+Samsung's renewed focus on design after a period of stagnation in its smartphone range appears to be paying dividends, with researcher Strategy Analytics saying the South Korean giant overtook Apple Inc (AAPL.O) as the world's top smartphone maker in the first quarter.
+Samsung in Q2 2014 was overtaken by Chinese smartphone maker Xioami (pictured) as the top smartphone vendor in China.
+3 matches: smartphone, maker, top
+
+----------------
+
+sent_3:
+3 out of 15 sentences
+3 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+"Galaxy S6 sales have been going as well as expected, while demand for the Galaxy S6 edge have been better than anticipated," Samsung Vice President Park Jin-young said during a conference call.
+4 default entities: PERSON Galaxy S6, ORGANIZATION Galaxy S6, PERSON Samsung, PERSON Park Jin-young
+4 custom entities: PERSON Galaxy S6, ORGANIZATION Galaxy S6, PERSON Samsung, PERSON Park Jin-young
+
+Source Sentence and Source Headline Match:
+"Galaxy S6 sales have been going as well as expected, while demand for the Galaxy S6 edge have been better than anticipated," Samsung Vice President Park Jin-young said during a conference call.
+Samsung Elec tips higher second quarter profit on Galaxy S6 sales.
+4 matches: samsung, sale, s6, galaxy
+
+Source Sentence and Story Headline Match:
+"Galaxy S6 sales have been going as well as expected, while demand for the Galaxy S6 edge have been better than anticipated," Samsung Vice President Park Jin-young said during a conference call.
+Samsung net profit falls 39% from same quarter in 2014.
+1 matches: samsung
+
+Source Sentence and Best Story Sentence Match:
+"Galaxy S6 sales have been going as well as expected, while demand for the Galaxy S6 edge have been better than anticipated," Samsung Vice President Park Jin-young said during a conference call.
+However, Samsung said that its chip business will "see demand" moving forward.
+3 matches: samsung, demand, say
+
+----------------
+
+sent_4:
+4 out of 15 sentences
+4 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The firm reported a January-March operating profit of 6 trillion won ($5.64 billion), in line with the 5.9 trillion won profit it had guided for earlier this month and the highest in three quarters.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The firm reported a January-March operating profit of 6 trillion won ($5.64 billion), in line with the 5.9 trillion won profit it had guided for earlier this month and the highest in three quarters.
+Samsung Elec tips higher second quarter profit on Galaxy S6 sales.
+3 matches: quarter, profit, high
+
+Source Sentence and Story Headline Match:
+The firm reported a January-March operating profit of 6 trillion won ($5.64 billion), in line with the 5.9 trillion won profit it had guided for earlier this month and the highest in three quarters.
+Samsung net profit falls 39% from same quarter in 2014.
+2 matches: quarter, profit
+
+Source Sentence and Best Story Sentence Match:
+The firm reported a January-March operating profit of 6 trillion won ($5.64 billion), in line with the 5.9 trillion won profit it had guided for earlier this month and the highest in three quarters.
+Its operating profit was $5.64 billion, down 29.6% year-on-year, with operating profit from its mobile division down 57%.
+4 matches: 5.64, operating, billion, profit
+
+----------------
+
+sent_5:
+5 out of 15 sentences
+5 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Earnings for April-June should continue to rise, it said, with the two Galaxy S6 models - featuring new design flourishes like metal bodies - likely to break the company's sales record.
+1 default entities: PERSON Galaxy S6
+1 custom entities: PERSON Galaxy S6
+
+Source Sentence and Source Headline Match:
+Earnings for April-June should continue to rise, it said, with the two Galaxy S6 models - featuring new design flourishes like metal bodies - likely to break the company's sales record.
+Samsung Elec tips higher second quarter profit on Galaxy S6 sales.
+3 matches: sale, s6, galaxy
+
+Source Sentence and Story Headline Match:
+Earnings for April-June should continue to rise, it said, with the two Galaxy S6 models - featuring new design flourishes like metal bodies - likely to break the company's sales record.
+Samsung net profit falls 39% from same quarter in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Earnings for April-June should continue to rise, it said, with the two Galaxy S6 models - featuring new design flourishes like metal bodies - likely to break the company's sales record.
+One analyst said the new division suggests the two companies are getting along better than they had in the past."
+3 matches: two, say, new
+
+----------------
+
+sent_6:
+6 out of 15 sentences
+6 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Samsung shares have slipped in recent weeks on concerns that the Galaxy S6 phones, on sale since April 10, may not sell as well as first hoped.
+2 default entities: GPE Samsung, ORGANIZATION Galaxy S6
+2 custom entities: GPE Samsung, ORGANIZATION Galaxy S6
+
+Source Sentence and Source Headline Match:
+Samsung shares have slipped in recent weeks on concerns that the Galaxy S6 phones, on sale since April 10, may not sell as well as first hoped.
+Samsung Elec tips higher second quarter profit on Galaxy S6 sales.
+4 matches: samsung, sale, s6, galaxy
+
+Source Sentence and Story Headline Match:
+Samsung shares have slipped in recent weeks on concerns that the Galaxy S6 phones, on sale since April 10, may not sell as well as first hoped.
+Samsung net profit falls 39% from same quarter in 2014.
+1 matches: samsung
+
+Source Sentence and Best Story Sentence Match:
+Samsung shares have slipped in recent weeks on concerns that the Galaxy S6 phones, on sale since April 10, may not sell as well as first hoped.
+Samsung on April 10 released the Galaxy S6, which the company hopes can help turn around its struggling smartphone division.
+6 matches: hop, samsung, april, 10, galaxy, s6
+
+----------------
+
+sent_7:
+7 out of 15 sentences
+7 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But executives on Wednesday sought to reassure investors that sales were healthy so far and that supply problems associated with the curved-screen S6 edge should be resolved in the current quarter.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+But executives on Wednesday sought to reassure investors that sales were healthy so far and that supply problems associated with the curved-screen S6 edge should be resolved in the current quarter.
+Samsung Elec tips higher second quarter profit on Galaxy S6 sales.
+3 matches: quarter, sale, s6
+
+Source Sentence and Story Headline Match:
+But executives on Wednesday sought to reassure investors that sales were healthy so far and that supply problems associated with the curved-screen S6 edge should be resolved in the current quarter.
+Samsung net profit falls 39% from same quarter in 2014.
+1 matches: quarter
+
+Source Sentence and Best Story Sentence Match:
+But executives on Wednesday sought to reassure investors that sales were healthy so far and that supply problems associated with the curved-screen S6 edge should be resolved in the current quarter.
+"In the second quarter, the company expects its overall earnings to increase compared to the previous quarter."
+1 matches: quarter
+
+----------------
+
+sent_8:
+8 out of 15 sentences
+8 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+"I don't see any devices within the current Android camp that could stand as an alternative to Samsung's high-end smartphones," Daewoo Securities analyst Jonathan Hwang said.
+4 default entities: PERSON Android, PERSON Samsung, PERSON Daewoo Securities, PERSON Jonathan Hwang
+3 custom entities: PERSON Android, PERSON Daewoo Securities, PERSON Jonathan Hwang
+
+Source Sentence and Source Headline Match:
+"I don't see any devices within the current Android camp that could stand as an alternative to Samsung's high-end smartphones," Daewoo Securities analyst Jonathan Hwang said.
+Samsung Elec tips higher second quarter profit on Galaxy S6 sales.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"I don't see any devices within the current Android camp that could stand as an alternative to Samsung's high-end smartphones," Daewoo Securities analyst Jonathan Hwang said.
+Samsung net profit falls 39% from same quarter in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"I don't see any devices within the current Android camp that could stand as an alternative to Samsung's high-end smartphones," Daewoo Securities analyst Jonathan Hwang said.
+However, Samsung said that its chip business will "see demand" moving forward.
+2 matches: say, see
+
+----------------
+
+sent_9:
+9 out of 15 sentences
+9 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Samsung's mobile division's January-March operating profit improved to a three-quarter high of 2.74 trillion won.
+1 default entities: PERSON Samsung
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Samsung's mobile division's January-March operating profit improved to a three-quarter high of 2.74 trillion won.
+Samsung Elec tips higher second quarter profit on Galaxy S6 sales.
+2 matches: profit, high
+
+Source Sentence and Story Headline Match:
+Samsung's mobile division's January-March operating profit improved to a three-quarter high of 2.74 trillion won.
+Samsung net profit falls 39% from same quarter in 2014.
+1 matches: profit
+
+Source Sentence and Best Story Sentence Match:
+Samsung's mobile division's January-March operating profit improved to a three-quarter high of 2.74 trillion won.
+Its operating profit was $5.64 billion, down 29.6% year-on-year, with operating profit from its mobile division down 57%.
+3 matches: operating, mobile, profit
+
+----------------
+
+sent_10:
+10 out of 15 sentences
+10 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But the chips business remained the top earner at 2.93 trillion won, thanks in part to surging orders from smartphone makers including Samsung itself.
+1 default entities: PERSON Samsung
+1 custom entities: PERSON Samsung
+
+Source Sentence and Source Headline Match:
+But the chips business remained the top earner at 2.93 trillion won, thanks in part to surging orders from smartphone makers including Samsung itself.
+Samsung Elec tips higher second quarter profit on Galaxy S6 sales.
+1 matches: samsung
+
+Source Sentence and Story Headline Match:
+But the chips business remained the top earner at 2.93 trillion won, thanks in part to surging orders from smartphone makers including Samsung itself.
+Samsung net profit falls 39% from same quarter in 2014.
+1 matches: samsung
+
+Source Sentence and Best Story Sentence Match:
+But the chips business remained the top earner at 2.93 trillion won, thanks in part to surging orders from smartphone makers including Samsung itself.
+Samsung in Q2 2014 was overtaken by Chinese smartphone maker Xioami (pictured) as the top smartphone vendor in China.
+4 matches: samsung, smartphone, maker, top
+
+----------------
+
+sent_11:
+11 out of 15 sentences
+10 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The company said it expected robust chip sales to continue in the April-June period.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The company said it expected robust chip sales to continue in the April-June period.
+Samsung Elec tips higher second quarter profit on Galaxy S6 sales.
+1 matches: sale
+
+Source Sentence and Story Headline Match:
+The company said it expected robust chip sales to continue in the April-June period.
+Samsung net profit falls 39% from same quarter in 2014.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The company said it expected robust chip sales to continue in the April-June period.
+"In the second quarter, the company expects its overall earnings to increase compared to the previous quarter."
+2 matches: expect, company
+
+----------------
+
+sent_12:
+12 out of 15 sentences
+11 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Even so, few expect Samsung to return to the record profits of 2014 given intensifying competition in the global smartphone market.
+1 default entities: PERSON Samsung
+1 custom entities: PERSON Samsung
+
+Source Sentence and Source Headline Match:
+Even so, few expect Samsung to return to the record profits of 2014 given intensifying competition in the global smartphone market.
+Samsung Elec tips higher second quarter profit on Galaxy S6 sales.
+2 matches: samsung, profit
+
+Source Sentence and Story Headline Match:
+Even so, few expect Samsung to return to the record profits of 2014 given intensifying competition in the global smartphone market.
+Samsung net profit falls 39% from same quarter in 2014.
+3 matches: samsung, 2014, profit
+
+Source Sentence and Best Story Sentence Match:
+Even so, few expect Samsung to return to the record profits of 2014 given intensifying competition in the global smartphone market.
+Samsung has been increasing its reliance on its display and semiconductor divisions in the face of increased smartphone competition.
+3 matches: samsung, smartphone, competition
+
+----------------
+
+sent_13:
+13 out of 15 sentences
+11 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Apple topped Wall Street's profit forecasts on Monday as it sold more iPhones in China than the United States for the first time.
+4 default entities: PERSON Apple, FACILITY Wall Street, GPE China, GPE United States
+4 custom entities: PERSON Apple, PERSON Wall, GPE China, GPE United States
+
+Source Sentence and Source Headline Match:
+Apple topped Wall Street's profit forecasts on Monday as it sold more iPhones in China than the United States for the first time.
+Samsung Elec tips higher second quarter profit on Galaxy S6 sales.
+1 matches: profit
+
+Source Sentence and Story Headline Match:
+Apple topped Wall Street's profit forecasts on Monday as it sold more iPhones in China than the United States for the first time.
+Samsung net profit falls 39% from same quarter in 2014.
+1 matches: profit
+
+Source Sentence and Best Story Sentence Match:
+Apple topped Wall Street's profit forecasts on Monday as it sold more iPhones in China than the United States for the first time.
+Apple, boosted by strong sales of the iPhone 6 and 6 Plus, has since overtaken both companies as the top smartphone vendor in China.
+3 matches: apple, top, china
+
+----------------
+
+sent_14:
+14 out of 15 sentences
+12 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Samsung also warned that the typical industry pattern of a stronger second half may not be as pronounced this year due to risks like the weaker euro and emerging market currencies.
+1 default entities: PERSON Samsung
+1 custom entities: PERSON Samsung
+
+Source Sentence and Source Headline Match:
+Samsung also warned that the typical industry pattern of a stronger second half may not be as pronounced this year due to risks like the weaker euro and emerging market currencies.
+Samsung Elec tips higher second quarter profit on Galaxy S6 sales.
+2 matches: samsung, second
+
+Source Sentence and Story Headline Match:
+Samsung also warned that the typical industry pattern of a stronger second half may not be as pronounced this year due to risks like the weaker euro and emerging market currencies.
+Samsung net profit falls 39% from same quarter in 2014.
+1 matches: samsung
+
+Source Sentence and Best Story Sentence Match:
+Samsung also warned that the typical industry pattern of a stronger second half may not be as pronounced this year due to risks like the weaker euro and emerging market currencies.
+Samsung on Jan. 29 posted its first annual loss in three years following a weak Q4 2014.
+2 matches: samsung, year
+
+----------------
+
+sent_15:
+15 out of 15 sentences
+13 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The median forecast from a Thomson Reuters I/B/E/S poll of 49 analysts tips Samsung's 2015 profit at 27.7 trillion won, up 10.8 percent from 25 trillion won in 2014.
+2 default entities: ORGANIZATION Thomson Reuters, PERSON Samsung
+1 custom entities: ORGANIZATION Thomson Reuters
+
+Source Sentence and Source Headline Match:
+The median forecast from a Thomson Reuters I/B/E/S poll of 49 analysts tips Samsung's 2015 profit at 27.7 trillion won, up 10.8 percent from 25 trillion won in 2014.
+Samsung Elec tips higher second quarter profit on Galaxy S6 sales.
+2 matches: tip, profit
+
+Source Sentence and Story Headline Match:
+The median forecast from a Thomson Reuters I/B/E/S poll of 49 analysts tips Samsung's 2015 profit at 27.7 trillion won, up 10.8 percent from 25 trillion won in 2014.
+Samsung net profit falls 39% from same quarter in 2014.
+2 matches: 2014, profit
+
+Source Sentence and Best Story Sentence Match:
+The median forecast from a Thomson Reuters I/B/E/S poll of 49 analysts tips Samsung's 2015 profit at 27.7 trillion won, up 10.8 percent from 25 trillion won in 2014.
+Samsung posted its Q1 2015 results April 29.
+1 matches: 2015
+
+----------------
+
