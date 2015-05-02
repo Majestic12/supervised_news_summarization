@@ -214,7 +214,7 @@ def main_function():
         print_color_text("Exited folder " + folder_name, "pink")
         print('---------------------------------------------------------------------\n')
     print_color_text('...done', "green")
-    quit()
 # - start here
 if __name__ == "__main__":
     main_function()
+    quit()
