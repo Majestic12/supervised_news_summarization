@@ -8,12 +8,13 @@ for i = 1:length(files)
     raw_data = [raw_data; data];
 end
 save('rawdata.mat','raw_data')
+csvwrite('rawdata.csv',raw_data)
 clear data files i
 %%
 %%%
 % create X and Y training data
-X_train = raw_data(:,1:18);
-Y_train = raw_data(:,20);
+X_train = raw_data(:,1:22);
+Y_train = raw_data(:,24);
 
 %%
 %%%
