@@ -94,7 +94,6 @@ if __name__ == "__main__":
             print("...working on " + file_name)
             with open(file_name, 'r') as file:
                 source_lines = file.readlines() # get paragraphs from source
-            source_headline = source_lines[0] # get headline from source
             source_lines = source_lines[1:] # get paragraphs except headline from source
             source_sentences = []
             for source_line in source_lines:
@@ -115,5 +114,5 @@ if __name__ == "__main__":
         os.chdir("..")
         print(color_text("Exited folder " + folder_name, "pink"))
         print('---------------------------------------------------------------------\n')
-print(color_text('...done', "green"))
-quit()
+    print(color_text('...done', "green"))
+    quit()
