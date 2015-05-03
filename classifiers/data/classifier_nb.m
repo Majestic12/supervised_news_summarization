@@ -12,8 +12,9 @@ cmat = confusionmat(Y,class)
 % (training + validation data)
 
 avg_kfold = 0;
+
 for i = 1:20
-    c = cvpartition(Y,'k',5);
+    c = cvpartition(Y,'kFold',5);
     fun = @(xT,yT,xt,yt)(sum(~strcmp(yt,classify(xt,xT,yT))));
     rate = sum(crossval(fun,X(:,feature),Y,'partition',c))...
            /sum(c.TestSize);
@@ -22,5 +23,6 @@ end
 % j
 
 avg_kfold/20
+
 % end
 
