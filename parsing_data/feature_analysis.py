@@ -25,7 +25,8 @@ def main_function():
     os.chdir(sources_folder)
     for folder_name in sources_sub_folders:
         os.chdir(folder_name)
-        print_color_text("Entered folder " + folder_name, "pink")
+        current_folder_path, current_folder_name = os.path.split(os.getcwd())
+        print_color_text("Entered folder " + current_folder_name, "pink")
         # create features folder
         if os.path.exists(features_folder):
             print_color_text("features folder already exists", "yellow")
@@ -56,15 +57,14 @@ def main_function():
         # for each source file
         # glob.glob(<path_name>) returns list of path names that match path_name
         for source_file in glob.glob("d*.txt"):
-            file_name = source_file
-            features_file = os.path.join(features_folder, file_name[:file_name.index(".txt")] + "_features.txt")
+            features_file = os.path.join(features_folder, source_file[:source_file.index(".txt")] + "_features.txt")
             feature_texts = []
-            debug_file = os.path.join(debug_folder, file_name[:file_name.index(".txt")] + "_debug.txt")
+            debug_file = os.path.join(debug_folder, source_file[:source_file.index(".txt")] + "_debug.txt")
             debug_texts = []
-            limited_debug_file = os.path.join(limited_debug_folder, file_name[:file_name.index(".txt")] + "_limited_debug.txt")
+            limited_debug_file = os.path.join(limited_debug_folder, source_file[:source_file.index(".txt")] + "_limited_debug.txt")
             limited_debug_texts = []
-            print("...working on " + file_name)
-            with open(file_name, 'r') as file:
+            print("...working on " + source_file)
+            with open(source_file, 'r') as file:
                 source_lines = file.readlines() # get paragraphs from source
             source_headline = source_lines[0] # get headline from source
             source_lines = source_lines[1:] # get paragraphs except headline from source
@@ -211,7 +211,7 @@ def main_function():
             if weird_quote_sentences > 3:
                 print_color_text("...possible quotation error(s) in " + features_file, "yellow")
         os.chdir("..")
-        print_color_text("Exited folder " + folder_name, "pink")
+        print_color_text("Exited folder " + current_folder_name, "pink")
         print('---------------------------------------------------------------------\n')
     print_color_text('...done', "green")
 # - start here
