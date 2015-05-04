@@ -1,0 +1,119 @@
+sent_1:
+
+A Brooklyn woman scored a judge’s approval to legally change her relationship status to “single” via Facebook.
+The Daily News said on April 6 that a NY judge ruled that Ellanora Baidoo, 26, will be able to serve her "elusive" husband divorce papers via Facebook.
+2 best matches: via, facebook
+
+----------------
+sent_2:
+
+In a landmark ruling, Manhattan Supreme Court Justice Matthew Cooper is allowing a nurse named Ellanora Baidoo to serve her elusive husband with divorce papers via a Facebook message.
+The Daily News said on April 6 that a NY judge ruled that Ellanora Baidoo, 26, will be able to serve her "elusive" husband divorce papers via Facebook.
+9 best matches: elusive, ellanora, divorce, baidoo, husband, facebook, serve, paper, via
+
+----------------
+sent_3:
+
+Baidoo, 26, “is granted permission serve defendant with the divorce summons using a private message through Facebook,” with her lawyer messaging Victor Sena Blood-Dzraku through her account, Cooper wrote.
+Victor Sena Blood-Dzraku of New York will be served a divorce summons by way of a private Facebook message after avoiding communication with his wife.
+9 best matches: divorce, private, facebook, serve, sena, summons, victor, blood-dzraku, message
+
+----------------
+sent_4:
+
+“This transmittal shall be repeated by plaintiff’s attorney to defendant once a week for three consecutive weeks or until acknowledged” by her hard-to-find hubby.
+Her lawyer was given permission to serve the summons via Facebook once a week for three weeks, or "until acknowledged."
+3 best matches: week, three, acknowledged
+
+----------------
+sent_5:
+
+“I think it’s new law, and it’s necessary,” said Baidoo’s lawyer, Andrew Spinnell.
+Spinnell said the ruling was "necessary," as the defendant refused to make himself available to be served.
+3 best matches: spinnell, say, necessary
+
+----------------
+sent_6:
+
+His client and Blood-Dzraku tied the knot back in a civil ceremony back in 2009, but their relationship crumbled when Blood-Dzraku reneged on his promise to have a traditional Ghanaian wedding ceremony as well, Spinnell said.
+The couple, both from Ghana, married in 2009 and faced problems soon after when Blood-Dzraku refused to hold a traditional Ghanian wedding ceremony.
+5 best matches: wedding, traditional, blood-dzraku, ceremony, 2009
+
+----------------
+sent_7:
+
+Both are from Ghana.
+The couple, both from Ghana, married in 2009 and faced problems soon after when Blood-Dzraku refused to hold a traditional Ghanian wedding ceremony.
+1 best matches: ghana
+
+----------------
+sent_8:
+
+“She wanted their families there,” the lawyer said.
+The Daily News said on April 6 that a NY judge ruled that Ellanora Baidoo, 26, will be able to serve her "elusive" husband divorce papers via Facebook.
+1 best matches: say
+
+----------------
+sent_9:
+
+As a result, the wedding was never consummated and the husband and wife never lived together, the lawyer said — but Blood-Dzraku apparently still doesn’t want a divorce.
+Victor Sena Blood-Dzraku of New York will be served a divorce summons by way of a private Facebook message after avoiding communication with his wife.
+3 best matches: blood-dzraku, divorce, wife
+
+----------------
+sent_10:
+
+He kept in touch with his wife by phone and Facebook — but that was it, the ruling says.
+The report states that the defendant has only been in touch with his wife via telephone and Facebook.
+3 best matches: touch, wife, facebook
+
+----------------
+sent_11:
+
+The “last address plaintiff has for defendant is an apartment that he vacated in 2011,” Cooper said.
+Blood-Dzraku left his last known residence in 2011.
+2 best matches: last, 2011
+
+----------------
+sent_12:
+
+Baidoo “has spoken with defendant by telephone on occasion and he has told her that he has no fixed address and no place of employment.
+The report states that the defendant has only been in touch with his wife via telephone and Facebook.
+2 best matches: defendant, telephone
+
+----------------
+sent_13:
+
+He has also refused to make himself available to be served with divorce papers.”
+Spinnell said the ruling was "necessary," as the defendant refused to make himself available to be served.
+4 best matches: refuse, make, available, serve
+
+----------------
+sent_14:
+
+The “post office has no forwarding address for him, there is no billing address linked to his prepaid cell phone, and the Department of Motor Vehicles has no record of him,” the ruling says.
+He has no record with the DMV, nor forwarding address with the post office, and there is no billing address attached to his prepaid cell phone.
+8 best matches: phone, cell, record, billing, office, address, post, prepaid
+
+----------------
+sent_15:
+
+“We tried everything, including hiring a private detective — and nothing,” Spinnell said.
+"We tried everything, including hiring a private detective — and nothing."
+7 best matches: include, hiring, private, try, nothing, detective, everything
+
+----------------
+sent_16:
+
+The first Facebook message went out to the husband last week.
+Victor Sena Blood-Dzraku of New York will be served a divorce summons by way of a private Facebook message after avoiding communication with his wife.
+2 best matches: facebook, message
+
+----------------
+sent_17:
+
+“So far, he hasn’t responded,” Spinnell said.
+Spinnell said the ruling was "necessary," as the defendant refused to make himself available to be served.
+2 best matches: spinnell, say
+
+----------------

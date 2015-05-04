@@ -1,0 +1,409 @@
+sent_1:
+1 out of 15 sentences
+1 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Here's something President Obama and National Security Agency leaker Edward Snowden might agree on.
+3 default entities: PERSON Obama, ORGANIZATION National, PERSON Edward Snowden
+3 custom entities: PERSON Obama, ORGANIZATION National, PERSON Edward Snowden
+
+Source Sentence and Source Headline Match:
+Here's something President Obama and National Security Agency leaker Edward Snowden might agree on.
+Snowden: Other nations use NSA surveillance info.
+1 matches: snowden
+
+Source Sentence and Story Headline Match:
+Here's something President Obama and National Security Agency leaker Edward Snowden might agree on.
+German intelligence agency helped NSA spy in Europe.
+1 matches: agency
+
+Source Sentence and Best Story Sentence Match:
+Here's something President Obama and National Security Agency leaker Edward Snowden might agree on.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+5 matches: edward, snowden, national, security, agency
+
+----------------
+
+sent_2:
+2 out of 15 sentences
+2 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Snowden told a German magazine that other Western governments use information from the same NSA phone and Internet intelligence programs that some of their leaders are now protesting.
+4 default entities: PERSON Snowden, GPE German, LOCATION Western, ORGANIZATION NSA
+4 custom entities: PERSON Snowden, GPE German, LOCATION Western, ORGANIZATION NSA
+
+Source Sentence and Source Headline Match:
+Snowden told a German magazine that other Western governments use information from the same NSA phone and Internet intelligence programs that some of their leaders are now protesting.
+Snowden: Other nations use NSA surveillance info.
+3 matches: snowden, nsa, use
+
+Source Sentence and Story Headline Match:
+Snowden told a German magazine that other Western governments use information from the same NSA phone and Internet intelligence programs that some of their leaders are now protesting.
+German intelligence agency helped NSA spy in Europe.
+3 matches: intelligence, nsa, german
+
+Source Sentence and Best Story Sentence Match:
+Snowden told a German magazine that other Western governments use information from the same NSA phone and Internet intelligence programs that some of their leaders are now protesting.
+Despite outcry from European leaders over the leaks, Snowden told Der Spiegel in 2013 that the NSA is "in bed together with the Germans and most other Western states."
+6 matches: leader, tell, snowden, nsa, western, german
+
+----------------
+
+sent_3:
+3 out of 15 sentences
+3 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+Or, as Snowden put it, NSA analysts are "in bed together with the Germans and most other Western states."
+3 default entities: PERSON Snowden, ORGANIZATION NSA, GPE Western
+2 custom entities: PERSON Snowden, GPE Western
+
+Source Sentence and Source Headline Match:
+Or, as Snowden put it, NSA analysts are "in bed together with the Germans and most other Western states."
+Snowden: Other nations use NSA surveillance info.
+2 matches: snowden, nsa
+
+Source Sentence and Story Headline Match:
+Or, as Snowden put it, NSA analysts are "in bed together with the Germans and most other Western states."
+German intelligence agency helped NSA spy in Europe.
+2 matches: nsa, german
+
+Source Sentence and Best Story Sentence Match:
+Or, as Snowden put it, NSA analysts are "in bed together with the Germans and most other Western states."
+Despite outcry from European leaders over the leaks, Snowden told Der Spiegel in 2013 that the NSA is "in bed together with the Germans and most other Western states."
+7 matches: snowden, nsa, bed, western, together, state, german
+
+----------------
+
+sent_4:
+4 out of 15 sentences
+4 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The magazine Der Spiegel said the comments came before Snowden -- now in hiding at the Moscow airport -- became internationally known.
+3 default entities: PERSON Der Spiegel, PERSON Snowden, GPE Moscow
+3 custom entities: PERSON Der Spiegel, PERSON Snowden, GPE Moscow
+
+Source Sentence and Source Headline Match:
+The magazine Der Spiegel said the comments came before Snowden -- now in hiding at the Moscow airport -- became internationally known.
+Snowden: Other nations use NSA surveillance info.
+1 matches: snowden
+
+Source Sentence and Story Headline Match:
+The magazine Der Spiegel said the comments came before Snowden -- now in hiding at the Moscow airport -- became internationally known.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The magazine Der Spiegel said the comments came before Snowden -- now in hiding at the Moscow airport -- became internationally known.
+Despite outcry from European leaders over the leaks, Snowden told Der Spiegel in 2013 that the NSA is "in bed together with the Germans and most other Western states."
+3 matches: snowden, spiegel, der
+
+----------------
+
+sent_5:
+5 out of 15 sentences
+5 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+U.S. intelligence agencies have long discussed their close cooperation with allied governments when it comes to battling the threat of terrorism.
+1 default entities: GPE U.S.
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+U.S. intelligence agencies have long discussed their close cooperation with allied governments when it comes to battling the threat of terrorism.
+Snowden: Other nations use NSA surveillance info.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+U.S. intelligence agencies have long discussed their close cooperation with allied governments when it comes to battling the threat of terrorism.
+German intelligence agency helped NSA spy in Europe.
+2 matches: intelligence, agency
+
+Source Sentence and Best Story Sentence Match:
+U.S. intelligence agencies have long discussed their close cooperation with allied governments when it comes to battling the threat of terrorism.
+German officials in Oct. 2014 refused to relinquish intelligence documents that would illuminate the nature of government spy agencies' relationships with the U.S, the AP reported.
+4 matches: government, intelligence, u.s, agency
+
+----------------
+
+sent_6:
+6 out of 15 sentences
+6 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Obama aides have also criticized Snowden's leaks of NSA techniques, saying it has hurt national security.
+3 default entities: GPE Obama, PERSON Snowden, ORGANIZATION NSA
+2 custom entities: GPE Obama, ORGANIZATION NSA
+
+Source Sentence and Source Headline Match:
+Obama aides have also criticized Snowden's leaks of NSA techniques, saying it has hurt national security.
+Snowden: Other nations use NSA surveillance info.
+1 matches: nsa
+
+Source Sentence and Story Headline Match:
+Obama aides have also criticized Snowden's leaks of NSA techniques, saying it has hurt national security.
+German intelligence agency helped NSA spy in Europe.
+1 matches: nsa
+
+Source Sentence and Best Story Sentence Match:
+Obama aides have also criticized Snowden's leaks of NSA techniques, saying it has hurt national security.
+Friedrich, Germany's minister responsible for national security said he is keen to speak to Snowden over allegations that the NSA monitored Chancellor Angela Merkel's phone calls.
+4 matches: nsa, national, security, say
+
+----------------
+
+sent_7:
+7 out of 15 sentences
+7 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+"There has been damage," Gen. Martin Dempsey, chairman of the Joint Chiefs of Staff, said Sunday on CNN's State of the Union.
+4 default entities: PERSON Martin Dempsey, ORGANIZATION Joint Chiefs, ORGANIZATION CNN, ORGANIZATION Union
+4 custom entities: ORGANIZATION Gen Martin Dempsey, ORGANIZATION Joint Chiefs, PERSON Staff, ORGANIZATION Union
+
+Source Sentence and Source Headline Match:
+"There has been damage," Gen. Martin Dempsey, chairman of the Joint Chiefs of Staff, said Sunday on CNN's State of the Union.
+Snowden: Other nations use NSA surveillance info.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"There has been damage," Gen. Martin Dempsey, chairman of the Joint Chiefs of Staff, said Sunday on CNN's State of the Union.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"There has been damage," Gen. Martin Dempsey, chairman of the Joint Chiefs of Staff, said Sunday on CNN's State of the Union.
+Despite outcry from European leaders over the leaks, Snowden told Der Spiegel in 2013 that the NSA is "in bed together with the Germans and most other Western states."
+1 matches: state
+
+----------------
+
+sent_8:
+8 out of 15 sentences
+7 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+"I don't think we actually have been able to determine the depth of that damage."
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"I don't think we actually have been able to determine the depth of that damage."
+Snowden: Other nations use NSA surveillance info.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"I don't think we actually have been able to determine the depth of that damage."
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_9:
+9 out of 15 sentences
+8 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The new leaks have also somewhat undermined relations with other nations, Dempsey said.
+1 default entities: PERSON Dempsey
+1 custom entities: PERSON Dempsey
+
+Source Sentence and Source Headline Match:
+The new leaks have also somewhat undermined relations with other nations, Dempsey said.
+Snowden: Other nations use NSA surveillance info.
+1 matches: nation
+
+Source Sentence and Story Headline Match:
+The new leaks have also somewhat undermined relations with other nations, Dempsey said.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The new leaks have also somewhat undermined relations with other nations, Dempsey said.
+Spiegel also reported in 2013 of BNA-NSA cooperation.
+1 matches: also
+
+----------------
+
+sent_10:
+10 out of 15 sentences
+9 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+"We'll work our way back," Dempsey said.
+1 default entities: PERSON Dempsey
+1 custom entities: PERSON Dempsey
+
+Source Sentence and Source Headline Match:
+"We'll work our way back," Dempsey said.
+Snowden: Other nations use NSA surveillance info.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"We'll work our way back," Dempsey said.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"We'll work our way back," Dempsey said.
+He said a system was set up to "insulate" European leaders from potential backlash in case details of the partnership emerged.
+1 matches: say
+
+----------------
+
+sent_11:
+11 out of 15 sentences
+9 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+"But it has set us back temporarily."
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"But it has set us back temporarily."
+Snowden: Other nations use NSA surveillance info.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"But it has set us back temporarily."
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"But it has set us back temporarily."
+He said a system was set up to "insulate" European leaders from potential backlash in case details of the partnership emerged.
+1 matches: set
+
+----------------
+
+sent_12:
+12 out of 15 sentences
+10 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+From the AFP wire service:
+1 default entities: ORGANIZATION AFP
+1 custom entities: ORGANIZATION AFP
+
+Source Sentence and Source Headline Match:
+From the AFP wire service:
+Snowden: Other nations use NSA surveillance info.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+From the AFP wire service:
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+From the AFP wire service:
+Der Spiegel in 2013 revealed the NSA's Special Collection Service may have been monitoring Chancellor Angela Merkel's mobile phone since 2002.
+1 matches: service
+
+----------------
+
+sent_13:
+13 out of 15 sentences
+11 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+"In remarks published in German, Snowden said an NSA department known as the Foreign Affairs Directorate coordinated work with foreign secret services.
+4 default entities: GPE German, PERSON Snowden, ORGANIZATION NSA, ORGANIZATION Foreign Affairs Directorate
+4 custom entities: GPE German, PERSON Snowden, ORGANIZATION NSA, ORGANIZATION Foreign Affairs Directorate
+
+Source Sentence and Source Headline Match:
+"In remarks published in German, Snowden said an NSA department known as the Foreign Affairs Directorate coordinated work with foreign secret services.
+Snowden: Other nations use NSA surveillance info.
+2 matches: snowden, nsa
+
+Source Sentence and Story Headline Match:
+"In remarks published in German, Snowden said an NSA department known as the Foreign Affairs Directorate coordinated work with foreign secret services.
+German intelligence agency helped NSA spy in Europe.
+2 matches: nsa, german
+
+Source Sentence and Best Story Sentence Match:
+"In remarks published in German, Snowden said an NSA department known as the Foreign Affairs Directorate coordinated work with foreign secret services.
+Despite outcry from European leaders over the leaks, Snowden told Der Spiegel in 2013 that the NSA is "in bed together with the Germans and most other Western states."
+3 matches: snowden, nsa, german
+
+----------------
+
+sent_14:
+14 out of 15 sentences
+12 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+"The partnerships are organized so that authorities in other countries can 'insulate their political leaders from the backlash' if it becomes public 'how grievously they're violating global privacy,' he said.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"The partnerships are organized so that authorities in other countries can 'insulate their political leaders from the backlash' if it becomes public 'how grievously they're violating global privacy,' he said.
+Snowden: Other nations use NSA surveillance info.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"The partnerships are organized so that authorities in other countries can 'insulate their political leaders from the backlash' if it becomes public 'how grievously they're violating global privacy,' he said.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"The partnerships are organized so that authorities in other countries can 'insulate their political leaders from the backlash' if it becomes public 'how grievously they're violating global privacy,' he said.
+He said a system was set up to "insulate" European leaders from potential backlash in case details of the partnership emerged.
+5 matches: insulate, leader, backlash, say, partnership
+
+----------------
+
+sent_15:
+15 out of 15 sentences
+13 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+"The interview was conducted by U.S. cryptography expert Jacob Appelbaum and documentary filmmaker Laura Poitras using 'encrypted e-mails shortly before Snowden became known globally for his whistleblowing', Spiegel said."
+5 default entities: GPE U.S., PERSON Jacob Appelbaum, PERSON Laura Poitras, PERSON Snowden, PERSON Spiegel
+4 custom entities: PERSON Jacob Appelbaum, PERSON Laura Poitras, PERSON Snowden, PERSON Spiegel
+
+Source Sentence and Source Headline Match:
+"The interview was conducted by U.S. cryptography expert Jacob Appelbaum and documentary filmmaker Laura Poitras using 'encrypted e-mails shortly before Snowden became known globally for his whistleblowing', Spiegel said."
+Snowden: Other nations use NSA surveillance info.
+2 matches: snowden, use
+
+Source Sentence and Story Headline Match:
+"The interview was conducted by U.S. cryptography expert Jacob Appelbaum and documentary filmmaker Laura Poitras using 'encrypted e-mails shortly before Snowden became known globally for his whistleblowing', Spiegel said."
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"The interview was conducted by U.S. cryptography expert Jacob Appelbaum and documentary filmmaker Laura Poitras using 'encrypted e-mails shortly before Snowden became known globally for his whistleblowing', Spiegel said."
+Snowden said he wanted to testify before the committee in Berlin, but the German government could not give assurances that he wouldn't be detained and extradited to the U.S.
+3 matches: snowden, say, u.s
+
+----------------
+

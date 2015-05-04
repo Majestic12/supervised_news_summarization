@@ -1,0 +1,246 @@
+sent_1:
+
+China defended a plan to place limits on democracy in Hong Kong, calling on opposition lawmakers to get behind its ruling or risk losing the chance to elect the city’s next leader by popular vote.
+The elections will allow five million eligible Hong Kong voters to directly vote for their next chief executive.
+4 best matches: kong, vote, hong, next
+
+----------------
+sent_2:
+
+Activists should overcome their “prejudices” and see that China’s proposal is the most concrete step toward implementing the election, Li Fei, deputy secretary-general of the National People’s Congress, said in Hong Kong yesterday.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+3 best matches: election, kong, hong
+
+----------------
+sent_3:
+
+Earlier, police used pepper spray to repel protesters who sought to break through barricades as Li presented the plan to a gathering of lawmakers and business leaders.
+Police used pepper spray and tear gas on protesters Sept. 28, 2014, prompting organizers to hand out umbrellas and plastic wrap as protection.
+5 best matches: spray, protester, police, pepper, use
+
+----------------
+sent_4:
+
+China’s demand to vet candidates for the 2017 election angered pro-democracy lawmakers and activist group Occupy Central With Love and Peace, which said it will organize protests culminating in the mass occupation of Hong Kong’s central business district.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+6 best matches: 2017, hong, candidate, election, vet, lawmaker
+
+----------------
+sent_5:
+
+While calling such activities illegal, Li also sought to pacify dissenters by saying that the electoral rules can be amended in the future.
+If it does not get a two-thirds majority, the 2017 election will be based on current rules, which are also considered to give de facto control of the choice of the city's leader to Beijing.
+2 best matches: rule, also
+
+----------------
+sent_6:
+
+“China has the biggest sincerity in reaching a consensus,” Li told reporters at a briefing yesterday.
+A report by a UK parliament committee on March 6 expressed concern that Hong Kong's "high degree of autonomy is coming under pressure" from mainland China.
+1 best matches: china
+
+----------------
+sent_7:
+
+“The door for dialogue is always open.”
+The decision to rule out open nominations set the stage for renewed protests.
+1 best matches: open
+
+----------------
+sent_8:
+
+Li has met with a mixed reception in Hong Kong, with opposition lawmakers heckling him before they were escorted out of the hall where he was speaking.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+2 best matches: lawmaker, hong
+
+----------------
+sent_9:
+
+In a sign of heightened tensions, police patrolled the streets of the business district yesterday and barricades were erected outside buildings including the Cheung Kong Center, owned by Asia’s richest man, Li Ka-shing.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+1 best matches: kong
+
+----------------
+sent_10:
+
+Scaffolding was erected in the space beneath HSBC Holdings Plc’s Asian headquarters, with a sign explaining that an open air heritage space was being constructed to celebrate the bank’s 150th anniversary next year.
+If this proposal is vetoed, it could be several years before the next opportunity."
+2 best matches: year, next
+
+----------------
+sent_11:
+
+no story sentence best matches found
+
+----------------
+sent_12:
+
+Hong Kong’s benchmark Hang Seng Index was little changed yesterday, and has gained 6.2 percent this year.
+China responded that the UK, which ran Hong Kong for nearly 150 years, has "no right to interfere" in what China considers a domestic issue.
+2 best matches: year, hong
+
+----------------
+sent_13:
+
+The 2017 election will be the first to be decided by universal suffrage in Hong Kong, a former British colony that returned to Chinese sovereignty in 1997 with the promise of a high degree of autonomy under a “one country, two systems” formula championed by former Chinese leader Deng Xiaoping.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+5 best matches: decide, 2017, election, hong, chinese
+
+----------------
+sent_14:
+
+China ruled Aug. 31 that candidates for the poll must be approved by a majority of a 1,200-member committee, which opposition lawmakers have criticized as dominated by a pro-Beijing business and political elite.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+5 best matches: committee, lawmaker, 31, aug, must
+
+----------------
+sent_15:
+
+The number of contenders will be limited to two or three.
+Although the central government cited overwhelming numbers of tourists as the reason for the limit, many so-called "parallel traders" come from Shenzhen.
+2 best matches: limit, number
+
+----------------
+sent_16:
+
+NPC official Li’s offer isn’t meaningful, according to Emily Lau, the chairman of the Democratic Party of Hong Kong, which has vowed to take part in Occupy Central.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+2 best matches: kong, hong
+
+----------------
+sent_17:
+
+“What’s the point of dialogue if it’s only one way?” Lau said.
+Activists say Beijing promised direct elections in 2017.
+1 best matches: say
+
+----------------
+sent_18:
+
+“China has decided everything.”
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+1 best matches: decide
+
+----------------
+sent_19:
+
+Occupy Central said it will organize protests that will involve at least 10,000 people.
+The proposal comes after months of protests in 2014 over a Beijing-back election plan.
+1 best matches: protest
+
+----------------
+sent_20:
+
+Students will skip school from mid-September in protest, said Alex Chow, a spokesman for the Hong Kong Federation of Students.
+China said April 13 that it changed visa allowances for Shenzhen residents to visit Hong Kong from unlimited multiple-entry to once per week.
+3 best matches: kong, say, hong
+
+----------------
+sent_21:
+
+“I believe most of the people in Hong Kong oppose Occupy Central,” Feng Wei, deputy director of the Hong Kong and Macau Affairs Office of the State Council, China’s cabinet, said yesterday at the same press conference.
+"Hong Kong people are right to feel betrayed.
+3 best matches: people, kong, hong
+
+----------------
+sent_22:
+
+“Hong Kong is a free economy based on the flow of funds, human resources and information.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+2 best matches: kong, hong
+
+----------------
+sent_23:
+
+The key to these flows is to ensure stability and order in society.”
+The plan came after reviewing comments from a wide range of Hong Kong society.
+1 best matches: society
+
+----------------
+sent_24:
+
+Occupy Central has divided the city with tycoons, business groups and officials warning protests could turn violent and tarnish the city’s reputation as a global financial center.
+The proposal comes after months of protests in 2014 over a Beijing-back election plan.
+1 best matches: protest
+
+----------------
+sent_25:
+
+A July 1 pro-democracy rally drew as many as 172,000, while an anti-Occupy Central march on Aug. 17 attracted about 88,000, according to estimates by the University of Hong Kong.
+Hong Kong pro-democracy leaders applauded the UK report.
+3 best matches: kong, hong, pro-democracy
+
+----------------
+sent_26:
+
+Pro-Beijing groups also rallied yesterday, with about 200 people marching outside the Hong Kong government headquarters in support of the China ruling.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+3 best matches: kong, government, hong
+
+----------------
+sent_27:
+
+“Young people don’t know Hong Kong’s history,” Leung Chi Kong, 60, community worker, said at the rally.
+"Hong Kong people are right to feel betrayed.
+3 best matches: people, kong, hong
+
+----------------
+sent_28:
+
+“The prosperity of Hong Kong is the result of our struggles in the 1980s and 1990s.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+2 best matches: kong, hong
+
+----------------
+sent_29:
+
+Occupy Central will ruin Hong Kong’s economy.”
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+1 best matches: hong
+
+----------------
+sent_30:
+
+Hong Kong Chief Executive Leung Chun-ying will hold a second public consultation before introducing a bill on the electoral reforms to the city’s legislature early next year.
+The elections will allow five million eligible Hong Kong voters to directly vote for their next chief executive.
+5 best matches: chief, executive, kong, hong, next
+
+----------------
+sent_31:
+
+He needs two-thirds of the 70-member legislature, of which 27 belong to opposition parties, to pass the bill.
+Opposition candidates are unlikely to be approved.
+1 best matches: opposition
+
+----------------
+sent_32:
+
+If the proposal is rejected, China has said it will scrap the 2017 election and Hong Kong will continue to have its leader picked by a 1,200-member election committee.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+4 best matches: 2017, election, committee, hong
+
+----------------
+sent_33:
+
+“I fear Hong Kong people will just view that they have to take extreme action,” Anson Chan, the city’s former No.
+"Hong Kong people are right to feel betrayed.
+3 best matches: people, kong, hong
+
+----------------
+sent_34:
+
+2 official said.
+Activists say Beijing promised direct elections in 2017.
+1 best matches: say
+
+----------------
+sent_35:
+
+no story sentence best matches found
+
+----------------
+sent_36:
+
+no story sentence best matches found
+
+----------------

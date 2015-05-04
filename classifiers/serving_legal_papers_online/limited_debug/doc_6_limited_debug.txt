@@ -1,0 +1,103 @@
+sent_1:
+
+A judge is allowing a Brooklyn, N.Y., woman to serve her elusive husband divorce summons via Facebook.
+The Daily News said on April 6 that a NY judge ruled that Ellanora Baidoo, 26, will be able to serve her "elusive" husband divorce papers via Facebook.
+7 best matches: elusive, divorce, husband, facebook, serve, via, judge
+
+----------------
+sent_2:
+
+In his decision dated March 27, Manhattan Supreme Court Justice Matthew Cooper said Ellanora Biadoo could file for divorce from Victor Sena Blood-Dzraku using a private Facebook message.
+Victor Sena Blood-Dzraku of New York will be served a divorce summons by way of a private Facebook message after avoiding communication with his wife.
+7 best matches: divorce, private, facebook, sena, victor, blood-dzraku, message
+
+----------------
+sent_3:
+
+no story sentence best matches found
+
+----------------
+sent_4:
+
+"[P]laintiff is granted permission to serve defendant with the divorce summons using a private message through Facebook.
+Victor Sena Blood-Dzraku of New York will be served a divorce summons by way of a private Facebook message after avoiding communication with his wife.
+6 best matches: divorce, private, facebook, serve, summons, message
+
+----------------
+sent_5:
+
+Specifically, because litigants are prohibited from serving other litigants, plaintiff's attorney shall log into plaintiff's Facebook account and message the defendant by first identifying himself, and then including either a web address of the summons or attaching an image of the summons.
+Victor Sena Blood-Dzraku of New York will be served a divorce summons by way of a private Facebook message after avoiding communication with his wife.
+4 best matches: serve, summons, facebook, message
+
+----------------
+sent_6:
+
+This transmittalshall be repeated by plaintiff's attorney to defendant once a week for three consecutive weeks or until acknowledged by the defendant.
+Her lawyer was given permission to serve the summons via Facebook once a week for three weeks, or "until acknowledged."
+3 best matches: week, three, acknowledged
+
+----------------
+sent_7:
+
+Additionally, after the initial transmittal, plaintiff and her attorney are to call and text message defendant to inform him that the summons for divorce has been sent to him via Facebook."
+Victor Sena Blood-Dzraku of New York will be served a divorce summons by way of a private Facebook message after avoiding communication with his wife.
+4 best matches: divorce, summons, facebook, message
+
+----------------
+sent_8:
+
+The (New York) Daily News, which first reported the story, said Baidoo and Blood-Dzraku, both from Ghana, were married in a civil ceremony in 2009.
+The couple, both from Ghana, married in 2009 and faced problems soon after when Blood-Dzraku refused to hold a traditional Ghanian wedding ceremony.
+5 best matches: ceremony, marry, ghana, blood-dzraku, 2009
+
+----------------
+sent_9:
+
+The relationship ran into trouble when Blood-Dzraku reneged on his promise to also have a traditional Ghanaian ceremony.
+The couple, both from Ghana, married in 2009 and faced problems soon after when Blood-Dzraku refused to hold a traditional Ghanian wedding ceremony.
+3 best matches: ceremony, traditional, blood-dzraku
+
+----------------
+sent_10:
+
+"As a result, the wedding was never consummated and the husband and wife never lived together, the lawyer said — but Blood-Dzraku apparently still doesn't want a divorce," the newspaper reported.
+Victor Sena Blood-Dzraku of New York will be served a divorce summons by way of a private Facebook message after avoiding communication with his wife.
+3 best matches: blood-dzraku, divorce, wife
+
+----------------
+sent_11:
+
+Andrew Spinnell, Baidoo's lawyer, told the paper that Blood-Dzraku kept in touch with his wife exclusively via phone and Facebook.
+The report states that the defendant has only been in touch with his wife via telephone and Facebook.
+4 best matches: via, touch, wife, facebook
+
+----------------
+sent_12:
+
+Attempts to find him failed.
+The ruling was the first of its kind in New York and the first in the United States that was not an attempt to serve someone overseas.
+1 best matches: attempt
+
+----------------
+sent_13:
+
+"We tried everything, including hiring a private detective — and nothing," Spinnell told the paper.
+"We tried everything, including hiring a private detective — and nothing."
+7 best matches: include, hiring, private, try, nothing, detective, everything
+
+----------------
+sent_14:
+
+The Daily News adds that the first Facebook message to Blood-Dzraku was sent last week.
+Victor Sena Blood-Dzraku of New York will be served a divorce summons by way of a private Facebook message after avoiding communication with his wife.
+3 best matches: blood-dzraku, facebook, message
+
+----------------
+sent_15:
+
+"So far," Spinnell told the paper, "he hasn't responded."
+The Daily News said on April 6 that a NY judge ruled that Ellanora Baidoo, 26, will be able to serve her "elusive" husband divorce papers via Facebook.
+1 best matches: paper
+
+----------------

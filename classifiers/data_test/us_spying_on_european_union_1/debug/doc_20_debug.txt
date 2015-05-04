@@ -1,0 +1,597 @@
+sent_1:
+1 out of 22 sentences
+1 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+An employee of Germany's BND foreign intelligence agency has been arrested on suspicion of spying for the United States, two lawmakers with knowledge of the affair told Reuters on Friday.
+4 default entities: GPE Germany, ORGANIZATION BND, GPE United States, ORGANIZATION Reuters
+3 custom entities: ORGANIZATION BND, GPE United States, ORGANIZATION Reuters
+
+Source Sentence and Source Headline Match:
+An employee of Germany's BND foreign intelligence agency has been arrested on suspicion of spying for the United States, two lawmakers with knowledge of the affair told Reuters on Friday.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+3 matches: spy, lawmaker, arrest
+
+Source Sentence and Story Headline Match:
+An employee of Germany's BND foreign intelligence agency has been arrested on suspicion of spying for the United States, two lawmakers with knowledge of the affair told Reuters on Friday.
+German intelligence agency helped NSA spy in Europe.
+3 matches: spy, intelligence, agency
+
+Source Sentence and Best Story Sentence Match:
+An employee of Germany's BND foreign intelligence agency has been arrested on suspicion of spying for the United States, two lawmakers with knowledge of the affair told Reuters on Friday.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+5 matches: spy, germany's, bnd, intelligence, agency
+
+----------------
+
+sent_2:
+2 out of 22 sentences
+2 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The German Federal Prosecutor's office said in a statement that a 31-year-old man had been arrested on suspicion of being a foreign spy, but it gave no further details.
+1 default entities: ORGANIZATION German Federal Prosecutor
+1 custom entities: ORGANIZATION German Federal
+
+Source Sentence and Source Headline Match:
+The German Federal Prosecutor's office said in a statement that a 31-year-old man had been arrested on suspicion of being a foreign spy, but it gave no further details.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+2 matches: spy, arrest
+
+Source Sentence and Story Headline Match:
+The German Federal Prosecutor's office said in a statement that a 31-year-old man had been arrested on suspicion of being a foreign spy, but it gave no further details.
+German intelligence agency helped NSA spy in Europe.
+2 matches: spy, german
+
+Source Sentence and Best Story Sentence Match:
+The German Federal Prosecutor's office said in a statement that a 31-year-old man had been arrested on suspicion of being a foreign spy, but it gave no further details.
+A 31-year-old German intelligence worker was arrested in July 2014 on accusations of passing information about the parliamentary inquiry into the NSA to an American contact.
+3 matches: german, arrest, 31-year-old
+
+----------------
+
+sent_3:
+3 out of 22 sentences
+2 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Investigations were continuing, it said.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Investigations were continuing, it said.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Investigations were continuing, it said.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Investigations were continuing, it said.
+He said a system was set up to "insulate" European leaders from potential backlash in case details of the partnership emerged.
+1 matches: say
+
+----------------
+
+sent_4:
+4 out of 22 sentences
+3 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The case risks further straining ties with Washington, which were damaged by revelations last year of mass surveillance of German citizens by the U.S. National Security Agency, including the monitoring of Chancellor Angela Merkel's mobile phone.
+4 default entities: GPE Washington, GPE German, GPE U.S., ORGANIZATION Chancellor Angela Merkel
+4 custom entities: GPE Washington, GPE German, ORGANIZATION U.S National, ORGANIZATION Chancellor Angela
+
+Source Sentence and Source Headline Match:
+The case risks further straining ties with Washington, which were damaged by revelations last year of mass surveillance of German citizens by the U.S. National Security Agency, including the monitoring of Chancellor Angela Merkel's mobile phone.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+1 matches: u.s
+
+Source Sentence and Story Headline Match:
+The case risks further straining ties with Washington, which were damaged by revelations last year of mass surveillance of German citizens by the U.S. National Security Agency, including the monitoring of Chancellor Angela Merkel's mobile phone.
+German intelligence agency helped NSA spy in Europe.
+2 matches: agency, german
+
+Source Sentence and Best Story Sentence Match:
+The case risks further straining ties with Washington, which were damaged by revelations last year of mass surveillance of German citizens by the U.S. National Security Agency, including the monitoring of Chancellor Angela Merkel's mobile phone.
+Friedrich, Germany's minister responsible for national security said he is keen to speak to Snowden over allegations that the NSA monitored Chancellor Angela Merkel's phone calls.
+6 matches: phone, national, chancellor, merkel's, angela, security
+
+----------------
+
+sent_5:
+5 out of 22 sentences
+4 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The man, who is German, has admitted passing to an American contact details about a special German parliamentary committee set up to investigate the spying revelations made by former U.S. intelligence contractor Edward Snowden, the politicians said.
+5 default entities: GPE German, GPE American, GPE German, GPE U.S., PERSON Edward Snowden
+4 custom entities: GPE German, GPE American, GPE German, PERSON Edward Snowden
+
+Source Sentence and Source Headline Match:
+The man, who is German, has admitted passing to an American contact details about a special German parliamentary committee set up to investigate the spying revelations made by former U.S. intelligence contractor Edward Snowden, the politicians said.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+1 matches: u.s
+
+Source Sentence and Story Headline Match:
+The man, who is German, has admitted passing to an American contact details about a special German parliamentary committee set up to investigate the spying revelations made by former U.S. intelligence contractor Edward Snowden, the politicians said.
+German intelligence agency helped NSA spy in Europe.
+2 matches: intelligence, german
+
+Source Sentence and Best Story Sentence Match:
+The man, who is German, has admitted passing to an American contact details about a special German parliamentary committee set up to investigate the spying revelations made by former U.S. intelligence contractor Edward Snowden, the politicians said.
+A 31-year-old German intelligence worker was arrested in July 2014 on accusations of passing information about the parliamentary inquiry into the NSA to an American contact.
+6 matches: parliamentary, american, pass, contact, intelligence, german
+
+----------------
+
+sent_6:
+6 out of 22 sentences
+5 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Both lawmakers are members of the nine-person parliamentary control committee, whose meetings are confidential, and which is in charge of monitoring the work of German intelligence agencies.
+1 default entities: GPE German
+1 custom entities: GPE German
+
+Source Sentence and Source Headline Match:
+Both lawmakers are members of the nine-person parliamentary control committee, whose meetings are confidential, and which is in charge of monitoring the work of German intelligence agencies.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+1 matches: lawmaker
+
+Source Sentence and Story Headline Match:
+Both lawmakers are members of the nine-person parliamentary control committee, whose meetings are confidential, and which is in charge of monitoring the work of German intelligence agencies.
+German intelligence agency helped NSA spy in Europe.
+3 matches: agency, intelligence, german
+
+Source Sentence and Best Story Sentence Match:
+Both lawmakers are members of the nine-person parliamentary control committee, whose meetings are confidential, and which is in charge of monitoring the work of German intelligence agencies.
+German officials in Oct. 2014 refused to relinquish intelligence documents that would illuminate the nature of government spy agencies' relationships with the U.S, the AP reported.
+3 matches: agency, intelligence, german
+
+----------------
+
+sent_7:
+7 out of 22 sentences
+6 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The parliamentary committee investigating the NSA affair also holds some confidential meetings.
+1 default entities: ORGANIZATION NSA
+1 custom entities: ORGANIZATION NSA
+
+Source Sentence and Source Headline Match:
+The parliamentary committee investigating the NSA affair also holds some confidential meetings.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The parliamentary committee investigating the NSA affair also holds some confidential meetings.
+German intelligence agency helped NSA spy in Europe.
+1 matches: nsa
+
+Source Sentence and Best Story Sentence Match:
+The parliamentary committee investigating the NSA affair also holds some confidential meetings.
+A German parliamentary committee investigating the NSA's activities voted June 5 to question Edward Snowden in Moscow.
+3 matches: parliamentary, committee, investigate
+
+----------------
+
+sent_8:
+8 out of 22 sentences
+7 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The German Foreign Ministry said in a statement that it had invited the U.S. ambassador to come for talks regarding the matter, and asked him to help deliver a swift explanation.
+3 default entities: GPE German, ORGANIZATION Foreign Ministry, GPE U.S.
+3 custom entities: GPE German, ORGANIZATION Foreign Ministry, GPE U.S
+
+Source Sentence and Source Headline Match:
+The German Foreign Ministry said in a statement that it had invited the U.S. ambassador to come for talks regarding the matter, and asked him to help deliver a swift explanation.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+1 matches: u.s
+
+Source Sentence and Story Headline Match:
+The German Foreign Ministry said in a statement that it had invited the U.S. ambassador to come for talks regarding the matter, and asked him to help deliver a swift explanation.
+German intelligence agency helped NSA spy in Europe.
+2 matches: help, german
+
+Source Sentence and Best Story Sentence Match:
+The German Foreign Ministry said in a statement that it had invited the U.S. ambassador to come for talks regarding the matter, and asked him to help deliver a swift explanation.
+Snowden said he wanted to testify before the committee in Berlin, but the German government could not give assurances that he wouldn't be detained and extradited to the U.S.
+3 matches: say, u.s, german
+
+----------------
+
+sent_9:
+9 out of 22 sentences
+8 out of 17 paragraphs
+Tagged as a quote
+
+Sentence:
+"This was a man who had no direct contact with the investigative committee ...
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"This was a man who had no direct contact with the investigative committee ...
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"This was a man who had no direct contact with the investigative committee ...
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"This was a man who had no direct contact with the investigative committee ...
+A 31-year-old German intelligence worker was arrested in July 2014 on accusations of passing information about the parliamentary inquiry into the NSA to an American contact.
+1 matches: contact
+
+----------------
+
+sent_10:
+10 out of 22 sentences
+8 out of 17 paragraphs
+Tagged as a quote
+
+Sentence:
+He was not a top agent," said one of the members of parliament, who spoke on condition of anonymity.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+He was not a top agent," said one of the members of parliament, who spoke on condition of anonymity.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+1 matches: agent
+
+Source Sentence and Story Headline Match:
+He was not a top agent," said one of the members of parliament, who spoke on condition of anonymity.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+He was not a top agent," said one of the members of parliament, who spoke on condition of anonymity.
+He said a system was set up to "insulate" European leaders from potential backlash in case details of the partnership emerged.
+1 matches: say
+
+----------------
+
+sent_11:
+11 out of 22 sentences
+8 out of 17 paragraphs
+Tagged as a quote
+
+Sentence:
+The suspect had offered his services to the United States voluntarily, the source said.
+1 default entities: GPE United States
+1 custom entities: GPE United States
+
+Source Sentence and Source Headline Match:
+The suspect had offered his services to the United States voluntarily, the source said.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+1 matches: suspect
+
+Source Sentence and Story Headline Match:
+The suspect had offered his services to the United States voluntarily, the source said.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The suspect had offered his services to the United States voluntarily, the source said.
+Despite outcry from European leaders over the leaks, Snowden told Der Spiegel in 2013 that the NSA is "in bed together with the Germans and most other Western states."
+1 matches: state
+
+----------------
+
+sent_12:
+12 out of 22 sentences
+9 out of 17 paragraphs
+Tagged as a quote
+
+Sentence:
+Merkel's spokesman Steffen Seibert said: "We don't take the matter of spying for foreign intelligence agencies lightly."
+2 default entities: GPE Merkel, PERSON Steffen Seibert
+1 custom entities: PERSON Steffen Seibert
+
+Source Sentence and Source Headline Match:
+Merkel's spokesman Steffen Seibert said: "We don't take the matter of spying for foreign intelligence agencies lightly."
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+1 matches: spy
+
+Source Sentence and Story Headline Match:
+Merkel's spokesman Steffen Seibert said: "We don't take the matter of spying for foreign intelligence agencies lightly."
+German intelligence agency helped NSA spy in Europe.
+3 matches: spy, intelligence, agency
+
+Source Sentence and Best Story Sentence Match:
+Merkel's spokesman Steffen Seibert said: "We don't take the matter of spying for foreign intelligence agencies lightly."
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+3 matches: spy, intelligence, agency
+
+----------------
+
+sent_13:
+13 out of 22 sentences
+10 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+When asked whether Merkel had discussed the issue with President Barack Obama during a phone conversation on Thursday night, he merely said they had talked about foreign affairs.
+2 default entities: PERSON Merkel, PERSON Barack Obama
+2 custom entities: PERSON Merkel, PERSON Barack Obama
+
+Source Sentence and Source Headline Match:
+When asked whether Merkel had discussed the issue with President Barack Obama during a phone conversation on Thursday night, he merely said they had talked about foreign affairs.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+When asked whether Merkel had discussed the issue with President Barack Obama during a phone conversation on Thursday night, he merely said they had talked about foreign affairs.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+When asked whether Merkel had discussed the issue with President Barack Obama during a phone conversation on Thursday night, he merely said they had talked about foreign affairs.
+Merkel was listed in an NSA document cited by Der Spiegel, but it wasn't clear if her conversations were recorded.
+2 matches: merkel, conversation
+
+----------------
+
+sent_14:
+14 out of 22 sentences
+11 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The U.S. embassy in Berlin, the State Department in Washington and the White House all declined to comment.
+5 default entities: GPE U.S., GPE Berlin, ORGANIZATION State Department, GPE Washington, FACILITY White House
+4 custom entities: GPE Berlin, ORGANIZATION State Department, GPE Washington, FACILITY White House
+
+Source Sentence and Source Headline Match:
+The U.S. embassy in Berlin, the State Department in Washington and the White House all declined to comment.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+1 matches: u.s
+
+Source Sentence and Story Headline Match:
+The U.S. embassy in Berlin, the State Department in Washington and the White House all declined to comment.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The U.S. embassy in Berlin, the State Department in Washington and the White House all declined to comment.
+Snowden said he wanted to testify before the committee in Berlin, but the German government could not give assurances that he wouldn't be detained and extradited to the U.S.
+2 matches: berlin, u.s
+
+----------------
+
+sent_15:
+15 out of 22 sentences
+12 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Germany is particularly sensitive about surveillance because of abuses by the Stasi secret police in communist East Germany and by the Nazis.
+3 default entities: GPE Germany, PERSON East Germany, ORGANIZATION Nazis
+3 custom entities: GPE Germany, PERSON East Germany, ORGANIZATION Nazis
+
+Source Sentence and Source Headline Match:
+Germany is particularly sensitive about surveillance because of abuses by the Stasi secret police in communist East Germany and by the Nazis.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+1 matches: germany
+
+Source Sentence and Story Headline Match:
+Germany is particularly sensitive about surveillance because of abuses by the Stasi secret police in communist East Germany and by the Nazis.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_16:
+16 out of 22 sentences
+12 out of 17 paragraphs
+Tagged as a quote
+
+Sentence:
+After the Snowden revelations, Berlin demanded that Washington agree to a "no-spy agreement" with its close ally, but the United States has been unwilling.
+4 default entities: ORGANIZATION Snowden, PERSON Berlin, GPE Washington, GPE United States
+4 custom entities: ORGANIZATION Snowden, PERSON Berlin, GPE Washington, GPE United States
+
+Source Sentence and Source Headline Match:
+After the Snowden revelations, Berlin demanded that Washington agree to a "no-spy agreement" with its close ally, but the United States has been unwilling.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+After the Snowden revelations, Berlin demanded that Washington agree to a "no-spy agreement" with its close ally, but the United States has been unwilling.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+After the Snowden revelations, Berlin demanded that Washington agree to a "no-spy agreement" with its close ally, but the United States has been unwilling.
+Despite outcry from European leaders over the leaks, Snowden told Der Spiegel in 2013 that the NSA is "in bed together with the Germans and most other Western states."
+2 matches: snowden, state
+
+----------------
+
+sent_17:
+17 out of 22 sentences
+13 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Germany's Sueddeutsche Zeitung newspaper and the broadcasters WDR and NDR reported that the alleged spy was first detained on suspicion of contacting Russian intelligence agents.
+5 default entities: GPE Germany, ORGANIZATION Sueddeutsche Zeitung, ORGANIZATION WDR, ORGANIZATION NDR, GPE Russian
+4 custom entities: PERSON Sueddeutsche Zeitung, ORGANIZATION WDR, ORGANIZATION NDR, GPE Russian
+
+Source Sentence and Source Headline Match:
+Germany's Sueddeutsche Zeitung newspaper and the broadcasters WDR and NDR reported that the alleged spy was first detained on suspicion of contacting Russian intelligence agents.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+2 matches: spy, agent
+
+Source Sentence and Story Headline Match:
+Germany's Sueddeutsche Zeitung newspaper and the broadcasters WDR and NDR reported that the alleged spy was first detained on suspicion of contacting Russian intelligence agents.
+German intelligence agency helped NSA spy in Europe.
+2 matches: spy, intelligence
+
+Source Sentence and Best Story Sentence Match:
+Germany's Sueddeutsche Zeitung newspaper and the broadcasters WDR and NDR reported that the alleged spy was first detained on suspicion of contacting Russian intelligence agents.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+4 matches: report, spy, germany's, intelligence
+
+----------------
+
+sent_18:
+18 out of 22 sentences
+13 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He then admitted he had worked with Americans.
+1 default entities: GPE Americans
+1 custom entities: GPE Americans
+
+Source Sentence and Source Headline Match:
+He then admitted he had worked with Americans.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+He then admitted he had worked with Americans.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+He then admitted he had worked with Americans.
+A 31-year-old German intelligence worker was arrested in July 2014 on accusations of passing information about the parliamentary inquiry into the NSA to an American contact.
+1 matches: american
+
+----------------
+
+sent_19:
+19 out of 22 sentences
+14 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Bild newspaper said in an advance copy of an article to be published on Saturday that the man had worked for two years as a double agent and had stolen 218 confidential documents.
+1 default entities: GPE Bild
+1 custom entities: GPE Bild
+
+Source Sentence and Source Headline Match:
+Bild newspaper said in an advance copy of an article to be published on Saturday that the man had worked for two years as a double agent and had stolen 218 confidential documents.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+2 matches: double, agent
+
+Source Sentence and Story Headline Match:
+Bild newspaper said in an advance copy of an article to be published on Saturday that the man had worked for two years as a double agent and had stolen 218 confidential documents.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Bild newspaper said in an advance copy of an article to be published on Saturday that the man had worked for two years as a double agent and had stolen 218 confidential documents.
+German officials in Oct. 2014 refused to relinquish intelligence documents that would illuminate the nature of government spy agencies' relationships with the U.S, the AP reported.
+1 matches: document
+
+----------------
+
+sent_20:
+20 out of 22 sentences
+15 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He sold the documents, three of which related to the work of the committee in the Bundestag, for 25,000 euros ($34,100), Bild said, citing security sources.
+2 default entities: ORGANIZATION Bundestag, PERSON Bild
+2 custom entities: ORGANIZATION Bundestag, PERSON Bild
+
+Source Sentence and Source Headline Match:
+He sold the documents, three of which related to the work of the committee in the Bundestag, for 25,000 euros ($34,100), Bild said, citing security sources.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+He sold the documents, three of which related to the work of the committee in the Bundestag, for 25,000 euros ($34,100), Bild said, citing security sources.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+He sold the documents, three of which related to the work of the committee in the Bundestag, for 25,000 euros ($34,100), Bild said, citing security sources.
+Merkel was listed in an NSA document cited by Der Spiegel, but it wasn't clear if her conversations were recorded.
+2 matches: document, cite
+
+----------------
+
+sent_21:
+21 out of 22 sentences
+16 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Opposition lawmakers called for diplomatic consequences if the allegations should prove true.
+1 default entities: GPE Opposition
+1 custom entities: GPE Opposition
+
+Source Sentence and Source Headline Match:
+Opposition lawmakers called for diplomatic consequences if the allegations should prove true.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+1 matches: lawmaker
+
+Source Sentence and Story Headline Match:
+Opposition lawmakers called for diplomatic consequences if the allegations should prove true.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Opposition lawmakers called for diplomatic consequences if the allegations should prove true.
+Friedrich, Germany's minister responsible for national security said he is keen to speak to Snowden over allegations that the NSA monitored Chancellor Angela Merkel's phone calls.
+2 matches: allegation, call
+
+----------------
+
+sent_22:
+22 out of 22 sentences
+17 out of 17 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The head of parliament's committee investigating the NSA affair, Patrick Sensburg, said its members had long feared they might be targeted by foreign intelligence agents and had taken special measures.
+2 default entities: ORGANIZATION NSA, PERSON Patrick Sensburg
+3 custom entities: ORGANIZATION parliament's, ORGANIZATION NSA, PERSON Patrick Sensburg
+
+Source Sentence and Source Headline Match:
+The head of parliament's committee investigating the NSA affair, Patrick Sensburg, said its members had long feared they might be targeted by foreign intelligence agents and had taken special measures.
+Germany arrests suspected double agent spying for U.S. - lawmakers.
+1 matches: agent
+
+Source Sentence and Story Headline Match:
+The head of parliament's committee investigating the NSA affair, Patrick Sensburg, said its members had long feared they might be targeted by foreign intelligence agents and had taken special measures.
+German intelligence agency helped NSA spy in Europe.
+2 matches: intelligence, nsa
+
+Source Sentence and Best Story Sentence Match:
+The head of parliament's committee investigating the NSA affair, Patrick Sensburg, said its members had long feared they might be targeted by foreign intelligence agents and had taken special measures.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+2 matches: intelligence, nsa
+
+----------------
+

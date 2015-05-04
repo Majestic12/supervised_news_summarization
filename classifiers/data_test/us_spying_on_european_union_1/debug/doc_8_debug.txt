@@ -1,0 +1,54 @@
+sent_1:
+1 out of 2 sentences
+1 out of 2 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Germany's Foreign Minister has summoned the United States' ambassador to Germany, John B. Emerson, to discuss information obtained by Berlin that the U.S. may have monitored Angela Merkel's mobile phone, a government spokesman said on Thursday.
+7 default entities: GPE Germany, GPE United States, GPE Germany, PERSON John B. Emerson, PERSON Berlin, GPE U.S., PERSON Angela Merkel
+5 custom entities: GPE United States, GPE Germany, PERSON John B Emerson, PERSON Berlin, PERSON Angela
+
+Source Sentence and Source Headline Match:
+Germany's Foreign Minister has summoned the United States' ambassador to Germany, John B. Emerson, to discuss information obtained by Berlin that the U.S. may have monitored Angela Merkel's mobile phone, a government spokesman said on Thursday.
+Germany summons U.S. ambassador over Merkel phone tapping.
+4 matches: ambassador, phone, germany, u.s
+
+Source Sentence and Story Headline Match:
+Germany's Foreign Minister has summoned the United States' ambassador to Germany, John B. Emerson, to discuss information obtained by Berlin that the U.S. may have monitored Angela Merkel's mobile phone, a government spokesman said on Thursday.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Germany's Foreign Minister has summoned the United States' ambassador to Germany, John B. Emerson, to discuss information obtained by Berlin that the U.S. may have monitored Angela Merkel's mobile phone, a government spokesman said on Thursday.
+Friedrich, Germany's minister responsible for national security said he is keen to speak to Snowden over allegations that the NSA monitored Chancellor Angela Merkel's phone calls.
+7 matches: phone, germany's, monitor, say, merkel's, minister, angela
+
+----------------
+
+sent_2:
+2 out of 2 sentences
+2 out of 2 paragraphs
+Tagged as a quote
+
+Sentence:
+The move comes a day after Merkel called President Barack Obama to demand immediate clarification and told him if such surveillance had taken place it amounted to a "grave breach of trust".
+2 default entities: PERSON Merkel, PERSON Barack Obama
+2 custom entities: PERSON Merkel, PERSON Barack Obama
+
+Source Sentence and Source Headline Match:
+The move comes a day after Merkel called President Barack Obama to demand immediate clarification and told him if such surveillance had taken place it amounted to a "grave breach of trust".
+Germany summons U.S. ambassador over Merkel phone tapping.
+1 matches: merkel
+
+Source Sentence and Story Headline Match:
+The move comes a day after Merkel called President Barack Obama to demand immediate clarification and told him if such surveillance had taken place it amounted to a "grave breach of trust".
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The move comes a day after Merkel called President Barack Obama to demand immediate clarification and told him if such surveillance had taken place it amounted to a "grave breach of trust".
+Despite outcry from European leaders over the leaks, Snowden told Der Spiegel in 2013 that the NSA is "in bed together with the Germans and most other Western states."
+1 matches: tell
+
+----------------
+

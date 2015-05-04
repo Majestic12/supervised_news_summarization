@@ -1,0 +1,209 @@
+sent_1:
+
+Jordan Spieth romped to his first major championship with a record-tying performance at the Masters on Sunday, shooting an 18-under 270 to become the first wire-to-wire winner of the green jacket since 1976.
+Jordan Spieth won the 2015 Masters on April 12, finishing the tournament at 18-under 270.
+5 best matches: master, 18-under, 270, spieth, jordan
+
+----------------
+sent_2:
+
+No one got closer than three shots of the lead all day.
+The 21-year-old won his first Masters title with one of the most dominant performances in tournament history.
+1 best matches: one
+
+----------------
+sent_3:
+
+Spieth shot a 2-under 70 to hold off Justin Rose and Phil Mickelson.
+Jordan Spieth shot a third-round 70 on April 11, which set a new 54-hole scoring record of 16-under par.
+3 best matches: 70, spieth, shoot
+
+----------------
+sent_4:
+
+Rose, the 2013 U.S. Open champion playing in the final group of the major for the first time, and Mickelson were four shots back.
+He also reached 19-under par for the first time in Masters' history.
+2 best matches: first, time
+
+----------------
+sent_5:
+
+No one else was closer than seven.
+The 21-year-old won his first Masters title with one of the most dominant performances in tournament history.
+1 best matches: one
+
+----------------
+sent_6:
+
+Spieth became the first Masters champion to lead after every round since Raymond Floyd 39 years ago, and only the fifth in the history of the tournament.
+Spieth became the first player to win every round of the tournament since 1976 and the fifth overall.
+8 best matches: every, tournament, round, spieth, since, fifth, first, become
+
+----------------
+sent_7:
+
+And it was a bit of redemption after he played in the final group a year ago making his Augusta debut, building a two-shot lead but fading to a runner-up finish behind Bubba Watson.
+Jordan Spieth won the 2015 Masters on April 12, finishing the tournament at 18-under 270.
+1 best matches: finish
+
+----------------
+sent_8:
+
+For all the talk about the Grand Slam bid by Rory McIlroy and the return of Woods, this week was about the arrival of another star.
+Spieth tied the 72-hole tournament scoring record of 18-under 270 set by Tiger Woods in 1997.
+1 best matches: wood
+
+----------------
+sent_9:
+
+no story sentence best matches found
+
+----------------
+sent_10:
+
+no story sentence best matches found
+
+----------------
+sent_11:
+
+no story sentence best matches found
+
+----------------
+sent_12:
+
+Spieth became the first wire-to-wire winner at the Masters since Raymond Floyd in 1976, and this might have been even more special.
+Spieth became the first player to win every round of the tournament since 1976 and the fifth overall.
+5 best matches: 1976, become, first, since, spieth
+
+----------------
+sent_13:
+
+Craig Woods in 1941 is the only other Masters champion who led by at least three shots from the opening round to the trophy presentation.
+Spieth becomes the second youngest person to win The Masters at 21, a few months older than when Woods won it in 1997.
+2 best matches: master, wood
+
+----------------
+sent_14:
+
+Spieth went out in 35 and made birdie at Nos.
+Jordan Spieth won the 2015 Masters on April 12, finishing the tournament at 18-under 270.
+1 best matches: spieth
+
+----------------
+sent_15:
+
+no story sentence best matches found
+
+----------------
+sent_16:
+
+no story sentence best matches found
+
+----------------
+sent_17:
+
+10.
+On April 10, Spieth set a 36-hole scoring record of 14-under, breaking Raymond Floyd's mark set in 1976.
+1 best matches: 10
+
+----------------
+sent_18:
+
+It was his 26th birdie of the Masters, breaking Phil Mickelson's record of 25 from back in 2001.
+On April 10, Spieth set a 36-hole scoring record of 14-under, breaking Raymond Floyd's mark set in 1976.
+2 best matches: breaking, record
+
+----------------
+sent_19:
+
+Then Spieth shut things down on the second nine by boldly going for the par-5 greens in two at Nos.
+Spieth becomes the second youngest person to win The Masters at 21, a few months older than when Woods won it in 1997.
+2 best matches: second, spieth
+
+----------------
+sent_20:
+
+no story sentence best matches found
+
+----------------
+sent_21:
+
+Both ended in birdie for Spieth, CBSSports.com reported.
+Jordan Spieth won the 2015 Masters on April 12, finishing the tournament at 18-under 270.
+1 best matches: spieth
+
+----------------
+sent_22:
+
+no story sentence best matches found
+
+----------------
+sent_23:
+
+no story sentence best matches found
+
+----------------
+sent_24:
+
+Neither got closer than three shots at any point, and it wasn't long before Spieth was making another birdie putt to take the drama out of the back nine.
+Jordan Spieth won the 2015 Masters on April 12, finishing the tournament at 18-under 270.
+1 best matches: spieth
+
+----------------
+sent_25:
+
+Mickelson (69) and Rose (70) tied for second.
+Spieth tied the 72-hole tournament scoring record of 18-under 270 set by Tiger Woods in 1997.
+1 best matches: tie
+
+----------------
+sent_26:
+
+It was the 10th time Mickelson has been runner-up in a major.
+He also reached 19-under par for the first time in Masters' history.
+1 best matches: time
+
+----------------
+sent_27:
+
+Woods jarred his right wrist then he struck wood under the pine straw on the ninth hole.
+Spieth tied the 72-hole tournament scoring record of 18-under 270 set by Tiger Woods in 1997.
+1 best matches: wood
+
+----------------
+sent_28:
+
+no story sentence best matches found
+
+----------------
+sent_29:
+
+Spieth won for the third time on the PGA Tour and fifth time worldwide.
+Spieth became the first player to win every round of the tournament since 1976 and the fifth overall.
+3 best matches: win, fifth, spieth
+
+----------------
+sent_30:
+
+no story sentence best matches found
+
+----------------
+sent_31:
+
+no story sentence best matches found
+
+----------------
+sent_32:
+
+When McIlroy won back-to-back majors last year to establish himself as the game's best player, the quest was to find a rival.
+Spieth became the first player to win every round of the tournament since 1976 and the fifth overall.
+2 best matches: player, win
+
+----------------
+sent_33:
+
+Spieth answered that this week on perhaps the biggest stage in the sport with his record-setting week at Augusta.
+Jordan Spieth won the 2015 Masters on April 12, finishing the tournament at 18-under 270.
+1 best matches: spieth
+
+----------------

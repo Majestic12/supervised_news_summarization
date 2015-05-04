@@ -1,0 +1,163 @@
+sent_1:
+1 out of 6 sentences
+1 out of 4 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Germany's top security official says he will try to organize a meeting between German investigators and Edward Snowden if he's willing to give details about the National Security Agency's alleged monitoring of Chancellor Angela Merkel and other politicians' communications.
+6 default entities: GPE Germany, GPE German, PERSON Edward Snowden, ORGANIZATION National, PERSON Agency, ORGANIZATION Chancellor Angela Merkel
+4 custom entities: GPE German, PERSON Edward Snowden, ORGANIZATION National, ORGANIZATION Chancellor Angela Merkel
+
+Source Sentence and Source Headline Match:
+Germany's top security official says he will try to organize a meeting between German investigators and Edward Snowden if he's willing to give details about the National Security Agency's alleged monitoring of Chancellor Angela Merkel and other politicians' communications.
+Germany's Top Security Official Intends To Meet With Snowden.
+5 matches: official, snowden, germany's, top, security
+
+Source Sentence and Story Headline Match:
+Germany's top security official says he will try to organize a meeting between German investigators and Edward Snowden if he's willing to give details about the National Security Agency's alleged monitoring of Chancellor Angela Merkel and other politicians' communications.
+German intelligence agency helped NSA spy in Europe.
+1 matches: german
+
+Source Sentence and Best Story Sentence Match:
+Germany's top security official says he will try to organize a meeting between German investigators and Edward Snowden if he's willing to give details about the National Security Agency's alleged monitoring of Chancellor Angela Merkel and other politicians' communications.
+Friedrich, Germany's minister responsible for national security said he is keen to speak to Snowden over allegations that the NSA monitored Chancellor Angela Merkel's phone calls.
+8 matches: snowden, germany's, national, monitor, chancellor, say, angela, security
+
+----------------
+
+sent_2:
+2 out of 6 sentences
+2 out of 4 paragraphs
+Tagged as a quote
+
+Sentence:
+Hans-Peter Friedrich was quoted by Die Zeit newspaper Friday saying that "we will find a way, if Mr. Snowden is willing to talk."
+3 default entities: PERSON Friedrich, PERSON Die Zeit, PERSON Mr. Snowden
+2 custom entities: PERSON Friedrich, PERSON Die Zeit
+
+Source Sentence and Source Headline Match:
+Hans-Peter Friedrich was quoted by Die Zeit newspaper Friday saying that "we will find a way, if Mr. Snowden is willing to talk."
+Germany's Top Security Official Intends To Meet With Snowden.
+1 matches: snowden
+
+Source Sentence and Story Headline Match:
+Hans-Peter Friedrich was quoted by Die Zeit newspaper Friday saying that "we will find a way, if Mr. Snowden is willing to talk."
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Hans-Peter Friedrich was quoted by Die Zeit newspaper Friday saying that "we will find a way, if Mr. Snowden is willing to talk."
+"We will find a way, if Mr. Snowden is willing to talk."
+6 matches: talk, willing, snowden, mr, way, find
+
+----------------
+
+sent_3:
+3 out of 6 sentences
+2 out of 4 paragraphs
+Tagged as a quote
+
+Sentence:
+His spokesman Jens Teschke confirmed the comments, saying "we want clarification and we want further information."
+1 default entities: PERSON Jens Teschke
+1 custom entities: PERSON Jens Teschke
+
+Source Sentence and Source Headline Match:
+His spokesman Jens Teschke confirmed the comments, saying "we want clarification and we want further information."
+Germany's Top Security Official Intends To Meet With Snowden.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+His spokesman Jens Teschke confirmed the comments, saying "we want clarification and we want further information."
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+His spokesman Jens Teschke confirmed the comments, saying "we want clarification and we want further information."
+Snowden said he wanted to testify before the committee in Berlin, but the German government could not give assurances that he wouldn't be detained and extradited to the U.S.
+2 matches: want, say
+
+----------------
+
+sent_4:
+4 out of 6 sentences
+2 out of 4 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He said he assumed such a meeting would be in Russia.
+1 default entities: GPE Russia
+1 custom entities: GPE Russia
+
+Source Sentence and Source Headline Match:
+He said he assumed such a meeting would be in Russia.
+Germany's Top Security Official Intends To Meet With Snowden.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+He said he assumed such a meeting would be in Russia.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+He said he assumed such a meeting would be in Russia.
+His spokesman suggested such a meeting could happen in Russia.
+2 matches: meeting, russia
+
+----------------
+
+sent_5:
+5 out of 6 sentences
+3 out of 4 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Opposition Greens lawmaker Hans-Christian Stroebele said he met with Snowden, a former NSA contractor, in Moscow on Thursday and that he was prepared to travel to Germany to testify.
+7 default entities: GPE Opposition, GPE Greens, PERSON Stroebele, PERSON Snowden, ORGANIZATION NSA, GPE Moscow, GPE Germany
+7 custom entities: GPE Opposition, GPE Greens, PERSON Stroebele, PERSON Snowden, ORGANIZATION NSA, GPE Moscow, GPE Germany
+
+Source Sentence and Source Headline Match:
+Opposition Greens lawmaker Hans-Christian Stroebele said he met with Snowden, a former NSA contractor, in Moscow on Thursday and that he was prepared to travel to Germany to testify.
+Germany's Top Security Official Intends To Meet With Snowden.
+2 matches: snowden, meet
+
+Source Sentence and Story Headline Match:
+Opposition Greens lawmaker Hans-Christian Stroebele said he met with Snowden, a former NSA contractor, in Moscow on Thursday and that he was prepared to travel to Germany to testify.
+German intelligence agency helped NSA spy in Europe.
+1 matches: nsa
+
+Source Sentence and Best Story Sentence Match:
+Opposition Greens lawmaker Hans-Christian Stroebele said he met with Snowden, a former NSA contractor, in Moscow on Thursday and that he was prepared to travel to Germany to testify.
+Snowden said he wanted to testify before the committee in Berlin, but the German government could not give assurances that he wouldn't be detained and extradited to the U.S.
+3 matches: snowden, testify, say
+
+----------------
+
+sent_6:
+6 out of 6 sentences
+4 out of 4 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Germany's parliament is expected to discuss the NSA's alleged activities Nov. 18.
+2 default entities: GPE Germany, ORGANIZATION NSA
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Germany's parliament is expected to discuss the NSA's alleged activities Nov. 18.
+Germany's Top Security Official Intends To Meet With Snowden.
+1 matches: germany's
+
+Source Sentence and Story Headline Match:
+Germany's parliament is expected to discuss the NSA's alleged activities Nov. 18.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Germany's parliament is expected to discuss the NSA's alleged activities Nov. 18.
+A German parliamentary committee investigating the NSA's activities voted June 5 to question Edward Snowden in Moscow.
+2 matches: nsa's, activity
+
+----------------
+

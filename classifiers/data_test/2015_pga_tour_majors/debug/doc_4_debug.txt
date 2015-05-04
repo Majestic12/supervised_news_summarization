@@ -1,0 +1,379 @@
+sent_1:
+1 out of 14 sentences
+1 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+There's doubt now.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+There's doubt now.
+Spieth's Masters lead shrinks to 4 as green jacket awaits.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+There's doubt now.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_2:
+2 out of 14 sentences
+2 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Just when it seemed like Sunday would be a celebratory parade for Jordan Spieth, the 21-year-old Texan made double-bogey 6 on the 17th hole in the third round of the Masters.
+3 default entities: PERSON Jordan Spieth, PERSON Texan, ORGANIZATION Masters
+3 custom entities: PERSON Jordan Spieth, PERSON Texan, ORGANIZATION Masters
+
+Source Sentence and Source Headline Match:
+Just when it seemed like Sunday would be a celebratory parade for Jordan Spieth, the 21-year-old Texan made double-bogey 6 on the 17th hole in the third round of the Masters.
+Spieth's Masters lead shrinks to 4 as green jacket awaits.
+1 matches: master
+
+Source Sentence and Story Headline Match:
+Just when it seemed like Sunday would be a celebratory parade for Jordan Spieth, the 21-year-old Texan made double-bogey 6 on the 17th hole in the third round of the Masters.
+Jordan Spieth wins 2015 Masters with historic showing.
+3 matches: master, spieth, jordan
+
+Source Sentence and Best Story Sentence Match:
+Just when it seemed like Sunday would be a celebratory parade for Jordan Spieth, the 21-year-old Texan made double-bogey 6 on the 17th hole in the third round of the Masters.
+Jordan Spieth won the 2015 Masters on April 12, finishing the tournament at 18-under 270.
+3 matches: master, spieth, jordan
+
+----------------
+
+sent_3:
+3 out of 14 sentences
+3 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Instead of carrying a nearly insurmountable lead in the final round, Spieth's 2-under 70 reduced his five-shot overnight edge to four heading into Sunday.
+1 default entities: PERSON Spieth
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Instead of carrying a nearly insurmountable lead in the final round, Spieth's 2-under 70 reduced his five-shot overnight edge to four heading into Sunday.
+Spieth's Masters lead shrinks to 4 as green jacket awaits.
+2 matches: spieth's, lead
+
+Source Sentence and Story Headline Match:
+Instead of carrying a nearly insurmountable lead in the final round, Spieth's 2-under 70 reduced his five-shot overnight edge to four heading into Sunday.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Instead of carrying a nearly insurmountable lead in the final round, Spieth's 2-under 70 reduced his five-shot overnight edge to four heading into Sunday.
+Spieth became the first player to win every round of the tournament since 1976 and the fifth overall.
+1 matches: round
+
+----------------
+
+sent_4:
+4 out of 14 sentences
+3 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Spieth is still on pace to topple Tiger Woods' 72-hole tournament record of 18-under 270, but, at 16 under through three rounds – a 54-hole record at the Masters – a first major win is not a certainty.
+3 default entities: GPE Spieth, PERSON Tiger Woods, ORGANIZATION Masters
+2 custom entities: GPE Spieth, PERSON Tiger Woods
+
+Source Sentence and Source Headline Match:
+Spieth is still on pace to topple Tiger Woods' 72-hole tournament record of 18-under 270, but, at 16 under through three rounds – a 54-hole record at the Masters – a first major win is not a certainty.
+Spieth's Masters lead shrinks to 4 as green jacket awaits.
+1 matches: master
+
+Source Sentence and Story Headline Match:
+Spieth is still on pace to topple Tiger Woods' 72-hole tournament record of 18-under 270, but, at 16 under through three rounds – a 54-hole record at the Masters – a first major win is not a certainty.
+Jordan Spieth wins 2015 Masters with historic showing.
+3 matches: master, win, spieth
+
+Source Sentence and Best Story Sentence Match:
+Spieth is still on pace to topple Tiger Woods' 72-hole tournament record of 18-under 270, but, at 16 under through three rounds – a 54-hole record at the Masters – a first major win is not a certainty.
+Spieth tied the 72-hole tournament scoring record of 18-under 270 set by Tiger Woods in 1997.
+8 matches: 270, tournament, record, spieth, wood, 18-under, tiger, 72-hole
+
+----------------
+
+sent_5:
+5 out of 14 sentences
+4 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Instead of having a tee time with journeyman Charley Hoffman as he did Saturday, Spieth now has to play with 2013 U.S. Open champion Justin Rose.
+4 default entities: PERSON Charley Hoffman, PERSON Spieth, GPE U.S., PERSON Justin Rose
+2 custom entities: PERSON Charley Hoffman, PERSON Justin Rose
+
+Source Sentence and Source Headline Match:
+Instead of having a tee time with journeyman Charley Hoffman as he did Saturday, Spieth now has to play with 2013 U.S. Open champion Justin Rose.
+Spieth's Masters lead shrinks to 4 as green jacket awaits.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Instead of having a tee time with journeyman Charley Hoffman as he did Saturday, Spieth now has to play with 2013 U.S. Open champion Justin Rose.
+Jordan Spieth wins 2015 Masters with historic showing.
+1 matches: spieth
+
+Source Sentence and Best Story Sentence Match:
+Instead of having a tee time with journeyman Charley Hoffman as he did Saturday, Spieth now has to play with 2013 U.S. Open champion Justin Rose.
+Jordan Spieth won the 2015 Masters on April 12, finishing the tournament at 18-under 270.
+1 matches: spieth
+
+----------------
+
+sent_6:
+6 out of 14 sentences
+4 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Rose birdied five of his last six holes to shoot 67, get to 12-under par and land a spot in the final pairing – a great omen considering 20 of the last 24 Masters champs have come from the final group.
+1 default entities: PERSON Rose
+1 custom entities: PERSON Rose
+
+Source Sentence and Source Headline Match:
+Rose birdied five of his last six holes to shoot 67, get to 12-under par and land a spot in the final pairing – a great omen considering 20 of the last 24 Masters champs have come from the final group.
+Spieth's Masters lead shrinks to 4 as green jacket awaits.
+1 matches: master
+
+Source Sentence and Story Headline Match:
+Rose birdied five of his last six holes to shoot 67, get to 12-under par and land a spot in the final pairing – a great omen considering 20 of the last 24 Masters champs have come from the final group.
+Jordan Spieth wins 2015 Masters with historic showing.
+1 matches: master
+
+Source Sentence and Best Story Sentence Match:
+Rose birdied five of his last six holes to shoot 67, get to 12-under par and land a spot in the final pairing – a great omen considering 20 of the last 24 Masters champs have come from the final group.
+He also reached 19-under par for the first time in Masters' history.
+2 matches: par, master
+
+----------------
+
+sent_7:
+7 out of 14 sentences
+5 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Three-time Masters winner Phil Mickelson, who also shot a Saturday 67, is a shot behind Rose.
+2 default entities: PERSON Phil Mickelson, PERSON Rose
+2 custom entities: PERSON Phil Mickelson, PERSON Rose
+
+Source Sentence and Source Headline Match:
+Three-time Masters winner Phil Mickelson, who also shot a Saturday 67, is a shot behind Rose.
+Spieth's Masters lead shrinks to 4 as green jacket awaits.
+1 matches: master
+
+Source Sentence and Story Headline Match:
+Three-time Masters winner Phil Mickelson, who also shot a Saturday 67, is a shot behind Rose.
+Jordan Spieth wins 2015 Masters with historic showing.
+1 matches: master
+
+Source Sentence and Best Story Sentence Match:
+Three-time Masters winner Phil Mickelson, who also shot a Saturday 67, is a shot behind Rose.
+He also reached 19-under par for the first time in Masters' history.
+2 matches: master, also
+
+----------------
+
+sent_8:
+8 out of 14 sentences
+5 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Hoffman is not out of it, shooting 71 to reach 10 under and have an outside chance to catch Spieth.
+2 default entities: PERSON Hoffman, PERSON Spieth
+2 custom entities: PERSON Hoffman, PERSON Spieth
+
+Source Sentence and Source Headline Match:
+Hoffman is not out of it, shooting 71 to reach 10 under and have an outside chance to catch Spieth.
+Spieth's Masters lead shrinks to 4 as green jacket awaits.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Hoffman is not out of it, shooting 71 to reach 10 under and have an outside chance to catch Spieth.
+Jordan Spieth wins 2015 Masters with historic showing.
+1 matches: spieth
+
+Source Sentence and Best Story Sentence Match:
+Hoffman is not out of it, shooting 71 to reach 10 under and have an outside chance to catch Spieth.
+Jordan Spieth shot a third-round 70 on April 11, which set a new 54-hole scoring record of 16-under par.
+2 matches: spieth, shoot
+
+----------------
+
+sent_9:
+9 out of 14 sentences
+6 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Things could have been even tighter for Spieth.
+1 default entities: PERSON Spieth
+1 custom entities: PERSON Spieth
+
+Source Sentence and Source Headline Match:
+Things could have been even tighter for Spieth.
+Spieth's Masters lead shrinks to 4 as green jacket awaits.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Things could have been even tighter for Spieth.
+Jordan Spieth wins 2015 Masters with historic showing.
+1 matches: spieth
+
+Source Sentence and Best Story Sentence Match:
+Things could have been even tighter for Spieth.
+Jordan Spieth won the 2015 Masters on April 12, finishing the tournament at 18-under 270.
+1 matches: spieth
+
+----------------
+
+sent_10:
+10 out of 14 sentences
+6 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He sprayed his approach on 18 to the right of the green and into the gallery, leaving him in an almost impossible spot from which to get up and down.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+He sprayed his approach on 18 to the right of the green and into the gallery, leaving him in an almost impossible spot from which to get up and down.
+Spieth's Masters lead shrinks to 4 as green jacket awaits.
+1 matches: green
+
+Source Sentence and Story Headline Match:
+He sprayed his approach on 18 to the right of the green and into the gallery, leaving him in an almost impossible spot from which to get up and down.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_11:
+11 out of 14 sentences
+6 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But that's exactly what he did, flopping a pitch that was Mickelson-esque to within nine feet, then drained the putt to save par and, maybe, a bit of confidence as he walked to the clubhouse.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+But that's exactly what he did, flopping a pitch that was Mickelson-esque to within nine feet, then drained the putt to save par and, maybe, a bit of confidence as he walked to the clubhouse.
+Spieth's Masters lead shrinks to 4 as green jacket awaits.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+But that's exactly what he did, flopping a pitch that was Mickelson-esque to within nine feet, then drained the putt to save par and, maybe, a bit of confidence as he walked to the clubhouse.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+But that's exactly what he did, flopping a pitch that was Mickelson-esque to within nine feet, then drained the putt to save par and, maybe, a bit of confidence as he walked to the clubhouse.
+He also reached 19-under par for the first time in Masters' history.
+1 matches: par
+
+----------------
+
+sent_12:
+12 out of 14 sentences
+7 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A slew of players are tied for fifth a 6-under total, including Tiger Woods, whose 68 was his lowest major round in four years, and Rory McIlroy, seeking to complete the career Grand Slam.
+3 default entities: PERSON Tiger Woods, PERSON Rory McIlroy, PERSON Grand Slam
+3 custom entities: PERSON Tiger Woods, PERSON Rory McIlroy, PERSON Grand Slam
+
+Source Sentence and Source Headline Match:
+A slew of players are tied for fifth a 6-under total, including Tiger Woods, whose 68 was his lowest major round in four years, and Rory McIlroy, seeking to complete the career Grand Slam.
+Spieth's Masters lead shrinks to 4 as green jacket awaits.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+A slew of players are tied for fifth a 6-under total, including Tiger Woods, whose 68 was his lowest major round in four years, and Rory McIlroy, seeking to complete the career Grand Slam.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+A slew of players are tied for fifth a 6-under total, including Tiger Woods, whose 68 was his lowest major round in four years, and Rory McIlroy, seeking to complete the career Grand Slam.
+Spieth became the first player to win every round of the tournament since 1976 and the fifth overall.
+3 matches: player, fifth, round
+
+----------------
+
+sent_13:
+13 out of 14 sentences
+8 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+McIlroy could tell Spieth a little something about four-stroke, 54-hole leads at the Masters.
+3 default entities: ORGANIZATION McIlroy, PERSON Spieth, ORGANIZATION Masters
+3 custom entities: ORGANIZATION McIlroy, PERSON Spieth, ORGANIZATION Masters
+
+Source Sentence and Source Headline Match:
+McIlroy could tell Spieth a little something about four-stroke, 54-hole leads at the Masters.
+Spieth's Masters lead shrinks to 4 as green jacket awaits.
+2 matches: master, lead
+
+Source Sentence and Story Headline Match:
+McIlroy could tell Spieth a little something about four-stroke, 54-hole leads at the Masters.
+Jordan Spieth wins 2015 Masters with historic showing.
+2 matches: master, spieth
+
+Source Sentence and Best Story Sentence Match:
+McIlroy could tell Spieth a little something about four-stroke, 54-hole leads at the Masters.
+Jordan Spieth won the 2015 Masters on April 12, finishing the tournament at 18-under 270.
+2 matches: master, spieth
+
+----------------
+
+sent_14:
+14 out of 14 sentences
+8 out of 8 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In 2011, he went into the final round with a four-stroke edge over a quartet of players only to shoot 80 on Sunday, finishing a mind-blowing 10 strokes behind eventual winner Charl Schwartzel.
+1 default entities: PERSON Charl Schwartzel
+1 custom entities: PERSON Charl Schwartzel
+
+Source Sentence and Source Headline Match:
+In 2011, he went into the final round with a four-stroke edge over a quartet of players only to shoot 80 on Sunday, finishing a mind-blowing 10 strokes behind eventual winner Charl Schwartzel.
+Spieth's Masters lead shrinks to 4 as green jacket awaits.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+In 2011, he went into the final round with a four-stroke edge over a quartet of players only to shoot 80 on Sunday, finishing a mind-blowing 10 strokes behind eventual winner Charl Schwartzel.
+Jordan Spieth wins 2015 Masters with historic showing.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+In 2011, he went into the final round with a four-stroke edge over a quartet of players only to shoot 80 on Sunday, finishing a mind-blowing 10 strokes behind eventual winner Charl Schwartzel.
+Spieth became the first player to win every round of the tournament since 1976 and the fifth overall.
+2 matches: player, round
+
+----------------
+

@@ -1,0 +1,518 @@
+sent_1:
+1 out of 19 sentences
+1 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Google’s online video service will make a series of films with AwesomenessTV, as well as bagging exclusive rights for new shows by The Fine Brothers and Smosh.
+4 default entities: GPE Google, ORGANIZATION AwesomenessTV, ORGANIZATION Fine Brothers, GPE Smosh
+3 custom entities: ORGANIZATION AwesomenessTV, ORGANIZATION Fine Brothers, PERSON Smosh
+
+Source Sentence and Source Headline Match:
+Google’s online video service will make a series of films with AwesomenessTV, as well as bagging exclusive rights for new shows by The Fine Brothers and Smosh.
+YouTube goes to Hollywood with plans to make movies featuring digital stars.
+1 matches: make
+
+Source Sentence and Story Headline Match:
+Google’s online video service will make a series of films with AwesomenessTV, as well as bagging exclusive rights for new shows by The Fine Brothers and Smosh.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Google’s online video service will make a series of films with AwesomenessTV, as well as bagging exclusive rights for new shows by The Fine Brothers and Smosh.
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+4 matches: fine, awesomenesstv, exclusive, brother
+
+----------------
+
+sent_2:
+2 out of 19 sentences
+2 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+YouTube is getting into the movie business, although its films will be getting their premieres online rather than in cinemas.
+1 default entities: ORGANIZATION YouTube
+1 custom entities: ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+YouTube is getting into the movie business, although its films will be getting their premieres online rather than in cinemas.
+YouTube goes to Hollywood with plans to make movies featuring digital stars.
+2 matches: movie, youtube
+
+Source Sentence and Story Headline Match:
+YouTube is getting into the movie business, although its films will be getting their premieres online rather than in cinemas.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+YouTube is getting into the movie business, although its films will be getting their premieres online rather than in cinemas.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+2 matches: film, youtube
+
+----------------
+
+sent_3:
+3 out of 19 sentences
+3 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Google’s online video service has announced a partnership with multi-channel network (MCN) and DreamWorks Animation subsidiary AwesomenessTV to make a series of films featuring YouTube stars.
+4 default entities: GPE Google, ORGANIZATION MCN, ORGANIZATION DreamWorks Animation, ORGANIZATION YouTube
+3 custom entities: ORGANIZATION MCN, ORGANIZATION DreamWorks Animation, ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+Google’s online video service has announced a partnership with multi-channel network (MCN) and DreamWorks Animation subsidiary AwesomenessTV to make a series of films featuring YouTube stars.
+YouTube goes to Hollywood with plans to make movies featuring digital stars.
+4 matches: star, make, feature, youtube
+
+Source Sentence and Story Headline Match:
+Google’s online video service has announced a partnership with multi-channel network (MCN) and DreamWorks Animation subsidiary AwesomenessTV to make a series of films featuring YouTube stars.
+YouTube strikes original content deal with DreamWorks unit.
+2 matches: dreamworks, youtube
+
+Source Sentence and Best Story Sentence Match:
+Google’s online video service has announced a partnership with multi-channel network (MCN) and DreamWorks Animation subsidiary AwesomenessTV to make a series of films featuring YouTube stars.
+YouTube on April 28 announced an original content partnership with AwesomenessTV, a multichannel network owned by Dreamworks.
+6 matches: awesomenesstv, network, youtube, announce, dreamworks, partnership
+
+----------------
+
+sent_4:
+4 out of 19 sentences
+4 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+“Together, we’ll release several feature-length films over the next two years, all driven by YouTube stars and developed and produced by AwesomenessTV’s Brian Robbins,” wrote YouTube Originals boss Alex Carloss in a blog post.
+5 default entities: ORGANIZATION YouTube, ORGANIZATION AwesomenessTV, PERSON Brian Robbins, ORGANIZATION YouTube Originals, PERSON Alex Carloss
+4 custom entities: ORGANIZATION YouTube, PERSON Brian Robbins, ORGANIZATION YouTube Originals, PERSON Alex Carloss
+
+Source Sentence and Source Headline Match:
+“Together, we’ll release several feature-length films over the next two years, all driven by YouTube stars and developed and produced by AwesomenessTV’s Brian Robbins,” wrote YouTube Originals boss Alex Carloss in a blog post.
+YouTube goes to Hollywood with plans to make movies featuring digital stars.
+2 matches: star, youtube
+
+Source Sentence and Story Headline Match:
+“Together, we’ll release several feature-length films over the next two years, all driven by YouTube stars and developed and produced by AwesomenessTV’s Brian Robbins,” wrote YouTube Originals boss Alex Carloss in a blog post.
+YouTube strikes original content deal with DreamWorks unit.
+2 matches: original, youtube
+
+Source Sentence and Best Story Sentence Match:
+“Together, we’ll release several feature-length films over the next two years, all driven by YouTube stars and developed and produced by AwesomenessTV’s Brian Robbins,” wrote YouTube Originals boss Alex Carloss in a blog post.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+7 matches: two, film, together, next, original, youtube, year
+
+----------------
+
+sent_5:
+5 out of 19 sentences
+5 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+“The films will all premiere globally on YouTube before they become available elsewhere, setting what we believe will become a new distribution paradigm for years to come.
+1 default entities: ORGANIZATION YouTube
+1 custom entities: ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+“The films will all premiere globally on YouTube before they become available elsewhere, setting what we believe will become a new distribution paradigm for years to come.
+YouTube goes to Hollywood with plans to make movies featuring digital stars.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+“The films will all premiere globally on YouTube before they become available elsewhere, setting what we believe will become a new distribution paradigm for years to come.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+“The films will all premiere globally on YouTube before they become available elsewhere, setting what we believe will become a new distribution paradigm for years to come.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+3 matches: film, year, youtube
+
+----------------
+
+sent_6:
+6 out of 19 sentences
+5 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+We hope to release our first film this fall, with more details to come soon.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+We hope to release our first film this fall, with more details to come soon.”
+YouTube goes to Hollywood with plans to make movies featuring digital stars.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+We hope to release our first film this fall, with more details to come soon.”
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+We hope to release our first film this fall, with more details to come soon.”
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+1 matches: film
+
+----------------
+
+sent_7:
+7 out of 19 sentences
+6 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Robbins had already announced at the recent MIPTV conference that AwesomenessTV is producing six feature films, having topped Apple’s iTunes chart in December 2014 with Expelled, a film featuring online star Cameron Dallas.
+7 default entities: PERSON Robbins, ORGANIZATION MIPTV, ORGANIZATION AwesomenessTV, PERSON Apple, ORGANIZATION iTunes, PERSON Expelled, PERSON Cameron Dallas
+6 custom entities: PERSON Robbins, ORGANIZATION MIPTV, ORGANIZATION AwesomenessTV, ORGANIZATION iTunes, PERSON Expelled, PERSON Cameron Dallas
+
+Source Sentence and Source Headline Match:
+Robbins had already announced at the recent MIPTV conference that AwesomenessTV is producing six feature films, having topped Apple’s iTunes chart in December 2014 with Expelled, a film featuring online star Cameron Dallas.
+YouTube goes to Hollywood with plans to make movies featuring digital stars.
+2 matches: star, feature
+
+Source Sentence and Story Headline Match:
+Robbins had already announced at the recent MIPTV conference that AwesomenessTV is producing six feature films, having topped Apple’s iTunes chart in December 2014 with Expelled, a film featuring online star Cameron Dallas.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Robbins had already announced at the recent MIPTV conference that AwesomenessTV is producing six feature films, having topped Apple’s iTunes chart in December 2014 with Expelled, a film featuring online star Cameron Dallas.
+YouTube on April 28 announced an original content partnership with AwesomenessTV, a multichannel network owned by Dreamworks.
+2 matches: awesomenesstv, announce
+
+----------------
+
+sent_8:
+8 out of 19 sentences
+7 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+“This film accomplished in four months what it takes most studios four years to do: create a hit movie that resonates with the audience most important to follow,” said Robbins, whose company was bought by DreamWorks in 2013.
+2 default entities: PERSON Robbins, ORGANIZATION DreamWorks
+2 custom entities: PERSON Robbins, ORGANIZATION DreamWorks
+
+Source Sentence and Source Headline Match:
+“This film accomplished in four months what it takes most studios four years to do: create a hit movie that resonates with the audience most important to follow,” said Robbins, whose company was bought by DreamWorks in 2013.
+YouTube goes to Hollywood with plans to make movies featuring digital stars.
+1 matches: movie
+
+Source Sentence and Story Headline Match:
+“This film accomplished in four months what it takes most studios four years to do: create a hit movie that resonates with the audience most important to follow,” said Robbins, whose company was bought by DreamWorks in 2013.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: dreamworks
+
+Source Sentence and Best Story Sentence Match:
+“This film accomplished in four months what it takes most studios four years to do: create a hit movie that resonates with the audience most important to follow,” said Robbins, whose company was bought by DreamWorks in 2013.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+3 matches: film, year, create
+
+----------------
+
+sent_9:
+9 out of 19 sentences
+8 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+YouTube has also announced deals with four popular creators to launch new shows exclusively on its service, including scripted comedy shows from Smosh and The Fine Brothers; a new series of trickery show Prank vs Prank featuring celebrities; and a “murder mystery reality” series fronted by vlogger Joey Graceffa.
+6 default entities: ORGANIZATION YouTube, GPE Smosh, ORGANIZATION Fine Brothers, PERSON Prank, PERSON Prank, PERSON Joey Graceffa
+6 custom entities: ORGANIZATION YouTube, GPE Smosh, ORGANIZATION Fine Brothers, PERSON Prank, PERSON Prank, PERSON Joey Graceffa
+
+Source Sentence and Source Headline Match:
+YouTube has also announced deals with four popular creators to launch new shows exclusively on its service, including scripted comedy shows from Smosh and The Fine Brothers; a new series of trickery show Prank vs Prank featuring celebrities; and a “murder mystery reality” series fronted by vlogger Joey Graceffa.
+YouTube goes to Hollywood with plans to make movies featuring digital stars.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+YouTube has also announced deals with four popular creators to launch new shows exclusively on its service, including scripted comedy shows from Smosh and The Fine Brothers; a new series of trickery show Prank vs Prank featuring celebrities; and a “murder mystery reality” series fronted by vlogger Joey Graceffa.
+YouTube strikes original content deal with DreamWorks unit.
+2 matches: deal, youtube
+
+Source Sentence and Best Story Sentence Match:
+YouTube has also announced deals with four popular creators to launch new shows exclusively on its service, including scripted comedy shows from Smosh and The Fine Brothers; a new series of trickery show Prank vs Prank featuring celebrities; and a “murder mystery reality” series fronted by vlogger Joey Graceffa.
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+8 matches: deal, prank, also, brother, creator, youtube, fine, announce
+
+----------------
+
+sent_10:
+10 out of 19 sentences
+9 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+It’s part of what Carloss described as “an even bolder step to invest in ambitious projects from our top creators” as YouTube faces the prospect of growing competition for its stars from the likes of Yahoo and Facebook as well as Snapchat and Vessel.
+6 default entities: PERSON Carloss, ORGANIZATION YouTube, ORGANIZATION Yahoo, PERSON Facebook, ORGANIZATION Snapchat, GPE Vessel
+6 custom entities: PERSON Carloss, ORGANIZATION YouTube, ORGANIZATION Yahoo, PERSON Facebook, ORGANIZATION Snapchat, PERSON Vessel
+
+Source Sentence and Source Headline Match:
+It’s part of what Carloss described as “an even bolder step to invest in ambitious projects from our top creators” as YouTube faces the prospect of growing competition for its stars from the likes of Yahoo and Facebook as well as Snapchat and Vessel.
+YouTube goes to Hollywood with plans to make movies featuring digital stars.
+2 matches: star, youtube
+
+Source Sentence and Story Headline Match:
+It’s part of what Carloss described as “an even bolder step to invest in ambitious projects from our top creators” as YouTube faces the prospect of growing competition for its stars from the likes of Yahoo and Facebook as well as Snapchat and Vessel.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+It’s part of what Carloss described as “an even bolder step to invest in ambitious projects from our top creators” as YouTube faces the prospect of growing competition for its stars from the likes of Yahoo and Facebook as well as Snapchat and Vessel.
+YouTube has taken a number of steps to help attract advertisers to the site, including letting certain high-profile producers use professional studio facilities in cities like London, Los Angeles, and New York.
+3 matches: like, step, youtube
+
+----------------
+
+sent_11:
+11 out of 19 sentences
+10 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+YouTube has also acquired exclusive rights to the first series of Wonder Quest, the new educational show launched by British Minecraft gamer Joseph Garrett (aka Stampy) which made its debut this week.
+5 default entities: ORGANIZATION YouTube, PERSON Wonder Quest, GPE British, PERSON Joseph Garrett, PERSON Stampy
+5 custom entities: ORGANIZATION YouTube, PERSON Wonder Quest, GPE British, PERSON Joseph Garrett, PERSON Stampy
+
+Source Sentence and Source Headline Match:
+YouTube has also acquired exclusive rights to the first series of Wonder Quest, the new educational show launched by British Minecraft gamer Joseph Garrett (aka Stampy) which made its debut this week.
+YouTube goes to Hollywood with plans to make movies featuring digital stars.
+2 matches: make, youtube
+
+Source Sentence and Story Headline Match:
+YouTube has also acquired exclusive rights to the first series of Wonder Quest, the new educational show launched by British Minecraft gamer Joseph Garrett (aka Stampy) which made its debut this week.
+YouTube strikes original content deal with DreamWorks unit.
+1 matches: youtube
+
+Source Sentence and Best Story Sentence Match:
+YouTube has also acquired exclusive rights to the first series of Wonder Quest, the new educational show launched by British Minecraft gamer Joseph Garrett (aka Stampy) which made its debut this week.
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+3 matches: also, exclusive, youtube
+
+----------------
+
+sent_12:
+12 out of 19 sentences
+10 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+“ Google saw potential in the show,” Garrett told the Guardian in an interview.
+3 default entities: PERSON Google, PERSON Garrett, GPE Guardian
+3 custom entities: PERSON Google, PERSON Garrett, GPE Guardian
+
+Source Sentence and Source Headline Match:
+“ Google saw potential in the show,” Garrett told the Guardian in an interview.
+YouTube goes to Hollywood with plans to make movies featuring digital stars.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“ Google saw potential in the show,” Garrett told the Guardian in an interview.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“ Google saw potential in the show,” Garrett told the Guardian in an interview.
+Google bought YouTube in 2006, and is now trying to turn the platform into a destination for high-quality video.
+1 matches: google
+
+----------------
+
+sent_13:
+13 out of 19 sentences
+11 out of 13 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Carloss signified YouTube’s willingness to stump up for exclusive shows in a previous blog post in September 2014.
+2 default entities: PERSON Carloss, ORGANIZATION YouTube
+1 custom entities: PERSON Carloss
+
+Source Sentence and Source Headline Match:
+Carloss signified YouTube’s willingness to stump up for exclusive shows in a previous blog post in September 2014.
+YouTube goes to Hollywood with plans to make movies featuring digital stars.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Carloss signified YouTube’s willingness to stump up for exclusive shows in a previous blog post in September 2014.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Carloss signified YouTube’s willingness to stump up for exclusive shows in a previous blog post in September 2014.
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+1 matches: exclusive
+
+----------------
+
+sent_14:
+14 out of 19 sentences
+12 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+“We’ve decided to fund new content from some of our top creators, helping them not only fulfill their creative ambitions but also deliver new material to their millions of fans on YouTube,” he wrote then.
+1 default entities: ORGANIZATION YouTube
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“We’ve decided to fund new content from some of our top creators, helping them not only fulfill their creative ambitions but also deliver new material to their millions of fans on YouTube,” he wrote then.
+YouTube goes to Hollywood with plans to make movies featuring digital stars.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+“We’ve decided to fund new content from some of our top creators, helping them not only fulfill their creative ambitions but also deliver new material to their millions of fans on YouTube,” he wrote then.
+YouTube strikes original content deal with DreamWorks unit.
+2 matches: content, youtube
+
+Source Sentence and Best Story Sentence Match:
+“We’ve decided to fund new content from some of our top creators, helping them not only fulfill their creative ambitions but also deliver new material to their millions of fans on YouTube,” he wrote then.
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+4 matches: also, creator, content, youtube
+
+----------------
+
+sent_15:
+15 out of 19 sentences
+13 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+“We’ll experiment with new formats and ideas.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“We’ll experiment with new formats and ideas.
+YouTube goes to Hollywood with plans to make movies featuring digital stars.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“We’ll experiment with new formats and ideas.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“We’ll experiment with new formats and ideas.
+YouTube has taken a number of steps to help attract advertisers to the site, including letting certain high-profile producers use professional studio facilities in cities like London, Los Angeles, and New York.
+1 matches: new
+
+----------------
+
+sent_16:
+16 out of 19 sentences
+13 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+We’ll get our hands dirty.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+We’ll get our hands dirty.
+YouTube goes to Hollywood with plans to make movies featuring digital stars.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+We’ll get our hands dirty.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_17:
+17 out of 19 sentences
+13 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+We’ll make some mistakes.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+We’ll make some mistakes.
+YouTube goes to Hollywood with plans to make movies featuring digital stars.
+1 matches: make
+
+Source Sentence and Story Headline Match:
+We’ll make some mistakes.
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_18:
+18 out of 19 sentences
+13 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+Together, we’ll (hopefully) create some fantastic new content on YouTube.
+1 default entities: ORGANIZATION YouTube
+1 custom entities: ORGANIZATION YouTube
+
+Source Sentence and Source Headline Match:
+Together, we’ll (hopefully) create some fantastic new content on YouTube.
+YouTube goes to Hollywood with plans to make movies featuring digital stars.
+1 matches: youtube
+
+Source Sentence and Story Headline Match:
+Together, we’ll (hopefully) create some fantastic new content on YouTube.
+YouTube strikes original content deal with DreamWorks unit.
+2 matches: content, youtube
+
+Source Sentence and Best Story Sentence Match:
+Together, we’ll (hopefully) create some fantastic new content on YouTube.
+YouTube and AwesomenessTV will work together to create an unspecified number of original films over the next two years.
+3 matches: together, create, youtube
+
+----------------
+
+sent_19:
+19 out of 19 sentences
+13 out of 13 paragraphs
+Tagged as a quote
+
+Sentence:
+But one thing is certain: there’s no one we’d rather go on this adventure with than our creators.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+But one thing is certain: there’s no one we’d rather go on this adventure with than our creators.”
+YouTube goes to Hollywood with plans to make movies featuring digital stars.
+1 matches: go
+
+Source Sentence and Story Headline Match:
+But one thing is certain: there’s no one we’d rather go on this adventure with than our creators.”
+YouTube strikes original content deal with DreamWorks unit.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+But one thing is certain: there’s no one we’d rather go on this adventure with than our creators.”
+YouTube's partnership with AwesomenessTV was announced on the same day that YouTube also announced exclusive content deals with well-known YouTube creators the Fine Brothers, Prank vs.
+1 matches: creator
+
+----------------
+

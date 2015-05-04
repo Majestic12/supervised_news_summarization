@@ -1,0 +1,275 @@
+sent_1:
+
+Police moved in early Sunday to surround the remnants of a pro-democracy demonstration as it morphed from a student-led protest into one spearheaded by the Occupy Central movement, which took its name and inspiration from the Occupy movement in the United States.
+It is almost identical to Beijing's plan in Aug. 2014 that set off pro-democracy protests.
+2 best matches: pro-democracy, protest
+
+----------------
+sent_2:
+
+After the student-led protest drew tens of thousands of people to rally outside Hong Kong’s government offices Saturday night, Occupy Central launched its protest about 2 a.m. Sunday, only to see most of the crowd wither away before police made a show of force about 7 a.m.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+2 best matches: government, hong
+
+----------------
+sent_3:
+
+no story sentence best matches found
+
+----------------
+sent_4:
+
+Authorities have said the Occupy Central campaign is illegal.
+Activists say Beijing promised direct elections in 2017.
+1 best matches: say
+
+----------------
+sent_5:
+
+Like the student-led protests, it is fighting new election rules for Hong Kong issued by mainland Chinese authorities.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+4 best matches: hong, election, mainland, chinese
+
+----------------
+sent_6:
+
+Before the police moved in, Benny Tai, an Occupy Central organizer and Hong Kong University law professor, faced the rapidly shrinking crowd and said, “We’ll still try to defend our position here against any action by the police and then move on to where we want to be, Central,” referring to Hong Kong’s financial district.
+China said April 13 that it changed visa allowances for Shenzhen residents to visit Hong Kong from unlimited multiple-entry to once per week.
+3 best matches: kong, say, hong
+
+----------------
+sent_7:
+
+Saturday marked the second night of the standoff between Hong Kong police and democracy activists, who occupied a public plaza at the Chinese territory’s main government compound, despite repeated attempts by officers to disperse the growing crowd.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+3 best matches: kong, government, hong
+
+----------------
+sent_8:
+
+More than 70 people, most of them university and high school students, were arrested in the first two days.
+Ian Holliday, a professor and university vice president, apologized April 20 for suggesting during a dinner with students April 17 that students should be required to do exchanges on mainland China.
+2 best matches: student, university
+
+----------------
+sent_9:
+
+no story sentence best matches found
+
+----------------
+sent_10:
+
+The move to occupy the plaza came after thousands of university students skipped classes last week to protest election guidelines issued by mainland Chinese government authorities for Hong Kong’s 2017 elections.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+5 best matches: hong, 2017, election, mainland, chinese
+
+----------------
+sent_11:
+
+Demonstrators say the rules will prevent a truly free and fair election for Hong Kong’s chief executive, the highest office in the semiautonomous territory that was a British colony until 1997.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+4 best matches: executive, election, hong, chief
+
+----------------
+sent_12:
+
+Among those arrested Saturday was a feisty local lawmaker, Leung Kwok-hung, a.k.a.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+1 best matches: lawmaker
+
+----------------
+sent_13:
+
+no story sentence best matches found
+
+----------------
+sent_14:
+
+He and dozens of others were detained after 17-year-old protest leader Joshua Wong, the diminutive but passionate head of a high-school activist group, Scholarism, was dragged off by four officers Friday night.
+The proposal comes after months of protests in 2014 over a Beijing-back election plan.
+1 best matches: protest
+
+----------------
+sent_15:
+
+Joshua was reportedly denied bail and remained in detention while police searched his bedroom in the apartment he shares with his parents, Grace and Roger Wong.
+Police used pepper spray and tear gas on protesters Sept. 28, 2014, prompting organizers to hand out umbrellas and plastic wrap as protection.
+1 best matches: police
+
+----------------
+sent_16:
+
+The couple issued a statement saying, “We can therefore only conclude that the decision to continue to detain him is a political one and that this [is] in fact political persecution.”
+The decision to rule out open nominations set the stage for renewed protests.
+1 best matches: decision
+
+----------------
+sent_17:
+
+When Sunday dawned, many students had left, with their leaders in police detention.
+If it does not get a two-thirds majority, the 2017 election will be based on current rules, which are also considered to give de facto control of the choice of the city's leader to Beijing.
+1 best matches: leader
+
+----------------
+sent_18:
+
+No more than a couple thousand activists remained.
+Activists say Beijing promised direct elections in 2017.
+1 best matches: activist
+
+----------------
+sent_19:
+
+But Tai said the two student groups, the Hong Kong Federation of Students and Scholarism, had signed on to his campaign.
+China said April 13 that it changed visa allowances for Shenzhen residents to visit Hong Kong from unlimited multiple-entry to once per week.
+3 best matches: kong, say, hong
+
+----------------
+sent_20:
+
+Tension over the 2017 vote has been building for months in Hong Kong, which returned to Chinese sovereignty under a framework known as “one country, two systems.” The territory’s 7 million citizens enjoy significantly greater civil liberties than their counterparts in Communist-run mainland China.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+4 best matches: hong, 2017, mainland, chinese
+
+----------------
+sent_21:
+
+Local lawmakers must ratify the final 2017 election rules.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+4 best matches: 2017, election, lawmaker, must
+
+----------------
+sent_22:
+
+Those protesting this weekend are seeking to encourage legislators to reject the framework put forth by Beijing or somehow modify it.
+The proposal comes after months of protests in 2014 over a Beijing-back election plan.
+1 best matches: protest
+
+----------------
+sent_23:
+
+Although Chinese authorities have approved the idea of allowing all Hong Kong citizens to cast ballots for chief executive — rather than just a 1,200 member committee — protesters say limits on who can run will ensure that only candidates Beijing approves of will be allowed in the race.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+6 best matches: beijing, hong, chinese, committee, chief, executive
+
+----------------
+sent_24:
+
+The Occupy movement — its full name is Occupy Central With Love and Peace — has been planning a sit-in Wednesday in the city’s financial hub, known as Central.
+The proposal comes after months of protests in 2014 over a Beijing-back election plan.
+1 best matches: plan
+
+----------------
+sent_25:
+
+The date is a national holiday marking the 1949 founding of Communist-led China.
+A report by a UK parliament committee on March 6 expressed concern that Hong Kong's "high degree of autonomy is coming under pressure" from mainland China.
+1 best matches: china
+
+----------------
+sent_26:
+
+Hong Kong has seen much bigger rallies, marches and demonstrations in recent years, some attracting hundreds of thousands of people, but the standoff this weekend was notable for its rancor and the use of force by police.
+"Hong Kong people are right to feel betrayed.
+3 best matches: people, kong, hong
+
+----------------
+sent_27:
+
+In general, Hong Kong protests tend to be disciplined and orderly.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+2 best matches: kong, hong
+
+----------------
+sent_28:
+
+Between tense episodes of police pressing into protesters with metal barricades, pockets of supporters occasionally broke into chants to voice their demands.
+Police used pepper spray and tear gas on protesters Sept. 28, 2014, prompting organizers to hand out umbrellas and plastic wrap as protection.
+2 best matches: protester, police
+
+----------------
+sent_29:
+
+The students are innocent.
+Our students should have international exposure, not confined only to mainland China, and should not be specified to mainland China."
+1 best matches: student
+
+----------------
+sent_30:
+
+The students are innocent.”
+Our students should have international exposure, not confined only to mainland China, and should not be specified to mainland China."
+1 best matches: student
+
+----------------
+sent_31:
+
+no story sentence best matches found
+
+----------------
+sent_32:
+
+no story sentence best matches found
+
+----------------
+sent_33:
+
+no story sentence best matches found
+
+----------------
+sent_34:
+
+The crowd was largely young, but many older citizens joined in, with some saying they now see the city’s political future in the students’ hands, while bemoaning the lack of a larger turnout.
+Holliday met with students and explained that he wanted students to be "global citizens with China knowledge."
+2 best matches: citizen, student
+
+----------------
+sent_35:
+
+Gary Chan, a 51-year-old investment manager, said he came alone because most of his friends don’t care about elections.
+The proposal comes after months of protests in 2014 over a Beijing-back election plan.
+2 best matches: come, election
+
+----------------
+sent_36:
+
+“I asked them: ‘Why don’t you care about your own city?’” he said.
+Activists say Beijing promised direct elections in 2017.
+1 best matches: say
+
+----------------
+sent_37:
+
+Yet, scenes of police in riot gear using pepper spray and batons on unarmed students and activists appeared to motivate sympathetic Hong Kongers to turn out at government headquarters Saturday.
+Police used pepper spray and tear gas on protesters Sept. 28, 2014, prompting organizers to hand out umbrellas and plastic wrap as protection.
+4 best matches: spray, police, pepper, use
+
+----------------
+sent_38:
+
+Supporters came bearing food, bottled water and medical equipment, with supplies piling up on the sidewalks.
+The proposal comes after months of protests in 2014 over a Beijing-back election plan.
+1 best matches: come
+
+----------------
+sent_39:
+
+In a statement issued Saturday, the Hong Kong police said officers “respect the public's freedoms of expression, speech and assembly.”
+China responded that the UK, which ran Hong Kong for nearly 150 years, has "no right to interfere" in what China considers a domestic issue.
+3 best matches: kong, hong, issue
+
+----------------
+sent_40:
+
+But three pro-Beijing political parties in Hong Kong issued a joint statement condemning the students’ actions as illegal.
+China responded that the UK, which ran Hong Kong for nearly 150 years, has "no right to interfere" in what China considers a domestic issue.
+3 best matches: kong, hong, issue
+
+----------------
+sent_41:
+
+Despite all this, Eric Chong, researcher on local student movements at the Hong Kong Institute of Education, predicted the string of mass movements “sure will erode the government’s legitimacy because the public sees it as maintaining its rule by sheer force.”
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+2 best matches: kong, hong
+
+----------------

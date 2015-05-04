@@ -1,0 +1,497 @@
+sent_1:
+1 out of 18 sentences
+1 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Hong Kong government published a long-awaited electoral blueprint for selecting the city's next leader on Wednesday, a plan enshrining China's desire for a tightly controlled poll that has angered activists and stoked talk of fresh protests.
+2 default entities: GPE Hong Kong, GPE China
+1 custom entities: GPE Hong Kong
+
+Source Sentence and Source Headline Match:
+The Hong Kong government published a long-awaited electoral blueprint for selecting the city's next leader on Wednesday, a plan enshrining China's desire for a tightly controlled poll that has angered activists and stoked talk of fresh protests.
+Hong Kong toes China line with reform package, vows no compromise.
+2 matches: kong, hong
+
+Source Sentence and Story Headline Match:
+The Hong Kong government published a long-awaited electoral blueprint for selecting the city's next leader on Wednesday, a plan enshrining China's desire for a tightly controlled poll that has angered activists and stoked talk of fresh protests.
+Hong Kong releases controversial election plan.
+3 matches: plan, kong, hong
+
+Source Sentence and Best Story Sentence Match:
+The Hong Kong government published a long-awaited electoral blueprint for selecting the city's next leader on Wednesday, a plan enshrining China's desire for a tightly controlled poll that has angered activists and stoked talk of fresh protests.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+4 matches: blueprint, kong, government, hong
+
+----------------
+
+sent_2:
+2 out of 18 sentences
+2 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The government proposal follows huge pro-democracy demonstrations last year in one of the boldest populist challenges to Beijing's Communist Party rule since the former British colony returned to Chinese control in 1997.
+4 default entities: GPE Beijing, ORGANIZATION Communist Party, GPE British, GPE Chinese
+3 custom entities: ORGANIZATION Communist Party, GPE British, GPE Chinese
+
+Source Sentence and Source Headline Match:
+The government proposal follows huge pro-democracy demonstrations last year in one of the boldest populist challenges to Beijing's Communist Party rule since the former British colony returned to Chinese control in 1997.
+Hong Kong toes China line with reform package, vows no compromise.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The government proposal follows huge pro-democracy demonstrations last year in one of the boldest populist challenges to Beijing's Communist Party rule since the former British colony returned to Chinese control in 1997.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The government proposal follows huge pro-democracy demonstrations last year in one of the boldest populist challenges to Beijing's Communist Party rule since the former British colony returned to Chinese control in 1997.
+It is almost identical to Beijing's plan in Aug. 2014 that set off pro-democracy protests.
+2 matches: beijing's, pro-democracy
+
+----------------
+
+sent_3:
+3 out of 18 sentences
+3 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Analysts said the conservative blueprint, which lawmakers will vote on early in summer - could again stir political tensions in the financial hub after a lull of several months.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Analysts said the conservative blueprint, which lawmakers will vote on early in summer - could again stir political tensions in the financial hub after a lull of several months.
+Hong Kong toes China line with reform package, vows no compromise.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Analysts said the conservative blueprint, which lawmakers will vote on early in summer - could again stir political tensions in the financial hub after a lull of several months.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Analysts said the conservative blueprint, which lawmakers will vote on early in summer - could again stir political tensions in the financial hub after a lull of several months.
+If this proposal is vetoed, it could be several years before the next opportunity."
+2 matches: could, several
+
+----------------
+
+sent_4:
+4 out of 18 sentences
+4 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+More than a hundred democracy protesters denounced the blueprint outside the legislature, rejecting calls by Hong Kong's leader Leung Chun-ying to accept the package as the best possible model for universal suffrage from Beijing.
+3 default entities: GPE Hong Kong, PERSON Leung, GPE Beijing
+3 custom entities: PERSON Hong, PERSON Leung, GPE Beijing
+
+Source Sentence and Source Headline Match:
+More than a hundred democracy protesters denounced the blueprint outside the legislature, rejecting calls by Hong Kong's leader Leung Chun-ying to accept the package as the best possible model for universal suffrage from Beijing.
+Hong Kong toes China line with reform package, vows no compromise.
+2 matches: package, hong
+
+Source Sentence and Story Headline Match:
+More than a hundred democracy protesters denounced the blueprint outside the legislature, rejecting calls by Hong Kong's leader Leung Chun-ying to accept the package as the best possible model for universal suffrage from Beijing.
+Hong Kong releases controversial election plan.
+1 matches: hong
+
+Source Sentence and Best Story Sentence Match:
+More than a hundred democracy protesters denounced the blueprint outside the legislature, rejecting calls by Hong Kong's leader Leung Chun-ying to accept the package as the best possible model for universal suffrage from Beijing.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+3 matches: kong's, beijing, hong
+
+----------------
+
+sent_5:
+5 out of 18 sentences
+5 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+"As of now, we see no room for any compromise," Leung told reporters.
+1 default entities: PERSON Leung
+1 custom entities: PERSON Leung
+
+Source Sentence and Source Headline Match:
+"As of now, we see no room for any compromise," Leung told reporters.
+Hong Kong toes China line with reform package, vows no compromise.
+1 matches: compromise
+
+Source Sentence and Story Headline Match:
+"As of now, we see no room for any compromise," Leung told reporters.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"As of now, we see no room for any compromise," Leung told reporters.
+"As of now, we see no room for any compromise.
+3 matches: room, compromise, see
+
+----------------
+
+sent_6:
+6 out of 18 sentences
+5 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+"To initiate any political reform process is not easy.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"To initiate any political reform process is not easy.
+Hong Kong toes China line with reform package, vows no compromise.
+1 matches: reform
+
+Source Sentence and Story Headline Match:
+"To initiate any political reform process is not easy.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"To initiate any political reform process is not easy.
+To initiate any political reform process is not easy.
+5 matches: easy, initiate, process, reform, political
+
+----------------
+
+sent_7:
+7 out of 18 sentences
+5 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+If this proposal is vetoed, it could be several years before the next opportunity."
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+If this proposal is vetoed, it could be several years before the next opportunity."
+Hong Kong toes China line with reform package, vows no compromise.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+If this proposal is vetoed, it could be several years before the next opportunity."
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+If this proposal is vetoed, it could be several years before the next opportunity."
+If this proposal is vetoed, it could be several years before the next opportunity."
+7 matches: proposal, opportunity, could, next, veto, year, several
+
+----------------
+
+sent_8:
+8 out of 18 sentences
+6 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Tens of thousands of pro-democracy demonstrators blocked major roads in four key districts in Hong Kong last year, demanding Beijing grant a truly democratic vote and open nominations for Hong Kong's next chief executive in 2017.
+3 default entities: GPE Hong Kong, GPE Beijing, GPE Hong Kong
+3 custom entities: GPE Hong Kong, GPE Beijing, GPE Hong
+
+Source Sentence and Source Headline Match:
+Tens of thousands of pro-democracy demonstrators blocked major roads in four key districts in Hong Kong last year, demanding Beijing grant a truly democratic vote and open nominations for Hong Kong's next chief executive in 2017.
+Hong Kong toes China line with reform package, vows no compromise.
+2 matches: kong, hong
+
+Source Sentence and Story Headline Match:
+Tens of thousands of pro-democracy demonstrators blocked major roads in four key districts in Hong Kong last year, demanding Beijing grant a truly democratic vote and open nominations for Hong Kong's next chief executive in 2017.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+Tens of thousands of pro-democracy demonstrators blocked major roads in four key districts in Hong Kong last year, demanding Beijing grant a truly democratic vote and open nominations for Hong Kong's next chief executive in 2017.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+6 matches: 2017, beijing, hong, chief, executive, kong's
+
+----------------
+
+sent_9:
+9 out of 18 sentences
+7 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+Their pleas were ignored, however, and police cleared away the last of the so-called "Umbrella Revolution" encampments in mid-December.
+1 default entities: PERSON Umbrella Revolution
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Their pleas were ignored, however, and police cleared away the last of the so-called "Umbrella Revolution" encampments in mid-December.
+Hong Kong toes China line with reform package, vows no compromise.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Their pleas were ignored, however, and police cleared away the last of the so-called "Umbrella Revolution" encampments in mid-December.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Their pleas were ignored, however, and police cleared away the last of the so-called "Umbrella Revolution" encampments in mid-December.
+The umbrellas became the symbol of the protests, which lasted over two months.
+2 matches: last, umbrella
+
+----------------
+
+sent_10:
+10 out of 18 sentences
+8 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The blueprint for the proposal that the public vote on two or three candidates pre-selected by a 1,200-member pro-Beijing nominating committee was first outlined by China's parliament, the National People's Congress (NPC), last August.
+4 default entities: GPE China, ORGANIZATION National People, ORGANIZATION Congress, ORGANIZATION NPC
+2 custom entities: ORGANIZATION National, ORGANIZATION Congress
+
+Source Sentence and Source Headline Match:
+The blueprint for the proposal that the public vote on two or three candidates pre-selected by a 1,200-member pro-Beijing nominating committee was first outlined by China's parliament, the National People's Congress (NPC), last August.
+Hong Kong toes China line with reform package, vows no compromise.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The blueprint for the proposal that the public vote on two or three candidates pre-selected by a 1,200-member pro-Beijing nominating committee was first outlined by China's parliament, the National People's Congress (NPC), last August.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+The blueprint for the proposal that the public vote on two or three candidates pre-selected by a 1,200-member pro-Beijing nominating committee was first outlined by China's parliament, the National People's Congress (NPC), last August.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+2 matches: candidate, committee
+
+----------------
+
+sent_11:
+11 out of 18 sentences
+9 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The Hong Kong government stood by that blueprint, saying it was disregarding suggestions that did not conform to the city's mini-constitution and the NPC decision.
+2 default entities: GPE Hong Kong, ORGANIZATION NPC
+2 custom entities: GPE Hong Kong, ORGANIZATION NPC
+
+Source Sentence and Source Headline Match:
+The Hong Kong government stood by that blueprint, saying it was disregarding suggestions that did not conform to the city's mini-constitution and the NPC decision.
+Hong Kong toes China line with reform package, vows no compromise.
+2 matches: kong, hong
+
+Source Sentence and Story Headline Match:
+The Hong Kong government stood by that blueprint, saying it was disregarding suggestions that did not conform to the city's mini-constitution and the NPC decision.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+The Hong Kong government stood by that blueprint, saying it was disregarding suggestions that did not conform to the city's mini-constitution and the NPC decision.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+4 matches: blueprint, kong, government, hong
+
+----------------
+
+sent_12:
+12 out of 18 sentences
+10 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+Democratic lawmakers, wearing black jerseys with yellow crosses to symbolize their pledge to oppose any plan smacking of "fake universal suffrage", walked out of the legislative chamber in protest on Wednesday.
+1 default entities: ORGANIZATION Democratic
+1 custom entities: ORGANIZATION Democratic
+
+Source Sentence and Source Headline Match:
+Democratic lawmakers, wearing black jerseys with yellow crosses to symbolize their pledge to oppose any plan smacking of "fake universal suffrage", walked out of the legislative chamber in protest on Wednesday.
+Hong Kong toes China line with reform package, vows no compromise.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Democratic lawmakers, wearing black jerseys with yellow crosses to symbolize their pledge to oppose any plan smacking of "fake universal suffrage", walked out of the legislative chamber in protest on Wednesday.
+Hong Kong releases controversial election plan.
+1 matches: plan
+
+Source Sentence and Best Story Sentence Match:
+Democratic lawmakers, wearing black jerseys with yellow crosses to symbolize their pledge to oppose any plan smacking of "fake universal suffrage", walked out of the legislative chamber in protest on Wednesday.
+The proposal comes after months of protests in 2014 over a Beijing-back election plan.
+2 matches: plan, protest
+
+----------------
+
+sent_13:
+13 out of 18 sentences
+11 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Standing before reporters, most of the city's 27 opposition legislators, who hold a one-third veto bloc in the 70-person chamber, said they would vote against the package.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Standing before reporters, most of the city's 27 opposition legislators, who hold a one-third veto bloc in the 70-person chamber, said they would vote against the package.
+Hong Kong toes China line with reform package, vows no compromise.
+1 matches: package
+
+Source Sentence and Story Headline Match:
+Standing before reporters, most of the city's 27 opposition legislators, who hold a one-third veto bloc in the 70-person chamber, said they would vote against the package.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Standing before reporters, most of the city's 27 opposition legislators, who hold a one-third veto bloc in the 70-person chamber, said they would vote against the package.
+The city's legislature will vote on the plan in June.
+2 matches: vote, city's
+
+----------------
+
+sent_14:
+14 out of 18 sentences
+12 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Joshua Wong, one of the leaders of the pro-democracy movement, said if the government did manage to get the framework passed it could unleash a fresh wave of protests.
+2 default entities: PERSON Joshua, GPE Wong
+1 custom entities: PERSON Joshua
+
+Source Sentence and Source Headline Match:
+Joshua Wong, one of the leaders of the pro-democracy movement, said if the government did manage to get the framework passed it could unleash a fresh wave of protests.
+Hong Kong toes China line with reform package, vows no compromise.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Joshua Wong, one of the leaders of the pro-democracy movement, said if the government did manage to get the framework passed it could unleash a fresh wave of protests.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Joshua Wong, one of the leaders of the pro-democracy movement, said if the government did manage to get the framework passed it could unleash a fresh wave of protests.
+It is almost identical to Beijing's plan in Aug. 2014 that set off pro-democracy protests.
+2 matches: pro-democracy, protest
+
+----------------
+
+sent_15:
+15 out of 18 sentences
+13 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+"It is highly likely that this will trigger protests, whether occupying roads or civil disobedience," said the bespectacled Wong outside government headquarters, where a small group of die-hard activists have remained camped out.
+1 default entities: GPE Wong
+1 custom entities: GPE Wong
+
+Source Sentence and Source Headline Match:
+"It is highly likely that this will trigger protests, whether occupying roads or civil disobedience," said the bespectacled Wong outside government headquarters, where a small group of die-hard activists have remained camped out.
+Hong Kong toes China line with reform package, vows no compromise.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"It is highly likely that this will trigger protests, whether occupying roads or civil disobedience," said the bespectacled Wong outside government headquarters, where a small group of die-hard activists have remained camped out.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"It is highly likely that this will trigger protests, whether occupying roads or civil disobedience," said the bespectacled Wong outside government headquarters, where a small group of die-hard activists have remained camped out.
+Activists say Beijing promised direct elections in 2017.
+2 matches: activist, say
+
+----------------
+
+sent_16:
+16 out of 18 sentences
+14 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Hong Kong Chief Secretary Carrie Lam told reporters she was unworried.
+3 default entities: GPE Hong, ORGANIZATION Kong, PERSON Carrie Lam
+3 custom entities: GPE Hong, ORGANIZATION Kong, PERSON Carrie Lam
+
+Source Sentence and Source Headline Match:
+Hong Kong Chief Secretary Carrie Lam told reporters she was unworried.
+Hong Kong toes China line with reform package, vows no compromise.
+2 matches: kong, hong
+
+Source Sentence and Story Headline Match:
+Hong Kong Chief Secretary Carrie Lam told reporters she was unworried.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+Hong Kong Chief Secretary Carrie Lam told reporters she was unworried.
+The Hong Kong government released its blueprint on April 22 for 2017 elections for chief executive.
+3 matches: kong, hong, chief
+
+----------------
+
+sent_17:
+17 out of 18 sentences
+15 out of 16 paragraphs
+Tagged as a quote
+
+Sentence:
+"We believe that after announcing the specific proposals there will be political parties and organizations and groups which may resort to more aggressive protests, but we don't think that such a large scale occupation will happen again," she said, in reference to last year's 79-day street protest.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+"We believe that after announcing the specific proposals there will be political parties and organizations and groups which may resort to more aggressive protests, but we don't think that such a large scale occupation will happen again," she said, in reference to last year's 79-day street protest.
+Hong Kong toes China line with reform package, vows no compromise.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+"We believe that after announcing the specific proposals there will be political parties and organizations and groups which may resort to more aggressive protests, but we don't think that such a large scale occupation will happen again," she said, in reference to last year's 79-day street protest.
+Hong Kong releases controversial election plan.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+"We believe that after announcing the specific proposals there will be political parties and organizations and groups which may resort to more aggressive protests, but we don't think that such a large scale occupation will happen again," she said, in reference to last year's 79-day street protest.
+The proposal comes after months of protests in 2014 over a Beijing-back election plan.
+2 matches: proposal, protest
+
+----------------
+
+sent_18:
+18 out of 18 sentences
+16 out of 16 paragraphs
+Tagged as not being a quote
+
+Sentence:
+While Hong Kong is part of China, it is governed as a special administrative region, which means it has a different legal system and freedoms not permitted in the mainland.
+2 default entities: GPE Hong Kong, GPE China
+2 custom entities: GPE Hong Kong, GPE China
+
+Source Sentence and Source Headline Match:
+While Hong Kong is part of China, it is governed as a special administrative region, which means it has a different legal system and freedoms not permitted in the mainland.
+Hong Kong toes China line with reform package, vows no compromise.
+3 matches: kong, hong, china
+
+Source Sentence and Story Headline Match:
+While Hong Kong is part of China, it is governed as a special administrative region, which means it has a different legal system and freedoms not permitted in the mainland.
+Hong Kong releases controversial election plan.
+2 matches: kong, hong
+
+Source Sentence and Best Story Sentence Match:
+While Hong Kong is part of China, it is governed as a special administrative region, which means it has a different legal system and freedoms not permitted in the mainland.
+A report by a UK parliament committee on March 6 expressed concern that Hong Kong's "high degree of autonomy is coming under pressure" from mainland China.
+3 matches: china, hong, mainland
+
+----------------
+

@@ -1,0 +1,376 @@
+sent_1:
+1 out of 14 sentences
+1 out of 9 paragraphs
+Tagged as a quote
+
+Sentence:
+The fugitive US whistleblower Edward Snowden alleged on Sunday that the National Security Agency was “in bed together” with German intelligence despite claims by politicians in Chancellor Angela Merkel’s coalition that they were shocked by the extent of American spying in Germany.
+8 default entities: GSP US, PERSON Edward Snowden, ORGANIZATION National, PERSON Agency, GPE German, PERSON Angela Merkel, GPE American, GPE Germany
+8 custom entities: GSP US, PERSON Edward Snowden, ORGANIZATION National, PERSON Agency, GPE German, PERSON Angela, GPE American, GPE Germany
+
+Source Sentence and Source Headline Match:
+The fugitive US whistleblower Edward Snowden alleged on Sunday that the National Security Agency was “in bed together” with German intelligence despite claims by politicians in Chancellor Angela Merkel’s coalition that they were shocked by the extent of American spying in Germany.
+NSA 'in bed' with German intelligence says US whistleblower Edward Snowden - and GCHQ operates a 'full take' data monitoring system.
+7 matches: whistleblower, u, snowden, edward, bed, intelligence, german
+
+Source Sentence and Story Headline Match:
+The fugitive US whistleblower Edward Snowden alleged on Sunday that the National Security Agency was “in bed together” with German intelligence despite claims by politicians in Chancellor Angela Merkel’s coalition that they were shocked by the extent of American spying in Germany.
+German intelligence agency helped NSA spy in Europe.
+3 matches: agency, intelligence, german
+
+Source Sentence and Best Story Sentence Match:
+The fugitive US whistleblower Edward Snowden alleged on Sunday that the National Security Agency was “in bed together” with German intelligence despite claims by politicians in Chancellor Angela Merkel’s coalition that they were shocked by the extent of American spying in Germany.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+6 matches: snowden, politician, edward, national, agency, security
+
+----------------
+
+sent_2:
+2 out of 14 sentences
+2 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+In an interview with Der Spiegel , Snowden claimed that the NSA provided German intelligence, with analysis tools to help the organisation monitor data flowing through Germany.
+5 default entities: PERSON Der Spiegel, PERSON Snowden, ORGANIZATION NSA, GPE German, GPE Germany
+4 custom entities: PERSON Der Spiegel Snowden, ORGANIZATION NSA, GPE German, GPE Germany
+
+Source Sentence and Source Headline Match:
+In an interview with Der Spiegel , Snowden claimed that the NSA provided German intelligence, with analysis tools to help the organisation monitor data flowing through Germany.
+NSA 'in bed' with German intelligence says US whistleblower Edward Snowden - and GCHQ operates a 'full take' data monitoring system.
+6 matches: snowden, monitor, nsa, data, intelligence, german
+
+Source Sentence and Story Headline Match:
+In an interview with Der Spiegel , Snowden claimed that the NSA provided German intelligence, with analysis tools to help the organisation monitor data flowing through Germany.
+German intelligence agency helped NSA spy in Europe.
+4 matches: nsa, intelligence, help, german
+
+Source Sentence and Best Story Sentence Match:
+In an interview with Der Spiegel , Snowden claimed that the NSA provided German intelligence, with analysis tools to help the organisation monitor data flowing through Germany.
+Despite outcry from European leaders over the leaks, Snowden told Der Spiegel in 2013 that the NSA is "in bed together with the Germans and most other Western states."
+5 matches: german, snowden, spiegel, der, nsa
+
+----------------
+
+sent_3:
+3 out of 14 sentences
+2 out of 9 paragraphs
+Tagged as a quote
+
+Sentence:
+“The NSA people are in bed together with the Germans,"” he told the magazine.
+1 default entities: GPE Germans
+1 custom entities: ORGANIZATION NSA
+
+Source Sentence and Source Headline Match:
+“The NSA people are in bed together with the Germans,"” he told the magazine.
+NSA 'in bed' with German intelligence says US whistleblower Edward Snowden - and GCHQ operates a 'full take' data monitoring system.
+3 matches: bed, nsa, german
+
+Source Sentence and Story Headline Match:
+“The NSA people are in bed together with the Germans,"” he told the magazine.
+German intelligence agency helped NSA spy in Europe.
+2 matches: nsa, german
+
+Source Sentence and Best Story Sentence Match:
+“The NSA people are in bed together with the Germans,"” he told the magazine.
+Despite outcry from European leaders over the leaks, Snowden told Der Spiegel in 2013 that the NSA is "in bed together with the Germans and most other Western states."
+5 matches: bed, tell, together, nsa, german
+
+----------------
+
+sent_4:
+4 out of 14 sentences
+3 out of 9 paragraphs
+Tagged as a quote
+
+Sentence:
+He added that the NSA’s foreign affairs directorate, which is responsible for relations with other countries, had set up a system whereby political leaders “could be insulated” from the backlash if spying became public and helped to play down how grievously they were “violating global privacy.”
+1 default entities: ORGANIZATION NSA
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+He added that the NSA’s foreign affairs directorate, which is responsible for relations with other countries, had set up a system whereby political leaders “could be insulated” from the backlash if spying became public and helped to play down how grievously they were “violating global privacy.”
+NSA 'in bed' with German intelligence says US whistleblower Edward Snowden - and GCHQ operates a 'full take' data monitoring system.
+1 matches: system
+
+Source Sentence and Story Headline Match:
+He added that the NSA’s foreign affairs directorate, which is responsible for relations with other countries, had set up a system whereby political leaders “could be insulated” from the backlash if spying became public and helped to play down how grievously they were “violating global privacy.”
+German intelligence agency helped NSA spy in Europe.
+2 matches: spy, help
+
+Source Sentence and Best Story Sentence Match:
+He added that the NSA’s foreign affairs directorate, which is responsible for relations with other countries, had set up a system whereby political leaders “could be insulated” from the backlash if spying became public and helped to play down how grievously they were “violating global privacy.”
+He said a system was set up to "insulate" European leaders from potential backlash in case details of the partnership emerged.
+5 matches: insulate, leader, backlash, system, set
+
+----------------
+
+sent_5:
+5 out of 14 sentences
+4 out of 9 paragraphs
+Tagged as a quote
+
+Sentence:
+Snowden also claimed to shed further light on the extent of British spying activities  saying that the UK’s GCHQ was the only organisation which operated a so-called “full take” system of information monitoring which stored all data crossing its path for a total of 30 days.
+4 default entities: PERSON Snowden, GPE British, ORGANIZATION UK, ORGANIZATION GCHQ
+3 custom entities: PERSON Snowden, GPE British, ORGANIZATION GCHQ
+
+Source Sentence and Source Headline Match:
+Snowden also claimed to shed further light on the extent of British spying activities  saying that the UK’s GCHQ was the only organisation which operated a so-called “full take” system of information monitoring which stored all data crossing its path for a total of 30 days.
+NSA 'in bed' with German intelligence says US whistleblower Edward Snowden - and GCHQ operates a 'full take' data monitoring system.
+9 matches: snowden, system, monitor, full, data, say, operate, gchq, take
+
+Source Sentence and Story Headline Match:
+Snowden also claimed to shed further light on the extent of British spying activities  saying that the UK’s GCHQ was the only organisation which operated a so-called “full take” system of information monitoring which stored all data crossing its path for a total of 30 days.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Snowden also claimed to shed further light on the extent of British spying activities  saying that the UK’s GCHQ was the only organisation which operated a so-called “full take” system of information monitoring which stored all data crossing its path for a total of 30 days.
+Friedrich, Germany's minister responsible for national security said he is keen to speak to Snowden over allegations that the NSA monitored Chancellor Angela Merkel's phone calls.
+3 matches: snowden, say, monitor
+
+----------------
+
+sent_6:
+6 out of 14 sentences
+5 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The allegations seemed certain to cause further shock waves in Germany, where the issue of NSA spying is fast turning into a thorny political campaign issue in the run up to the September general election.
+2 default entities: GPE Germany, ORGANIZATION NSA
+2 custom entities: GPE Germany, ORGANIZATION NSA
+
+Source Sentence and Source Headline Match:
+The allegations seemed certain to cause further shock waves in Germany, where the issue of NSA spying is fast turning into a thorny political campaign issue in the run up to the September general election.
+NSA 'in bed' with German intelligence says US whistleblower Edward Snowden - and GCHQ operates a 'full take' data monitoring system.
+1 matches: nsa
+
+Source Sentence and Story Headline Match:
+The allegations seemed certain to cause further shock waves in Germany, where the issue of NSA spying is fast turning into a thorny political campaign issue in the run up to the September general election.
+German intelligence agency helped NSA spy in Europe.
+1 matches: nsa
+
+Source Sentence and Best Story Sentence Match:
+The allegations seemed certain to cause further shock waves in Germany, where the issue of NSA spying is fast turning into a thorny political campaign issue in the run up to the September general election.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+2 matches: spying, nsa
+
+----------------
+
+sent_7:
+7 out of 14 sentences
+6 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+German MPs have expressed outrage at the extent of British and American spying on German internet and phone traffic and NSA spying on European Union offices.
+7 default entities: GPE German, ORGANIZATION MPs, GPE British, GPE American, GPE German, ORGANIZATION NSA, GPE European
+7 custom entities: GPE German, ORGANIZATION MPs, GPE British, GPE American, GPE German, ORGANIZATION NSA, GPE European
+
+Source Sentence and Source Headline Match:
+German MPs have expressed outrage at the extent of British and American spying on German internet and phone traffic and NSA spying on European Union offices.
+NSA 'in bed' with German intelligence says US whistleblower Edward Snowden - and GCHQ operates a 'full take' data monitoring system.
+2 matches: nsa, german
+
+Source Sentence and Story Headline Match:
+German MPs have expressed outrage at the extent of British and American spying on German internet and phone traffic and NSA spying on European Union offices.
+German intelligence agency helped NSA spy in Europe.
+2 matches: nsa, german
+
+Source Sentence and Best Story Sentence Match:
+German MPs have expressed outrage at the extent of British and American spying on German internet and phone traffic and NSA spying on European Union offices.
+A 31-year-old German intelligence worker was arrested in July 2014 on accusations of passing information about the parliamentary inquiry into the NSA to an American contact.
+3 matches: american, nsa, german
+
+----------------
+
+sent_8:
+8 out of 14 sentences
+6 out of 9 paragraphs
+Tagged as a quote
+
+Sentence:
+Chancellor Angela Merkel’s Interior Minister is scheduled to fly to Washington this week to obtain an “explanation” from the US authorities.
+5 default entities: PERSON Chancellor, PERSON Angela Merkel, ORGANIZATION Interior, GPE Washington, ORGANIZATION US
+4 custom entities: PERSON Chancellor, PERSON Angela, GPE Washington, ORGANIZATION US
+
+Source Sentence and Source Headline Match:
+Chancellor Angela Merkel’s Interior Minister is scheduled to fly to Washington this week to obtain an “explanation” from the US authorities.
+NSA 'in bed' with German intelligence says US whistleblower Edward Snowden - and GCHQ operates a 'full take' data monitoring system.
+1 matches: u
+
+Source Sentence and Story Headline Match:
+Chancellor Angela Merkel’s Interior Minister is scheduled to fly to Washington this week to obtain an “explanation” from the US authorities.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Chancellor Angela Merkel’s Interior Minister is scheduled to fly to Washington this week to obtain an “explanation” from the US authorities.
+Friedrich, Germany's minister responsible for national security said he is keen to speak to Snowden over allegations that the NSA monitored Chancellor Angela Merkel's phone calls.
+3 matches: minister, angela, chancellor
+
+----------------
+
+sent_9:
+9 out of 14 sentences
+7 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Ms Merkel has herself complained that the extent of US and British spying is reminiscent of the Cold War and demanded that it be brought under control.
+3 default entities: PERSON Merkel, GPE US, GPE British
+3 custom entities: PERSON Merkel, GPE US, GPE British
+
+Source Sentence and Source Headline Match:
+Ms Merkel has herself complained that the extent of US and British spying is reminiscent of the Cold War and demanded that it be brought under control.
+NSA 'in bed' with German intelligence says US whistleblower Edward Snowden - and GCHQ operates a 'full take' data monitoring system.
+1 matches: u
+
+Source Sentence and Story Headline Match:
+Ms Merkel has herself complained that the extent of US and British spying is reminiscent of the Cold War and demanded that it be brought under control.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Ms Merkel has herself complained that the extent of US and British spying is reminiscent of the Cold War and demanded that it be brought under control.
+Merkel was listed in an NSA document cited by Der Spiegel, but it wasn't clear if her conversations were recorded.
+1 matches: merkel
+
+----------------
+
+sent_10:
+10 out of 14 sentences
+7 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+However it is well known that German intelligence has been able to prevent planned terror attacks on German soil with the help of NSA intelligence.
+3 default entities: GPE German, GPE German, ORGANIZATION NSA
+3 custom entities: GPE German, GPE German, ORGANIZATION NSA
+
+Source Sentence and Source Headline Match:
+However it is well known that German intelligence has been able to prevent planned terror attacks on German soil with the help of NSA intelligence.
+NSA 'in bed' with German intelligence says US whistleblower Edward Snowden - and GCHQ operates a 'full take' data monitoring system.
+3 matches: intelligence, nsa, german
+
+Source Sentence and Story Headline Match:
+However it is well known that German intelligence has been able to prevent planned terror attacks on German soil with the help of NSA intelligence.
+German intelligence agency helped NSA spy in Europe.
+4 matches: nsa, intelligence, help, german
+
+Source Sentence and Best Story Sentence Match:
+However it is well known that German intelligence has been able to prevent planned terror attacks on German soil with the help of NSA intelligence.
+A 31-year-old German intelligence worker was arrested in July 2014 on accusations of passing information about the parliamentary inquiry into the NSA to an American contact.
+3 matches: intelligence, nsa, german
+
+----------------
+
+sent_11:
+11 out of 14 sentences
+8 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Snowden is believed to be still holed up in the transit area of Moscow’s Sheremetyevo airport.
+3 default entities: GPE Snowden, GPE Moscow, ORGANIZATION Sheremetyevo
+1 custom entities: GPE Snowden
+
+Source Sentence and Source Headline Match:
+Snowden is believed to be still holed up in the transit area of Moscow’s Sheremetyevo airport.
+NSA 'in bed' with German intelligence says US whistleblower Edward Snowden - and GCHQ operates a 'full take' data monitoring system.
+1 matches: snowden
+
+Source Sentence and Story Headline Match:
+Snowden is believed to be still holed up in the transit area of Moscow’s Sheremetyevo airport.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Snowden is believed to be still holed up in the transit area of Moscow’s Sheremetyevo airport.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+1 matches: snowden
+
+----------------
+
+sent_12:
+12 out of 14 sentences
+8 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+He has been trying to find a country to give him sanctuary since arriving there from Hong Kong on June 23.
+1 default entities: GPE Hong Kong
+1 custom entities: GPE Hong Kong
+
+Source Sentence and Source Headline Match:
+He has been trying to find a country to give him sanctuary since arriving there from Hong Kong on June 23.
+NSA 'in bed' with German intelligence says US whistleblower Edward Snowden - and GCHQ operates a 'full take' data monitoring system.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+He has been trying to find a country to give him sanctuary since arriving there from Hong Kong on June 23.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+He has been trying to find a country to give him sanctuary since arriving there from Hong Kong on June 23.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+1 matches: 23
+
+----------------
+
+sent_13:
+13 out of 14 sentences
+8 out of 9 paragraphs
+Tagged as not being a quote
+
+Sentence:
+However his Russian hosts appear to be becoming irked by his continued presence.
+1 default entities: GPE Russian
+1 custom entities: GPE Russian
+
+Source Sentence and Source Headline Match:
+However his Russian hosts appear to be becoming irked by his continued presence.
+NSA 'in bed' with German intelligence says US whistleblower Edward Snowden - and GCHQ operates a 'full take' data monitoring system.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+However his Russian hosts appear to be becoming irked by his continued presence.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+no story sentence matches found
+
+----------------
+
+sent_14:
+14 out of 14 sentences
+9 out of 9 paragraphs
+Tagged as a quote
+
+Sentence:
+On Sunday Alexei Pushkov, an influential Russian MP who often speaks for the Kremlin said he would encourage Snowden to accept Venezuela’s recent offer of asylum, saying it was probably his “last chance”.
+5 default entities: PERSON Alexei Pushkov, GPE Russian, FACILITY Kremlin, PERSON Snowden, PERSON Venezuela
+4 custom entities: PERSON Alexei Pushkov, GPE Russian, FACILITY Kremlin, PERSON Snowden
+
+Source Sentence and Source Headline Match:
+On Sunday Alexei Pushkov, an influential Russian MP who often speaks for the Kremlin said he would encourage Snowden to accept Venezuela’s recent offer of asylum, saying it was probably his “last chance”.
+NSA 'in bed' with German intelligence says US whistleblower Edward Snowden - and GCHQ operates a 'full take' data monitoring system.
+2 matches: snowden, say
+
+Source Sentence and Story Headline Match:
+On Sunday Alexei Pushkov, an influential Russian MP who often speaks for the Kremlin said he would encourage Snowden to accept Venezuela’s recent offer of asylum, saying it was probably his “last chance”.
+German intelligence agency helped NSA spy in Europe.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+On Sunday Alexei Pushkov, an influential Russian MP who often speaks for the Kremlin said he would encourage Snowden to accept Venezuela’s recent offer of asylum, saying it was probably his “last chance”.
+Friedrich, Germany's minister responsible for national security said he is keen to speak to Snowden over allegations that the NSA monitored Chancellor Angela Merkel's phone calls.
+3 matches: snowden, say, speak
+
+----------------
+

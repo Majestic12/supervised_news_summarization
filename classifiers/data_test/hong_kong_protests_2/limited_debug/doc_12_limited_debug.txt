@@ -1,0 +1,182 @@
+sent_1:
+
+Can a tweak to a visa arrangement for mainland Chinese tourists coming to Hong Kong help ease tensions between the two places?
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+3 best matches: hong, mainland, chinese
+
+----------------
+sent_2:
+
+On Monday, Hong Kong chief executive Leung Chun-ying confirmed a long-anticipated move by Beijing to address the influx of mainland visitors to Hong Kong in recent years.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+5 best matches: chief, executive, beijing, mainland, hong
+
+----------------
+sent_3:
+
+The move is aimed specifically at those who come from neighboring Shenzhen to Hong Kong to engage in so-called parallel trading, the practice of buying goods ranging from toiletries to food in Hong Kong to resell at a higher price on the mainland.
+The plan came after reviewing comments from a wide range of Hong Kong society.
+4 best matches: range, come, kong, hong
+
+----------------
+sent_4:
+
+According to the new arrangement, Shenzhen residents applying for an individual visitor visa to Hong Kong will only be allowed to enter the city once a week, rather than multiple times.
+China said April 13 that it changed visa allowances for Shenzhen residents to visit Hong Kong from unlimited multiple-entry to once per week.
+6 best matches: visa, kong, hong, shenzhen, week, resident
+
+----------------
+sent_5:
+
+The change is effective Monday.
+China said April 13 that it changed visa allowances for Shenzhen residents to visit Hong Kong from unlimited multiple-entry to once per week.
+1 best matches: change
+
+----------------
+sent_6:
+
+The change was prompted by a marked increase in public anger in recent months against parallel traders.
+Although the central government cited overwhelming numbers of tourists as the reason for the limit, many so-called "parallel traders" come from Shenzhen.
+2 best matches: parallel, trader
+
+----------------
+sent_7:
+
+Protests have broken out in areas of Hong Kong near the border with the mainland, such as Tuen Mun, Sheung Shui and Yuen Long.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+2 best matches: mainland, hong
+
+----------------
+sent_8:
+
+Residents of these towns complain that parallel traders drive up the prices of goods and rents, pushing out small businesses serving locals.
+Although the central government cited overwhelming numbers of tourists as the reason for the limit, many so-called "parallel traders" come from Shenzhen.
+2 best matches: parallel, trader
+
+----------------
+sent_9:
+
+They also complain that parallel traders cause congestion on public transport and sidewalks where they pack suitcases with their haul.
+Although the central government cited overwhelming numbers of tourists as the reason for the limit, many so-called "parallel traders" come from Shenzhen.
+2 best matches: parallel, trader
+
+----------------
+sent_10:
+
+This appears to be an effort by Beijing to address some complaints by a broad range of Hong Kong residents and comes as the city grapples with an election reform plan proposed by Beijing that spurred three months of protests in the fall.
+The proposal comes after months of protests in 2014 over a Beijing-back election plan.
+5 best matches: plan, come, election, month, protest
+
+----------------
+sent_11:
+
+So far Beijing has stood firm that candidates for Hong Kong’s top office must be approved by a largely pro-Beijing, pro-business committee.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+5 best matches: candidate, beijing, committee, hong, must
+
+----------------
+sent_12:
+
+But it has shown more flexibility in addressing economic concerns of Hong Kong residents.
+China said April 13 that it changed visa allowances for Shenzhen residents to visit Hong Kong from unlimited multiple-entry to once per week.
+3 best matches: kong, resident, hong
+
+----------------
+sent_13:
+
+Since 2009, Shenzhen permanent residents have been allowed to apply for one-year, multiple entry visas to Hong Kong.
+China said April 13 that it changed visa allowances for Shenzhen residents to visit Hong Kong from unlimited multiple-entry to once per week.
+5 best matches: visa, kong, resident, hong, shenzhen
+
+----------------
+sent_14:
+
+The scheme was later liberalized to allow non-permanent residents of Guangdong province living in Shenzhen to apply for the visa.
+China said April 13 that it changed visa allowances for Shenzhen residents to visit Hong Kong from unlimited multiple-entry to once per week.
+3 best matches: visa, resident, shenzhen
+
+----------------
+sent_15:
+
+Currently residents of 49 Chinese cities are allowed to visit Hong Kong under the Individual Visit Scheme.
+The elections will allow five million eligible Hong Kong voters to directly vote for their next chief executive.
+3 best matches: allow, kong, hong
+
+----------------
+sent_16:
+
+About 61 million people visited Hong Kong last year, according to figures from the Hong Kong Tourism Board, with about 47 million of those from mainland China.
+China responded that the UK, which ran Hong Kong for nearly 150 years, has "no right to interfere" in what China considers a domestic issue.
+4 best matches: year, kong, hong, china
+
+----------------
+sent_17:
+
+Mr. Leung said 4.6 million mainland Chinese visited Hong Kong more than once a week last year, accounting for 30% of Shenzhen residents holding the multiple entry visas and 10% of total mainland Chinese visitors to the city.
+China said April 13 that it changed visa allowances for Shenzhen residents to visit Hong Kong from unlimited multiple-entry to once per week.
+8 best matches: visa, kong, hong, shenzhen, visit, week, say, resident
+
+----------------
+sent_18:
+
+Officials in Hong Kong and Beijing have acknowledged that parallel trading causes disruptions to Hong Kong residents, but have condemned the protests for tarnishing the image of Hong Kong as a tourist destination.
+China said April 13 that it changed visa allowances for Shenzhen residents to visit Hong Kong from unlimited multiple-entry to once per week.
+3 best matches: kong, resident, hong
+
+----------------
+sent_19:
+
+Some blame the protests for contributing to a drop in mainland Chinese visitors to Hong Kong in March and a downturn in the city’s retail sector.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+3 best matches: hong, mainland, chinese
+
+----------------
+sent_20:
+
+Two Hong Kong tycoons have also pitched in to help assuage tensions caused by parallel trading, offering to donate a large piece of land at the border between Hong Kong and Shenzhen to build a makeshift shopping area operating out of shipping containers.
+China said April 13 that it changed visa allowances for Shenzhen residents to visit Hong Kong from unlimited multiple-entry to once per week.
+3 best matches: kong, hong, shenzhen
+
+----------------
+sent_21:
+
+Michael Tien, a pro-establishment lawmaker and member of China’s top advisory body the Chinese People’s Political Consultative Conference, told reporters in comments on Sunday that he welcomed the move and expects it to reduce the number of individual visitors from mainland China by two to three million each year.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+3 best matches: lawmaker, mainland, chinese
+
+----------------
+sent_22:
+
+“The once-a-week visa arrangement increases the cost for mainland Chinese people engaging in parallel trading,” said Mr. Tien.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+2 best matches: mainland, chinese
+
+----------------
+sent_23:
+
+“This kind of drop…will be beneficial towards soothing some of the tensions and clashes present in some parts of Hong Kong,” though he said he worries that Chinese tourists hoping to stay overnight may be deterred from visiting due to perceived anti-mainland Chinese sentiment.
+China said April 13 that it changed visa allowances for Shenzhen residents to visit Hong Kong from unlimited multiple-entry to once per week.
+4 best matches: visit, kong, say, hong
+
+----------------
+sent_24:
+
+However, the restrictions will hardly put an end to parallel trading, as a significant number of those involved in the trade are in fact Hong Kong residents.
+China said April 13 that it changed visa allowances for Shenzhen residents to visit Hong Kong from unlimited multiple-entry to once per week.
+3 best matches: kong, resident, hong
+
+----------------
+sent_25:
+
+The Hong Kong customs department detected around 5,000 cases of illegal export of infant formula between March 2014 and February.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+2 best matches: 2014, hong
+
+----------------
+sent_26:
+
+Some 3,000 of those involved were mainland Chinese residents, with the rest almost all Hong Kong residents.
+Mainland Chinese lawmakers decided Aug. 31, 2014, that all candidates in Hong Kong's 2017 chief executive election must be vetted by a Beijing committee.
+3 best matches: hong, mainland, chinese
+
+----------------

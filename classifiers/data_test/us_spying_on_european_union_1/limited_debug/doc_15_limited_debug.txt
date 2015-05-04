@@ -1,0 +1,545 @@
+sent_1:
+
+Secret documents reveal more than 1,000 targets of American and British surveillance in recent years, including the office of an Israeli prime minister, heads of international aid organizations, foreign energy companies and a European Union official involved in antitrust battles with American technology businesses.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+6 best matches: include, target, reveal, 1,000, israeli, european
+
+----------------
+sent_2:
+
+While the names of some political and diplomatic leaders have previously emerged as targets, the newly disclosed intelligence documents provide a much fuller portrait of the spies’ sweeping interests in more than 60 countries.
+German officials in Oct. 2014 refused to relinquish intelligence documents that would illuminate the nature of government spy agencies' relationships with the U.S, the AP reported.
+3 best matches: document, spy, intelligence
+
+----------------
+sent_3:
+
+Britain’s Government Communications Headquarters, working closely with the National Security Agency, monitored the communications of senior European Union officials, foreign leaders including African heads of state and sometimes their family members, directors of United Nations and other relief programs, and officials overseeing oil and finance ministries, according to the documents.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+4 best matches: european, national, security, agency
+
+----------------
+sent_4:
+
+In addition to Israel, some targets involved close allies like France and Germany, where tensions have already erupted over recent revelations about spying by the N.S.A.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+1 best matches: spy
+
+----------------
+sent_5:
+
+Details of the surveillance are described in documents from the N.S.A.
+German officials in Oct. 2014 refused to relinquish intelligence documents that would illuminate the nature of government spy agencies' relationships with the U.S, the AP reported.
+1 best matches: document
+
+----------------
+sent_6:
+
+and Britain’s eavesdropping agency, known as GCHQ, dating from 2008 to 2011.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+1 best matches: agency
+
+----------------
+sent_7:
+
+The target lists appear in a set of GCHQ reports that sometimes identify which agency requested the surveillance, but more often do not.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+4 best matches: report, gchq, list, target
+
+----------------
+sent_8:
+
+The documents were leaked by the former N.S.A.
+French paper Le Monde reported in Oct. 2013 that documents leaked by Edward Snowden show that from Dec. 10, 2012, to Jan. 7, 2013, the NSA intercepted and collected 70.3 million phone records of French citizens, or about 3 million per day.
+2 best matches: document, leak
+
+----------------
+sent_9:
+
+contractor Edward J. Snowden and shared by The New York Times, The Guardian and Der Spiegel.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+4 best matches: guardian, new, york, time
+
+----------------
+sent_10:
+
+The reports are spare, technical bulletins produced as the spies, typically working out of British intelligence sites, systematically tapped one international communications link after another, focusing especially on satellite transmissions.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+3 best matches: report, spy, intelligence
+
+----------------
+sent_11:
+
+The value of each link is gauged, in part, by the number of surveillance targets found to be using it for emails, text messages or phone calls.
+The BND used thousands of "selectors" sent by the NSA that included IP addresses, emails, and phone numbers.
+4 best matches: email, phone, number, use
+
+----------------
+sent_12:
+
+More than 1,000 targets, which also include people suspected of being terrorists or militants, are in the reports.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+4 best matches: include, report, target, 1,000
+
+----------------
+sent_13:
+
+no story sentence best matches found
+
+----------------
+sent_14:
+
+The documents include a few fragmentary transcripts of conversations and messages, but otherwise contain only hints that further information was available elsewhere, possibly in a larger database.
+Merkel was listed in an NSA document cited by Der Spiegel, but it wasn't clear if her conversations were recorded.
+2 best matches: document, conversation
+
+----------------
+sent_15:
+
+no story sentence best matches found
+
+----------------
+sent_16:
+
+“This is not the type of behavior that we expect from strategic partners,” Pia Ahrenkilde Hansen, a spokeswoman for the European Commission, said on the latest revelations of American and British spying in Europe.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+3 best matches: spying, commission, european
+
+----------------
+sent_17:
+
+Some of the surveillance relates to issues that are being scrutinized by President Obama and a panel he appointed in Washington that on Wednesday recommended tighter limits on the N.S.A., particularly on spying of foreign leaders, especially allies.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+3 best matches: spying, leader, president
+
+----------------
+sent_18:
+
+The reports show that spies monitored the email traffic of several Israeli officials, including one target identified as “Israeli prime minister,” followed by an email address.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+4 best matches: include, report, target, israeli
+
+----------------
+sent_19:
+
+The prime minister at the time, in January 2009, was Ehud Olmert.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+3 best matches: ehud, olmert, time
+
+----------------
+sent_20:
+
+The next month, spies intercepted the email traffic of the Israeli defense minister, Ehud Barak, according to another report.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+3 best matches: report, ehud, israeli
+
+----------------
+sent_21:
+
+Two Israeli embassies also appear on the target lists.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+3 best matches: target, list, israeli
+
+----------------
+sent_22:
+
+Mr. Olmert said in a telephone interview on Friday that the email address was used for correspondence with his office, which he said staff members often handled.
+The BND used thousands of "selectors" sent by the NSA that included IP addresses, emails, and phone numbers.
+3 best matches: email, address, use
+
+----------------
+sent_23:
+
+He added that it was unlikely that any secrets could have been compromised.
+Snowden said he wanted to testify before the committee in Berlin, but the German government could not give assurances that he wouldn't be detained and extradited to the U.S.
+1 best matches: could
+
+----------------
+sent_24:
+
+“This was an unimpressive target,” Mr. Olmert said.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+2 best matches: target, olmert
+
+----------------
+sent_25:
+
+He noted, for example, that his most sensitive discussions with President George W. Bush took place in person.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+1 best matches: president
+
+----------------
+sent_26:
+
+“I would be surprised if there was any attempt by American intelligence in Israel to listen to the prime minister’s lines,” he said.
+German officials in Oct. 2014 refused to relinquish intelligence documents that would illuminate the nature of government spy agencies' relationships with the U.S, the AP reported.
+2 best matches: would, intelligence
+
+----------------
+sent_27:
+
+Mr. Barak, who declined to comment, has said publicly that he used to take it for granted that he was under surveillance.
+The BND used thousands of "selectors" sent by the NSA that included IP addresses, emails, and phone numbers.
+1 best matches: use
+
+----------------
+sent_28:
+
+Despite the close ties between the United States and Israel, the record of mutual spying is long: Israeli spies, including Jonathan Jay Pollard, who was sentenced in 1987 to life in prison for passing intelligence information to Israel, have often operated in the United States, and the United States has often turned the abilities of the N.S.A.
+A 31-year-old German intelligence worker was arrested in July 2014 on accusations of passing information about the parliamentary inquiry into the NSA to an American contact.
+3 best matches: pass, intelligence, information
+
+----------------
+sent_29:
+
+no story sentence best matches found
+
+----------------
+sent_30:
+
+Mr. Olmert’s office email was intercepted while he was dealing with fallout from Israel’s military response to rocket attacks from Gaza, but also at a particularly tense time in relations with the United States.
+It also intercepted data from emails and social networks.
+3 best matches: email, intercept, also
+
+----------------
+sent_31:
+
+The two countries were simultaneously at odds on Israeli preparations to attack Iran’s nuclear program and cooperating on a wave of cyberattacks on Iran’s major nuclear enrichment facility.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+1 best matches: israeli
+
+----------------
+sent_32:
+
+A year before the interception of Mr. Olmert’s office email, the documents listed another target, the Institute of Physics at the Hebrew University of Jerusalem, an internationally recognized center for research in atomic and nuclear physics.
+Merkel was listed in an NSA document cited by Der Spiegel, but it wasn't clear if her conversations were recorded.
+2 best matches: document, list
+
+----------------
+sent_33:
+
+Also appearing on the surveillance lists is Joaquín Almunia, vice president of the European Commission, which, among other powers, has oversight of antitrust issues in Europe.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+6 best matches: list, president, vice, commission, almunia, european
+
+----------------
+sent_34:
+
+The commission has broad authority over local and foreign companies, and it has punished a number of American companies, including Microsoft and Intel, with heavy fines for hampering fair competition.
+The BND used thousands of "selectors" sent by the NSA that included IP addresses, emails, and phone numbers.
+2 best matches: include, number
+
+----------------
+sent_35:
+
+The reports say that spies intercepted Mr. Almunia’s communications in 2008 and 2009.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+2 best matches: report, spy
+
+----------------
+sent_36:
+
+Mr. Almunia, a Spaniard, assumed direct authority over the commission’s antitrust office in 2010.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+1 best matches: almunia
+
+----------------
+sent_37:
+
+He has been involved in a three-year standoff with Google over how the company runs its search engine.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+1 best matches: company
+
+----------------
+sent_38:
+
+Competitors of the online giant had complained that it was prioritizing its own search results and using content like travel reviews and ratings from other websites without permission.
+The BND used thousands of "selectors" sent by the NSA that included IP addresses, emails, and phone numbers.
+1 best matches: use
+
+----------------
+sent_39:
+
+While pushing for a settlement with Google, Mr. Almunia has warned that the company could face large fines if it does not cooperate.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+1 best matches: company
+
+----------------
+sent_40:
+
+The surveillance reports do not specify whether the interceptions of Mr. Almunia’s communications were requested by the N.S.A.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+1 best matches: report
+
+----------------
+sent_41:
+
+or British spies.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+1 best matches: spy
+
+----------------
+sent_42:
+
+Nor do the reports make clear whether he was a longstanding surveillance target or swept up as part of a fleeting operation.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+2 best matches: report, target
+
+----------------
+sent_43:
+
+Contacted by The Times, Mr. Almunia said he was “strongly upset” about the spying.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+3 best matches: spying, almunia, time
+
+----------------
+sent_44:
+
+Ms. Hansen, the spokeswoman for the European Commission, said that it was already engaged in talks with the United States that were “needed to restore trust and confidence in the trans-Atlantic relationship.” She added that “the commission will raise these new allegations with U.S. and U.K. authorities.”
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+3 best matches: commission, new, european
+
+----------------
+sent_45:
+
+no story sentence best matches found
+
+----------------
+sent_46:
+
+denied that it had ever carried out espionage to benefit American businesses.
+A 31-year-old German intelligence worker was arrested in July 2014 on accusations of passing information about the parliamentary inquiry into the NSA to an American contact.
+1 best matches: american
+
+----------------
+sent_47:
+
+“We do not use our foreign intelligence capabilities to steal the trade secrets of foreign companies on behalf of — or give intelligence we collect to — U.S. companies to enhance their international competitiveness or increase their bottom line,” said Vanee Vines, an N.S.A.
+Snowden said he wanted to testify before the committee in Berlin, but the German government could not give assurances that he wouldn't be detained and extradited to the U.S.
+3 best matches: say, give, u.s
+
+----------------
+sent_48:
+
+no story sentence best matches found
+
+----------------
+sent_49:
+
+But she added that some economic spying was justified by national security needs.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+2 best matches: national, security
+
+----------------
+sent_50:
+
+“The intelligence community’s efforts to understand economic systems and policies, and monitor anomalous economic activities, are critical to providing policy makers with the information they need to make informed decisions that are in the best interest of our national security,” Ms. Vines said.
+Friedrich, Germany's minister responsible for national security said he is keen to speak to Snowden over allegations that the NSA monitored Chancellor Angela Merkel's phone calls.
+4 best matches: monitor, national, security, say
+
+----------------
+sent_51:
+
+Spies have a freer hand with economic targets in Britain, where the law permits intelligence gathering in the service of the “economic well-being” of the country.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+2 best matches: spy, intelligence
+
+----------------
+sent_52:
+
+A GCHQ spokesman said that its policy was not to comment on intelligence matters, but that the agency “takes its obligations under the law very seriously.”
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+2 best matches: intelligence, agency
+
+----------------
+sent_53:
+
+At the request of GCHQ, The Times agreed to withhold some details from the documents because of security concerns.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+2 best matches: gchq, time
+
+----------------
+sent_54:
+
+The surveillance reports show American and British spies’ deep appetite for information.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+2 best matches: report, spy
+
+----------------
+sent_55:
+
+The French companies Total, the oil and gas giant, and Thales, an electronics, logistics and transportation outfit, appear as targets, as do a French ambassador, an “Estonian Skype security team” and the German Embassy in Rwanda.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+1 best matches: security
+
+----------------
+sent_56:
+
+Germany is especially sensitive about American spying since reports emerged that the agency listened to Chancellor Angela Merkel’s cellphone calls.
+Der Spiegel in 2013 revealed the NSA's Special Collection Service may have been monitoring Chancellor Angela Merkel's mobile phone since 2002.
+3 best matches: angela, since, chancellor
+
+----------------
+sent_57:
+
+Negotiations for a proposed agreement between Germany and the United States on spying rules have recently stalled for several reasons, including the United States’ guarantee only that it would never spy on the chancellor — a promise it has refused to extend to other German officials.
+German officials in Oct. 2014 refused to relinquish intelligence documents that would illuminate the nature of government spy agencies' relationships with the U.S, the AP reported.
+5 best matches: would, official, refuse, spy, german
+
+----------------
+sent_58:
+
+Multiple United Nations Missions in Geneva are listed as targets, including Unicef and the United Nations Institute for Disarmament Research.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+4 best matches: include, target, unicef, list
+
+----------------
+sent_59:
+
+So is Médecins du Monde, a medical relief organization that goes into war-ravaged areas.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+2 best matches: monde, du
+
+----------------
+sent_60:
+
+Leigh Daynes, an executive director of the organization in Britain, responded to news about the surveillance by saying: “There is absolutely no reason for our operations to be secretly monitored.”
+Friedrich, Germany's minister responsible for national security said he is keen to speak to Snowden over allegations that the NSA monitored Chancellor Angela Merkel's phone calls.
+2 best matches: say, monitor
+
+----------------
+sent_61:
+
+More obvious intelligence targets are also listed, though in smaller numbers, including people identified as “Israeli grey arms dealer,” “Taleban ministry of refugee affairs” and “various entities in Beijing.” Some of those included are described as possible members of Al Qaeda, and as suspected extremists or jihadists.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+4 best matches: include, target, list, israeli
+
+----------------
+sent_62:
+
+While few if any American citizens appear to be named in the documents, they make clear that some of the intercepted communications either began or ended in the United States and that N.S.A.
+French paper Le Monde reported in Oct. 2013 that documents leaked by Edward Snowden show that from Dec. 10, 2012, to Jan. 7, 2013, the NSA intercepted and collected 70.3 million phone records of French citizens, or about 3 million per day.
+3 best matches: document, citizen, intercept
+
+----------------
+sent_63:
+
+facilities carried out interceptions around the world in collaboration with their British partners.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+1 best matches: world
+
+----------------
+sent_64:
+
+no story sentence best matches found
+
+----------------
+sent_65:
+
+no story sentence best matches found
+
+----------------
+sent_66:
+
+target lists in the reports.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+3 best matches: report, target, list
+
+----------------
+sent_67:
+
+Many of the reports, written by British teams specializing in Sigint, shorthand for “signals intelligence,” are called “Bude Sigint Development Reports,” referring to a British spy campus on the Cornwall coast.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+3 best matches: report, spy, intelligence
+
+----------------
+sent_68:
+
+The reports often reveal which countries were the endpoints for the intercepted communications, and information on which satellite was carrying the traffic.
+Reports published in the New York Times and the Guardian in Dec. 2013 revealed a list of over 1,000 NSA and UK GCHQ spying targets including charities Medecins du Monde and UNICEF, and world leaders such as former Israeli PM Ehud Olmert and European Commission vice president Joaquin Almunia.
+2 best matches: report, reveal
+
+----------------
+sent_69:
+
+Strengthening the likelihood that full transcripts were taken during the intercepts is the case of Mohamed Ibn Chambas, an official of the Economic Community of West African States, known as Ecowas, a regional initiative of 15 countries that promotes economic and industrial activity.
+German officials in Oct. 2014 refused to relinquish intelligence documents that would illuminate the nature of government spy agencies' relationships with the U.S, the AP reported.
+1 best matches: official
+
+----------------
+sent_70:
+
+Whether intentionally or through some oversight, when Mr. Chambas’s communications were intercepted in August 2009, dozens of his complete text messages were copied into one of the reports.
+French paper Le Monde reported in Oct. 2013 that documents leaked by Edward Snowden show that from Dec. 10, 2012, to Jan. 7, 2013, the NSA intercepted and collected 70.3 million phone records of French citizens, or about 3 million per day.
+2 best matches: report, intercept
+
+----------------
+sent_71:
+
+no story sentence best matches found
+
+----------------
+sent_72:
+
+Chambers,” he seems to have been monitored during an especially humdrum day or two of travel.
+Der Spiegel in 2013 revealed the NSA's Special Collection Service may have been monitoring Chancellor Angela Merkel's mobile phone since 2002.
+1 best matches: monitor
+
+----------------
+sent_73:
+
+“Am glad yr day was satisfying,” Mr. Chambas texted one acquaintance.
+French paper Le Monde reported in Oct. 2013 that documents leaked by Edward Snowden show that from Dec. 10, 2012, to Jan. 7, 2013, the NSA intercepted and collected 70.3 million phone records of French citizens, or about 3 million per day.
+1 best matches: day
+
+----------------
+sent_74:
+
+“I spent my whole day travelling ... Had to go from Abidjan to Accra to catch a flt to Monrovia ...
+French paper Le Monde reported in Oct. 2013 that documents leaked by Edward Snowden show that from Dec. 10, 2012, to Jan. 7, 2013, the NSA intercepted and collected 70.3 million phone records of French citizens, or about 3 million per day.
+1 best matches: day
+
+----------------
+sent_75:
+
+no story sentence best matches found
+
+----------------
+sent_76:
+
+no story sentence best matches found
+
+----------------
+sent_77:
+
+“Interesting and informative,” Mr. Chambas texted.
+"We will find a way, if Mr. Snowden is willing to talk."
+1 best matches: mr
+
+----------------
+sent_78:
+
+The high point of his day was receiving an award in Liberia, but soon he was busy working out logistics for future appointments.
+French paper Le Monde reported in Oct. 2013 that documents leaked by Edward Snowden show that from Dec. 10, 2012, to Jan. 7, 2013, the NSA intercepted and collected 70.3 million phone records of French citizens, or about 3 million per day.
+1 best matches: day
+
+----------------
+sent_79:
+
+no story sentence best matches found
+
+----------------
+sent_80:
+
+Didnt get the invt,” he texted another contact.
+A 31-year-old German intelligence worker was arrested in July 2014 on accusations of passing information about the parliamentary inquiry into the NSA to an American contact.
+1 best matches: contact
+
+----------------
+sent_81:
+
+He discussed further details before adding, perhaps wistfully, given his grinding travel schedule: “Have a restful Sunday.”
+He said a system was set up to "insulate" European leaders from potential backlash in case details of the partnership emerged.
+1 best matches: detail
+
+----------------

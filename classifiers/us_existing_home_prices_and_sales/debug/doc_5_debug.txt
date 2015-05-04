@@ -1,0 +1,674 @@
+sent_1:
+1 out of 24 sentences
+1 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Springing back from a tough winter and supported by the growing economy, sales of used homes in March reached the fastest pace in 18 months, according to data released Wednesday.
+1 default entities: GPE March
+1 custom entities: GPE March
+
+Source Sentence and Source Headline Match:
+Springing back from a tough winter and supported by the growing economy, sales of used homes in March reached the fastest pace in 18 months, according to data released Wednesday.
+March existing-home sales rise 6.1% to 5.19 million rate.
+2 matches: sale, march
+
+Source Sentence and Story Headline Match:
+Springing back from a tough winter and supported by the growing economy, sales of used homes in March reached the fastest pace in 18 months, according to data released Wednesday.
+US existing home sales leap 6.1% in March.
+3 matches: sale, home, march
+
+Source Sentence and Best Story Sentence Match:
+Springing back from a tough winter and supported by the growing economy, sales of used homes in March reached the fastest pace in 18 months, according to data released Wednesday.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+3 matches: sale, home, march
+
+----------------
+
+sent_2:
+2 out of 24 sentences
+2 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+If such strong results keep up, 2015 could be the best year for used-home sales in almost a decade, said Lawrence Yun, chief economist of the National Association of Realtors.
+3 default entities: PERSON Lawrence Yun, ORGANIZATION National Association, GPE Realtors
+3 custom entities: PERSON Lawrence Yun, ORGANIZATION National Association, GPE Realtors
+
+Source Sentence and Source Headline Match:
+If such strong results keep up, 2015 could be the best year for used-home sales in almost a decade, said Lawrence Yun, chief economist of the National Association of Realtors.
+March existing-home sales rise 6.1% to 5.19 million rate.
+1 matches: sale
+
+Source Sentence and Story Headline Match:
+If such strong results keep up, 2015 could be the best year for used-home sales in almost a decade, said Lawrence Yun, chief economist of the National Association of Realtors.
+US existing home sales leap 6.1% in March.
+1 matches: sale
+
+Source Sentence and Best Story Sentence Match:
+If such strong results keep up, 2015 could be the best year for used-home sales in almost a decade, said Lawrence Yun, chief economist of the National Association of Realtors.
+Sales of existing homes increased 6.1% in March to a seasonally adjusted rate of 5.19 million, the National Association of Realtors said April 22.
+5 matches: association, sale, realtor, national, say
+
+----------------
+
+sent_3:
+3 out of 24 sentences
+3 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+“After a quiet start to the year, sales activity picked up greatly throughout the country,” he said.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“After a quiet start to the year, sales activity picked up greatly throughout the country,” he said.
+March existing-home sales rise 6.1% to 5.19 million rate.
+1 matches: sale
+
+Source Sentence and Story Headline Match:
+“After a quiet start to the year, sales activity picked up greatly throughout the country,” he said.
+US existing home sales leap 6.1% in March.
+1 matches: sale
+
+Source Sentence and Best Story Sentence Match:
+“After a quiet start to the year, sales activity picked up greatly throughout the country,” he said.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+5 matches: sale, year, activity, pick, start
+
+----------------
+
+sent_4:
+4 out of 24 sentences
+3 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+“The combination of low interest rates and the ongoing stability in the job market is improving buyer confidence and finally releasing some of the sizable pent-up demand that accumulated in recent years.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“The combination of low interest rates and the ongoing stability in the job market is improving buyer confidence and finally releasing some of the sizable pent-up demand that accumulated in recent years.”
+March existing-home sales rise 6.1% to 5.19 million rate.
+1 matches: rate
+
+Source Sentence and Story Headline Match:
+“The combination of low interest rates and the ongoing stability in the job market is improving buyer confidence and finally releasing some of the sizable pent-up demand that accumulated in recent years.”
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“The combination of low interest rates and the ongoing stability in the job market is improving buyer confidence and finally releasing some of the sizable pent-up demand that accumulated in recent years.”
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+1 matches: year
+
+----------------
+
+sent_5:
+5 out of 24 sentences
+4 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Sales of existing homes rose 6.1% in March to a seasonally adjusted annual rate of 5.19 million, the fastest pace in 18 months, the National Association of Realtors reported Wednesday.
+2 default entities: ORGANIZATION National Association, ORGANIZATION Realtors
+2 custom entities: ORGANIZATION National Association, ORGANIZATION Realtors
+
+Source Sentence and Source Headline Match:
+Sales of existing homes rose 6.1% in March to a seasonally adjusted annual rate of 5.19 million, the fastest pace in 18 months, the National Association of Realtors reported Wednesday.
+March existing-home sales rise 6.1% to 5.19 million rate.
+7 matches: sale, march, million, rate, rise, 6.1, 5.19
+
+Source Sentence and Story Headline Match:
+Sales of existing homes rose 6.1% in March to a seasonally adjusted annual rate of 5.19 million, the fastest pace in 18 months, the National Association of Realtors reported Wednesday.
+US existing home sales leap 6.1% in March.
+5 matches: march, sale, home, 6.1, exist
+
+Source Sentence and Best Story Sentence Match:
+Sales of existing homes rose 6.1% in March to a seasonally adjusted annual rate of 5.19 million, the fastest pace in 18 months, the National Association of Realtors reported Wednesday.
+Sales of existing homes increased 6.1% in March to a seasonally adjusted rate of 5.19 million, the National Association of Realtors said April 22.
+13 matches: sale, march, exist, association, million, realtor, rate, national, seasonally, 6.1, home, adjust, 5.19
+
+----------------
+
+sent_6:
+6 out of 24 sentences
+4 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Economists polled by MarketWatch had expected a March rate of 5.08 million, after a slightly revised 4.89 million pace in February.
+1 default entities: ORGANIZATION MarketWatch
+1 custom entities: ORGANIZATION MarketWatch
+
+Source Sentence and Source Headline Match:
+Economists polled by MarketWatch had expected a March rate of 5.08 million, after a slightly revised 4.89 million pace in February.
+March existing-home sales rise 6.1% to 5.19 million rate.
+3 matches: million, rate, march
+
+Source Sentence and Story Headline Match:
+Economists polled by MarketWatch had expected a March rate of 5.08 million, after a slightly revised 4.89 million pace in February.
+US existing home sales leap 6.1% in March.
+1 matches: march
+
+Source Sentence and Best Story Sentence Match:
+Economists polled by MarketWatch had expected a March rate of 5.08 million, after a slightly revised 4.89 million pace in February.
+Sales of existing homes increased 6.1% in March to a seasonally adjusted rate of 5.19 million, the National Association of Realtors said April 22.
+3 matches: million, rate, march
+
+----------------
+
+sent_7:
+7 out of 24 sentences
+5 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Treasury yields shot higher after the housing data.
+1 default entities: GPE Treasury
+1 custom entities: GPE Treasury
+
+Source Sentence and Source Headline Match:
+Treasury yields shot higher after the housing data.
+March existing-home sales rise 6.1% to 5.19 million rate.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Treasury yields shot higher after the housing data.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Treasury yields shot higher after the housing data.
+In addition, housing inventory continued to shrink, slipping 11.1% in December 2014 to 1.85 million existing homes available for sale compared to November 2014.
+1 matches: housing
+
+----------------
+
+sent_8:
+8 out of 24 sentences
+6 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Markets are tuning into today’s data to get an early indication for how buying activity will fare during this year’s hot home-selling season.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Markets are tuning into today’s data to get an early indication for how buying activity will fare during this year’s hot home-selling season.
+March existing-home sales rise 6.1% to 5.19 million rate.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Markets are tuning into today’s data to get an early indication for how buying activity will fare during this year’s hot home-selling season.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Markets are tuning into today’s data to get an early indication for how buying activity will fare during this year’s hot home-selling season.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+1 matches: activity
+
+----------------
+
+sent_9:
+9 out of 24 sentences
+6 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Deal making tends to pick up with the warmer weather.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Deal making tends to pick up with the warmer weather.
+March existing-home sales rise 6.1% to 5.19 million rate.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+Deal making tends to pick up with the warmer weather.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+Deal making tends to pick up with the warmer weather.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+1 matches: pick
+
+----------------
+
+sent_10:
+10 out of 24 sentences
+6 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+For context, the pace of total existing-home sales is down almost one-third from the bubble peak.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+For context, the pace of total existing-home sales is down almost one-third from the bubble peak.
+March existing-home sales rise 6.1% to 5.19 million rate.
+2 matches: sale, existing-home
+
+Source Sentence and Story Headline Match:
+For context, the pace of total existing-home sales is down almost one-third from the bubble peak.
+US existing home sales leap 6.1% in March.
+1 matches: sale
+
+Source Sentence and Best Story Sentence Match:
+For context, the pace of total existing-home sales is down almost one-third from the bubble peak.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+1 matches: sale
+
+----------------
+
+sent_11:
+11 out of 24 sentences
+7 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+But there are still reasons to be cautious about home sales.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+But there are still reasons to be cautious about home sales.
+March existing-home sales rise 6.1% to 5.19 million rate.
+1 matches: sale
+
+Source Sentence and Story Headline Match:
+But there are still reasons to be cautious about home sales.
+US existing home sales leap 6.1% in March.
+2 matches: sale, home
+
+Source Sentence and Best Story Sentence Match:
+But there are still reasons to be cautious about home sales.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+2 matches: sale, home
+
+----------------
+
+sent_12:
+12 out of 24 sentences
+7 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Prominent economists met at a forum Tuesday in Washington and warned that weak income growth and few first-time buyers have been holding back home sales.
+1 default entities: GPE Washington
+1 custom entities: GPE Washington
+
+Source Sentence and Source Headline Match:
+Prominent economists met at a forum Tuesday in Washington and warned that weak income growth and few first-time buyers have been holding back home sales.
+March existing-home sales rise 6.1% to 5.19 million rate.
+1 matches: sale
+
+Source Sentence and Story Headline Match:
+Prominent economists met at a forum Tuesday in Washington and warned that weak income growth and few first-time buyers have been holding back home sales.
+US existing home sales leap 6.1% in March.
+2 matches: sale, home
+
+Source Sentence and Best Story Sentence Match:
+Prominent economists met at a forum Tuesday in Washington and warned that weak income growth and few first-time buyers have been holding back home sales.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+2 matches: sale, home
+
+----------------
+
+sent_13:
+13 out of 24 sentences
+7 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+And here’s another worry: The government recently reported that monthly job gains hit the slowest pace in more than a year.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+And here’s another worry: The government recently reported that monthly job gains hit the slowest pace in more than a year.
+March existing-home sales rise 6.1% to 5.19 million rate.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+And here’s another worry: The government recently reported that monthly job gains hit the slowest pace in more than a year.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+And here’s another worry: The government recently reported that monthly job gains hit the slowest pace in more than a year.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+1 matches: year
+
+----------------
+
+sent_14:
+14 out of 24 sentences
+8 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Difficult-to-get mortgages are also hobbling home sales, as are too few homes on the market, experts say.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Difficult-to-get mortgages are also hobbling home sales, as are too few homes on the market, experts say.
+March existing-home sales rise 6.1% to 5.19 million rate.
+1 matches: sale
+
+Source Sentence and Story Headline Match:
+Difficult-to-get mortgages are also hobbling home sales, as are too few homes on the market, experts say.
+US existing home sales leap 6.1% in March.
+2 matches: sale, home
+
+Source Sentence and Best Story Sentence Match:
+Difficult-to-get mortgages are also hobbling home sales, as are too few homes on the market, experts say.
+Sales of existing homes increased 6.1% in March to a seasonally adjusted rate of 5.19 million, the National Association of Realtors said April 22.
+3 matches: sale, home, say
+
+----------------
+
+sent_15:
+15 out of 24 sentences
+8 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+On Wednesday NAR reported that March’s inventory was 2 million existing homes for sale, a 4.6-month supply at the current sales pace.
+2 default entities: ORGANIZATION NAR, PERSON March
+1 custom entities: ORGANIZATION NAR
+
+Source Sentence and Source Headline Match:
+On Wednesday NAR reported that March’s inventory was 2 million existing homes for sale, a 4.6-month supply at the current sales pace.
+March existing-home sales rise 6.1% to 5.19 million rate.
+2 matches: sale, million
+
+Source Sentence and Story Headline Match:
+On Wednesday NAR reported that March’s inventory was 2 million existing homes for sale, a 4.6-month supply at the current sales pace.
+US existing home sales leap 6.1% in March.
+3 matches: sale, home, exist
+
+Source Sentence and Best Story Sentence Match:
+On Wednesday NAR reported that March’s inventory was 2 million existing homes for sale, a 4.6-month supply at the current sales pace.
+In addition, housing inventory continued to shrink, slipping 11.1% in December 2014 to 1.85 million existing homes available for sale compared to November 2014.
+5 matches: sale, million, home, inventory, exist
+
+----------------
+
+sent_16:
+16 out of 24 sentences
+8 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+A healthier supply would be closer to 6 months.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+A healthier supply would be closer to 6 months.
+March existing-home sales rise 6.1% to 5.19 million rate.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+A healthier supply would be closer to 6 months.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+A healthier supply would be closer to 6 months.
+Nationwide, home prices were up 4.6% in January compared to the same month in the previous year.
+1 matches: month
+
+----------------
+
+sent_17:
+17 out of 24 sentences
+8 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The tight supply is pushing up home prices, NAR said.
+1 default entities: ORGANIZATION NAR
+1 custom entities: ORGANIZATION NAR
+
+Source Sentence and Source Headline Match:
+The tight supply is pushing up home prices, NAR said.
+March existing-home sales rise 6.1% to 5.19 million rate.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+The tight supply is pushing up home prices, NAR said.
+US existing home sales leap 6.1% in March.
+1 matches: home
+
+Source Sentence and Best Story Sentence Match:
+The tight supply is pushing up home prices, NAR said.
+The median price in March for existing homes stood at $212,100, NAR reported, which is a 7.8% increase from March 2014.
+3 matches: nar, home, price
+
+----------------
+
+sent_18:
+18 out of 24 sentences
+9 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+The median sales price of used homes hit $212,100 in March, up 7.8% from the year-earlier period.
+1 default entities: GPE March
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+The median sales price of used homes hit $212,100 in March, up 7.8% from the year-earlier period.
+March existing-home sales rise 6.1% to 5.19 million rate.
+2 matches: sale, march
+
+Source Sentence and Story Headline Match:
+The median sales price of used homes hit $212,100 in March, up 7.8% from the year-earlier period.
+US existing home sales leap 6.1% in March.
+3 matches: sale, home, march
+
+Source Sentence and Best Story Sentence Match:
+The median sales price of used homes hit $212,100 in March, up 7.8% from the year-earlier period.
+The median price in March for existing homes stood at $212,100, NAR reported, which is a 7.8% increase from March 2014.
+6 matches: 7.8, march, price, 212,100, median, home
+
+----------------
+
+sent_19:
+19 out of 24 sentences
+10 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+On the bright side, for those who can obtain a mortgage, low rates should encourage borrowing by making it easier to afford a home.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+On the bright side, for those who can obtain a mortgage, low rates should encourage borrowing by making it easier to afford a home.
+March existing-home sales rise 6.1% to 5.19 million rate.
+1 matches: rate
+
+Source Sentence and Story Headline Match:
+On the bright side, for those who can obtain a mortgage, low rates should encourage borrowing by making it easier to afford a home.
+US existing home sales leap 6.1% in March.
+1 matches: home
+
+Source Sentence and Best Story Sentence Match:
+On the bright side, for those who can obtain a mortgage, low rates should encourage borrowing by making it easier to afford a home.
+Sales of existing homes increased 6.1% in March to a seasonally adjusted rate of 5.19 million, the National Association of Realtors said April 22.
+2 matches: home, rate
+
+----------------
+
+sent_20:
+20 out of 24 sentences
+11 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+“It seems we are seeing signs of increasing demand for mortgages used for purchases,” wrote Derek Lindsey, an analyst with BNP Paribas.
+2 default entities: PERSON Derek Lindsey, ORGANIZATION BNP Paribas
+2 custom entities: PERSON Derek Lindsey, ORGANIZATION BNP Paribas
+
+Source Sentence and Source Headline Match:
+“It seems we are seeing signs of increasing demand for mortgages used for purchases,” wrote Derek Lindsey, an analyst with BNP Paribas.
+March existing-home sales rise 6.1% to 5.19 million rate.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+“It seems we are seeing signs of increasing demand for mortgages used for purchases,” wrote Derek Lindsey, an analyst with BNP Paribas.
+US existing home sales leap 6.1% in March.
+no story heading matches found
+
+Source Sentence and Best Story Sentence Match:
+“It seems we are seeing signs of increasing demand for mortgages used for purchases,” wrote Derek Lindsey, an analyst with BNP Paribas.
+Sales of existing homes increased 6.1% in March to a seasonally adjusted rate of 5.19 million, the National Association of Realtors said April 22.
+1 matches: increase
+
+----------------
+
+sent_21:
+21 out of 24 sentences
+11 out of 12 paragraphs
+Tagged as a quote
+
+Sentence:
+“The spring buying season could show some impressive continued acceleration in sales.”
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+“The spring buying season could show some impressive continued acceleration in sales.”
+March existing-home sales rise 6.1% to 5.19 million rate.
+1 matches: sale
+
+Source Sentence and Story Headline Match:
+“The spring buying season could show some impressive continued acceleration in sales.”
+US existing home sales leap 6.1% in March.
+1 matches: sale
+
+Source Sentence and Best Story Sentence Match:
+“The spring buying season could show some impressive continued acceleration in sales.”
+In addition, housing inventory continued to shrink, slipping 11.1% in December 2014 to 1.85 million existing homes available for sale compared to November 2014.
+2 matches: sale, continue
+
+----------------
+
+sent_22:
+22 out of 24 sentences
+12 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+On Thursday markets will get a reading on March’s sales of new homes.
+1 default entities: PERSON March
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+On Thursday markets will get a reading on March’s sales of new homes.
+March existing-home sales rise 6.1% to 5.19 million rate.
+1 matches: sale
+
+Source Sentence and Story Headline Match:
+On Thursday markets will get a reading on March’s sales of new homes.
+US existing home sales leap 6.1% in March.
+2 matches: sale, home
+
+Source Sentence and Best Story Sentence Match:
+On Thursday markets will get a reading on March’s sales of new homes.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+2 matches: sale, home
+
+----------------
+
+sent_23:
+23 out of 24 sentences
+12 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+Economists expect that the sales pace fell last month.
+
+no default named entity found
+
+no custom named entity found
+
+Source Sentence and Source Headline Match:
+Economists expect that the sales pace fell last month.
+March existing-home sales rise 6.1% to 5.19 million rate.
+1 matches: sale
+
+Source Sentence and Story Headline Match:
+Economists expect that the sales pace fell last month.
+US existing home sales leap 6.1% in March.
+1 matches: sale
+
+Source Sentence and Best Story Sentence Match:
+Economists expect that the sales pace fell last month.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+1 matches: sale
+
+----------------
+
+sent_24:
+24 out of 24 sentences
+12 out of 12 paragraphs
+Tagged as not being a quote
+
+Sentence:
+New homes tend to be pricier than existing, or used, homes.
+1 default entities: GPE New
+1 custom entities: GPE New
+
+Source Sentence and Source Headline Match:
+New homes tend to be pricier than existing, or used, homes.
+March existing-home sales rise 6.1% to 5.19 million rate.
+no heading matches found
+
+Source Sentence and Story Headline Match:
+New homes tend to be pricier than existing, or used, homes.
+US existing home sales leap 6.1% in March.
+2 matches: home, exist
+
+Source Sentence and Best Story Sentence Match:
+New homes tend to be pricier than existing, or used, homes.
+After sluggish existing home sales at the start of the year, housing activity picked up sharply in March.
+2 matches: home, exist
+
+----------------
+

@@ -1,0 +1,112 @@
+sent_1:
+
+An employee of Germany's intelligence service has been arrested on suspicion of spying for the US, reports say.
+Germany's BND intelligence agency spied on politicians and companies in Europe for the NSA for more than a decade, Der Spiegel reported April 23.
+4 best matches: report, spy, germany's, intelligence
+
+----------------
+sent_2:
+
+The man is said to have been trying to gather details about a German parliamentary committee that is investigating claims of US espionage.
+A German parliamentary committee investigating the NSA's activities voted June 5 to question Edward Snowden in Moscow.
+4 best matches: parliamentary, committee, investigate, german
+
+----------------
+sent_3:
+
+German authorities have asked the US ambassador for "swift clarification".
+German officials in Oct. 2014 refused to relinquish intelligence documents that would illuminate the nature of government spy agencies' relationships with the U.S, the AP reported.
+1 best matches: german
+
+----------------
+sent_4:
+
+The US National Security Agency (NSA) was last year accused of bugging the phone of Chancellor Angela Merkel as part of a huge surveillance programme.
+Friedrich, Germany's minister responsible for national security said he is keen to speak to Snowden over allegations that the NSA monitored Chancellor Angela Merkel's phone calls.
+6 best matches: phone, national, nsa, chancellor, angela, security
+
+----------------
+sent_5:
+
+The scale of the agency's global spy programme was revealed in documents leaked last year by a former intelligence contractor, Edward Snowden.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+4 best matches: snowden, spy, reveal, edward
+
+----------------
+sent_6:
+
+The revelations about the NSA put a strain on ties between Germany and the US and raised feeling in Germany against American surveillance.
+A 31-year-old German intelligence worker was arrested in July 2014 on accusations of passing information about the parliamentary inquiry into the NSA to an American contact.
+2 best matches: nsa, american
+
+----------------
+sent_7:
+
+The BBC's Steve Evans in Berlin says the new allegation of American spying on an ally may make it harder for the US to get German help in its efforts to oppose Russian activity in Ukraine, and also to control Iranian nuclear ambitions.
+Snowden said he wanted to testify before the committee in Berlin, but the German government could not give assurances that he wouldn't be detained and extradited to the U.S.
+3 best matches: berlin, say, german
+
+----------------
+sent_8:
+
+German media say the man arrested this week is a 31-year-old employee of the federal service, the BND or Bundesnachrichtendienst.
+A 31-year-old German intelligence worker was arrested in July 2014 on accusations of passing information about the parliamentary inquiry into the NSA to an American contact.
+3 best matches: german, arrest, 31-year-old
+
+----------------
+sent_9:
+
+The German federal prosecutor's office confirmed the man's arrest, but gave no other details.
+A 31-year-old German intelligence worker was arrested in July 2014 on accusations of passing information about the parliamentary inquiry into the NSA to an American contact.
+2 best matches: arrest, german
+
+----------------
+sent_10:
+
+A spokesman for Ms Merkel said she had been informed of the arrest, as had the members of the nine-strong parliamentary committee investigating the activities of foreign intelligence agencies in Germany.
+A German parliamentary committee investigating the NSA's activities voted June 5 to question Edward Snowden in Moscow.
+4 best matches: parliamentary, committee, investigate, activity
+
+----------------
+sent_11:
+
+"The matter is serious, it is clear," spokesman Steffen Seibert told the Frankfurter Allgemeine newspaper,
+Despite outcry from European leaders over the leaks, Snowden told Der Spiegel in 2013 that the NSA is "in bed together with the Germans and most other Western states."
+1 best matches: tell
+
+----------------
+sent_12:
+
+Der Spiegel news magazine said the man was believed to have passed secret documents to a US contact in exchange for money.
+Merkel was listed in an NSA document cited by Der Spiegel, but it wasn't clear if her conversations were recorded.
+3 best matches: document, spiegel, der
+
+----------------
+sent_13:
+
+However, one unnamed politician told Reuters news agency the suspect had offered his services to the US voluntarily.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+2 best matches: politician, agency
+
+----------------
+sent_14:
+
+"This was a man who had no direct contact with the investigative committee...
+A 31-year-old German intelligence worker was arrested in July 2014 on accusations of passing information about the parliamentary inquiry into the NSA to an American contact.
+1 best matches: contact
+
+----------------
+sent_15:
+
+He was not a top agent," the source said.
+He said a system was set up to "insulate" European leaders from potential backlash in case details of the partnership emerged.
+1 best matches: say
+
+----------------
+sent_16:
+
+Germany is particularly sensitive to reports of espionage on its territory because many of its citizens from the formerly communist east of the country were spied upon by the Stasi secret police.
+Spying by the National Security Agency (NSA) revealed by Edward Snowden has sparked criticism from European politicians and citizens.
+2 best matches: citizen, spy
+
+----------------

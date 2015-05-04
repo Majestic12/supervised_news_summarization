@@ -1,0 +1,42 @@
+sent_1:
+
+Germany's top security official says he will try to organize a meeting between German investigators and Edward Snowden if he's willing to give details about the National Security Agency's alleged monitoring of Chancellor Angela Merkel and other politicians' communications.
+Friedrich, Germany's minister responsible for national security said he is keen to speak to Snowden over allegations that the NSA monitored Chancellor Angela Merkel's phone calls.
+8 best matches: snowden, germany's, national, monitor, chancellor, say, angela, security
+
+----------------
+sent_2:
+
+Hans-Peter Friedrich was quoted by Die Zeit newspaper Friday saying that "we will find a way, if Mr. Snowden is willing to talk."
+"We will find a way, if Mr. Snowden is willing to talk."
+6 best matches: talk, willing, snowden, mr, way, find
+
+----------------
+sent_3:
+
+His spokesman Jens Teschke confirmed the comments, saying "we want clarification and we want further information."
+Snowden said he wanted to testify before the committee in Berlin, but the German government could not give assurances that he wouldn't be detained and extradited to the U.S.
+2 best matches: want, say
+
+----------------
+sent_4:
+
+He said he assumed such a meeting would be in Russia.
+His spokesman suggested such a meeting could happen in Russia.
+2 best matches: meeting, russia
+
+----------------
+sent_5:
+
+Opposition Greens lawmaker Hans-Christian Stroebele said he met with Snowden, a former NSA contractor, in Moscow on Thursday and that he was prepared to travel to Germany to testify.
+Snowden said he wanted to testify before the committee in Berlin, but the German government could not give assurances that he wouldn't be detained and extradited to the U.S.
+3 best matches: snowden, testify, say
+
+----------------
+sent_6:
+
+Germany's parliament is expected to discuss the NSA's alleged activities Nov. 18.
+A German parliamentary committee investigating the NSA's activities voted June 5 to question Edward Snowden in Moscow.
+2 best matches: nsa's, activity
+
+----------------
