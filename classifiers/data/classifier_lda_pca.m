@@ -6,7 +6,7 @@ X_test = X([61:121 182:242],feature);
 y_test = Y([61:121 182:242],:);
 
 [U,S,V] = svd(X_train);
-NumPCA = 15; %number of principal component to be used
+NumPCA = 22; %number of principal component to be used
 C = zeros(2,2,NumPCA); %confusion matrices
 ErrorRate = zeros(1,NumPCA); %error rates
 
