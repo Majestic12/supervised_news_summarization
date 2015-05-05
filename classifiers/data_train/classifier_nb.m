@@ -1,28 +1,13 @@
 clc
+clearvars -except X_train y_train X_test y_test
 % create classifer model
-% for j = 1:22
-feature = [3:5 9:13 17 19 21];
-% feature = [j];
+feature = [1 2 3 4 5 6 10 11 12 14 23];
+mdl = fitNaiveBayes(X_train(:,feature),y_train);
 
-mdl = fitNaiveBayes(X(:,feature),Y);
-class = mdl.predict(X(:,feature));
-cmat = confusionmat(Y,class)
+% test classifier
+class = mdl.predict(X_test(:,feature));
+cmat = confusionmat(y_test,class)
+run R1_clas.m
+% compute classifier resubstitution and cross validation error 
 
-% compute classifier resubstitution and cross validation error using
-% (training + validation data)
-
-avg_kfold = 0;
-
-for i = 1:20
-    c = cvpartition(Y,'kFold',5);
-    fun = @(xT,yT,xt,yt)(sum(~strcmp(yt,classify(xt,xT,yT))));
-    rate = sum(crossval(fun,X(:,feature),Y,'partition',c))...
-           /sum(c.TestSize);
-    avg_kfold = avg_kfold + rate;
-end
-% j
-
-avg_kfold/20
-
-% end
 

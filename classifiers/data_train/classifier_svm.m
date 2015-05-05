@@ -1,18 +1,18 @@
 clc
-
-% redefine class Y
-Ytrain = 1+Y;
-
+clearvars -except X_train y_train X_test y_test
 % create classifer model
-feature = [3:5 9:13 17 19 21];
-svm_struct = svmtrain(X(:,feature),Ytrain);
+feature = [1 2 3 4 8 12 13 14 17 18 20 21 22];
+options.MaxIter = 100000;
+svm_struct = svmtrain(X_train(:,feature),y_train,'options',options);
 
-% compute classifier resubstitution and cross validation error using
-% (training + validation data)
+% test classifier
+class = svmclassify(svm_struct,X_test(:,feature));
+cmat = confusionmat(y_test,class);
 
-YtestHat = svmclassify(svm_struct,X(:,feature)); %tested on trained sample!
-%Correct Classification Rate (CCR)
-CCR = trace(confusionmat(Ytrain,YtestHat))/sum(sum(confusionmat(Ytrain,YtestHat)))
+run R1_clas.m
+
+% compute classifier resubstitution and cross validation error
+
 
 
 
