@@ -1,6 +1,8 @@
 clearvars -except X_train y_train X_test y_test
 % create classifer model
+% feature = [1 10];
 feature = [1 2 3 4 5 6 7 9 10 11 12 13 14 15 16 17 18 20 22 23];
+% feature = [1 2 3 4 6 7 10 14 15];
 knn_mdl = fitcknn(X_train(:,feature),y_train,'NumNeighbors',13);
 
 % test classifier

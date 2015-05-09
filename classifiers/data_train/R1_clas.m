@@ -9,13 +9,13 @@ TN = R2(2,2);
 FP = R2(1,2);
 FN = R2(2,1);
 
-Pd = TP/(TP+FN);
-Pf = FP/(TN+FP);
-pos_prec = TP/(TP+FP);
-neg_prec = TN/(TN+FN);
+Pd = TP/(TP+FN)
+Pf = FP/(TN+FP)
+pos_prec = TP/(TP+FP)
+neg_prec = TN/(TN+FN)
 CCR = (TP+TN)/N
 mis_clas = (FP+FN)/N;
-odds = (TP*TN)/(FP*FN);
+odds = (TP*TN)/(FP*FN)
 
 Prow = sum(R2_nom');
 Pcol = sum(R2_nom);

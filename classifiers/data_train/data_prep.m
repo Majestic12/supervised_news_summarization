@@ -1,5 +1,6 @@
 %%%
-raw_data = importdata('rawdata.mat');
+% raw_data = importdata('rawdata.mat');
+raw_data = importdata('data_test_econ.mat');
 
 %%% Data clean-up
 % keep sentences with 3 < word-length < 50

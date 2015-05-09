@@ -2,6 +2,7 @@ clc
 clearvars -except X_train y_train X_test y_test
 % create classifer model
 feature = [1 2 3 4 9 10 11 12 13 15 16 17 18 20 22 23];
+% feature = [1 10];
 qda_mdl = fitcdiscr(X_train(:,feature),y_train,'DiscrimType','quadratic');
 
 % test classifier
@@ -19,5 +20,5 @@ for i = 1:20
     avg_kfold = avg_kfold + kfoldLoss(qda_mdl_CV);
 end
 avg_resub/20;
-1-avg_kfold/20
+avg_kfold/20
 
